@@ -8,5 +8,8 @@ third_nav_title: Our Partners
 
 ### Areas of Contribution
 
-
 ![](/images/aoc.png)
+
+Interested to join Haig Girls’ School’s Parents Support Group as a volunteer? Click [here](/files/Parent%20Volunteer%20Recruitment%20Form.pdf) for the application form.
+
+Parents who are interested to join the Parent Volunteer Scheme for the purpose of Primary 1 admission, please click [here](/files/Parent%20Volunteer%20Scheme%20(P1%20Admission)%20070717.pdf) for the application form.
