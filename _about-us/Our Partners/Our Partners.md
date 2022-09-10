@@ -4,7 +4,9 @@ permalink: /about-us/Our-Partners/our-partners/
 description: ""
 third_nav_title: Our Partners
 ---
-![](/images/Partnership.jpeg)
+<img src="/images/Partnership.jpeg" 
+     style="width:55%">
+
 
 Our Philosophy
 --------------
