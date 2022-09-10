@@ -2,5 +2,6 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/Allied Educators (AED).md
       - Teaching Staff/.keep
       - Executive and Administrative Staff.md
