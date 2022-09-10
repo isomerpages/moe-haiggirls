@@ -46,7 +46,7 @@ third_nav_title: Our Partners
   </tr>
   <tr>
 		<td class="tg-0lax"><strong>Miss Lo Yen Nie<br>Principal / Hon. Secretary</strong></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><strong>Dr Jude Lee<br>Vice-Chairman</strong></td>
   </tr>
 </tbody>
 </table>
