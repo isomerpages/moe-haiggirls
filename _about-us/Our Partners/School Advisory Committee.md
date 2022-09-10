@@ -65,19 +65,24 @@ third_nav_title: Our Partners
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/sac4.jpeg" 
+     style="width:55%"></td>
+    <td class="tg-wa1i"><img src="/images/sac5.jpeg" 
+     style="width:55%"></td>
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
     <td class="tg-wa1i"></td>
     <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><img src="/images/sac6.jpeg" 
+     style="width:55%"></td>
+    <td class="tg-wa1i"><img src="/images/sac7.jpeg" 
+     style="width:55%"></td>
+    <td class="tg-wa1i"><img src="/images/sac8.jpeg" 
+     style="width:55%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
