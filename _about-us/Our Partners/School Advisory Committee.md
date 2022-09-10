@@ -57,11 +57,11 @@ third_nav_title: Our Partners
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 746px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
-<col style="width: 253px">
-<col style="width: 234px">
-<col style="width: 259px">
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
