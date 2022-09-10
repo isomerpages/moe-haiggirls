@@ -2,4 +2,5 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/.keep
       - Executive and Administrative Staff.md
