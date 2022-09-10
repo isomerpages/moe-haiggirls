@@ -45,7 +45,7 @@ third_nav_title: Our Partners
     <td class="tg-nrix" colspan="2"><img src="/images/sac2.jpeg"></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+		<td class="tg-0lax"><strong>Miss Lo Yen Nie<br>Principal / Hon. Secretary</strong></td>
     <td class="tg-0lax"></td>
   </tr>
 </tbody>
