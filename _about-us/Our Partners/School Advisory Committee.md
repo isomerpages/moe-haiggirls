@@ -72,8 +72,8 @@ third_nav_title: Our Partners
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i">Mr Pereira Jarrod Bernard<br>Member</td>
+    <td class="tg-wa1i">Mrs Sakina Yusuf Kagda<br>Member </td>
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
@@ -85,9 +85,9 @@ third_nav_title: Our Partners
      style="width:55%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i">Dr Benson Soong Mun Hong<br>Member</td>
+    <td class="tg-wa1i">Ms Ye Shufang<br>Member</td>
+    <td class="tg-wa1i">Mr Peter Ho Yew Chi<br>Member</td>
   </tr>
 </tbody>
 </table>
