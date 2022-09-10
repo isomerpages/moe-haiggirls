@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Staff/Executive and Administrative Staff.md
       - Our Staff/.keep
       - Our Partners/Our Partners.md
       - Our Partners/Alumni Association.md
