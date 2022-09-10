@@ -18,7 +18,8 @@ third_nav_title: Our Partners
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"><img src="/images/sac1.jpeg"><br><strong>Mr Viswa Roopan S/O Sadasivan<br>Chairman</strong></td>
+    <td class="tg-nrix"><img src="/images/sac1.jpeg" 
+     style="width:45%"><br><strong>Mr Viswa Roopan S/O Sadasivan<br>Chairman</strong></td>
   </tr>
 </tbody>
 </table>
