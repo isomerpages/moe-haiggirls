@@ -19,12 +19,11 @@ third_nav_title: Our Partners
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/sac1.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/sac1.jpeg"><br><strong>Mr Viswa Roopan S/O Sadasivan<br>Chairman</strong></td>
   </tr>
 </tbody>
 </table>
 <center>
-
 
 
 <style type="text/css">
@@ -36,15 +35,14 @@ third_nav_title: Our Partners
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 502px">
+<table class="tg" style="undefined;table-layout: fixed; width: 500px">
 <colgroup>
-<col style="width: 251px">
-<col style="width: 251px">
+<col style="width: 250px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-nrix"></td>
-    <td class="tg-nrix"></td>
+    <td class="tg-nrix" colspan="2"><img src="/images/sac2.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-0lax"></td>
