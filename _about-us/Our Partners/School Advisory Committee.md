@@ -11,7 +11,6 @@ third_nav_title: Our Partners
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 250px">
 <colgroup>
@@ -19,7 +18,7 @@ third_nav_title: Our Partners
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/sac1.jpeg"><br><strong>Mr Viswa Roopan S/O Sadasivan<br>Chairman</strong></td>
+    <td class="tg-nrix"><img src="/images/sac1.jpeg"><br><strong>Mr Viswa Roopan S/O Sadasivan<br>Chairman</strong></td>
   </tr>
 </tbody>
 </table>
@@ -33,7 +32,6 @@ third_nav_title: Our Partners
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 500px">
 <colgroup>
@@ -45,8 +43,8 @@ third_nav_title: Our Partners
     <td class="tg-nrix" colspan="2"><img src="/images/sac2.jpeg"></td>
   </tr>
   <tr>
-		<td class="tg-0lax"><strong>Miss Lo Yen Nie<br>Principal / Hon. Secretary</strong></td>
-    <td class="tg-0lax"><strong>Dr Jude Lee<br>Vice-Chairman</strong></td>
+		<td class="tg-nrix"><strong>Miss Lo Yen Nie<br>Principal / Hon. Secretary</strong></td>
+    <td class="tg-nrix"><strong>Dr Jude Lee<br>Vice-Chairman</strong></td>
   </tr>
 </tbody>
 </table>
