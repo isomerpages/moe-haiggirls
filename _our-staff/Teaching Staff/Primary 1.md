@@ -4,6 +4,11 @@ permalink: /our-staff/Teaching-Staff/p1/
 description: ""
 third_nav_title: Teaching Staff
 ---
+![](/images/p1221.jpeg)
+![](/images/p1222.jpeg)
+![](/images/p1223.jpeg)
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
