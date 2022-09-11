@@ -22,8 +22,7 @@ third_nav_title: Teaching Staff
     <td class="tg-wa1i"><img src="/images/aed1.jpeg" 
      style="width:75%">Senior AED<br>(Learning Behavioural Support)<br><a href="mailto:ong_peck_kuan@moe.edu.sg">Ms Ong Peck Kuan Ada</a></td>
     <td class="tg-wa1i"><img src="/images/aed2.jpeg" 
-     style="width:75%">
-</td>
+     style="width:75%">SchoolCounselor<br><a href="mailto:chee_fei_wan@moe.edu.sg" target="">Miss Chee Fei Wan</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i" colspan="2"><img src="/images/aed3.jpeg" 
