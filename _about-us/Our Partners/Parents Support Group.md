@@ -4,15 +4,15 @@ permalink: /about-us/Our-Partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
 ---
-<center><iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl5DdnCjuKAXFFJOgAYTC3mI8TAoTuHngdBVhwxwqqZI3LifaeCx3diECubrRGh9MYtiSmQTGTVLgx/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="400" width="659" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl5DdnCjuKAXFFJOgAYTC3mI8TAoTuHngdBVhwxwqqZI3LifaeCx3diECubrRGh9MYtiSmQTGTVLgx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 ### Areas of Contribution
 
 ![](/images/aoc.png)
 
-Interested to join Haig Girls’ School’s Parents Support Group as a volunteer? Click [here](/files/Parent%20Volunteer%20Recruitment%20Form.pdf) for the application form.
+Interested to join Haig Girls’ School’s Parents Support Group as a volunteer? Click&nbsp;[here](/files/Parent%20Volunteer%20Recruitment%20Form.pdf)&nbsp;for the application form.
 
-Parents who are interested to join the Parent Volunteer Scheme for the purpose of Primary 1 admission, please click [here](/files/Parent%20Volunteer%20Scheme%20(P1%20Admission)%20070717.pdf) for the application form.
+Parents who are interested to join the Parent Volunteer Scheme for the purpose of Primary 1 admission, please click&nbsp;[here](/files/Parent%20Volunteer%20Scheme%20(P1%20Admission)%20070717.pdf)&nbsp;for the application form.
 
 ### Parents Support Group (PSG) Core Committee Members
 
@@ -82,8 +82,8 @@ Parents who are interested to join the Parent Volunteer Scheme for the purpose o
 
 ### Mission Statement
 
-Our children are our Buds, our Sapling and our Hope for The Future. Our Vision is to guide them. Our mission is to educate and enrich their lives. Here at Haig Girls’ School, we are Parents in Education, involved in many aspects of our children’s lives. 
+Our children are our Buds, our Sapling and our Hope for The Future. Our Vision is to guide them. Our mission is to educate and enrich their lives. Here at Haig Girls’ School, we are Parents in Education, involved in many aspects of our children’s lives.&nbsp;
 
   
 
-We work hand in hand with the teachers to help out children reach out and soar to touch the stars & be the STARS!
+We work hand in hand with the teachers to help out children reach out and soar to touch the stars &amp; be the STARS!
