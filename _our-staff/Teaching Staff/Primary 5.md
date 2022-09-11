@@ -42,7 +42,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Marhainie Binte Kamarudin</td>
-    <td class="tg-zr06"><a href="mailto:marhainie_kamarudin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">marhainie_kamarudin@moe.edu.sg</spn></a></td>
+    <td class="tg-zr06"><a href="mailto:marhainie_kamarudin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">marhainie_kamarudin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400;font-style:normal">5 Humility</span></td>
