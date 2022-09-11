@@ -60,7 +60,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06">Miss Choo Poh Ying</td>
-    <td class="tg-zr06"><br><a href="mailto:choo_poh_ying@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">choo_poh_ying@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><a href="mailto:choo_poh_ying@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">choo_poh_ying@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">4 Joy</td>
