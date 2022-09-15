@@ -120,9 +120,12 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/ml1.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/ml2.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/ml3.jpeg" 
+     style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
@@ -130,9 +133,12 @@ third_nav_title: Teaching Staff
     <td class="tg-wa1i">Teacher<br><a href="mailto:rita_zulkarnain_taha@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Rita Zulkarnain Taha</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/ml4.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/ml5.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/ml6.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:mainura_mawi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Mainura Binte Mawi</span></a></td>
