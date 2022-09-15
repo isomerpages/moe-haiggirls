@@ -12,7 +12,7 @@ Click [here](/our-staff/school-leaders/) for the complete list of our staff.
 In HGS, our staff has developed, embraced and exemplified a culture of care, collegiality and innovation. A strong sense of stewardship undergirds all that we do.
 
 <img src="/images/Staff%20Engagement%20Framework.png" 
-     style="width:65%">
+     style="width:45%">
 
 
 **Our Staff culture - ‘Care, Collegiality and Innovation undergirded by a sense of stewardship’**
