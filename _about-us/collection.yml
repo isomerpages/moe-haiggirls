@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff.md
       - Principal's message.md
       - Our Partners/.keep
       - Our Partners/Our Partners.md
