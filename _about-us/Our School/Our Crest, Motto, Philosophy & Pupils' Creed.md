@@ -24,8 +24,7 @@ third_nav_title: Our School
   <tr>
     <td class="tg-c3ow"><img src="/images/HGS%20CREST.png" 
      style="width:95%"></td>
-    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">White</span><span style="font-style:normal">  </span>- Purity of thoughts and ideals<br><br><span style="font-weight:bold;font-style:normal">Amber</span><span style="font-style:normal">  </span>- Excellence in the field and in the class<br><br><span style="font-weight:bold;font-style:normal">Brown</span><span style="font-style:normal">  </span>- Upholding our honour and zeal</td>
+    <td class="tg-nx8p"><br><span style="font-weight:bold;font-style:normal">White</span><span style="font-style:normal">  </span>- Purity of thoughts and ideals<br><br><span style="font-weight:bold;font-style:normal">Amber</span><span style="font-style:normal">  </span>- Excellence in the field and in the class<br><br><span style="font-weight:bold;font-style:normal">Brown</span><span style="font-style:normal">  </span>- Upholding our honour and zeal</td>
   </tr>
 </tbody>
 </table>
-
