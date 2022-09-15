@@ -1,12 +1,12 @@
 logo: /images/Logo.png
 links:
   - title: About US submenu
-    url: /about-us/Our-Partners/our-partners/
+    url: /our-staff/Teaching-Staff/mother-tongue-teachers/
     sublinks:
       - title: Our Partners
         url: /about-us/Our-Partners/our-partners/
       - title: Our Staff
-        url: /our-staff/executive-and-administrative-staff/
+        url: /our-staff/Teaching-Staff/mother-tongue-teachers/
       - title: Principal's Message
         url: /about-us/principals-message/
   - title: Contact Us
