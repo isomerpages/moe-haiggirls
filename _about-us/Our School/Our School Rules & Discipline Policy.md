@@ -97,6 +97,43 @@ third_nav_title: Our School
 
 ### 3\. BE PROPERLY ATTIRED AND BEHAVE LIKE A LADY
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><span style="color:#000">3.1</span></td>
+    <td class="tg-0lax">Pupils must wear the prescribed school uniform with white socks and shoes. Modifications to the uniform are not allowed.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#000">3.2</span></td>
+    <td class="tg-0lax">Pupils must wear the PE T-shirt and brown shorts for PE lessons or games.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#000">3.3</span></td>
+    <td class="tg-0lax">Pupils must not put on make-up, keep long nails or use nail polish.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#000">3.4</span></td>
+    <td class="tg-0lax">Pupils must be neat and tidy.<br>-   Shoulder length hair must be tied up neatly. Only simple and small brown, orange, yellow, white or black ribbons, clips and hair bands are allowed. Hair must not be coloured.<br>-   Only small and simple earrings are allowed. Other forms of jewellery or ornaments must not be worn. Wrist watches must be plain and simple.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="color:#000">3.5</span></td>
+    <td class="tg-0lax">Spot checks will be conducted to ensure that pupils are properly attired.</td>
+  </tr>
+</tbody>
+</table>
+
 
 
 #### School Attire & General Appearance
