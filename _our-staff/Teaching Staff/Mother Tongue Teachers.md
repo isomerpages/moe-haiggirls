@@ -25,7 +25,7 @@ third_nav_title: Teaching Staff
     <td class="tg-wa1i"><img src="/images/chi1.jpeg" 
      style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/chi2.jpeg" 
-     style="width:80%"></td>
+     style="width:90%"></td>
     <td class="tg-wa1i"><img src="/images/chi3.jpeg" 
      style="width:80%"></td>
   </tr>
