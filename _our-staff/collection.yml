@@ -2,6 +2,7 @@ collections:
   our-staff:
     output: true
     order:
+      - Teaching Staff/Mother Tongue Teachers.md
       - Teaching Staff/Primary 1.md
       - Teaching Staff/Primary 2.md
       - Teaching Staff/Primary 3.md
