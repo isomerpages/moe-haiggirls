@@ -20,9 +20,13 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/vpa.jpeg" 
+     style="width:85%">
+</td>
     <td class="tg-0lax"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/vp.jpeg" 
+     style="width:85%">
+</td>
   </tr>
   <tr>
     <td class="tg-wa1i">Vice Principal (Admin)<br><a href="mailto:netty_salmiyati_senawi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Netty Salmiyati Senawi</span></a></td>
