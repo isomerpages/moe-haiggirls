@@ -80,8 +80,10 @@ description: ""
     <td class="tg-wa1i">Level Head Science<br><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Clara Kan</a><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">g</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/kp10.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp11.jpeg" 
+     style="width:80%"></td>
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
