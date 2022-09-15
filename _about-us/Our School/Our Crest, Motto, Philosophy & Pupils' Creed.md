@@ -15,16 +15,17 @@ third_nav_title: Our School
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 500px">
+<table class="tg" style="undefined;table-layout: fixed; width: 655px">
 <colgroup>
-<col style="width: 150px">
-<col style="width: 350px">
+<col style="width: 238px">
+<col style="width: 417px">
 </colgroup>
 <tbody>
   <tr>
     <td class="tg-c3ow"><img src="/images/HGS%20CREST.png" 
      style="width:95%"></td>
-    <td class="tg-nx8p"></td>
+    <td class="tg-nx8p"><span style="font-weight:bold;font-style:normal">White</span><span style="font-style:normal">  </span>- Purity of thoughts and ideals<br><br><span style="font-weight:bold;font-style:normal">Amber</span><span style="font-style:normal">  </span>- Excellence in the field and in the class<br><br><span style="font-weight:bold;font-style:normal">Brown</span><span style="font-style:normal">  </span>- Upholding our honour and zeal</td>
   </tr>
 </tbody>
 </table>
+
