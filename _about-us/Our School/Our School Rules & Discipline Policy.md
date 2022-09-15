@@ -134,9 +134,11 @@ third_nav_title: Our School
 </tbody>
 </table>
 
-
-
 #### School Attire & General Appearance
+
+<img src="/images/SCHOOL%20HANDBOOK%20SOFT%20COPY%20_Page_014.jpeg" 
+     style="width:65%">
+
 
 
 ### 4\. BE PROUD OF MY WORK
