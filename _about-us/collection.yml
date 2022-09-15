@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Principal's message.md
+      - Our School/.keep
+      - Our School/Our Heritage.md
       - Our School/Our Vision, Mission, Values & Core Beliefs.md
       - Our School/Our Crest, Motto, Philosophy & Pupils' Creed.md
       - Our School/Our School Song.md
       - Our School/Our School Rules & Discipline Policy.md
       - Our School/Our Homework Policy.md
-      - Our School/Our Heritage.md
-      - Our School/.keep
       - Our Staff.md
       - Our Partners/.keep
       - Our Partners/Our Partners.md
