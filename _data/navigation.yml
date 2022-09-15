@@ -7,5 +7,9 @@ links:
   - title: HGS Experience
     collection: hgs-experience
   - title: About US submenu
-    url: /our-staff/executive-and-administrative-staff/
-    sublinks: []
+    url: /about-us/Our-Partners/our-partners/
+    sublinks:
+      - title: Our Partners
+        url: /about-us/Our-Partners/our-partners/
+      - title: Our Staff
+        url: /our-staff/executive-and-administrative-staff/
