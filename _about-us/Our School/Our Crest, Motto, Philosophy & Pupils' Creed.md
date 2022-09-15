@@ -28,3 +28,18 @@ third_nav_title: Our School
   </tr>
 </tbody>
 </table>
+
+### School Motto
+
+<em>"Ars Potens Est"</em>   
+**(Knowledge is Power in service to others, the school and the community.)**  
+  
+
+### School Philosophy
+
+With effort, perseverance and resilience, every pupil can think, learn, achieve and excel.  
+  
+
+### Pupils’ Creed
+
+We, the pupils of Haig Girls’ School believe that we can think, learn, achieve and excel. We believe that we will be gracious, self-disciplined and responsible citizens.
