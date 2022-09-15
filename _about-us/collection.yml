@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Principal's message.md
-      - Our Staff.md
       - Our School/.keep
+      - Our Staff.md
       - Our Partners/.keep
       - Our Partners/Our Partners.md
       - Our Partners/Alumni Association.md
