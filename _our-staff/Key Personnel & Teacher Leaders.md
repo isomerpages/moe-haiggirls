@@ -13,7 +13,7 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 731px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
 <col style="width: 250px">
 <col style="width: 250px">
@@ -45,6 +45,56 @@ description: ""
     <td class="tg-wa1i"><span style="font-style:normal">HOD MTL</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
     <td class="tg-wa1i">School Staff Developer<br><a href="mailto:wan_alfida_suleiman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Wan Alfida Suleiman</span></a></td>
     <td class="tg-wa1i">Year Head/Lower Primary<br><a href="mailto:tng_shoo_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Tng Shoo Ling</a></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i">Level Head  English Language<br><a href="mailto:kavitha_jeyamalar_segeran@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-style:normal;text-decoration:underline">Mrs Jeya Lawrence</span></a></td>
+    <td class="tg-wa1i">Level Head  Chinese Language<br><a href="mailto:ng_peng_woon_rachel@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Rachel Ng</a></td>
+    <td class="tg-wa1i">Level Head Science<br><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Clara Kan</a><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">g</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Marie Yong</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Information Communication Technology</span><br><a href="mailto:muhamad_ansar_kamsan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mr Muhamad Ansar Bin Kamsan</span></a></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Character Education</span><br><a href="http://sunita_singh@moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mrs Sunita Singh</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Citizenship Education</span><br><a href="mailto:yeo_yu_nian_nikki@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mrs Nikki Lin</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Student Management</span><br><a href="mailto:zareena_kamarraj@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Zareena Kamarraj</span></a></td>
   </tr>
 </tbody>
 </table>
