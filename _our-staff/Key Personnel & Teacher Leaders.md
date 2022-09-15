@@ -88,7 +88,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Marie Yong</span></a></td>
-    <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Information Communication Technology</span><br><a href="mailto:muhamad_ansar_kamsan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mr Muhamad Ansar Bin Kamsan</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Information Communication Technology</span><br><a href="mailto:muhamad_ansar_kamsan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mr Muhamad Ansar Bin Kamsan</span></a></td>
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
