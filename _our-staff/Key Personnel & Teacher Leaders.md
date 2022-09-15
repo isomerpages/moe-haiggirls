@@ -92,9 +92,12 @@ description: ""
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/kp12.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp13.jpeg" 
+     style="width:70%"></td>
+    <td class="tg-wa1i"><img src="/images/kp14.png" 
+     style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Character Education</span><br><a href="http://sunita_singh@moe.edu.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mrs Sunita Singh</span></a></td>
