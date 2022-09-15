@@ -42,7 +42,7 @@ description: ""
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><span style="font-style:normal">HOD MTL</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">HOD MTL</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
     <td class="tg-wa1i">School Staff Developer<br><a href="mailto:wan_alfida_suleiman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Wan Alfida Suleiman</span></a></td>
     <td class="tg-wa1i">Year Head/Lower Primary<br><a href="mailto:tng_shoo_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Tng Shoo Ling</a></td>
   </tr>
