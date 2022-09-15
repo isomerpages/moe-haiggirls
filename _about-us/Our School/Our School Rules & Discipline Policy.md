@@ -143,11 +143,66 @@ third_nav_title: Our School
 
 ### 4\. BE PROUD OF MY WORK
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">4.1</span></td>
+    <td class="tg-ktyi">Pupils must complete and hand in assignments or projects on time.</td>
+  </tr>
+</tbody>
+</table>
 
 
 ### 5. KEEP THE SCHOOL CLEAN AND LITTER FREE
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.1</span></td>
+    <td class="tg-ktyi">Pupils must throw all litter into the bins provided.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.2</span></td>
+    <td class="tg-ktyi">Pupils must use the recycling bins for items that can be recycled.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.3</span></td>
+    <td class="tg-ktyi">Pupils must keep the toilets clean.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.4</span></td>
+    <td class="tg-ktyi">Pupils must eat and/or drink only in the school canteen.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.5</span></td>
+    <td class="tg-ktyi">Pupils must not vandalise school properties.</td>
+  </tr>
+</tbody>
+</table>
 
 
 
