@@ -37,6 +37,63 @@ third_nav_title: Our School
 
 ### 2. BE HONEST, COURTEOUS AND WELL-BEHAVED AT ALL TIMES
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 578px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.1</span></td>
+    <td class="tg-ktyi">Pupils who are Singapore citizens must stand at attention, sing the National Anthem and take the National Pledge. Pupils will take the Pledge with the right fist placed over the heart.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.2</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils must not frighten, threaten or bully others online or offline.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.3</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.4</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils should not engage in buying or selling of things either online or in person to schoolmates.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.5</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils must not forge signatures.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.6</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils must not steal.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.7</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils must switch off their mobile phones during all school activities. They can only use their mobile phones in the canteen, foyer and near school gates before and after school hours. If pupils are found to have used their mobile phones at prohibited timings or locations, their phones may be confiscated.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.8</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils are advised not to bring to school any unauthorised electronic, communication, entertainment or gaming device capable of capturing, storing, displaying and/or transmitting visual, audio or verbal information.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.9</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils must use social media responsibly. They must respect other users and adhere to netiquette. All pupils under 13 are not allowed to set up their own Facebook, Twitter, Instagram, Snapchat or Tumblr accounts. If your family has set up any of these social media accounts, parents' supervision is necessary.</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.10</span></td>
+    <td class="tg-ktyi"><span style="color:#000">Pupils are not allowed to use motorised or non-motorised modes of transport (e.g: scooters, skateboards, hover boards, unicycles, etc.) within the school compound. If they use them to travel from home to school, they will need to park these vehicles at a designated point upon arrival at school.</span></td>
+  </tr>
+</tbody>
+</table>
+
 
 ### 3\. BE PROPERLY ATTIRED AND BEHAVE LIKE A LADY
 
@@ -61,4 +118,3 @@ third_nav_title: Our School
 If found breaking school or exam rules, disciplinary action taken could include the following: warning, counselling, deduction of marks, performing community work, close monitoring, detention, suspension and any other actions deemed appropriate by the Principal.
 
 _Information updated on 24 Jan 2019._
-
