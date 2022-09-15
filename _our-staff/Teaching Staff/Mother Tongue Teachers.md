@@ -62,6 +62,9 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -77,16 +80,20 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi10.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi11.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi10.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi11.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:loh_chu_imm@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Loh Chu Imm</span></a></td>
     <td class="tg-wa1i">Teacher<br><a href="mailto:zhang_ying_b@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Zhang Ying</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi12.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi13.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi12.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi13.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Teacher </span><br><a href="mailto:wu_tzu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Wu Tzu Yi</a></td>
