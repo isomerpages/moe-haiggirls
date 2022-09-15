@@ -67,9 +67,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/kp7.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp8.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp9.jpeg" 
+     style="width:70%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Level Head  English Language<br><a href="mailto:kavitha_jeyamalar_segeran@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-style:normal;text-decoration:underline">Mrs Jeya Lawrence</span></a></td>
