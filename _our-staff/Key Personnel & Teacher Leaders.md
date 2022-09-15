@@ -21,11 +21,12 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/principal.jpg" 
-     style="width:65%">
-</td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/kp1.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp2.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp3.jpeg" 
+     style="width:75%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">HOD Mathematics<br><a href="mailto:wee_jee_chen_charlotte@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Charlotte Mok</span></a></td>
@@ -33,9 +34,12 @@ description: ""
     <td class="tg-wa1i">HOD Science<br><a href="mailto:ong_wee_leong@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mr Ong Wee Leong</a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/kp4.jpeg" 
+     style="width:70%"></td>
+    <td class="tg-wa1i"><img src="/images/kp5.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp6.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">HOD MTL</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
