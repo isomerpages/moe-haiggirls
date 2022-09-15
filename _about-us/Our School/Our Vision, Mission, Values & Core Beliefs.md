@@ -25,3 +25,5 @@ To nurture self-directed learners and critical and creative thinkers who can lea
   
 
 ### Core Beliefs:
+
+![](/images/CORE%20BELIEFS.jpeg)
