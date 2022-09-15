@@ -147,3 +147,37 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+### Tamil Language Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"><img src="/images/tm1.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/tm2.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:subramaniam_prema@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Subramaniam Prema</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:appathurai_mahadevan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mr Appathurai Mahadevan</span></a></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+</tbody>
+</table>
