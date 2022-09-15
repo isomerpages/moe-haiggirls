@@ -77,7 +77,7 @@ description: ""
   <tr>
     <td class="tg-wa1i">Level Head  English Language<br><a href="mailto:kavitha_jeyamalar_segeran@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-style:normal;text-decoration:underline">Mrs Jeya Lawrence</span></a></td>
     <td class="tg-wa1i">Level Head  Chinese Language<br><a href="mailto:ng_peng_woon_rachel@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Rachel Ng</a></td>
-    <td class="tg-wa1i">Level Head Science<br><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Clara Kang</a><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline"></span></a></td>
+    <td class="tg-wa1i">Level Head Science<br><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mrs Clara Kang</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/kp10.jpeg" 
