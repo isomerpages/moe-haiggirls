@@ -3,12 +3,14 @@ links:
   - title: About US submenu
     url: /our-staff/Teaching-Staff/mother-tongue-teachers/
     sublinks:
-      - title: Our Partners
-        url: /about-us/Our-Partners/our-partners/
-      - title: Our Staff
-        url: /our-staff/school-leaders/
       - title: Principal's Message
         url: /about-us/principals-message/
+      - title: Our Staff
+        url: /our-staff/school-leaders/
+      - title: Our Partners
+        url: /about-us/Our-Partners/our-partners/
+      - title: Our School
+        url: /about-us/our-school/
   - title: Contact Us
     collection: about-us
   - title: HGS Experience
