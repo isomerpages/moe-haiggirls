@@ -45,7 +45,7 @@ third_nav_title: Our School
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 578px">
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
 <colgroup>
 <col style="width: 50px">
 <col style="width: 600px">
