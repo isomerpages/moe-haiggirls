@@ -208,6 +208,51 @@ third_nav_title: Our School
 
 ### Assessment / Examination Rules & Regulations
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 650px">
+<colgroup>
+<col style="width: 50px">
+<col style="width: 600px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">1.</span></td>
+    <td class="tg-ktyi">Pupils must be punctual for all examinations.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">2.</span></td>
+    <td class="tg-ktyi">Pupils must remain silent throughout the examination.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">3.</span></td>
+    <td class="tg-ktyi">Pupils must not cheat, attempt to cheat or help others to cheat during all assessments / examinations.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">4.</span></td>
+    <td class="tg-ktyi">Pupils must not bring mobile phones or any other electronic devices into the examination room.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">5.</span></td>
+    <td class="tg-ktyi">Pupils who are ill should not be in school for tests and examinations. If a pupil has a temperature of 37.6C and above, she will not be allowed to sit for the test / exam and her parents will be asked to take her home. If a pupil misses a test / exam because of illness, she needs to submit a medical certificate. The pupil will not get a ‘0’ for the test / exam. The school will indicate ‘VR’ (Valid Reason) in her report book and her overall marks will be pro-rated accordingly.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">6.</span></td>
+    <td class="tg-ktyi">Pupils who are absent for a test / exam for reasons other than illness should produce relevant documents to support her absence.<br></td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi"><span style="color:#000">7.</span></td>
+    <td class="tg-ktyi">There will be no make-up assessments for the written and listening comprehension assessments.</td>
+  </tr>
+</tbody>
+</table>
+
 
 If found breaking school or exam rules, disciplinary action taken could include the following: warning, counselling, deduction of marks, performing community work, close monitoring, detention, suspension and any other actions deemed appropriate by the Principal.
 
