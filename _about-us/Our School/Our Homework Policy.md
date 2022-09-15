@@ -60,3 +60,40 @@ To ensure that homework is manageable for our pupils, our school has developed t
   </tr>
 </tbody>
 </table>
+
+
+To give our pupils time for other pursuits over the weekend, we have not included weekends in the time norms. The completion of homework assigned on Fridays can be spread over the weekend.  
+
+  
+
+ We seek parents/guardians’ understanding if homework time norms are exceeded during the pre-exam period (especially for P6 classes), when practice papers are given.
+
+  
+
+**Homework Board** –To coordinate the daily homework load across subjects, every classroom has a homework board which will indicate the homework amount, the approximate time needed and the deadline for each subject. Pupils will record all assigned homework in the Student Handbook.
+
+  
+
+**Homework File** – Pupils will place all their homework (e.g. worksheets, exercise books, workbooks, practice papers) for each day in a homework file. Form teachers will provide pupils with more information pertaining to this homework file. Parents/Guardians need not purchase a new file and are welcome to reuse any existing file that fulfills the criteria of the homework file.  
+
+  
+
+As part of our school’s efforts to nurture self-directed learners and imbue our pupils with the school value of ‘Commitment’, we will remind our pupils to be self-disciplined and responsible in completing their homework independently and punctually. However, we do recognize that our pupils also need support and encouragement from their parents/guardians.  
+
+  
+
+As our partners-in-education, we seek your support in the following matters: 
+
+*   do check your child/ward’s homework file and acknowledge in the Pupil’s Handbook that you have taken note of the homework assigned;   
+*   ensure that your child/ward has a quiet, conducive environment to complete her homework;
+*   encourage your child/ward to exercise self-discipline and complete her homework within the stipulated timeframe;
+*   school homework takes precedence over other work assigned by yourself or your  child/ward’s tutor, if she has one;
+*   if your child/ward has difficulty with her homework, do not give her the answers but guide her with questions and indicate on the homework ‘assisted’ so that the teacher knows the areas that your child/ward had difficulty with and can take steps to address it.   
+
+  
+
+If your child has a more intensive rehearsal or sports practice/competition schedule during a particular period of time, please inform the respective subject teachers about this. While our teachers will be flexible about homework deadlines for these exceptional cases, we encourage our pupils to manage their time well and seek the co-operation of parents to ensure that your child balances her other commitments with her academic responsibilities. 
+
+  
+
+We welcome parents’ feedback on our Homework Policy. Kindly contact us via Tel: 6344 0293 /Email: [haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg). Thank You.
