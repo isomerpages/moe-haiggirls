@@ -15,10 +15,10 @@ third_nav_title: Our School
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 357px">
+<table class="tg" style="undefined;table-layout: fixed; width: 500px">
 <colgroup>
 <col style="width: 150px">
-<col style="width: 294px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
