@@ -106,3 +106,47 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<colgroup>
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/tl1.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><span style="font-weight:700;font-style:normal">Lead Teacher Art</span><br><a href="mailto:anwara_khatun_moklis_khan@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Anwara Khatun</a></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+     <td class="tg-wa1i"><img src="/images/tl2.jpeg" 
+     style="width:85%"></td>
+    <td class="tg-wa1i"><img src="/images/tl3.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/tl4.jpeg" 
+     style="width:80%"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><span style="font-style:normal">Senior Teacher</span><br>Learning Needs <br>(Lower Pri Learners)<br><a href="mailto:teh_soo_bin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Teh Soo Bin</span></a></td>
+    <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
+    <td class="tg-wa1i">Senior Teacher<br><span style="font-weight:700;font-style:normal">Mathematics</span><br><a href="mailto:kong_seok_fun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;text-decoration:underline">Mdm Kong Seok Fun</span></a></td>
+  </tr>
+</tbody>
+</table>
