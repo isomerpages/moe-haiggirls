@@ -22,9 +22,12 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi1.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi2.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi3.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi1.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi2.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi3.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">HOD Mother Tongue</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
@@ -32,9 +35,12 @@ third_nav_title: Teaching Staff
     <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Marie Yong</a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi4.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi5.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi6.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi4.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi5.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi6.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:ang_chuay_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Ang Chuay Yen</span></a></td>
@@ -42,9 +48,12 @@ third_nav_title: Teaching Staff
     <td class="tg-wa1i">Teacher<br><a href="mailto:chen_hsiang_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Chen Hsiang Yin</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi7.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi8.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi9.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi7.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi8.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/chi9.jpeg" 
+     style="width:80%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:chen_lijun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chen Lijun</span></a></td>
@@ -82,6 +91,46 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Teacher </span><br><a href="mailto:wu_tzu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Wu Tzu Yi</a></td>
     <td class="tg-wa1i">Senior Teacher<br><a href="mailto:teh_soo_bin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Teh Soo Bin</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+### Malay Language Teachers
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<colgroup>
+<col style="width: 219px">
+<col style="width: 244px">
+<col style="width: 237px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
+    <td class="tg-wa1i"><span style="font-weight:700;font-style:normal">School Staff Developer</span><br><a href="mailto:wan_alfida_suleiman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Wan Alfida Suleiman</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:rita_zulkarnain_taha@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Rita Zulkarnain Taha</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:mainura_mawi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Mainura Binte Mawi</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Norasiken Binte</span></a><br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mohd Noor</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:asmah_mansoor_alkadree@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Asmah Mansoor Alkadree</span></a></td>
   </tr>
 </tbody>
 </table>
