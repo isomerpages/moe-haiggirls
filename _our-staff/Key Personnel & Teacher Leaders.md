@@ -146,7 +146,7 @@ description: ""
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Senior Teacher</span><br>Learning Needs <br>(Lower Pri Learners)<br><a href="mailto:teh_soo_bin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Teh Soo Bin</span></a></td>
     <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
-    <td class="tg-wa1i">Senior Teacher<br><span style="font-weight:700;font-style:normal">Mathematics</span><br><a href="mailto:kong_seok_fun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;text-decoration:underline">Mdm Kong Seok Fun</span></a></td>
+    <td class="tg-wa1i">Senior Teacher<br><span style="font-weight:700;font-style:normal">Mathematics</span><br><a href="mailto:kong_seok_fun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Kong Seok Fun</span></a></td>
   </tr>
 </tbody>
 </table>
