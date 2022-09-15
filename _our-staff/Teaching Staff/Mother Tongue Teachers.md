@@ -68,16 +68,16 @@ third_nav_title: Teaching Staff
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/chi10.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi11.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:loh_chu_imm@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Loh Chu Imm</span></a></td>
     <td class="tg-wa1i">Teacher<br><a href="mailto:zhang_ying_b@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Zhang Ying</span></a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><img src="/images/chi10.jpeg"></td>
-    <td class="tg-wa1i"><img src="/images/chi11.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi12.jpeg"></td>
+    <td class="tg-wa1i"><img src="/images/chi13.jpeg"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Teacher </span><br><a href="mailto:wu_tzu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Wu Tzu Yi</a></td>
