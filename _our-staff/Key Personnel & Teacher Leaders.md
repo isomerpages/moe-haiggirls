@@ -15,13 +15,15 @@ description: ""
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 731px">
 <colgroup>
-<col style="width: 228px">
-<col style="width: 230px">
-<col style="width: 273px">
+<col style="width: 250px">
+<col style="width: 250px">
+<col style="width: 250px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><img src="/images/principal.jpg" 
+     style="width:65%">
+</td>
     <td class="tg-wa1i"></td>
     <td class="tg-wa1i"></td>
   </tr>
