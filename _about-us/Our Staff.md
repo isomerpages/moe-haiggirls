@@ -3,6 +3,10 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
+### Staff lists
+
+Click [LINK FINISHED STAFF PAGE HERE](/here/) for a list of our staff
+
 ### Staff Professional Development 
 
 In HGS, our staff has developed, embraced and exemplified a culture of care, collegiality and innovation. A strong sense of stewardship undergirds all that we do.
