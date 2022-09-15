@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Our School/.keep
       - Principal's message.md
+      - Our Partners/.keep
       - Our Partners/Our Partners.md
       - Our Partners/Alumni Association.md
       - Our Partners/Parents Support Group.md
       - Our Partners/School Advisory Committee.md
       - Our Partners/Community Partners.md
-      - Our Partners/.keep
+      - Our School/.keep
