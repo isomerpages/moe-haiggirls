@@ -3,9 +3,9 @@ title: Our Staff
 permalink: /about-us/our-staff/
 description: ""
 ---
-### Staff lists
+### Staff List
 
-Click [LINK FINISHED STAFF PAGE HERE](/here/) for a list of our staff
+Click [here](/our-staff/school-leaders/) for the complete list of our staff.
 
 ### Staff Professional Development 
 
