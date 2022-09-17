@@ -31,10 +31,8 @@ Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
 
   
 
-**Arrival and Dismissal Time**
-
-**Monday to Thursday:**           7.30 a.m. to 1.30 p.m.
-
+**Arrival and Dismissal Time**     
+**Monday to Thursday:**           7.30 a.m. to 1.30 p.m.    
 **Friday:**                                            7.30 a.m. to 1.00 p.m.
 
   
@@ -145,3 +143,105 @@ Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
   </tr>
 </tbody>
 </table>
+
+
+ 
+
+**Opening Hours of General Office**
+
+**School Terms**
+
+**Monday to Thursday:**      6.45 a.m. to 5.30 p.m.    
+**Friday:**                                       6.45 a.m. to 5.00 p.m.
+
+  
+
+**School Holidays  
+**
+
+**Monday to Friday:**            8.00 a.m. to 5.00 p.m.
+
+  
+
+  
+
+### 4\. School Bookshop  
+
+  
+
+### Paciﬁc Bookstores Pte Ltd
+
+### 14 Arumugam Road, #08-01 Lion Building Road C, Singapore 409959
+
+### Tel: 6464 0111
+
+### Fax: 6464 0110
+
+###   
+
+**Opening Hours in School during the School Terms**:  
+Monday to Friday, 8.00am to 3.00pm
+
+### (Lunch Break: 11.30am to 12.30pm)
+
+### Tel: 63480869
+
+###   
+
+### 5\. School Uniform Supplier
+
+  
+
+### 
+
+Vista Uniform  
+
+729 Geylang Road Singapore 389640
+
+Tel: 9021 3041
+
+Opening Hours: Vendor will be in school every Wednesday during term time from 11am to 12.30pm
+
+  
+
+### 6\. School Bus Services
+
+  
+
+### 
+
+Sinbus (S) Transport Services
+
+Mr Winson  
+
+### 
+
+HP: 9673 3654
+
+  
+
+### 7\. Student Care Centre Operator
+
+  
+
+### 
+
+Kowabunga! Education (E) Pte Ltd
+
+3 Ang Mo Kio Street 62, #08-21 Link@AMK, Singapore 589139
+
+Tel: 6560 7200
+
+  
+
+### 8\. School Dental Clinic
+
+  
+
+**Opening Hours:** Tuesday & Thursday, 8.00 a.m. to 5.30 p.m.
+
+                                     _(Lunch Break: 12.30 p.m. to 1.30 p.m.)_
+
+**Tel:** 6344 0508
+
+Please contact the following dental clinics on the days when the school dental clinic is closed:
