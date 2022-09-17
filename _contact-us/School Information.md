@@ -241,42 +241,27 @@ Please contact the following dental clinics on the days when the school dental c
 
 **Total Defence Day                                                      February**      
 **Sports Day                                                                       February / March**    
-**P5 Advanced Student Leadership Camp      March**
-
-**Physical Fitness Tests (P4 and P6 only)         April**
-
-**International Friendship Day                              April**  
-
-**Racial Harmony Day                                                 July**
-
-**P5 Outdoor Adventure Camp                            July**  
-
-**National Day Celebration                                     August**  
-
-**Teachers' Day Celebration                                   September**   
-
-**Children's Day Celebrations                               October**
-
-**Prize Giving Day                                                         November**
-
+**P5 Advanced Student Leadership Camp      March**   
+**Physical Fitness Tests (P4 and P6 only)         April**    
+**International Friendship Day                              April**     
+**Racial Harmony Day                                                 July**   
+**P5 Outdoor Adventure Camp                            July**     
+**National Day Celebration                                     August**     
+**Teachers' Day Celebration                                   September**      
+**Children's Day Celebrations                               October**  
+**Prize Giving Day                                                         November**   
 **P6 Graduation Day                                                   November**
-
-###   
+   
 
 ### 10\. Examinations
 
   
 
-**P4 and P6 Mid Year Exams (Oral & Written)                April / May**
-
-**P3 GEP Screening** **Exercise**                                                      **August / October**
-
-**PSLE Oral / Listening Comprehension                              August / September**
-
-**P6 Preliminary Examinations                                                 August**
-
-**PSLE Written Examinations                                                    September / October**
-
+**P4 and P6 Mid Year Exams (Oral & Written)                April / May**  
+**P3 GEP Screening** **Exercise**                                                      **August / October**   
+**PSLE Oral / Listening Comprehension                              August / September**   
+**P6 Preliminary Examinations                                                 August**   
+**PSLE Written Examinations                                                    September / October**   
 **P3, P5 End-of-Year Exams (Oral & Written)             October / November**
 
   
