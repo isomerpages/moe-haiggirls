@@ -5,10 +5,6 @@ description: ""
 ---
 ### 1\. Contact Information  
 
-  
-
-### 
-
 **Address:** 51 Koon Seng Road Singapore 427072     
 (Main gate is along Tembeling Road)    
 **Tel:** 6344 0293   
