@@ -32,10 +32,9 @@ Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
   
 
 **Arrival and Dismissal Time**     
+
 **Monday to Thursday:**           7.30 a.m. to 1.30 p.m.    
 **Friday:**                                            7.30 a.m. to 1.00 p.m.
-
-  
 
 (Pupils are expected to arrive before 7.30 a.m. for the morning assembly. Flag-raising commences at 7.30 a.m.)
 
@@ -154,11 +153,8 @@ Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
 **Monday to Thursday:**      6.45 a.m. to 5.30 p.m.    
 **Friday:**                                       6.45 a.m. to 5.00 p.m.
 
-  
-
-**School Holidays  
-**
-
+ 
+**School Holidays**    
 **Monday to Friday:**            8.00 a.m. to 5.00 p.m.
 
   
