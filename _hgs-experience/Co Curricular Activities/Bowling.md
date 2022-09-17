@@ -18,3 +18,13 @@ third_nav_title: Co Curricular Activities
 
 ![](/images/bowling1.png)
 ![](/images/bowling2.png)
+
+#### Teachers-in-charge
+Mr Kwok Yao Tsuan – OIC   
+Miss Wu Tzu Yi – 2IC   
+Madam Samsiah    
+Miss Mainura
+
+#### Details
+CCA session: Mondays, 2.10pm – 5.00pm, external venue    
+D3T2 session: Fridays, 1.30pm – 4.30pm, external venue
