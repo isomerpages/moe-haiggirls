@@ -31,3 +31,5 @@ To nurture and celebrate the diverse talents of our pupils, Haig Girls' initiate
   </tr>
 </tbody>
 </table>
+
+_\*Table updated on January 2022_
