@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Co Curricular Activities/Brownies.md
       - Co Curricular Activities/Science Club.md
       - Co Curricular Activities/.keep
       - Discover, Develop & Dedicate Your Talent Time (D3T2).md
