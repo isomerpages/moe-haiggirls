@@ -4,7 +4,7 @@ permalink: /hgs-experience/Co-Curricular-Activities/brownies/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-### About Brownies
+#### About Brownies
 
 As a Uniformed Group, that is also a part of Girl Guides Singapore (GGS), Brownies are given unparalleled opportunities to discover and develop their strengths, their skills and their fullest potential, to become responsible citizens of the world, through our unique 5-Point Programme.
 
@@ -14,7 +14,7 @@ Under the caring supervision of the teacher-guiders, Brownies work independentl
 
 For more information on Brownies activities, programmes, badges & awards, do refer to GGS website - [_girlguides.org.sg_](https://girlguides.org.sg/)
 
-### Key Highlights
+#### Key Highlights
 
 Brownies regularly join other Brownie or Girl Guide units for joint learning adventures and competitions, such as World Thinking Day, Division Days, outdoor cooking and camping.
 
