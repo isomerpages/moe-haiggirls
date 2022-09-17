@@ -95,3 +95,53 @@ Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
   </tr>
 </tbody>
 </table>
+
+**After School Activities**
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 564px">
+<colgroup>
+<col style="width: 104px">
+<col style="width: 279px">
+<col style="width: 181px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Day</td>
+    <td class="tg-9hzb">Activities</td>
+    <td class="tg-9hzb">Time</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Monday</td>
+    <td class="tg-7yig">CCA</td>
+    <td class="tg-7yig">2.15 p.m. to 4.45 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Tuesday</td>
+    <td class="tg-7yig">CCA, D3T2, Enrichment Programmes</td>
+    <td class="tg-7yig">2.00 p.m. to 5.00 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Wednesday</td>
+    <td class="tg-7yig">Remedial</td>
+    <td class="tg-7yig">2.10 p.m. to 3.45 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Thursday</td>
+    <td class="tg-7yig">Remedial, Enrichment Programmes</td>
+    <td class="tg-7yig">2.10 p.m. to 3.45 p.m.</td>
+  </tr>
+  <tr>
+    <td class="tg-7yig">Friday</td>
+    <td class="tg-7yig">D3T2 Programmes</td>
+    <td class="tg-7yig">1.30 p.m. to 4.30 p.m.</td>
+  </tr>
+</tbody>
+</table>
