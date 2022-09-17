@@ -1,4 +1,5 @@
 collections:
   hgs-experience:
     output: true
-    order: []
+    order:
+      - P6 Graduation Day Video 2021.md
