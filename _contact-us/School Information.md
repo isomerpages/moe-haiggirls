@@ -282,3 +282,5 @@ In order to ensure the safety of every pupil in the school, all parents / guardi
 
 *   produce their identity cards for identification purposes, sign in and obtain a visitor's pass at the security guard post and proceed directly to the General Office.
 *   inform the General Office should they wish to take their child / ward out of school.
+
+ _Information updated on 22 Jan 2019._
