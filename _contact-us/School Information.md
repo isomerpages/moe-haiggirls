@@ -258,7 +258,7 @@ Please contact the following dental clinics on the days when the school dental c
 **PSLE Oral / Listening Comprehension                              August / September**   
 **P6 Preliminary Examinations                                                 August**   
 **PSLE Written Examinations                                                    September / October**   
-**P3, P5 End-of-Year Exams (Oral & Written)             October / November**
+**P3, P5 End-of-Year Exams (Oral & Written)                 October / November**
 
   
 
@@ -268,7 +268,6 @@ Please contact the following dental clinics on the days when the school dental c
 
 The school values curriculum time. Parents are advised to plan vacations to coincide with school holidays. Please refer to school rule 1.2 on page 16 of the Student Handbook.
 
-###   
 
 ### 12\. Visitors to the School
 
