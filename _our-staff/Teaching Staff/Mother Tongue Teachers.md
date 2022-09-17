@@ -142,7 +142,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-wa1i">Teacher<br><a href="mailto:mainura_mawi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Mainura Binte Mawi</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Norasiken Binte</span></a><br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mohd Noor</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Norasiken Binte Mohd Noor</span></a></td>
     <td class="tg-wa1i">Teacher<br><a href="mailto:asmah_mansoor_alkadree@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Asmah Mansoor Alkadree</span></a></td>
   </tr>
 </tbody>
