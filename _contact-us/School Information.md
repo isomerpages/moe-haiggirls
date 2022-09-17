@@ -208,3 +208,28 @@ Mr Winson
 **Tel:** 6344 0508
 
 Please contact the following dental clinics on the days when the school dental clinic is closed:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 517px">
+<colgroup>
+<col style="width: 190px">
+<col style="width: 327px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Tao Nan School</td>
+    <td class="tg-ktyi">Monday to Friday, <span style="font-weight:bold">Tel</span>: 6241 6218</td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">CHIJ Katong Primary</td>
+    <td class="tg-ktyi">Monday to Wednesday, <span style="font-weight:bold">Tel</span>: 6345 4107</td>
+  </tr>
+</tbody>
+</table>
