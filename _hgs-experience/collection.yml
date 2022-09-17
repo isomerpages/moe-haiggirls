@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Co Curricular Activities/Chinese Dance.md
       - Co Curricular Activities/Modern Dance.md
       - Co Curricular Activities/Indian Dance.md
       - Co Curricular Activities/Bowling.md
