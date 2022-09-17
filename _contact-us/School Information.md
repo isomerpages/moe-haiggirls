@@ -258,7 +258,7 @@ Please contact the following dental clinics on the days when the school dental c
 **PSLE Oral / Listening Comprehension                              August / September**   
 **P6 Preliminary Examinations                                                 August**   
 **PSLE Written Examinations                                                    September / October**   
-**P3, P5 End-of-Year Exams (Oral & Written)                 October / November**
+**P3, P5 End-of-Year Exams (Oral & Written)                  October / November**
 
   
 
