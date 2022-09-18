@@ -127,3 +127,4 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
 
 ![](/images/alp6.jpeg)
 
+_Information updated as of 27 Jun 2019._
