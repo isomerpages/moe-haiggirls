@@ -34,9 +34,4 @@ Our LLP aims to develop character and leadership through diverse learning experi
 
 ![](/images/llp8.png)
 ![](/images/llp9.png)
-
 _\*Updated on July 2021_
-
-
-
-
