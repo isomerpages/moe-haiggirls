@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Co Curricular Activities/Handbells.md
       - Co Curricular Activities/Gamelan.md
       - Co Curricular Activities/HGS Chorale.md
       - Co Curricular Activities/Chinese Dance.md
