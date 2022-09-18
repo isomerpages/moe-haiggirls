@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Co Curricular Activities/Frequently Asked Questions.md
       - Co Curricular Activities/Badminton.md
       - Co Curricular Activities/Red Cross Youth.md
       - Co Curricular Activities/Netball.md
