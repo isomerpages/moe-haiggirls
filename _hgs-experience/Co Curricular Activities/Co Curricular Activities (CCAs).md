@@ -47,4 +47,4 @@ _\*Table updated January 2022_
 
 The CCA Carnival was held on 5 Nov 2021. Even though it was conducted over Zoom for the first time, both P2 parents and students provided feedback that the session was informative and helpful. They were better able to understand the school’s approach towards holistic development through the CCAs, and select their choice of CCA based on the offerings of each CCA viz. their child’s strengths and interests. 
 
-[Frequently Asked Questions]()
+[Frequently Asked Questions](/hgs-experience/Co-Curricular-Activities/faq/)
