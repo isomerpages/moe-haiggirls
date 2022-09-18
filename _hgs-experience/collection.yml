@@ -2,7 +2,6 @@ collections:
   hgs-experience:
     output: true
     order:
-      - Curriculum.md
       - Applied Learning Program (ALP).md
       - Learning For Life Programme (LLP).md
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
