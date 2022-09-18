@@ -17,8 +17,22 @@ We strive to inculcate the following skills and values in our members:
 #### Key Highlights
 These are some of the projects that our members are undertaking in 2019.
 
-1\.	Curating End of Year exhibition
+**1\.	Curating End of Year exhibition**
 
 Members curate artefacts as the Club sets up this highly popular Art Exhibition. There are different aspects of planning and organizing and include: 
 * Planning the layout and floor map  
-* Selecting and categorizing artworks done by P1 to P5 schoolmates, D3T2 students as well as Art Club members themselves. 
+* Selecting and categorizing artworks done by P1 to P5 schoolmates, D3T2 students as well as Art Club members themselves.
+
+![](/images/ac1.png)
+
+**2\. Art Club students are involved in CCA carnival, conducting interesting activities to recruit new members for the following year.**
+
+![](/images/ac2.png)
+
+#### Teachers
+Mdm Salinah bte Misri (OIC)    
+Mdm Syazwani Samure    
+Mrs Lisa Yap
+
+#### Details
+CCA session: Mondays, 2.15pm - 3.45pm, Art Room 1 and 3
