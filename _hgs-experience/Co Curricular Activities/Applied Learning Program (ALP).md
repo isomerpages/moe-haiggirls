@@ -23,7 +23,7 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
 .tg .tg-5ril{background-color:#FFE599;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-0te4{background-color:#A8D08D;font-style:italic;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 765px">
+<table style="undefined;table-layout: fixed; width: 765px" class="tg">
 <colgroup>
 <col style="width: 255px">
 <col style="width: 255px">
@@ -68,7 +68,7 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
 .tg .tg-5ril{background-color:#FFE599;font-style:italic;text-align:left;vertical-align:top}
 .tg .tg-0te4{background-color:#A8D08D;font-style:italic;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 765px">
+<table style="undefined;table-layout: fixed; width: 765px" class="tg">
 <colgroup>
 <col style="width: 255px">
 <col style="width: 255px">
@@ -97,3 +97,33 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
   </tr>
 </tbody>
 </table>
+
+<center><strong>IPW for Primary One – Jacob Ballas Children’s Garden</strong></center>
+
+![](/images/alp1.png)
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQyQ3qXenmu8copFezFzB1ixt_zkfRTLJLNcTwSrccwh1ryA-4kBl264l43ZkOcKPFgtdEfssflzC48/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<center><strong>IPW for Primary Two – Singapore Philatelic Museum</strong></center>
+
+![](/images/alp2.png)
+
+
+<center><strong>IPW for Primary Three – Joo Chiat Trail</strong></center>
+
+![](/images/alp3.png)
+
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ3C5roOtacQX7GS_Jw43yp8SiqqCu2a3fr_r-NltYGe1qKAPeWDEWZ5gLJwS6F9VujjFCY2MY4SMJK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<center><strong>IPW for Primary Four– TIMEOUT</strong></center>
+
+![](/images/alp4.jpeg)
+
+<center><strong>IPW for Primary Five – Everyday Science</strong></center>
+
+![](/images/alp5.jpeg)
+
+<center><strong>IPW for Primary Six – Code for Fun</strong></center>
+
+![](/images/alp6.jpeg)
+
