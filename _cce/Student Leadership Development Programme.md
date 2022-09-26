@@ -64,9 +64,7 @@ To support the pupils in developing their leadership skills, a three-tiered tra
 <img src="/images/sld2.png" 
      style="width:25%">
 
-**<center>3-Tiered Student</center>** 
-
-**Leadership Training**
+**<center>3-Tiered Student<br>Leadership Training</center>**
 
   
 
