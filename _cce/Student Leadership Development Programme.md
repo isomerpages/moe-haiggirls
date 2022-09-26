@@ -43,13 +43,16 @@ The third outer circle shows the platforms (CCA Leaders, Class Leaders, Ambassad
 
 Finally, the outer most circle depicts the 2E2R approach - “Experience”, “Explicit teaching”, “Reflection” and “Role-modelling”, used to cultivate the leadership qualities in our students.
 
-\-       Through explicit teaching and by providing students with experiences (e.g. FTGP Leadership Lessons, Leadership Training, Leadership Opportunities), all students will be able to develop their leadership capabilities.
+* Through explicit teaching and by providing students with experiences (e.g. FTGP Leadership Lessons, Leadership Training, Leadership Opportunities), all students will be able to develop their leadership capabilities.
 
-\-       We also empower our students to lead in events such as the TKSS Junior Leadership Symposium, Leadership Assembly Presentations and the HGS Open House. No Haig girl is too young to make a difference to others, the school and the community.
 
-\-       Furthermore, we encourage the students to reflect and evaluate their own strengths and missteps in their leadership journey. Using a growth mindset for self-reflection coupled with peer evaluation will help solidify their understanding of what it takes to be a good leader.
+* We also empower our students to lead in events such as the TKSS Junior Leadership Symposium, Leadership Assembly Presentations and the HGS Open House. No Haig girl is too young to make a difference to others, the school and the community.
 
-\-       We also provide affirmation and encouragement through events such as Student Leaders’ Investiture and Prize-giving day. We celebrate not only achievements but the heart of our students.
+
+* Furthermore, we encourage the students to reflect and evaluate their own strengths and missteps in their leadership journey. Using a growth mindset for self-reflection coupled with peer evaluation will help solidify their understanding of what it takes to be a good leader.
+
+
+* We also provide affirmation and encouragement through events such as Student Leaders’ Investiture and Prize-giving day. We celebrate not only achievements but the heart of our students.
 
   
 
@@ -58,11 +61,10 @@ Leadership Training Structure
 
 To support the pupils in developing their leadership skills, a three-tiered training structure was created.
 
-  
+<img src="/images/sld2.png" 
+     style="width:25%">
 
-![SLD 011 3-Tiered Student Leadership Training Diagram](https://haiggirls.moe.edu.sg/qql/slot/u240/Programmes/CURRICULUM/CCE/SLD%20011.png)
-
-**3-Tiered Student** 
+**<center>3-Tiered Student</center>** 
 
 **Leadership Training**
 
