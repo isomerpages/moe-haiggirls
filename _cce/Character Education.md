@@ -30,11 +30,11 @@ We provide our pupils with:
 
   
 
-#### Form Teacher Guidance Period (FTGP)
+##### Form Teacher Guidance Period (FTGP)
 
 Form Teacher Guidance Period (FTGP) provides quality interaction time between form teachers and pupils, and equip pupils with social and emotional competencies.  
 
-#### The FTGP concept can also be illustrated as below:
+##### The FTGP concept can also be illustrated as below:
 
 ![](/images/che2.png)
 
