@@ -67,3 +67,40 @@ Using ICT in a productive manner to;
 
 ![](/images/ict6.png)
 
+**3\. Developing self-directed learners**
+
+*   Learning portals for Mother Tongue Languages
+![](/images/ict7.png)
+* P3 Joo Chiat Interactive Trail: Explore and learn about the heritage and culture of Joo Chiat
+![](/images/ict8.png)
+*   Maths Trail
+![](/images/ict9.png)
+
+**4\. Developing student leaders who can positively influence peers on safe and responsible use of ICT**  
+*   Cyber Wellness Lessons
+*   Cyber Wellness Ambassadors as Peer Advocates
+*   Cyber Wellness Week; Assembly Programmes and Recess Activities
+![](/images/ict10.png)
+
+**5\. ICT in the Arts**  
+
+*   P1 Digital Art Drawing on iPad
+![](/images/ict11.png)
+
+
+*   Digital poster design on Cyber Wellness issues by P3 students
+![](/images/ict12.png)
+
+
+*   HGS Arteractive Trail for P4 students
+![](/images/ict13.png)
+
+
+*   P5 students creating stop-motion animation as part of the National Day commemoration
+![](/images/ict14.png)
+
+
+*   Animation created by Infocomm students by National Arts Council
+![](/images/ict15.png)
+
+**6\. Integrated Project Work (IPW)** The Integrated Project Work (IPW) is a school-wide programme that helps pupils to integrate learning and create new value through an interdisciplinary approach. ICT-enriched learning experiences are designed to inculcate in pupils 21st century skills, in particular self-directed, collaborative and critical and inventive thinking skills.  Click [here](https://haiggirls.moe.edu.sg/programmes/applied-learning-program-alp) for more information.
