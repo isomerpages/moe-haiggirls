@@ -66,4 +66,4 @@ IPW is a school-wide programme that helps students to integrate learning and cre
 
   
 
-Click [here](https://haiggirls.moe.edu.sg/the-hgs-experience/applied-learning-program-alp) for more information.
+Click [here](/hgs-experienc/alp/) for more information.
