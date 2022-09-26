@@ -66,8 +66,9 @@ To support the pupils in developing their leadership skills, a three-tiered tra
 
 **<center>3-Tiered Student<br>Leadership Training</center>**
 
-  
-
-  
 
 In addition to the above key training programmes, there would be specialised training programmes catered for different groups of leaders so as to hone their skills in the specific areas.
+
+![](/images/sld1.png)
+![](/images/sld3.png)
+![](/images/sld4.png)
