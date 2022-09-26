@@ -2,7 +2,6 @@ collections:
   cce:
     output: true
     order:
-      - Arts Education.md
       - Character Education.md
       - Citizenship Education.md
       - Student Leadership Development Programme.md
