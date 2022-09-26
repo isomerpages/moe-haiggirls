@@ -22,3 +22,7 @@ The 3 learning levels of the programme promote breadth, depth and excellence in 
 
 Values-Based Creativity (VBC) Programme
 ---------------------------------------
+
+![](/images/vbc1-1.png)
+![](/images/vbc2.png)
+![](/images/vbc3.png)
