@@ -1,4 +1,5 @@
 collections:
   arts-education:
     output: true
-    order: []
+    order:
+      - Music.md
