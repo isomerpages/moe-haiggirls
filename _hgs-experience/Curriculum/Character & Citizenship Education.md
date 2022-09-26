@@ -11,6 +11,12 @@ Haig Girls' emphasises the importance of the character and citizenship developme
 Values are explicitly taught and infused throughout the curriculum and through role-modelling, reflection and experience. Service to the school and community, leadership roles and responsibilities, CCAs and project work are important experiences that we seek to give our pupils, so that they can live out the school values in the process of serving others and working with one another. Our programmes not only focuses on the head but also the heart and hands of every Haig Girl.
 
 ## CCE FRAMEWORK
+
+<img src="/images/cc1.jpeg" 
+     style="width:65%">
+
+## Programmes
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
