@@ -46,3 +46,13 @@ of others.
 **_<u>Read for Books</u>_**
 
 Read for Books is a charity book drive organised by the National Reading Movement, National Library Board. It aims to raise awareness and share the gift of reading with the less privileged. For every 10 people who read for 15 minutes, one book will be donated to selected beneficiaries. In 2021, as a school, we read a total of 103,427 minutes, which translated to a donation of 911 books. We are glad to have contributed to such a worthy cause. Well done, Haig Girls!
+
+![](/images/loc5.png)
+
+**_<u>Clean Plate Campaign 2021</u>_**  
+
+The Clean Plate Campaign, organised by Food from the Heart, aims to raise students' awareness of the problems caused by food wastage and to learn about the importance of finishing up the food on their plate during mealtimes. For every "clean plate" recorded from our students, $1 will be donated to the needy. 
+
+We are proud to share that in 2021, we achieved 3,238 clean plates over four days. As a school, we had raised $3,238 for the needy, raised awareness of the issues arising from food wastage and also learned to cultivate better eating habits.
+
+![](/images/loc6.png)
