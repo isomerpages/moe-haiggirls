@@ -55,3 +55,15 @@ Using ICT in a productive manner to;
 
 * Generating ideas on scientific concepts
 ![](/images/ict4.png)
+
+
+**2\. Collaborative and connected learning**  
+
+*   Making improvements to proposed solutions based on peer feedback
+
+![](/images/ict5.png)
+
+* Video recordings to provide peer feedback
+
+![](/images/ict6.png)
+
