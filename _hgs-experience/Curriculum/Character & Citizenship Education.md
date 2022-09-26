@@ -49,3 +49,5 @@ Values are explicitly taught and infused throughout the curriculum and through r
   </tr>
 </tbody>
 </table>
+
+*Click on the images above for more information on Haig Girls' Character and Citizenship Education and Sexuality Education programmes.*
