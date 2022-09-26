@@ -105,3 +105,16 @@ Using ICT in a productive manner to;
 
 **6\. Integrated Project Work (IPW)**    
 The Integrated Project Work (IPW) is a school-wide programme that helps pupils to integrate learning and create new value through an interdisciplinary approach. ICT-enriched learning experiences are designed to inculcate in pupils 21st century skills, in particular self-directed, collaborative and critical and inventive thinking skills.  Click [here](/hgs-experienc/alp/) for more information.
+
+![](/images/ict16.png)
+
+**ICT in Action (for Teachers)**   
+Different Professional Development programmes are developed according to the 3-tiered approach:
+ 
+**Mastery Stage -**  Use ICT for administration and direct substitute of existing classroom practices   
+**Impact Stage -**  Design ICT-enriched learning experiences for engaged learning    
+**Innovation Stage -**  Design ICT-enriched learning experiences for innovation
+
+Teachers attend whole school training sessions, workshops and conferences, work in Professional Learning Communities, conduct peer and group observations and have individual coaching sessions to design ICT-enriched learning experiences.
+
+![](/images/ict17.png)
