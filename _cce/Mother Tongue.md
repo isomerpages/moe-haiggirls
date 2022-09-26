@@ -15,8 +15,7 @@ Teachers use a range of assessment tools, including written and performance task
 
 Our pupils have a flair for the drama and arts and possess strong oral skills thus, oral presentation, story-telling, role-play and drama are essential strategies used to bring out the fun in the learning of Mother Tongue lessons.  Our structured programme ensures that all pupils have the opportunities to showcase their talents in front of their peers. 
 
-#### 10’C/10’M/10'T Programme 
-
+#### 10’C/10’M/10'T Programme   
 10’C/10’M/10'T is a collaborative project which our school embarked on in 2010 with Educational Technology Division (ETD), MOE. It leverages the use of ICT to promote pupils’ interest in the Chinese/Malay/Tamil Language, and to improve on their reading and writing skills in an interactive environment. 
 
   
