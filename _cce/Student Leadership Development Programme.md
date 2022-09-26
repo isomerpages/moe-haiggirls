@@ -29,7 +29,7 @@ We believe that every HGS student will be a leader of character who demonstrate
 
 The Student Leadership Framework is built on HGS’ vision of “Leaders of Character, Striving for Excellence in a Vibrant School”. It has four concentric circles with the inner circles depicting the values and leadership attributes, while the outer circles illustrate the platforms and approaches for students to hone their leadership skills. 
 
-<img src="/images/sld1.png" 
+<img src="/images/sld1.jpeg" 
      style="width:65%">
 
 
