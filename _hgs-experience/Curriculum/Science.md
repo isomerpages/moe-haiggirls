@@ -61,8 +61,7 @@ The school has embarked on the E2K Science Programme Singapore, a Science enrich
 
 ![](/images/sci8.png)
 
-**Science Games@Recess**
-
+**Science Games@Recess**   
 To encourage learning beyond classroom, Science Games@Recess takes place during recesses every Friday at the foyer with the help of parent volunteers and Science ambassadors. Pupils from all levels have fun exploring Science concepts through games. 
 
   
