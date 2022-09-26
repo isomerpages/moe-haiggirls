@@ -103,4 +103,5 @@ Using ICT in a productive manner to;
 *   Animation created by Infocomm students by National Arts Council
 ![](/images/ict15.png)
 
-**6\. Integrated Project Work (IPW)** The Integrated Project Work (IPW) is a school-wide programme that helps pupils to integrate learning and create new value through an interdisciplinary approach. ICT-enriched learning experiences are designed to inculcate in pupils 21st century skills, in particular self-directed, collaborative and critical and inventive thinking skills.  Click [here](https://haiggirls.moe.edu.sg/programmes/applied-learning-program-alp) for more information.
+**6\. Integrated Project Work (IPW)**    
+The Integrated Project Work (IPW) is a school-wide programme that helps pupils to integrate learning and create new value through an interdisciplinary approach. ICT-enriched learning experiences are designed to inculcate in pupils 21st century skills, in particular self-directed, collaborative and critical and inventive thinking skills.  Click [here](https://haiggirls.moe.edu.sg/programmes/applied-learning-program-alp) for more information.
