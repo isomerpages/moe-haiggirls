@@ -43,7 +43,7 @@ Values are explicitly taught and infused throughout the curriculum and through r
     <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
           <img src="/images/cce4.png" 
      style="width:100%"></a></td>
-    <td class="tg-nrix"><a href = "linkhere" target = "_self"> 
+    <td class="tg-nrix"><a href = "/cce/moe-sexuality-education-in-schools/" target = "_self"> 
           <img src="/images/cce5.png" 
      style="width:100%"></a></td>
   </tr>
