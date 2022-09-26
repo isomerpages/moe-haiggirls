@@ -2,4 +2,5 @@ collections:
   cce:
     output: true
     order:
+      - Student Leadership Development Programme.md
       - MOE Sexuality Education in Schools.md
