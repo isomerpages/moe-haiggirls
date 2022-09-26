@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Curriculum/Teaching and Learning through the Arts.md
       - Curriculum/Mathematics.md
       - Curriculum/English.md
       - Curriculum/Science.md
