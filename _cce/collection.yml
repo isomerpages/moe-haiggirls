@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Arts Education.md
-      - Mother Tongue.md
       - Character Education.md
       - Citizenship Education.md
       - Student Leadership Development Programme.md
