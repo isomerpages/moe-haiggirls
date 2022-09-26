@@ -3,6 +3,8 @@ title: MOE Sexuality Education in Schools
 permalink: /cce/moe-sexuality-education-in-schools/
 description: ""
 ---
+## MOE Sexuality Education in Schools - Haig Girls' School
+
 [**Click Here**](/files/2022%20HGS%20SEd%20Update.pdf) 
 
 ## Information for Parents
