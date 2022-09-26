@@ -2,6 +2,7 @@ collections:
   cce:
     output: true
     order:
+      - Mother Tongue.md
       - Character Education.md
       - Citizenship Education.md
       - Student Leadership Development Programme.md
