@@ -14,10 +14,9 @@ The 3 learning levels of the programme promote breadth, depth and excellence in 
 	4.  school platforms which showcase the visual arts.
 		
 	
-•    Level 2 caters to pupils’ interests and develops their potential through the Art Club CCA.  
+* Level 2 caters to pupils’ interests and develops their potential through the Art Club CCA.  
   
-•    Level 3 develops in greater depth the skills of pupils who are talented in the visual arts through  
-      D3T2 (Discover, Develop and Dedicate your Talent Time), a talent development programme.  
+* Level 3 develops in greater depth the skills of pupils who are talented in the visual arts through D3T2 (Discover, Develop and Dedicate your Talent Time), a talent development programme.  
 
 Values-Based Creativity (VBC) Programme
 ---------------------------------------
