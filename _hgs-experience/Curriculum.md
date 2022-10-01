@@ -20,7 +20,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/Arts-Education/arts-education" target = "_self"> 
           <img src="/images/AE.jpg" 
      style="width:100%"></a>
 </td>
@@ -34,7 +34,7 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-drij"><a href="link">Arts Education</a></td>
+    <td class="tg-drij"><a href="/curriculum/Arts-Education/arts-education">Arts Education</a></td>
     <td class="tg-drij"><a href="link">Character and Citizenship Education</a></td>
     <td class="tg-drij"><a href="link">English</a></td>
   </tr>
