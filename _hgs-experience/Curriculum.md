@@ -3,7 +3,6 @@ title: Curriculum
 permalink: /hgs-experience/Curriculum/curriculum/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -11,6 +10,7 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-drij{color:#f56b00;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
@@ -34,9 +34,9 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="link">Arts Education</a></td>
-    <td class="tg-wa1i"><a href="link">Character and Citizenship Education</a></td>
-    <td class="tg-wa1i"><a href="link">English</a></td>
+    <td class="tg-drij"><a href="link">Arts Education</a></td>
+    <td class="tg-drij"><a href="link">Character and Citizenship Education</a></td>
+    <td class="tg-drij"><a href="link">English</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
