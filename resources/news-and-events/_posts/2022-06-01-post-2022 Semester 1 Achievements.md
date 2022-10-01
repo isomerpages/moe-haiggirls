@@ -72,3 +72,32 @@ image: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-foez{background-color:#FFE5BA;text-align:left;vertical-align:middle}
+.tg .tg-kff0{background-color:#9a0000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-kff0" colspan="3"><span style="font-weight:bold;color:#FFF">LANGUAGE ARTS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Moo O Awards 2022</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Silver Award</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Celina Kamio Wijaya, 3C</span><br><span style="color:#000;background-color:#FFE5BA">Lara Chandiramani, 3C </span><br><span style="color:#000;background-color:#FFE5BA">Shreya Parthasarathy, 3J</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> SOTA Creative Writing Competiton</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Top 20 Finalist</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Nur Mischa Filastin binte Mohammad Faizal, 6H</span></td>
+  </tr>
+</tbody>
+</table>
