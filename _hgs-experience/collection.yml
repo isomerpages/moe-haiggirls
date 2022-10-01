@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Leaders of Character.md
+      - Curriculum/Curriculum.md
       - Curriculum/Holistic Assessment.md
       - Curriculum/Arts Education.md
       - Curriculum/Mother Tongue.md
