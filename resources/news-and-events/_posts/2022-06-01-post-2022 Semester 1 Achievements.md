@@ -157,3 +157,5 @@ image: ""
 </table>
 
 <strong><u><em>Catch our students in action!</em></u></strong>
+![](/images/sem1a1.png)
+![](/images/sem1a2.png)
