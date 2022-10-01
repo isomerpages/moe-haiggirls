@@ -6,4 +6,69 @@ layout: post
 description: ""
 image: ""
 ---
-## Semester 1 Achievements 
+## Semester 1 Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-foez{background-color:#FFE5BA;text-align:left;vertical-align:middle}
+.tg .tg-ldyv{background-color:#9a0000;color:#ffffff;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-bgdy{background-color:#FFF7EA;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-r4ij{background-color:#FFF7EA;color:#C00;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0t47{background-color:#FFF7EA;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-ldyv" colspan="3">National School Games 2022</td>
+  </tr>
+  <tr>
+    <td class="tg-bgdy">Competition/Event</td>
+    <td class="tg-r4ij"> Award</td>
+    <td class="tg-bgdy">Name of Students</td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Nationals School Games</span><br><span style="color:#000;background-color:#FFE5BA">Football Championship 2022 -</span><br><span style="color:#000;background-color:#FFE5BA">Senior Soccer Girls Competition</span></td>
+    <td class="tg-foez">1st Place</td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Ariel Isabelle Mahachai, 6C</span><br><span style="background-color:#FCE5CD">Cheryl Menon, 6C</span><br><span style="background-color:#FCE5CD">Ho Xin Hui Casandra, 6C</span><br><span style="background-color:#FCE5CD">Tara Aleena Imran Qureshi, 6C</span><br><span style="background-color:#FCE5CD">Teh Wan Yu Kaitlyn, 6C</span><br><span style="background-color:#FCE5CD">Vivian Rose Timko, 6C</span><br><span style="background-color:#FCE5CD">Xiao Luyu, 6C</span><br><span style="background-color:#FCE5CD">Louise Amadea Malphettes, 6G</span><br><span style="background-color:#FCE5CD">Amelia Ng Jing Xuan, 6H</span><br><span style="background-color:#FCE5CD">Ayda Farzana Mohammed Suhaimy, 6H</span><br><span style="background-color:#FCE5CD">Tessa Ang Rui Shan, 6H</span><br><span style="background-color:#FCE5CD">Leong Kar Yee, Julia, 6J</span><br><span style="background-color:#FCE5CD">Nayli Miqaila Binte Muhammad Hazlin, 6K</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> National School Games Netball Competition 2022 –</span><br><span style="color:#000;background-color:#FFF7EA">Senior Division Netball</span><br><span style="color:#000;background-color:#FFF7EA">[East Zone]</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA">  1st Place</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA">Aisha Eva Klomp, 6C</span><br><span style="color:#000;background-color:#FFF7EA">Akansha Chawdhary, 6G</span><br><span style="color:#000;background-color:#FFF7EA">Avneet Kaur, 6G</span><br><span style="color:#000;background-color:#FFF7EA"> Chan Xin Yu, 6G</span><br><span style="color:#000;background-color:#FFF7EA">Keysha Binte Mohammed Ashik, 6G</span><br><span style="color:#000;background-color:#FFF7EA">Araina Pandey, 6H</span><br><span style="color:#000;background-color:#FFF7EA">Crystal Anne Wan Juin Qi, 6H</span><br><span style="color:#000;background-color:#FFF7EA">Elena Widjaja, 6H</span><br><span style="color:#000;background-color:#FFF7EA">Kelsey Tan Rui Xi, 6H</span><br><span style="color:#000;background-color:#FFF7EA">Nur Amelia Binte Noor Azmi, 6J</span><br><span style="color:#000;background-color:#FFF7EA">Sanvi Misir, 6J</span><br><span style="color:#000;background-color:#FFF7EA">Ania Susi Devarajan, 6J</span><br><span style="color:#000;background-color:#FFF7EA">Noorul Jazmina Binti Sirajudeen, 6J</span><br><span style="color:#000;background-color:#FFF7EA">Masie Tan Rei See, 6K</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">National School Games Track and Field Championship 2022 –</span><br><span style="color:#000;background-color:#FFE5BA">Senior Division</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">200m -</span><br><span style="color:#000;background-color:#FFE5BA">3rd Place</span><br><span style="background-color:#FCE5CD">300m -</span><br><span style="background-color:#FCE5CD">4th Place</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Tng Kai Xin, 6H</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> National School Games Wushu Competition 2022 – Senior Division</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA">  6th Place</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> Wan Yun Han, 6H</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">National School Games Bowling 2022 – Senior Division</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Overall for School – 2nd Place</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Dini Batrisya Bte Md Faizudin, 5G</span><br><span style="color:#000;background-color:#FFE5BA">Nur Humaira Koh, 6C</span><br><span style="background-color:#FCE5CD">Nyam Kai Ying, 6C</span><br><span style="background-color:#FCE5CD">Yee En Xi, 6C</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> </span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> Doubles Event – 2nd Place</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> Nur Humaira Koh, 6C</span><br><span style="color:#000;background-color:#FFF7EA"> Nyam Kai Ying, 6C</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> </span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Quartet Event – </span><span style="background-color:#FCE5CD">3rd Place</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA"> Dini Batrisya Bte Md Faizudin, 5G</span><br><span style="background-color:#FCE5CD">Nur Humaira Koh, 6C</span><br><span style="background-color:#FCE5CD">Nyam Kai Ying, 6C</span><br><span style="background-color:#FCE5CD">Yee En Xi, , 6C</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> </span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> Singles &amp;</span><br><span style="color:#000;background-color:#FFF7EA">All Events</span><br><span style="color:#000;background-color:#FFF7EA">– 5th Place</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> Nur Humaira Koh, 6C</span></td>
+  </tr>
+</tbody>
+</table>
