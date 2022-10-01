@@ -17,8 +17,7 @@ sections:
       subtitle: Latest Updates
       button: View All
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
+      title: News/Events
       description: Infopic description
       button: Button Text
       alt: Image alt text
