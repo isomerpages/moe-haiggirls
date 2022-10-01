@@ -9,8 +9,8 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ejye{color:#fd7e00;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-drij{color:#f56b00;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
@@ -34,9 +34,9 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-drij"><a href="/curriculum/Arts-Education/arts-education">Arts Education</a></td>
-    <td class="tg-drij"><a href="/curriculum/character-and-citizenship-education/">Character and Citizenship Education</a></td>
-    <td class="tg-drij"><a href="/curriculum/english/">English</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/Arts-Education/arts-education">Arts Education</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/character-and-citizenship-education/">Character and Citizenship Education</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/english/">English</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "/curriculum/ict/" target = "_self"> 
@@ -91,3 +91,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
