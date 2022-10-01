@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Mother Tongue.md
       - Character & Citizenship Education.md
       - Physical Education.md
       - Teaching and Learning through the Arts.md
