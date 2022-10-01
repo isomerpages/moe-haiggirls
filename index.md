@@ -13,11 +13,11 @@ sections:
           description: Easy Access
           url: https://google.com
   - resources:
-      title: Announcements
+      title: News/Events
       subtitle: Latest Updates
       button: View All
   - infopic:
-      title: News/Events
+      title: Announcements
       description: Infopic description
       button: Button Text
       alt: Image alt text
