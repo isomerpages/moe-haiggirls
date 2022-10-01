@@ -9,17 +9,17 @@ sections:
   - hero:
       background: /images/haighp.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: Useful Links
+          description: Easy Access
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - resources:
       title: Announcements
       subtitle: Latest Updates
       button: View All
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
