@@ -2,11 +2,12 @@ collections:
   hgs-experience:
     output: true
     order:
-      - Curriculum.md
       - Leaders of Character.md
+      - Curriculum.md
       - Curriculum/.keep
       - Applied Learning Program (ALP).md
       - Learning For Life Programme (LLP).md
+      - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
       - Co Curricular Activities/Frequently Asked Questions.md
       - Co Curricular Activities/Badminton.md
@@ -25,7 +26,6 @@ collections:
       - Co Curricular Activities/Bowling.md
       - Co Curricular Activities/Brownies.md
       - Co Curricular Activities/Science Club.md
-      - Co Curricular Activities/.keep
       - Discover, Develop & Dedicate Your Talent Time (D3T2).md
       - Our 70th Anniversary celebrations.md
       - P6 Graduation Day Video 2021.md
