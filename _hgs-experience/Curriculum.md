@@ -78,7 +78,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href = "/curriculum/holistic-education/" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/holistic-assessment/" target = "_self"> 
           <img src="/images/HA.jpg" 
      style="width:100%"></a>
 </td>
@@ -86,7 +86,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href="/curriculum/holistic-education/"><span style="text-decoration:underline;color:#FC9400">Holistic Education</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/holistic-assessment/"><span style="text-decoration:underline;color:#FC9400">Holistic Assessment</span></a></td>
     <td class="tg-wa1i"></td>
   </tr>
 </tbody>
