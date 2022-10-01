@@ -34,9 +34,9 @@ third_nav_title: Curriculum
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">Arts Education</a></td>
+    <td class="tg-wa1i"><a href="link">Character and Citizenship Education</a></td>
+    <td class="tg-wa1i"><a href="link">English</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
@@ -53,9 +53,9 @@ third_nav_title: Curriculum
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">Information And Communication Technology</a></td>
+    <td class="tg-wa1i"><a href="link">Mathematics</a></td>
+    <td class="tg-wa1i"><a href="link">Mother Tongue</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
