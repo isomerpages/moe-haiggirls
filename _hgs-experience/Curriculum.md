@@ -39,23 +39,23 @@ description: ""
     <td class="tg-drij"><a href="/curriculum/english/">English</a></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/ict/" target = "_self"> 
           <img src="/images/ICT.jpg" 
      style="width:100%"></a>
 </td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/mathematics/" target = "_self"> 
           <img src="/images/MATH.jpg" 
      style="width:100%"></a>
 </td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/mother-tongue/" target = "_self"> 
           <img src="/images/MT.jpg" 
      style="width:100%"></a>
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="link">Information And Communication Technology</a></td>
-    <td class="tg-wa1i"><a href="link">Mathematics</a></td>
-    <td class="tg-wa1i"><a href="link">Mother Tongue</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/ict/">Information And Communication Technology</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/mathematics/">Mathematics</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/mother-tongue/">Mother Tongue</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
