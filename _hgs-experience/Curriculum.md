@@ -34,9 +34,9 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="/curriculum/Arts-Education/arts-education">Arts Education</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/character-and-citizenship-education/">Character and Citizenship Education</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/english/">English</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/Arts-Education/arts-education"><span style="text-decoration:underline;color:#FC9400">Arts Education</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/character-and-citizenship-education/"><span style="text-decoration:underline;color:#FC9400">Character and Citizenship Education</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/english/"><span style="text-decoration:underline;color:#FC9400">English</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "/curriculum/ict/" target = "_self"> 
@@ -53,9 +53,9 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="/curriculum/ict/">Information And Communication Technology</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/mathematics/">Mathematics</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/mother-tongue/">Mother Tongue</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/ict/"><span style="text-decoration:underline;color:#FC9400">Information And Communication Technology</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/mathematics/"><span style="text-decoration:underline;color:#FC9400">Mathematics</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/mother-tongue/"><span style="text-decoration:underline;color:#FC9400">Mother Tongue</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "/curriculum/physical-education/" target = "_self"> 
@@ -72,9 +72,9 @@ description: ""
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="/curriculum/physical-education/">Physical Education</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/science/">Science</a></td>
-    <td class="tg-wa1i"><a href="/curriculum/teaching-and-learning-through-the-arts/">Teaching and Learning through the Arts</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/physical-education/"><span style="text-decoration:underline;color:#FC9400">Physical Education</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/science/"><span style="text-decoration:underline;color:#FC9400">Science</span></a></td>
+    <td class="tg-wa1i"><a href="/curriculum/teaching-and-learning-through-the-arts/"><span style="text-decoration:underline;color:#FC9400">Teaching and Learning through the Arts</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
@@ -86,10 +86,8 @@ description: ""
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href="/curriculum/holistic-education/">Holistic Education</a></td>
+    <td class="tg-wa1i"><a href="/curriculum/holistic-education/"><span style="text-decoration:underline;color:#FC9400">Holistic Education</span></a></td>
     <td class="tg-wa1i"></td>
   </tr>
 </tbody>
 </table>
-
-
