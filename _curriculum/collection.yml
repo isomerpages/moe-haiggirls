@@ -2,10 +2,10 @@ collections:
   curriculum:
     output: true
     order:
-      - Arts Education/Music.md
-      - Arts Education/Art.md
-      - Arts Education/Arts Education.md
       - Arts Education/.keep
+      - Arts Education/Arts Education.md
+      - Arts Education/Art.md
+      - Arts Education/Music.md
       - Holistic Assessment.md
       - Mother Tongue.md
       - Character & Citizenship Education.md
