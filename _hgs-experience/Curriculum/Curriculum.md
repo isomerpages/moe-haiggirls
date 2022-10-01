@@ -21,34 +21,15 @@ third_nav_title: Curriculum
 <tbody>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/AE.jpg" 
      style="width:100%"></a>
 </td>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/CCE.jpg" 
      style="width:100%"></a>
 </td>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
-     style="width:100%"></a>
-</td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
-     style="width:100%"></a>
-</td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
-     style="width:100%"></a>
-</td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/ENG.jpg" 
      style="width:100%"></a>
 </td>
   </tr>
@@ -59,15 +40,34 @@ third_nav_title: Curriculum
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/ICT.jpg" 
      style="width:100%"></a>
 </td>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/MATH.jpg" 
      style="width:100%"></a>
 </td>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/MT.jpg" 
+     style="width:100%"></a>
+</td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+          <img src="/images/PE.jpg" 
+     style="width:100%"></a>
+</td>
+    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+          <img src="/images/SCI.jpg" 
+     style="width:100%"></a>
+</td>
+    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+          <img src="/images/TLART.jpg" 
      style="width:100%"></a>
 </td>
   </tr>
@@ -79,7 +79,7 @@ third_nav_title: Curriculum
   <tr>
     <td class="tg-wa1i"></td>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
-          <img src="/images/image.jpg" 
+          <img src="/images/HA.jpg" 
      style="width:100%"></a>
 </td>
     <td class="tg-wa1i"></td>
