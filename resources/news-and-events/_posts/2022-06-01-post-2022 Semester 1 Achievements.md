@@ -101,3 +101,59 @@ image: ""
   </tr>
 </tbody>
 </table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-foez{background-color:#FFE5BA;text-align:left;vertical-align:middle}
+.tg .tg-kff0{background-color:#9a0000;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-kff0" colspan="3"><span style="font-weight:bold;color:#FFF">VISUAL ARTS</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">School of the Arts Primary 6 Art Competition</span><br><span style="color:#000;background-color:#FFE5BA">“My Future World”</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Top 50 Finalist</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Siena D’Angelo, 6G</span></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-foez{background-color:#FFE5BA;text-align:left;vertical-align:middle}
+.tg .tg-kff0{background-color:#9a0000;text-align:left;vertical-align:top}
+.tg .tg-0t47{background-color:#FFF7EA;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-kff0" colspan="3"><span style="font-weight:bold;color:#FFF">MATHS &amp; SCIENCES</span></td>
+  </tr>
+  <tr>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Raffles Science Olympiad</span><br><span style="color:#000;background-color:#FFE5BA">Online Competition</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Merit Award</span></td>
+    <td class="tg-foez"><span style="color:#000;background-color:#FFE5BA">Bundoc Clara Lloraine Salcedo, 5H</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA"> </span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA">  Certificate of Participation</span></td>
+    <td class="tg-0t47"><span style="color:#000;background-color:#FFF7EA">Alvaro Hannah Miel Santos, 5H</span><br><span style="color:#000;background-color:#FFF7EA">Arya Bte Nur Muhammad, 5H</span><br><span style="color:#000;background-color:#FFF7EA">Siya Saurabh Rathi, 5H</span></td>
+  </tr>
+</tbody>
+</table>
+
+<strong><u><em>Catch our students in action!</em></u></strong>
