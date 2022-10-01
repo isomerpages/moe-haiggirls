@@ -24,19 +24,19 @@ description: ""
           <img src="/images/AE.jpg" 
      style="width:100%"></a>
 </td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/character-and-citizenship-education/" target = "_self"> 
           <img src="/images/CCE.jpg" 
      style="width:100%"></a>
 </td>
-    <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
+    <td class="tg-wa1i"><a href = "/curriculum/english/" target = "_self"> 
           <img src="/images/ENG.jpg" 
      style="width:100%"></a>
 </td>
   </tr>
   <tr>
     <td class="tg-drij"><a href="/curriculum/Arts-Education/arts-education">Arts Education</a></td>
-    <td class="tg-drij"><a href="link">Character and Citizenship Education</a></td>
-    <td class="tg-drij"><a href="link">English</a></td>
+    <td class="tg-drij"><a href="/curriculum/character-and-citizenship-education/">Character and Citizenship Education</a></td>
+    <td class="tg-drij"><a href="/curriculum/english/">English</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><a href = "linkhere" target = "_self"> 
