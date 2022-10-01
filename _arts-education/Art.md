@@ -7,12 +7,11 @@ Haig Girls’ adopts a holistic 3 learning-level approach to cultivate pupils’
   
 The 3 learning levels of the programme promote breadth, depth and excellence in the visual arts:  
   
-•    Level 1 provides exposure to the visual arts for all pupils through: 
-
-     a) Art Instructional Programme  
-    b) Art Values-Based Creativity (VBC) Programmes  
-     c) infusion of the visual arts and design into Integrated Project Work (IPW), and  
-    d) school platforms which showcase the visual arts.
+* Level 1 provides exposure to the visual arts for all pupils through: 
+	1.  Art Instructional Programme  
+	2.  Art Values-Based Creativity (VBC) Programmes  
+	3.  infusion of the visual arts and design into Integrated Project Work (IPW), and  
+	4.  school platforms which showcase the visual arts.
 		
 	
 •    Level 2 caters to pupils’ interests and develops their potential through the Art Club CCA.  
