@@ -72,9 +72,9 @@ third_nav_title: Curriculum
 </td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">Physical Education</a></td>
+    <td class="tg-wa1i"><a href="link">Science</a></td>
+    <td class="tg-wa1i"><a href="link">Teaching and Learning through the Arts</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
@@ -86,7 +86,7 @@ third_nav_title: Curriculum
   </tr>
   <tr>
     <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href="link">worddisplay</a></td>
+    <td class="tg-wa1i"><a href="link">Holistic Education</a></td>
     <td class="tg-wa1i"></td>
   </tr>
 </tbody>
