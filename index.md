@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/haighp.gif
-      key_highlights:
-        - title: Useful Links
-          description: Easy Access
-          url: https://google.com
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
