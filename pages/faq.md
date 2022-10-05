@@ -17,10 +17,12 @@ Click [here](/hgs-experience/Co-Curricular-Activities/ccas/) for more info for
 **Is my child allowed to join more than one CCA?**   
 Refer to question 4 listed in FAQ for CCA [here](/hgs-experience/Co-Curricular-Activities/faq/)  
   
-**Are pupils allowed to bring mobile phones to school?  
-**Yes, but pupils must switch off their mobile phones during all school activities. They can only use their mobile phones in the canteen and near school gate before and after school hours. Read more on school rules and discipline policy [here](https://haiggirls.moe.edu.sg/about-us/our-school/our-school-rules-n-discipline-policy)  
+**Are pupils allowed to bring mobile phones to school?**    
+Yes, but pupils must switch off their mobile phones during all school activities. They can only use their mobile phones in the canteen and near school gate before and after school hours. Read more on school rules and discipline policy [here](/about-us/Our-School/our-school-rules-and-discipline-policy/)  
   
-**My child’s password for MC Online does not work. How do we reset the password?  
-**Contact MC Online helpdesk. Click [here](http://www.mconline.sg/lead/Login/contact_us_tech_support.html) to view contact number.  
+**My child’s password for MC Online does not work. How do we reset the password?**
+
+Contact MC Online helpdesk. Click [here](http://www.mconline.sg/lead/Login/contact_us_tech_support.html) to view contact number.  
   
-**My child’s password for Student Learning Space (SLS) does not work. How do we reset the password?** Contact SLS helpdesk. Click [here](https://vle.learning.moe.edu.sg/helpdesk) to view contact number.
+**My child’s password for Student Learning Space (SLS) does not work. How do we reset the password?**    
+Contact SLS helpdesk. Click [here](https://vle.learning.moe.edu.sg/helpdesk) to view contact number.
