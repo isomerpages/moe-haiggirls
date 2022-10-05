@@ -2,11 +2,25 @@
 title: FAQ
 permalink: /faq/
 ---
-
-### **FAQ**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+**How do I get to Haig Girls’ School**   
+Refer to point 2 on travel information [here](/contact-us/school-information/)  
+  
+**How do I contact Haig Girls’ School**   
+Refer to point 1 on contact information [here](/contact-us/school-information/)  
+  
+**When are the school terms/ school holidays?**      
+[https://www.moe.gov.sg/education/school-terms-and-holidays](https://www.moe.gov.sg/education/school-terms-and-holidays)  
+ 
+**What CCA are available?**   
+Click [here](/hgs-experience/Co-Curricular-Activities/ccas/) for more info for CCA programs. You would like to check out our schools’ D3T2 programmes [here](/hgs-experience/discover-develop-and-dedicate-your-talent-time/)  
+  
+**Is my child allowed to join more than one CCA?**   
+Refer to question 4 listed in FAQ for CCA [here](/hgs-experience/Co-Curricular-Activities/faq/)  
+  
+**Are pupils allowed to bring mobile phones to school?  
+**Yes, but pupils must switch off their mobile phones during all school activities. They can only use their mobile phones in the canteen and near school gate before and after school hours. Read more on school rules and discipline policy [here](https://haiggirls.moe.edu.sg/about-us/our-school/our-school-rules-n-discipline-policy)  
+  
+**My child’s password for MC Online does not work. How do we reset the password?  
+**Contact MC Online helpdesk. Click [here](http://www.mconline.sg/lead/Login/contact_us_tech_support.html) to view contact number.  
+  
+**My child’s password for Student Learning Space (SLS) does not work. How do we reset the password?** Contact SLS helpdesk. Click [here](https://vle.learning.moe.edu.sg/helpdesk) to view contact number.
