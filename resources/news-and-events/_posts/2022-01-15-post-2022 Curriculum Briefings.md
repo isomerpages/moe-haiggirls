@@ -56,20 +56,20 @@ image: ""
 
 
 ### Primary 5
-2022 P5 AYH Curriculum Briefing Slides  
+2022 P5 AYH Curriculum Briefing Slides ***(FILE EXCEEDS 5MB)***  
 [2022 P5 English Curriculum Briefing Slides](/files/2022%20P5%20EL%20Curriculum%20Briefing_v21Jan_COMPLETE.pdf)   
 [2022 P5 Mathematics Curriculum Briefing Slides](/files/2022_P5%20Math%20Curriculum%20Briefing.pdf)   
 [2022 P5 MT Curriculum Briefing Slides](/files/2022%20P5%20MT%20Curriculum%20Brieifingpptx.pdf)   
 [2022 P5 Science Curriculum Briefing Slides](/files/2022_P5%20Science%20Curriculum%20Briefing.pdf)
 
 ### Primary 6
-2022 P6 AYH Curriculum Briefing Slides
-2022 P6 English Curriculum Briefing Slides
-2022 P6 Mathematics Curriculum Briefing Slides
-2022 P6 Science Curriculum Briefing Slides
-2022 P6 Chinese Language Curriculum Briefing Slides
-2022 P6 Malay Language Curriculum Briefing Slides
-2022 Tamil Language Curriculum Briefing Slides
-2022 P6 PE Curriculum Briefing Slides
-2022 P6 Art & Music Curriculum Briefing Slides
-2022 P6 CCE Curriculum Briefing Slides
+[2022 P6 AYH Curriculum Briefing Slides](/files/1%202022%20P6%20AYH%20_%20Principal%20Address%20Curriculum%20Briefing%20Slides.pdf)   
+2022 P6 English Curriculum Briefing Slides    
+2022 P6 Mathematics Curriculum Briefing Slides   
+2022 P6 Science Curriculum Briefing Slides   
+2022 P6 Chinese Language Curriculum Briefing Slides   
+2022 P6 Malay Language Curriculum Briefing Slides   
+2022 Tamil Language Curriculum Briefing Slides    
+2022 P6 PE Curriculum Briefing Slides   
+2022 P6 Art & Music Curriculum Briefing Slides   
+2022 P6 CCE Curriculum Briefing Slides   
