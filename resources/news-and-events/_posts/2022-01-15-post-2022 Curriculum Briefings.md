@@ -64,12 +64,12 @@ image: ""
 
 ### Primary 6
 [2022 P6 AYH Curriculum Briefing Slides](/files/1%202022%20P6%20AYH%20_%20Principal%20Address%20Curriculum%20Briefing%20Slides.pdf)   
-2022 P6 English Curriculum Briefing Slides    
-2022 P6 Mathematics Curriculum Briefing Slides   
-2022 P6 Science Curriculum Briefing Slides   
-2022 P6 Chinese Language Curriculum Briefing Slides   
-2022 P6 Malay Language Curriculum Briefing Slides   
-2022 Tamil Language Curriculum Briefing Slides    
-2022 P6 PE Curriculum Briefing Slides   
-2022 P6 Art & Music Curriculum Briefing Slides   
-2022 P6 CCE Curriculum Briefing Slides   
+[2022 P6 English Curriculum Briefing Slides](/files/2022%20P6%20English%20Curriculum%20Briefing%20Slides.pdf)    
+[2022 P6 Mathematics Curriculum Briefing Slides ](/files/3%202022%20P6%20Mathematics%20Curriculum%20Briefing%20Slides.pdf)  
+[2022 P6 Science Curriculum Briefing Slides](/files/4%202022%20P6%20Science%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 P6 Chinese Language Curriculum Briefing Slides ](/files/5a%202022%20P6%20Chinese%20Language%20Curriculum%20Briefing%20Slides.pdf)  
+[2022 P6 Malay Language Curriculum Briefing Slides](/files/5b%202022%20P6%20Malay%20Language%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 Tamil Language Curriculum Briefing Slides](/files/5c%202022%20P6%20Tamil%20Language%20Curriculum%20Briefing%20Slides.pdf)    
+[2022 P6 PE Curriculum Briefing Slides ](/files/6%202022%20P6%20Physical%20Education%20Curriculum%20Briefing%20Slides.pdf)  
+[2022 P6 Art & Music Curriculum Briefing Slides](/files/7%202022%20P6%20Art%20_%20Music%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 P6 CCE Curriculum Briefing Slides](/files/8%202022%20P6%20Character%20_%20Citizenship%20Education%20Curriculum%20Briefing%20Slides.pdf)
