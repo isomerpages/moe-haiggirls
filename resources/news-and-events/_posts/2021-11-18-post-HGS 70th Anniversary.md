@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-
+[HGS 70th Anniversary](/hgs-experience/p6-graduation-day-video-2021/)
