@@ -23,9 +23,9 @@ image: ""
 [2022 P2 English Curriculum Briefing Slides](/files/2022%20P2%20EL%20Curriculum%20Briefing.pdf)  
 [2022 P2 Mathematics Curriculum Briefing Slides](/files/2022%20P2%20Math%20Curriculum%20Briefing.pdf)     
 [2022 P2 MT Curriculum Briefing Slides](/files/2022%20P2%20MT%20Curriculum%20Brieifing.pdf)   
-2022 P2 PE Curriculum Briefing Slides   
+[2022 P2 PE Curriculum Briefing Slides](/files/2022%20P2%20PE%20Curriculum%20Briefing.pdf)   
 2022 P2 Aesthetics Curriculum Briefing Slides  
-2022 P2 CCE Curriculum Briefing Slides   
+[2022 P2 CCE Curriculum Briefing Slides](/files/2022%20P2%20CCE%20Curriculum%20Briefing.pdf)   
 
 
 
