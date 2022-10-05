@@ -16,4 +16,10 @@ sections:
       title: News, Events and Announcements
       subtitle: Latest Updates
       button: View All
+  - infobar:
+      title: Useful Links
+      subtitle: Easy Access
+      description: E-Resources for Students, Parents and Staff
+      button: View ALl
+      url: /useful-links/
 ---
