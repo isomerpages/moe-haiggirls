@@ -30,14 +30,14 @@ image: ""
 
 
 ### Primary 3
-2022 P3 AYH Curriculum Briefing Slides
-2022 P3 English Curriculum Briefing Slides
-2022 P3 Mathematics Curriculum Briefing Slides
-2022 P3 MT Curriculum Briefing Slides
-2022 P3 Science Curriculum Briefing Slides
-2022 P3 Music Curriculum Briefing Slides
-2022 P3 Art Curriculum Briefing Slides
-2022 P3 CCE Curriculum Briefing Slides
+[2022 P3 AYH Curriculum Briefing Slides](/files/P3%20Curriculum%20Briefing%202022%20SL%20%20AYH.pdf)   
+[2022 P3 English Curriculum Briefing Slides](/files/2022%20P3%20English%20Curriculum%20Briefingpptx.pdf)   
+[2022 P3 Mathematics Curriculum Briefing Slides](/files/2022%20P3%20Mathematics%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 P3 MT Curriculum Briefing Slides](/files/2022%20P3%20MT%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 P3 Science Curriculum Briefing Slides ](/files/2022%20P3%20Science%20Curriculum%20Briefing.pdf)  
+[2022 P3 Music Curriculum Briefing Slides](/files/2022%20P3%20Music%20Curriculum%20Briefing%20Slides.pdf)  
+[2022 P3 Art Curriculum Briefing Slides](/files/2022%20P3%20Art%20Curriculum%20Briefing%20Slides.pdf)   
+[2022 P3 CCE Curriculum Briefing Slides](/files/2022%20P3%20CCE%20Curriculum%20Briefing%20Slides.pdf)   
 
 
 ### Primary 4
