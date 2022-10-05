@@ -41,14 +41,14 @@ image: ""
 
 
 ### Primary 4
-2022 P4 AYH Curriculum Briefing Slides
-2022 P4 English Curriculum Briefing Slides
-2022 P4 Mathematics Curriculum Briefing Slides
-2022 P4 Science Curriculum Briefing Slides
-2022 P4 MT Curriculum Briefing Slides
-2022 P4 PE Curriculum Briefing Slides
-2022 P4 Aesthetics Curriculum Briefing Slides
-2022 P4 CCE Curriculum Briefing Slides
+2022 P4 AYH Curriculum Briefing Slides  ***(FILE EXCEEDS 5MB)***    
+[2022 P4 English Curriculum Briefing Slides](/files/2022%20P4%20EL%20Curriculum%20Briefing_updated_21%20Feb%202021.pdf)  
+[2022 P4 Mathematics Curriculum Briefing Slides](/files/2022_P4_Math%20Curriculum_Briefing_for%20parents.pdf)    
+[2022 P4 Science Curriculum Briefing Slides](/files/2022_P4%20Science%20Curriculum%20Briefing1.pdf)    
+[2022 P4 MT Curriculum Briefing Slides](/files/2022%20P4%20MT%20Curriculum%20Brieifing%20Full%20Slides_revised.pdf)    
+[2022 P4 PE Curriculum Briefing Slides](/files/P4%20PE%20Curriculum%20Briefing%202022.pdf)   
+[2022 P4 Aesthetics Curriculum Briefing Slides](/files/P4%20Aesthetics%20Curriculum%20Briefing%202022_fin.pdf)    
+[2022 P4 CCE Curriculum Briefing Slides](/files/2022_P4_CCE%20Curriculum%20briefing.pdf)
 
 
 
@@ -57,7 +57,7 @@ image: ""
 
 ### Primary 5
 2022 P5 AYH Curriculum Briefing Slides
-2022 P5 English Curriculum Briefing Slides
+[2022 P5 English Curriculum Briefing Slides](/files/2022%20P5%20EL%20Curriculum%20Briefing_v21Jan_COMPLETE.pdf)
 2022 P5 Mathematics Curriculum Briefing Slides
 2022 P5 MT Curriculum Briefing Slides
 2022 P5 Science Curriculum Briefing Slides
