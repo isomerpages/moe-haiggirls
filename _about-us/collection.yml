@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's message.md
+      - Our School/.keep
+      - Our School/Our Heritage.md
+      - Our School/Our Vision, Mission, Values & Core Beliefs.md
+      - Our School/Our Crest, Motto, Philosophy & Pupils' Creed.md
+      - Our School/Our School Song.md
+      - Our School/Our School Rules & Discipline Policy.md
+      - Our School/Our Homework Policy.md
+      - Our Staff.md
+      - Our Partners/.keep
+      - Our Partners/Our Partners.md
+      - Our Partners/Alumni Association.md
+      - Our Partners/Parents Support Group.md
+      - Our Partners/School Advisory Committee.md
+      - Our Partners/Community Partners.md

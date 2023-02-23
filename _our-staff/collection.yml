@@ -1,0 +1,16 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - School Leaders.md
+      - Key Personnel & Teacher Leaders.md
+      - Teaching Staff/Mother Tongue Teachers.md
+      - Teaching Staff/Primary 1.md
+      - Teaching Staff/Primary 2.md
+      - Teaching Staff/Primary 3.md
+      - Teaching Staff/Primary 4.md
+      - Teaching Staff/Primary 5.md
+      - Teaching Staff/Primary 6.md
+      - Teaching Staff/Allied Educators (AED).md
+      - Teaching Staff/.keep
+      - Executive and Administrative Staff.md
