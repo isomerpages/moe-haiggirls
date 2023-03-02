@@ -46,7 +46,7 @@ description: ""
     <td class="tg-wa1i"><img src="/images/vpa.jpeg" 
      style="width:85%"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-wa1i"><img src="/images/VP.jpeg)" 
+    <td class="tg-wa1i"><img src="![](/images/VP.jpeg)" 
      style="width:85%"></td>
   </tr>
   <tr>
