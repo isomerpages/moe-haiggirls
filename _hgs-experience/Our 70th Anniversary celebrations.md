@@ -47,3 +47,5 @@ Haig Girls’ has certainly come a long way with our Past, Present and Future an
 Time for one last "**[Behind the Scenes](https://youtu.be/dyvNyMfjgqc)"** before we say goodbye!
 
 <iframe width="736" height="414" src="https://www.youtube.com/embed/dyvNyMfjgqc" title="4_BTS: HGS 70th Video 4 Final Hi Res" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Please [click here](http://www.haiggirls70th.com/mobile/index.html) to view our 70th Anniversary E-Magazine*
