@@ -4,7 +4,8 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: ""
+notification: Apologies as our website is under going migration. Will be back
+  with the latest updates soon!
 sections:
   - hero:
       background: /images/haighp.gif
