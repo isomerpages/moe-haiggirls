@@ -5,7 +5,7 @@ description: ""
 ---
 <td class="tg-wa1i"><img src="/images/70th%20anni1.jpeg" 
      style="width:80%"></td>
-*Please [click here](https://www.haiggirls70th.com/mobile/index.html) to view our 70th E-Magazine
+Please [click here](https://www.haiggirls70th.com/mobile/index.html) to view our 70th E-Magazine
 
 HGS turns 70 this year, and in the midst of the COVID-19 pandemic. This meant the traditional modes of celebrating our anniversaries such as a gala dinner, whole-school in-person celebrations and performances, could no longer be held due to the need for social distancing. Even so, we were determined to overcome the hurdles placed in our way, and to commemorate our 70th Anniversary as meaningfully as possible. This included:
 
