@@ -120,11 +120,11 @@ description: ""
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Student Management</span><br><a href="mailto:zareena_kamarraj@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Zareena Kamarraj</span></a></td>
   </tr>
 	 <tr>
-    <td class="tg-wa1i"><img src="/images/kp12.jpeg" 
-     style="width:80%"></td>
-    <td class="tg-wa1i"><img src="/images/kp13.jpeg" 
+    <td class="tg-wa1i"><img src="/images/Miss%20Rasyidah%20Binte%20Mohamed%20Idrus%20Z.jpeg" 
      style="width:70%"></td>
-    <td class="tg-wa1i"><img src="/images/kp14.png" 
+    <td class="tg-wa1i"><img src="/images/Miss%20Chen%20Hsiang%20Yin.jpeg" 
+     style="width:70%"></td>
+    <td class="tg-wa1i"><img src="/images/Miss%20Farizah%20Binte%20Hamdan.jpeg" 
      style="width:75%"></td>
   </tr>
 	
