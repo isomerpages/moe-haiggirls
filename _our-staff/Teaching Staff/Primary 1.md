@@ -65,25 +65,28 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3">1 Kindness</td>
-    <td class="tg-ktyi">Mdm Salinah</td>
-    <td class="tg-a2w0"><a href="mailto:salinah_misri@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">salinah_misri@moe.edu.sg </span></a></td>
+    <td class="tg-ktyi">Mrs Arlene Prescott</td>
+    <td class="tg-a2w0"><a href="mailto:arlene_prescott@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">arlene_prescott@schools.gov.sg </span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mrs Prema</td>
-    <td class="tg-a2w0"><a href="mailto:subramaniam_prema@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">subramaniam_prema@moe.edu.sg</span></a> </td>
+    <td class="tg-ktyi">Mdm Norah Nordin</td>
+    <td class="tg-a2w0"><a href="mailto:norah_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">norah_nordin@schools.gov.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mrs Lisa Yap</td>
-    <td class="tg-a2w0"><a href="mailto:wong_hsiao_sien_lisa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">wong_hsiao_sien_lisa@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-a2w0"><a href="mailto:wong_hsiao_sien_lisa@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Patience</td>
-    <td class="tg-ktyi">Mrs Jeya Lawrence</td>
-    <td class="tg-ktyi"><a href="mailto:kavitha_jeyamalar_segeran@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">kavitha_jeyamalar_segeran@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Miss Siti Nurhanis</td>
+    <td class="tg-ktyi"><a href="mailto: siti_nurhanis_zamrot@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400"> siti_nurhanis_zamrot@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Miss Zhang Ying</td>
-    <td class="tg-ktyi"><a href="mailto:zhang_ying_a@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">zhang_ying_a@moe.edu.sg</span></a></td>
-  </tr>
+    <td class="tg-ktyi">Mdm Chen Lijun</td>
+    <td class="tg-ktyi"><a href="mailto:chen_lijun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">chen_lijun@schools.gov.sg</span></a></td>
+<tr>
+    <td class="tg-ktyi">Mrs Lee Huiru</td>
+    <td class="tg-ktyi"><a href="mailto:zhuang_huiru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">zhuang_huiru@moe.edu.sg</span></a> </td>
+  </tr>		
 </tbody>
 </table>
