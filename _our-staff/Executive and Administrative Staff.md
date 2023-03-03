@@ -3,13 +3,9 @@ title: Executive and Administrative Staff
 permalink: /our-staff/executive-and-administrative-staff/
 description: ""
 ---
-
-
-
-
 ### School Admin Team
 
-![](/images/Staff%20By%20Departmentpptx.jpg)
+![](/images/EAS%20(1).jpeg)
 
 
 ### Operation Support Staff
@@ -18,6 +14,5 @@ description: ""
 
 ### ICT / Lab / Library Staff
 
-![](/images/ICT%20MRL%20Dept.jpeg)
+![](/images/EAS%20(2).jpeg)
 
-_Updated on June 2022_

@@ -4,9 +4,7 @@ permalink: /our-staff/Teaching-Staff/p3/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/p3221.jpeg)
-![](/images/p3222.jpeg)
-![](/images/p3223.jpeg)
+![](/images/2023%20P3.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -28,48 +26,54 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">3 Charity</td>
-    <td class="tg-zr06">Miss Leow Xin Yi Chantel</td>
-    <td class="tg-794o"><a href="mailto:leow_xin_yi_chantel@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">leow_xin_yi_chantel@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Miss Grace Ng</td>
+    <td class="tg-794o"><a href="mailto:grace_ng_sihui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">grace_ng_sihui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Nur Farhana</td>
-    <td class="tg-zr06"><a href="mailto:nur_farhana_ramlan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">nur_farhana_ramlan@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Wan Alfida</td>
+    <td class="tg-zr06"><a href="mailto:wan_alfida_suleiman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">wan_alfida_suleiman@schools.gov.sg</span></a></td>
+		<tr>
+		<td class="tg-zr06">Mrs Rebecca Chan</td>
+    <td class="tg-zr06"><a href="mailto: poh_pei_yun_rebecca@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> poh_pei_yun_rebecca@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">3 Grace</td>
-    <td class="tg-zr06">Mdm Alia Hanna</td>
-    <td class="tg-794o"><a href="mailto:alia_hanna_mahmud@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">alia_hanna_mahmud@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Ms Rasyidah</td>
+    <td class="tg-794o"><a href="mailto: rasyidah_mohamed_idrus_z@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400"> rasyidah_mohamed_idrus_z@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Celestina Sharmini</td>
-    <td class="tg-zr06"><a href="mailto:celestina_sharmini_m@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">celestina_sharmini_m@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Ms Esther Cheah</td>
+    <td class="tg-zr06"><a href="mailto:cheah_ling_hui_esther@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">cheah_ling_hui_esther@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">3 Humility</td>
-    <td class="tg-zr06">Ms Rasyidah Binte Mohamed Idrus Z</td>
-    <td class="tg-sce8"><a href="mailto:rasyidah_mohamed_idrus_z@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">rasyidah_mohamed_idrus_z@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Nur Farhana</td>
+    <td class="tg-sce8"><a href="mailto: nur_farhana_ramlan@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400"> nur_farhana_ramlan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Cheah Ling Hui Esther</td>
-    <td class="tg-zr06"><a href="mailto:cheah_ling_hui_esther@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">cheah_ling_hui_esther@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Syazwani Samure</td>
+    <td class="tg-zr06"><a href="mailto: syazwani_samure@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> syazwani_samure@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">3 Joy</td>
-    <td class="tg-zr06">Mdm Harjinder Kaur</td>
-    <td class="tg-zr06"></td>
+    <td class="tg-zr06">Mdm Zareena Kamarraj</td>
+    <td class="tg-zr06"><a href="mailto: zareena_kamarraj@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> zareena_kamarraj@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mrs Fong Lay Keow</td>
-    <td class="tg-zr06"><a href="mailto:yer_lay_keow@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">yer_lay_keow@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"></td>
+    <td class="tg-zr06"><a href="mailto:yer_lay_keow@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">3 Kindness</td>
-    <td class="tg-zr06">Mdm Noraini Bte Riffin</td>
-    <td class="tg-794o"><a href="mailto:noraini_riffin@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">noraini_riffin@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Christina Hing</td>
+    <td class="tg-794o"><a href="mailto:quek_meow_ling_christina@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">quek_meow_ling_christina@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Chiong Sin Ee Cindy</td>
-    <td class="tg-zr06"><a href="mailto:chiong_sin_ee_cindy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">chiong_sin_ee_cindy@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Chua Boon Ling</td>
+    <td class="tg-zr06"><a href="mailto: chua_boon_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> chua_boon_ling@schools.gov.sg</span></a></td>
+		<tr>
+		<td class="tg-zr06"> Mdm Ngerng Minru Alicia</td>
+    <td class="tg-zr06"><a href="mailto: Ngerng_minru_alicia@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">Ngerng_minru_alicia@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
