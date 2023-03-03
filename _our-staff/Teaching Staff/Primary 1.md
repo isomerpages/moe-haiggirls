@@ -4,10 +4,7 @@ permalink: /our-staff/Teaching-Staff/p1/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/p1221.jpeg)
-![](/images/p1222.jpeg)
-![](/images/p1223.jpeg)
-
+![](/images/2023%20P1.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -29,25 +26,24 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3">1 Charity</td>
-    <td class="tg-ktyi">Miss Teh Soo Bin</td>
-    <td class="tg-ktyi"><a href="mailto:teh_soo_bin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">teh_soo_bin@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Mdm Salinah Misri</td>
+    <td class="tg-ktyi"><a href="mailto:salinah_misri@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">salinah_misri@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Rita Zulkarnain</td>
-    <td class="tg-a2w0"><a href="mailto:rita_zulkarnain_taha@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">rita_zulkarnain_taha@moe.edu.sg </span></a></td>
+    <td class="tg-ktyi">Ms Wu Tzu Yi</td>
+    <td class="tg-a2w0"><a href="mailto:wu\_tzu\_yi@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">wu_tzu_yi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Radiah</td>
-    <td class="tg-ktyi"><a href="mailto:radiah_mohamed_ali_jinnah@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">radiah_mohamed_ali_jinnah@moe.edu.sg</span></a></td>
+    
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Grace</td>
-    <td class="tg-ktyi">Mdm Chen Hsiang Yin</td>
-    <td class="tg-ktyi"><a href="mailto:chen_hsiang_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">chen_hsiang_yin@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Mdm Tng Shoo Ling</td>
+    <td class="tg-ktyi"><a href="mailto: tng_shoo_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">tng_shoo_ling@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Ms Lynne Huang<br><br><span style="background-color:initial">Mrs Tan Jee Looi</span></td>
-    <td class="tg-a2w0"><a href="mailto:huang_yilan_lynne@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">huang_yilan_lynne@moe.edu.sg</span></a><br><br><a href="mailto:tiah_jee_looi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">tiah_jee_looi@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Mdm Loh Chu Imm<br><br><span style="background-color:initial">Mdm Grace Wee</span></td>
+    <td class="tg-a2w0"><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">loh_chu_imm@schools.gov.sg</span></a><br><br><a href="mailto:wee_cher_ying_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_cher_ying_grace@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Humility</td>
