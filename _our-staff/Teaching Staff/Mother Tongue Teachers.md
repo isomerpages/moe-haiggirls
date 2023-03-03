@@ -30,9 +30,9 @@ third_nav_title: Teaching Staff
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><span style="font-style:normal">HOD Mother Tongue</span><br><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
-    <td class="tg-wa1i">Level Head <br>Chinese Language<br><a href="mailto:ng_peng_woon_rachel@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Rachel Ng</span></a></td>
-    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@moe.edu.sg" target="_blank" rel="noopener noreferrer">Mdm Marie Yong</a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">HOD Mother Tongue</span><br><a href="mailto:chua_boon_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chua Boon Ling</span></a></td>
+    <td class="tg-wa1i">Level Head <br>Chinese Language<br><a href="mailto:ng_peng_woon_rachel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Rachel Ng</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mdm Marie Yong</a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/chi4.jpeg" 
@@ -43,9 +43,9 @@ third_nav_title: Teaching Staff
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:ang_chuay_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Ang Chuay Yen</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:teo_siok_hoon_candy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Candy Teo</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:chen_hsiang_yin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Chen Hsiang Yin</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:ang_chuay_yen@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Ang Chuay Yen</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:teo_siok_hoon_candy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Candy Teo</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:chen_hsiang_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Chen Hsiang Yin</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/chi7.jpeg" 
@@ -56,9 +56,9 @@ third_nav_title: Teaching Staff
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:chen_lijun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chen Lijun</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:choo_poh_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Choo Poh Ying</span></a></td>
-    <td class="tg-wa1i">Teacher <br><a href="mailto:chiong_sin_ee_cindy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Cindy Chiong</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:chen_lijun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Chen Lijun</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:choo_poh_ying@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Choo Poh Ying</span></a></td>
+    <td class="tg-wa1i">Teacher <br><a href="mailto:chiong_sin_ee_cindy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Cindy Chiong</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -86,8 +86,8 @@ third_nav_title: Teaching Staff
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:loh_chu_imm@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Loh Chu Imm</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:zhang_ying_b@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Zhang Ying</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Loh Chu Imm</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:zhang_ying_b@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Zhang Ying</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/chi12.jpeg" 
@@ -96,8 +96,8 @@ third_nav_title: Teaching Staff
      style="width:80%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><span style="font-style:normal">Teacher </span><br><a href="mailto:wu_tzu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer">Ms Wu Tzu Yi</a></td>
-    <td class="tg-wa1i">Senior Teacher<br><a href="mailto:teh_soo_bin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Teh Soo Bin</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Teacher </span><br><a href="mailto:wu_tzu_yi@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Wu Tzu Yi</a></td>
+    <td class="tg-wa1i">Senior Teacher<br><a href="mailto:teh_soo_bin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Teh Soo Bin</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -128,22 +128,22 @@ third_nav_title: Teaching Staff
      style="width:75%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
-    <td class="tg-wa1i"><span style="font-weight:700;font-style:normal">School Staff Developer</span><br><a href="mailto:wan_alfida_suleiman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Wan Alfida Suleiman</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:rita_zulkarnain_taha@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Rita Zulkarnain Taha</span></a></td>
+    <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
+    <td class="tg-wa1i"><span style="font-weight:700;font-style:normal">School Staff Developer</span><br><a href="mailto:wan_alfida_suleiman@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Wan Alfida Suleiman</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:rita_zulkarnain_taha@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Rita Zulkarnain Taha</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/ml4.jpeg" 
      style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/ml5.jpeg" 
      style="width:80%"></td>
-    <td class="tg-wa1i"><img src="/images/ml6.jpeg" 
-     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/Cikgu%20Salmah%20Awang%20with%20background1.jpeg" 
+     style="width:90%"></td>
   </tr>
   <tr>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:mainura_mawi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Mainura Binte Mawi</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Norasiken Binte Mohd Noor</span></a></td>
-    <td class="tg-wa1i">Teacher<br><a href="mailto:asmah_mansoor_alkadree@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Asmah Mansoor Alkadree</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:mainura_mawi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Mainura Binte Mawi</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Norasiken Binte Mohd Noor</span></a></td>
+    <td class="tg-wa1i">Teacher<br><a href="mailto:salmah_awang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Salmah Awang</span></a></td>
   </tr>
 </tbody>
 </table>
