@@ -27,17 +27,17 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">2 Charity</td>
-    <td class="tg-zr06">Mdm Guay Lay Lee Angeline</td>
-    <td class="tg-zr06"><a href="mailto:guay_lay_lee_angeline@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">guay_lay_lee_angeline@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Miss Teh Soo Bin</td>
+    <td class="tg-zr06"><a href="mailto:teh_soo_bin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">teh_soo_bin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Mainura </td>
-    <td class="tg-794o"><a href="mailto:mainura_mawi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">mainura_mawi@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Harjinder Kaur </td>
+    <td class="tg-794o"><a href="mailto:krishnan\_harjinder@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">krishnan_harjinder@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">2 Grace</td>
-    <td class="tg-zr06">Mrs Sunita Singh</td>
-    <td class="tg-zr06"><a href="mailto:sunita_singh@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">unita_singh@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Chen Hsiang Yin</td>
+    <td class="tg-zr06"><a href="mailto:chen_hsiang_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">chen_hsiang_yin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Long Peizhen</td>
@@ -45,12 +45,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">2 Humility</td>
-    <td class="tg-zr06">Mdm Arlene Yang</td>
-    <td class="tg-zr06"><a href="mailto:arlene_prescott@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">arlene_prescott@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Teo Shaw Mui</td>
+    <td class="tg-zr06"><a href="mailto:teo_shaw_mui@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">teo_shaw_mui@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Syazwani Samure</td>
-    <td class="tg-zr06"><a href="mailto:syazwani_samure@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">syazwani_samure@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Heng Phek Huang</td>
+    <td class="tg-zr06"><a href="mailto: tay_phek_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> tay_phek_huang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Joy</td>
