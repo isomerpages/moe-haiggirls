@@ -47,12 +47,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Humility</td>
-    <td class="tg-ktyi">Mdm Teo Shaw Mui</td>
-    <td class="tg-ktyi"><a href="mailto:teo_shaw_mui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">teo_shaw_mui@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Mdm Sri Burdiasih</td>
+    <td class="tg-ktyi"><a href="mailto:sri_burdiasih_ahmad_saibon@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">sri_burdiasih_ahmad_saibon@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Chua Boon Ling<br><br>Mrs Heng Pek Huang</td>
-    <td class="tg-dm87"><a href="mailto:chua_boon_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">chua_boon_ling@moe.edu.sg</span></a><br><br><a href="mailto:tay_phek_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">tay_phek_huang@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Mdm Rachel Ng<br><br>Mdm Candy Teo</td>
+    <td class="tg-dm87"><a href="mailto:ng_peng_woon_rachel@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">ng_peng_woon_rachel@schools.gov.sg</span></a><br><br><br><br><br><a href="mailto:teo_siok_hoon_candy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">teo_siok_hoon_candy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Joy</td>
