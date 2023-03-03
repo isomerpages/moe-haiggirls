@@ -42,17 +42,20 @@ third_nav_title: Teaching Staff
     <td class="tg-zr06"><a href="mailto:muhd_asyik_abdul_aziz@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">muhd_asyik_abdul_aziz@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000">Mrs Clara Kang</span></td>
-    <td class="tg-sce8"><a href="mailto:ang_yan_qing_clara@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">ang_yan_qing_clara@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><span style="color:#000">Mrs Mary Shi</span></td>
+    <td class="tg-sce8"><a href="mailto:mary_magdalene_zhang@schools.gov.sgg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">mary_magdalene_zhang@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">6 Humility</td>
-    <td class="tg-zr06">Mdm Yeo Li Yen</td>
-    <td class="tg-zr06"><a href="mailto:yeo_li_yen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">yeo_li_yen@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Celeste Lim</td>
+    <td class="tg-zr06"><a href="mailto:ang_li_chia@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">ang_li_chia@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Ng Peng Woon Rachel</td>
-    <td class="tg-zr06"><a href="mailto:ng_peng_woon_rachel@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">ng_peng_woon_rachel@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mr Appathurai Mahadevan</td>
+    <td class="tg-zr06"><a href="mailto:appathurai_mahadevan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">appathurai_mahadevan@schools.gov.sg</span></a></td>
+		<tr>
+		<td class="tg-zr06">Mrs Charlotte Mok</td>
+    <td class="tg-zr06"><a href="mailto:wee_jee_chen_charlotte@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_jee_chen_charlotte@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">6 Joy</td>
