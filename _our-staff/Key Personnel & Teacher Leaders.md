@@ -96,12 +96,14 @@ description: ""
      style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/kp11.jpeg" 
      style="width:80%"></td>
+		<td class="tg-wa1i"><img src="/images/Miss%20Norasiken%20Binte%20Mohamed%20Noor.jpeg" 
+     style="width:80%"></td>
     <td class="tg-wa1i"></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:yong_linlin_marie@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Marie Yong</span></a></td>
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Information Communication Technology</span><br><a href="mailto:muhamad_ansar_kamsan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mr Muhamad Ansar Bin Kamsan</span></a></td>
-    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"><br><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:norasiken_mohamed_noor@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Norasiken Mohd Noor</span></a></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/kp12.jpeg" 
