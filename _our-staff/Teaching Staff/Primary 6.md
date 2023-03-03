@@ -4,10 +4,7 @@ permalink: /our-staff/Teaching-Staff/p6/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/p6221.jpeg)
-![](/images/p6222.jpeg)
-![](/images/p6223.jpeg)
-
+![](/images/2023%20P6.jpg)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,16 +25,16 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">6 Charity <br> <br></td>
-    <td class="tg-zr06">Mr Muhamad Ansar Bin Kamsan</td>
-    <td class="tg-794o"><a href="mailto:muhamad_ansar_kamsan@moe.edu.sg"><span style="color:#F93">muhamad_ansar_kamsan@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Miss Cheong Long Xin</td>
+    <td class="tg-794o"><a href="mailto:cheong_long_xin@schools.gov.sg"><span style="color:#F93">cheong_long_xin@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mrs Raihana Beevi Bte Mohd Yunoos</td>
-    <td class="tg-sce8"><a href="mailto:raihana_beevi_mohd_yunoos@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">raihana_beevi_mohd_yunoos@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Sunita Singh</td>
+    <td class="tg-sce8"><a href="mailto:sunita_singh@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">sunita_singh@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Wang Jinyan</td>
-    <td class="tg-sce8"><a href="mailto:wang_jinyan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">wang_jinyan@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mr Ong Wee Leong</td>
+    <td class="tg-sce8"><a href="mailto:ong_wee_leong@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">ong_wee_leong@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">6 Grace</td>
