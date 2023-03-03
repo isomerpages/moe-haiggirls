@@ -3,7 +3,7 @@ title: Our 70th Anniversary celebrations
 permalink: /hgs-experience/our-70th-anniversary-celebrations/
 description: ""
 ---
-
+![](/images/70th%20anni1.jpeg)
 *Please [click here](https://www.haiggirls70th.com/mobile/index.html) to view our 70th Anniversary E-Magazine*
 
 HGS turns 70 this year, and in the midst of the COVID-19 pandemic. This meant the traditional modes of celebrating our anniversaries such as a gala dinner, whole-school in-person celebrations and performances, could no longer be held due to the need for social distancing. Even so, we were determined to overcome the hurdles placed in our way, and to commemorate our 70th Anniversary as meaningfully as possible. This included:
@@ -50,4 +50,3 @@ Haig Girls’ has certainly come a long way with our Past, Present and Future an
 Time for one last "**[Behind the Scenes](https://youtu.be/dyvNyMfjgqc)"** before we say goodbye!
 
 <iframe width="736" height="414" src="https://www.youtube.com/embed/dyvNyMfjgqc" title="4_BTS: HGS 70th Video 4 Final Hi Res" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
