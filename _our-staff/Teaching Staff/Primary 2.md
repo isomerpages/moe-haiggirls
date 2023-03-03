@@ -54,38 +54,38 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Joy</td>
-    <td class="tg-zr06">Mdm Tng Shoo Ling</td>
-    <td class="tg-zr06"><a href="mailto:tng_shoo_ling@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">tng_shoo_ling@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Miss Sharene Foo</td>
+    <td class="tg-zr06"><a href="mailto: foo_phang_khim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> foo_phang_khim@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Ms Wu Tzu Yi</td>
-    <td class="tg-zr06"><a href="mailto:wu_tzu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">wu_tzu_yi@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Mainura</td>
+    <td class="tg-zr06"><a href="mailto:mainura_mawi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">mainura_mawi@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Helimmi Admad Yusoff</td>
-    <td class="tg-sce8"><a href="mailto:helimmi_ahmad_ibrahim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">helimmi_ahmad_ibrahim@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"></td>
+    <td class="tg-sce8"><a href="mailto:helimmi_ahmad_ibrahim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Kindness</td>
-    <td class="tg-zr06">Mdm Norah Bte Nordin</td>
-    <td class="tg-sce8"><a href="mailto:norah_nordin@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">norah_nordin@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Lisa Yap</td>
+    <td class="tg-sce8"><a href="mailto: wong_hsiao_sien_lisa@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> wong_hsiao_sien_lisa@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Chen Lijun</td>
-    <td class="tg-sce8"><a href="mailto:chen_lijun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">chen_lijun@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Angeline Guay</td>
+    <td class="tg-sce8"><a href="mailto:guay_lay_lee_angeline@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">guay_lay_lee_angeline@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> <span style="font-weight:400;font-style:normal">Mrs Lee Huiru</span></td>
-    <td class="tg-zr06"> <a href="mailto:%C2%A0zhuang_huiru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">zhuang_huiru@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"> <span style="font-weight:400;font-style:normal">Mdm Salmah</span></td>
+    <td class="tg-zr06"> <a href="mailto:salmah_awang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">salmah_awang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">2 Patience</td>
-    <td class="tg-zr06">Mdm Christina Hing</td>
-    <td class="tg-sce8"><a href="mailto:quek_meow_ling_christina@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">quek_meow_ling_christina@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"> Mrs Jeya Lawrence</td>
+    <td class="tg-sce8"><a href="mailto:kavitha_jeyamalar_segeran@schools.gov.sgg"><span style="text-decoration:underline;color:#FC9400">kavitha_jeyamalar_segeran@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mdm Loh Chu Imm</td>
-    <td class="tg-zr06"><a href="mailto:loh_chu_imm@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">loh_chu_imm@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"> Mdm Choo Poh Ying</td>
+    <td class="tg-zr06"><a href="mailto: choo_poh_ying@schools.gov.sgg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> choo_poh_ying@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
