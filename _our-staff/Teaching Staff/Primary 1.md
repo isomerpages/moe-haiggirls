@@ -43,7 +43,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi">Mdm Loh Chu Imm<br><br><span style="background-color:initial">Mdm Grace Wee</span></td>
-    <td class="tg-a2w0"><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">loh_chu_imm@schools.gov.sg</span></a><br><br><br><a href="mailto:wee_cher_ying_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_cher_ying_grace@moe.edu.sg</span></a></td>
+    <td class="tg-a2w0"><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">loh_chu_imm@schools.gov.sg</span></a><br><br><a href="mailto:wee_cher_ying_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_cher_ying_grace@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Humility</td>
@@ -84,8 +84,7 @@ third_nav_title: Teaching Staff
   <tr>
     <td class="tg-ktyi">Mdm Chen Lijun</td>
     <td class="tg-ktyi"><a href="mailto:chen_lijun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">chen_lijun@schools.gov.sg</span></a></td>
-<tr>
-    <td class="tg-ktyi">Mrs Lee Huiru</td>
+<tr><td class="tg-ktyi">Mrs Lee Huiru</td>
     <td class="tg-ktyi"><a href="mailto:zhuang_huiru@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">zhuang_huiru@moe.edu.sg</span></a> </td>
   </tr>		
 </tbody>
