@@ -177,5 +177,16 @@ description: ""
     <td class="tg-wa1i">Senior Teacher<br>Malay Language<br><a href="mailto:norah_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Norah Bte Nordin</span></a></td>
     <td class="tg-wa1i">Senior Teacher<br><span style="font-weight:700;font-style:normal">Mathematics</span><br><a href="mailto:kong_seok_fun@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mdm Kong Seok Fun</span></a></td>
   </tr>
+	<tr>
+     <td class="tg-wa1i"><img src="/images/Miss%20Long%20Peizhen1.jpeg" 
+     style="width:75%"></td>
+    <td class="tg-wa1i"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i"><span style="font-style:normal">Senior Teacher</span><br>Music <br><a href="mailto:long_peizhen@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Long Peizhen</span></a></td>
+
+   </a></td>
+  </tr>
 </tbody>
 </table>
