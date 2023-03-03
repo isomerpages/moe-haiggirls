@@ -59,21 +59,21 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">6 Joy</td>
-    <td class="tg-zr06">Miss Norasiken Binte Mohamed Noor</td>
-    <td class="tg-794o"><a href="mailto:norasiken_mohamed_noor@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#F93">norasiken_mohamed_noor@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Cindy Chiong</td>
+    <td class="tg-794o"><a href="mailto: chiong_sin_ee_cindy@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#F93"> chiong_sin_ee_cindy@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mr Ong Wee Leong<br><br>Mrs Charlotte Mok</td>
-    <td class="tg-794o"><a href="mailto:ong_wee_leong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#F93">ong_wee_leong@moe.edu.sg</span></a><br><br><a href="mailto:wee_jee_chen_charlotte@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">wee_jee_chen_charlotte@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mrs Raihana<br><br>Mr Aw Si Kuan</td>
+    <td class="tg-794o"><a href="mailto: raihana_beevi_mohd_yunoos@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#F93"> raihana_beevi_mohd_yunoos@schools.gov.sg</span></a><br><br><a href="mailto:aw_si_kuan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">aw_si_kuan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3"> 6 Kindness </td>
-    <td class="tg-zr06"> Mrs Nikki Lin</td>
-    <td class="tg-sce8"><a href="mailto:yeo_yu_nian_nikki@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> yeo_yu_nian_nikki@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"> Mr Muhamad Ansar</td>
+    <td class="tg-sce8"><a href="mailto: muhamad_ansar_kamsan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">  muhamad_ansar_kamsan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="color:#000">Mdm Kong Seok Fun</span></td>
-    <td class="tg-zr06"><a href="mailto:kong_seok_fun@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">kong_seok_fun@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><span style="color:#000">Miss Farizah Hamdan</span></td>
+    <td class="tg-zr06"><a href="mailto: farizah_hamdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400"> farizah_hamdan@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mrs Ng Yin Leng</td>
