@@ -43,7 +43,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi">Mdm Loh Chu Imm<br><br><span style="background-color:initial">Mdm Grace Wee</span></td>
-    <td class="tg-a2w0"><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">loh_chu_imm@schools.gov.sg</span></a><br><br><a href="mailto:wee_cher_ying_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_cher_ying_grace@moe.edu.sg</span></a></td>
+    <td class="tg-a2w0"><a href="mailto:loh_chu_imm@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">loh_chu_imm@schools.gov.sg</span></a><br><br><br><a href="mailto:wee_cher_ying_grace@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wee_cher_ying_grace@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Humility</td>
@@ -56,12 +56,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="2">1 Joy</td>
-    <td class="tg-ktyi"><span style="color:#000">Miss Foo Phang Sharene</span></td>
-    <td class="tg-ktyi"><a href="mailto:foo_phang_khim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">foo_phang_khim@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi"><span style="color:#000">Mdm Rita Zulkarnain</span></td>
+    <td class="tg-ktyi"><a href="mailto:rita_zulkarnain_taha@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">rita_zulkarnain_taha@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ktyi">Mdm Wan Alfida Suleiman</td>
-    <td class="tg-a2w0"><a href="mailto:wan_alfida_suleiman@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">wan_alfida_suleiman@moe.edu.sg</span></a></td>
+    <td class="tg-ktyi">Miss Chantel Leow</td>
+    <td class="tg-a2w0"><a href="mailto:leow_xin_yi_chantel@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">leow_xin_yi_chantel@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-ktyi" rowspan="3">1 Kindness</td>
