@@ -63,7 +63,7 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-sce8"><a href="mailto:helimmi_ahmad_ibrahim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
+    <td class="tg-sce8"><a href= target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Kindness</td>
