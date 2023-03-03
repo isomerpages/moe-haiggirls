@@ -4,9 +4,7 @@ permalink: /our-staff/Teaching-Staff/p5/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/p5221.jpeg)
-![](/images/p5222.jpeg)
-![](/images/p5223.jpeg)
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -28,16 +26,16 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">5 Charity</td>
-    <td class="tg-zr06">Mr Muhammad Fauzi </td>
-    <td class="tg-sce8"><a href="mailto:mohammad_fauzi_wahid@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400">mohammad_fauzi_wahid@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mr Kassim </td>
+    <td class="tg-sce8"><a href="mailto:mohammed_kassim_abdul@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">mohammed_kassim_abdul@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Miss Grace Ng Sihui</td>
-    <td class="tg-794o"><a href="mailto:grace_ng_sihui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#F93">grace_ng_sihui@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Miss Sharon Cheong</td>
+    <td class="tg-794o"><a href="mailto:cheong_hwee_ling_sharon@schools.gov.sgg" target="_blank" rel="noopener noreferrer"><span style="color:#F93">cheong_hwee_ling_sharon@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Mr Appathurai Mahadevan</td>
-    <td class="tg-zr06"><a href="mailto:appathurai_mahadevan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">appathurai_mahadevan@moe.edu.sg</span></a></td>
+    <td class="tg-zr06">Mdm Wang Jinyan</td>
+    <td class="tg-zr06"><a href="mailto:wang_jinyan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">wang_jinyan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">5 Grace</td>
