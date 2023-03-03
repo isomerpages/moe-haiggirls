@@ -113,10 +113,25 @@ description: ""
     <td class="tg-wa1i"><img src="/images/kp14.png" 
      style="width:75%"></td>
   </tr>
+	
   <tr>
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Character Education</span><br><a href="http://sunita_singh@schools.gov.sg/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mrs Sunita Singh</span></a></td>
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head </span><br><span style="font-style:normal">Citizenship Education</span><br><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mrs Nikki Lin</span></a></td>
     <td class="tg-wa1i"><span style="font-style:normal">Subject Head</span><br><span style="font-style:normal">Student Management</span><br><a href="mailto:zareena_kamarraj@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Mdm Zareena Kamarraj</span></a></td>
+  </tr>
+	 <tr>
+    <td class="tg-wa1i"><img src="/images/kp12.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/kp13.jpeg" 
+     style="width:70%"></td>
+    <td class="tg-wa1i"><img src="/images/kp14.png" 
+     style="width:75%"></td>
+  </tr>
+	
+  <tr>
+    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="rasyidah_mohamed_idrus_z@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Ms Rasyidah Mohamed Idrus Z</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head </span><br><a href="mailto:chen_hsiang_yin@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Ms Chen Hsiang Yin</span></a></td>
+    <td class="tg-wa1i"><span style="font-style:normal">Assistant Year Head</span><br><a href="mailto:farizah_hamdan@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:underline">Ms Farizah Hamdan</span></a></td>
   </tr>
 </tbody>
 </table>
