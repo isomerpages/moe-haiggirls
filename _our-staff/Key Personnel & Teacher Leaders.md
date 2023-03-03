@@ -23,7 +23,7 @@ description: ""
   <tr>
     <td class="tg-wa1i"><img src="/images/kp1.jpeg" 
      style="width:80%"></td>
-    <td class="tg-wa1i"><img src="" 
+    <td class="tg-wa1i"><img src="/images/Miss%20Sharon%20Cheong%20(HOD%20Aesthetic)%20background.jpeg" 
      style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/kp3.jpeg" 
      style="width:75%"></td>
@@ -32,6 +32,18 @@ description: ""
     <td class="tg-wa1i">HOD Mathematics<br><a href="mailto:wee_jee_chen_charlotte@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Charlotte Mok</span></a></td>
     <td class="tg-wa1i">HOD Aesthetics<br><a href="mailto:cheong_hwee_ling_sharon@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ms Sharon Cheong</a></td>
     <td class="tg-wa1i">HOD Science<br><a href="mailto:ong_wee_leong@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mr Ong Wee Leong</a></td>
+  </tr>
+	 <tr>
+    <td class="tg-wa1i"><img src="/images/Ms%20Amanda%20Loh%20with%20background.jpeg" 
+     style="width:80%"></td>
+    <td class="tg-wa1i"><img src="/images/Mr%20Aw%20Si%20Kuan%20with%20background1.jpeg" 
+     style="width:70%"></td>
+    <td class="tg-wa1i"></td>
+  </tr>
+  <tr>
+    <td class="tg-wa1i">HOD English Language<br><a href="mailto:amanda_loh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Ms Amanda Loh</span></a></td>
+    <td class="tg-wa1i">HOD Physical Education/CCA<br><a href="mailto:aw_si_kuan@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mr Aw Si Kuan</a></td>
+    <td class="tg-wa1i"><br></td>
   </tr>
   <tr>
     <td class="tg-wa1i"><img src="/images/kp4.jpeg" 
@@ -150,4 +162,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
