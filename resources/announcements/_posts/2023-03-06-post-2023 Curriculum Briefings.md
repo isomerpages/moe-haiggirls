@@ -21,3 +21,23 @@ image: ""
 [Character & Citizenship Education](https://drive.google.com/file/d/1Qqqn2-ER0bp-Pi4snp7Pm7iUhBrWhgQC/view?usp=sharing)
 
 [Physical Education](https://drive.google.com/file/d/1AmrIZjjMkfWh6PFVJnrqwQ14K63cxi0x/view?usp=sharing)
+
+**Primary 3**
+
+[Briefing Slides by AYH](https://drive.google.com/file/d/1ksqvg49S-yR3yVfcQS0v7_nT2Vd8_ja2/view?usp=sharing)
+
+[English Language](https://drive.google.com/file/d/1yNcKw7I853giq8NIm7fXH-eTzsaSLF0D/view?usp=sharing)
+
+[Mathematics](https://drive.google.com/file/d/1Mx95fCSBBX9y_GmjwNvHRsPNoPX6kq-N/view?usp=sharing)
+
+[Aesthetics](https://drive.google.com/file/d/1qcYfQLcObVH9OxnLBZaQMtb1ma2G8QC7/view?usp=sharing)
+
+[Mother Tongue](https://drive.google.com/file/d/12Wr_1H5j4OHyDakNsuMH-fdeA9iMHZcl/view?usp=sharing)
+
+[Character & Citizenship Education](https://drive.google.com/file/d/1Jf6oXK8LbICb71GtNnYQ_ohM8tAtnJvm/view?usp=sharing)
+
+[Physical Education](https://drive.google.com/file/d/1r798yI2hINpzETATqUaZKOlFHYr4GQ9D/view?usp=sharing)
+
+[Science](https://drive.google.com/file/d/1-OmX4WJAXhHMt8lSDV7LjvpdPgfx_BxF/view?usp=sharing)
+
+[Conceptual Understanding in Primary Science](https://drive.google.com/file/d/1Rh74j9n0SHple3WS1tcHcQwMqaxk3S3O/view?usp=sharing)
