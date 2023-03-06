@@ -41,3 +41,26 @@ image: ""
 [Science](https://drive.google.com/file/d/1-OmX4WJAXhHMt8lSDV7LjvpdPgfx_BxF/view?usp=sharing)
 
 [Conceptual Understanding in Primary Science](https://drive.google.com/file/d/1Rh74j9n0SHple3WS1tcHcQwMqaxk3S3O/view?usp=sharing)
+
+**Primary 4**
+
+[Briefing Slides by AYH](https://drive.google.com/file/d/1cRNph8okBaxefk_DQMawdrEl7KudgLu4/view?usp=sharing)
+
+[English Language](https://drive.google.com/file/d/1wkZhZMDVfCsZFmqB41Dgc_Huh-C9dncD/view?usp=sharing)
+
+[Mathematics](https://drive.google.com/file/d/1AdzK3ZIpi8QwEOIcEOBYYN2fB57QsiUv/view?usp=sharing)
+
+[Aesthetics](https://drive.google.com/file/d/1buV6DXkLLILdEbJrXRaWPSx2GuQLYlJV/view?usp=sharing)
+
+[Mother Tongue](https://drive.google.com/file/d/1sMRUnspW-zo6ZWJQ4zE71r0qRuPn6Cpf/view?usp=sharing)
+
+[Character & Citizenship Education](https://drive.google.com/file/d/1dNqwJJ_eXd9LT3s9YpT5v64iIC99EEtV/view?usp=sharing)
+
+[Physical Education](https://drive.google.com/file/d/1yBuaP47KH4PsQu_aU_VLDump_FpFcipL/view?usp=sharing)
+
+[Science](https://drive.google.com/file/d/10Ml3agNQpBE5n3WB4HMJDZyfik5e5o0j/view?usp=sharing)
+
+
+
+
+
