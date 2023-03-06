@@ -80,6 +80,8 @@ image: ""
 
 **Primary 6**
 
+[Briefing Slides by AYH](https://drive.google.com/file/d/1xAQi8mkIyS0R1qwgazMnxSpN7oi_sT0D/view?usp=sharing)
+
 [English Language](https://drive.google.com/file/d/1jmGT7KkNE_AWKOa4ckNR6pEQTuPieef8/view?usp=sharing)
 
 [Mathematics](https://drive.google.com/file/d/1Is-noAY0CM3BLKgqvltANDekKnAz4EAo/view?usp=sharing)
@@ -94,3 +96,8 @@ image: ""
 
 [Conceptual Understanding in Primary Science](https://drive.google.com/file/d/1Bml2NLLw-h4h1Vl91noYWn2ZecIgNerw/view?usp=sharing)
 
+[Arts & Music](https://drive.google.com/file/d/11WWG-qERJkBqaaaRC4pe0Fbxa9jOuN2S/view?usp=sharing)
+
+[Character & Citizenship  Education](https://drive.google.com/file/d/1gFZlwDWyzXe9D4ZjJU31xNwlZix_xjWF/view?usp=sharing)
+
+[Physical Education](https://drive.google.com/file/d/1ksbNsM1jaKNHuvslzGrZujlh4FqsRzYd/view?usp=sharing)
