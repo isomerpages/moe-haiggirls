@@ -83,3 +83,14 @@ image: ""
 [English Language](https://drive.google.com/file/d/1jmGT7KkNE_AWKOa4ckNR6pEQTuPieef8/view?usp=sharing)
 
 [Mathematics](https://drive.google.com/file/d/1Is-noAY0CM3BLKgqvltANDekKnAz4EAo/view?usp=sharing)
+
+[Mother Tongue (CL)](https://drive.google.com/file/d/1l1QT7Hb_diKkh_SxkwniiKolJnzBIcmK/view?usp=sharing)
+
+[Mother Tongue (Malay)](https://drive.google.com/file/d/1Np9OM3N9hiYjLQW18czwm4oGRMo10tvN/view?usp=sharing)
+
+[Mother Tongue (TL)](https://drive.google.com/file/d/13HazhjHZLSnckct2wfWBcXf9ByT5ahE8/view?usp=sharing)
+
+[Science](https://drive.google.com/file/d/100q560Lx6k6rHFyMFXvSZyB95V48RKH8/view?usp=sharing)
+
+[Conceptual Understanding in Primary Science](https://drive.google.com/file/d/1Bml2NLLw-h4h1Vl91noYWn2ZecIgNerw/view?usp=sharing)
+
