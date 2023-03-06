@@ -60,7 +60,26 @@ image: ""
 
 [Science](https://drive.google.com/file/d/10Ml3agNQpBE5n3WB4HMJDZyfik5e5o0j/view?usp=sharing)
 
+**Primary 5**
 
+[Briefing Slides by AYH](https://drive.google.com/file/d/1LIMNGE92TKMBbdhcOrnAIvaj_Mh5140T/view?usp=sharing)
 
+[English Language](https://drive.google.com/file/d/1rVOIlVqmHEwYqVWiVuehHNff6e8V9yC1/view?usp=sharing)
 
+[Mathematics](https://drive.google.com/file/d/1Vme5zvp_1JF-RNvJhd1ABXSo_TY6M593/view?usp=sharing)
 
+[Mother Tongue](https://drive.google.com/file/d/19JOeFT2bCjRzoHo0Dc1tGujBAURPzvvp/view?usp=sharing)
+
+[Character & Citizenship Education](https://drive.google.com/file/d/1q75_dSuFs0IklTu6vyAwyuOIPfeu1Cvz/view?usp=sharing)
+
+[Physical Education](https://drive.google.com/file/d/1QZEU8KYKh_AWDeIZ_y-dVPaggF7VumNe/view?usp=sharing)
+
+[Aesthetics](https://drive.google.com/file/d/1jg1vIJuki-UNnXXPSUHnN__9cHItTdey/view?usp=sharing)
+
+[Science](https://drive.google.com/file/d/1D0k2QeMl_EETm50QexU0T7p5eEftVxXo/view?usp=sharing)
+
+**Primary 6**
+
+[English Language](https://drive.google.com/file/d/1jmGT7KkNE_AWKOa4ckNR6pEQTuPieef8/view?usp=sharing)
+
+[Mathematics](https://drive.google.com/file/d/1Is-noAY0CM3BLKgqvltANDekKnAz4EAo/view?usp=sharing)
