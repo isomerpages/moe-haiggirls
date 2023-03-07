@@ -35,4 +35,15 @@ Some of the activities organised during the MTL Fortnight include:
 
 We hope to instil the love for reading as an integral part of Mother Tongue Languages learning. The HGS girls are engaged in reading their Mother Tongue Language books through the weekly silent reading programme and online reading portals. These platforms help to promote reading as well as emphasise on the importance of reading. Our girls participate in various activities after reading, such as creation of cards or book covers, book reviews and story-telling activities to reinforce learning.
 
-*Photos will be uploaded soon*
+![](/images/MT1.jpeg)
+Malay students participating in Drama competitions
+
+![](/images/MT2.jpeg)
+ Students participated in cultural activities during MTL
+ Fortnight
+ 
+ ![](/images/MT3.jpeg)
+ Celebrating different events through MT Reading programme
+
+
+
