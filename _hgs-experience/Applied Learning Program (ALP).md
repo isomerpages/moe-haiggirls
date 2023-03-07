@@ -3,7 +3,6 @@ title: Applied Learning Program (ALP)
 permalink: /hgs-experienc/alp/
 description: ""
 ---
-
 ## **Innovation and Service Learning through Integrated Project Work**
 
 Haig Girls’ has developed a distinctive approach to Integrated Project Work (IPW) that involves inter-disciplinary, place-based learning and/or authentic problem solving, service learning and value creation. Each project is designed to develop 21st century competencies such as self-directed learning, collaboration, critical and creative thinking and civic literacy and achieve the desired student outcomes where our Haig Girls will be confident persons, self-directed learners, active contributors and concerned citizens
@@ -168,4 +167,10 @@ Pictures for P3 IPW will be updated in mid 2023 due to programme revamp.
 
 ##### **IPW for Primary Five**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Applied Learning Programme - Design Thinking Community and Servant Leadership**
+**Applied Learning Programme - Design Thinking Community and Servant Leadership**
+
+*Photos to be uploaded soon*
+
+#####  **IPW for Primary Six – Environmental Conservation**
+
+*Photos to be uploaded soon*
