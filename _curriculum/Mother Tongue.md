@@ -44,6 +44,6 @@ Malay students participating in Drama competitions
  
  ![](/images/MT3.jpeg)
  Celebrating different events through MT Reading programme
-
-
-
+ 
+ ![](/images/MT4.jpeg)
+Lantern making activity during Mid-Autumn Festival Carnival
