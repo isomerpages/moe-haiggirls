@@ -18,7 +18,7 @@ description: ""
 
 **Bus Services:** 33 (from Bedok Interchange to Kent Ridge Terminal)   
 **Nearest MRT Station:** Eunos    
-Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
+**Bus Stop No. nearest to the school**: 82149 (Bef Koon Seng Rd)
 
 **Locality Map:**
 ![](/images/localitymap.png)
@@ -172,12 +172,14 @@ Monday to Friday, 8.00am to 3.00pm
 
 ### 5\. School Uniform Supplier
 
-**Vista Uniform**    
-729 Geylang Road Singapore 389640     
-**Tel**: 9021 3041     
-**Opening Hours**: Vendor will be in school every Wednesday during term time from 11am to 12.30pm
-
-  
+**Asencio Pte Ltd**  
+120 Hillview Avenue #05-01 Kewalram Hillview  
+Singapore 669594  
+Timing: **12.30pm to 2.30pm**  
+                  **Gate 2 – security guard post (Every Tuesday and Thursday)**   
+Contact No: 67643102  
+Email: uniforms@asencio.com.sg   
+[Guides on how to purchase uniform online](/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf)
 
 ### 6\. School Bus Services
 
