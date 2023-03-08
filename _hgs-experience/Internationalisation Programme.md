@@ -17,11 +17,17 @@ On 7 November, our girls joined the Vietnamese guide to tour around Ho Chi Minh 
 
 On 14 November, our girls interacted with the Vietnamese students and shared information about our country and our school niche programme – TIME-OUT.  Students from both countries learn more about Singapore and Vietnam. Our girls were glad to participate in this immersion programme which enabled them to interact with their overseas counterpart virtually.
 
-
+<img src="/images/IP1.jpeg" 
+     style="width:65%">
 <u>Cultural exchange activity: Painting Vietnamese Hats</u>
 
-
+<img src="/images/IP2.jpeg" 
+     style="width:65%">
 <u>Sharing on places of interest in Singapore with our Vietnamese friends by our P5 Haig girls</u>
 
-
+<img src="/images/IP3.jpeg" 
+     style="width:65%">
+		 
+<img src="/images/IP4.jpeg" 
+     style="width:65%">
 <u>Zoom interaction with Le Quy Don Primary School</u>
