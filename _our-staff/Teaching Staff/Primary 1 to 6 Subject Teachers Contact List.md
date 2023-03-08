@@ -33,12 +33,12 @@ third_nav_title: Teaching Staff
     <td class="tg-p9nn"><span style="color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Charity.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Charity</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Grace</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Humility</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Joy</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Kindness</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Patience</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Charity.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Charity</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Grace</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Humility</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Joy</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Kindness</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/1%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">1 Patience</span></a><br><br></td>
   </tr>
 </tbody>
 </table>
