@@ -199,11 +199,11 @@ third_nav_title: Teaching Staff
     <td class="tg-p9nn"><span style="color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-h4gs"><a href="/files/4%20Charity%20-%20to%20reupdate.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Charity</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="/files/4-Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Grace</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="/files/4-Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Humility</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="/files/4-Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Joy</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="/files/4-Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Kindness</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/5-Charity-2.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Charity</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/5%20Grace%203.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Grace</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/5%20Humility%203.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Humility</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/5%20Joy%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Joy</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/5%20Kindness%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">5 Kindness</span></a><br><br></td>
     <td class="tg-h4gs"></td>
   </tr>
 </tbody>
