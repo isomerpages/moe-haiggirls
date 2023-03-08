@@ -19,15 +19,15 @@ On 14 November, our girls interacted with the Vietnamese students and shared inf
 
 <img src="/images/IP1.jpeg" 
      style="width:65%">
-<u>Cultural exchange activity: Painting Vietnamese Hats</u>
+<u><center>Cultural exchange activity: Painting Vietnamese Hats</center></u>
 
 <img src="/images/IP2.jpeg" 
      style="width:65%">
-<u>Sharing on places of interest in Singapore with our Vietnamese friends by our P5 Haig girls</u>
+<u><center>Sharing on places of interest in Singapore with our Vietnamese friends by our P5 Haig girls</center></u>
 
 <img src="/images/IP3.jpeg" 
      style="width:65%">
 		 
 <img src="/images/IP4.jpeg" 
      style="width:65%">
-<u>Zoom interaction with Le Quy Don Primary School</u>
+<u><center>Zoom interaction with Le Quy Don Primary School</center></u>
