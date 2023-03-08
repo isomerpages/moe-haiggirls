@@ -33,14 +33,12 @@ third_nav_title: Teaching Staff
     <td class="tg-5fmd"><span style="color:#000"> </span></td>
   </tr>
   <tr>
-    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Charity.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Charity</span></a><br></td>
-    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Grace</span></a><br></td>
-    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Humility</span></a><br></td>
-    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Joy</span></a><br></td>
-    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Kindness</span></a><br></td>
-    <td class="tg-tgtu"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> </span></a><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">1 Patience</span></a><br></td>
+    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Charity.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Charity</span></a><br></td>
+    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Grace</span></a><br></td>
+    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Humility</span></a><br></td>
+    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Joy</span></a><br></td>
+    <td class="tg-tgtu"><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Kindness</span></a><br></td>
+    <td class="tg-tgtu"><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> </span></a><br><a href="https://haiggirls-moe-edu-sg-admin.cwp.sg/qql/slot/u240/2023/Contact%20List/P2/2%20Patience.pdf" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">2 Patience</span></a><br></td>
   </tr>
 </tbody>
 </table>
-
-test
