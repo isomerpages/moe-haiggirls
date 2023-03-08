@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Internationalisation Programme.md
       - Leaders of Character.md
       - Curriculum.md
       - Applied Learning Program (ALP).md
