@@ -2,7 +2,6 @@ collections:
   hgs-experience:
     output: true
     order:
-      - Internationalisation Programme.md
       - Leaders of Character.md
       - Curriculum.md
       - Applied Learning Program (ALP).md
@@ -28,3 +27,4 @@ collections:
       - Co Curricular Activities/Science Club.md
       - Discover, Develop & Dedicate Your Talent Time (D3T2).md
       - Our 70th Anniversary celebrations.md
+      - Internationalisation Programme.md
