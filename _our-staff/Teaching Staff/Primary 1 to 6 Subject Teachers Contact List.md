@@ -125,3 +125,45 @@ third_nav_title: Teaching Staff
   </tr>
 </tbody>
 </table>
+
+
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h4gs{background-color:#FFE5BA;color:#FC9400;font-size:15px;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ykfa{background-color:#B52B20;color:#FFF;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-p9nn{background-color:#b52b20;font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 786px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ykfa"><span style="font-weight:bold;color:#FFF;background-color:#B52B20">Primary 4</span></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-p9nn"><span style="color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-h4gs"><a href="/files/4%20Charity%20-%20to%20reupdate.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">4 Charity</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/4-Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">4 Grace</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/4-Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">4 Humility</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/4-Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">4 Joy</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/4-Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">4 Kindness</span></a><br><br></td>
+    <td class="tg-h4gs"></td>
+  </tr>
+</tbody>
+</table>
