@@ -46,13 +46,13 @@ description: ""
     <td class="tg-wa1i"><img src="/images/vpa.jpeg" 
      style="width:85%"></td>
     <td class="tg-0lax"></td>
-    <td class="tg-wa1i"><img src="/images/VP.jpeg" 
-     style="width:101%"></td>
+    <td class="tg-wa1i"><img src="/images/Mrs%20Evelyn%20Tay.jpeg" 
+     style="width:90%"></td>
   </tr>
   <tr>
     <td class="tg-wa1i">Vice Principal (Admin)<br><a href="mailto:netty_salmiyati_senawi@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Miss Netty Salmiyati Senawi</span></a></td>
     <td class="tg-0lax"></td>
-    <td class="tg-wa1i">Vice Principal<br><a href="mailto:evelyn_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Evelyn Goh</span></a></td>
+    <td class="tg-wa1i">Vice Principal<br><a href="mailto:evelyn_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline">Mrs Evelyn Tay</span></a></td>
   </tr>
 </tbody>
 </table>
