@@ -209,3 +209,43 @@ third_nav_title: Teaching Staff
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-h4gs{background-color:#FFE5BA;color:#FC9400;font-size:15px;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ykfa{background-color:#B52B20;color:#FFF;font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-p9nn{background-color:#b52b20;font-size:18px;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 786px">
+<colgroup>
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+<col style="width: 131px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-ykfa"><span style="font-weight:bold;color:#FFF;background-color:#B52B20">Primary 6</span></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-ykfa"></td>
+    <td class="tg-p9nn"><span style="color:#000"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-h4gs"><a href="/files/6%20Charity%20-%20to%20reupdate.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">6 Charity</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/6%20Grace%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">6 Grace</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/6%20Humility%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">6 Humility</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/6%20Joy%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">6 Joy</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/6%20Kindness%202.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">6 Kindness</span></a><br><br></td>
+    <td class="tg-h4gs"></td>
+  </tr>
+</tbody>
+</table>
