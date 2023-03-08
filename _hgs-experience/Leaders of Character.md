@@ -37,9 +37,7 @@ We collaborated with various partners for our Values-In-Action (VIA) programs
  
  ![](/images/loc4.png)
  
- Our students learned that it is truly a blessing to give and they are able to make a difference to the lives  
-
-of others.
+ Our students learned that it is truly a blessing to give and they are able to make a difference to the lives of others.
 
   
 
