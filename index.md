@@ -27,4 +27,8 @@ sections:
       url: /calendar/
       image: /images/calendardemo.png
       alt: calendar demo
+  - infobar:
+      title: Eat With Your Family Day
+      description: The school will close at 4pm on 10th of March 2023 in support of
+        the "Eat With Your Family Day" initiative. Thank you.
 ---
