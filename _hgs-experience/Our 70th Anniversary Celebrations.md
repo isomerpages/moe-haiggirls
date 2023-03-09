@@ -1,8 +1,9 @@
 ---
-title: Our 70th Anniversary celebrations
+title: Our 70th Anniversary Celebrations
 permalink: /hgs-experience/our-70th-anniversary-celebrations/
 description: ""
 ---
+
 <td class="tg-wa1i"><img src="/images/70th%20anni1.jpeg" 
      style="width:80%"></td>
 Please [click here](https://www.haiggirls70th.com/mobile/index.html) to view our 70th E-Magazine
