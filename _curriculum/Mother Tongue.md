@@ -50,3 +50,4 @@ Lantern making activity during Mid-Autumn Festival Carnival
 
 ![](/images/1.jpeg)
 ![](/images/2.jpeg)
+![](/images/3.jpeg)
