@@ -48,5 +48,6 @@ Malay students participating in Drama competitions
  ![](/images/MT4.jpeg)
 Lantern making activity during Mid-Autumn Festival Carnival
 
+![](/images/1.jpeg)
 
-2023 Mother Tongue Fortnight 
+2023 Mother Tongue Fortnight
