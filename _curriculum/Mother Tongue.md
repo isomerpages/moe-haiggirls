@@ -51,3 +51,5 @@ Lantern making activity during Mid-Autumn Festival Carnival
 ![](/images/1.jpeg)
 ![](/images/2.jpeg)
 ![](/images/3.jpeg)
+
+[Click Here]((https://drive.google.com/file/d/1JLpMCYsRs_ju357hH0ofOoyWGD8I1r7G/view?usp=sharing)) to view our Mother Tongue Fortnight Video.
