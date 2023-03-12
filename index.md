@@ -11,7 +11,7 @@ sections:
       background: /images/haighp.gif
   - infobar:
       title: Eat With Your Family Day
-      description: The school will close at 4pm on 10th of March 2023 in support of
+      description: The school will close at 4pm on 17th of March 2023 in support of
         the "Eat With Your Family Day" initiative. Thank you.
   - resources:
       title: News, Events and Announcements
