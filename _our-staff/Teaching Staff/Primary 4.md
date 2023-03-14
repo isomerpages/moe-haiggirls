@@ -4,7 +4,7 @@ permalink: /our-staff/Teaching-Staff/p4/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/2023%20P4.jpg)
+![](/images/P4%202023.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
