@@ -35,7 +35,7 @@ description: ""
   </tr>
 	 <tr>
     <td class="tg-wa1i"><img src=/images/Miss%20Loh%20Li%20Hui%20Amanda.jpeg
-     style="width:85%"></td>
+     style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/Mr%20Aw%20Si%20Kuan%20with%20background1.jpeg" 
      style="width:70%"></td>
     <td class="tg-wa1i"></td>
