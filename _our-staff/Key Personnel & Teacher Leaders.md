@@ -34,7 +34,7 @@ description: ""
     <td class="tg-wa1i">HOD Science<br><a href="mailto:ong_wee_leong@schools.gov.sg" target="_blank" rel="noopener noreferrer">Mr Ong Wee Leong</a></td>
   </tr>
 	 <tr>
-    <td class="tg-wa1i"><img src=images/Miss%20Loh%20Li%20Hui%20Amanda.jpeg
+    <td class="tg-wa1i"><img src=/images/Ms%20Amanda%20Loh%20with%20background.jpeg
      style="width:80%"></td>
     <td class="tg-wa1i"><img src="/images/Mr%20Aw%20Si%20Kuan%20with%20background1.jpeg" 
      style="width:70%"></td>
