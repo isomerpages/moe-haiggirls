@@ -6,6 +6,23 @@ layout: post
 description: ""
 image: ""
 ---
+**Primary 1**
+
+[Briefing Slides by AYH](https://drive.google.com/file/d/1_KoJ7lFwLrCXM7UMyF45bnnFAqJPz2gM/view?usp=sharing)
+
+[English Language](https://drive.google.com/file/d/1QbNZSvnvtiuWJBf-WE5jUXxykTEieInh/view?usp=sharing)
+
+[Mathematics](https://drive.google.com/file/d/1UdjHGxj-j4BNkELVI3_R0XtU2q0KSTQ1/view?usp=sharing)
+
+[Aesthetics](https://drive.google.com/file/d/1n1RMLBMu_LW_iLc64WMtHXOKa3rhWQcx/view?usp=sharing)
+
+[Mother Tongue](https://drive.google.com/file/d/1PTVnj6lSYf09uV4V9Gk69-q5sy1MVp2y/view?usp=sharing)
+
+[Character and Citizenship Education](https://drive.google.com/file/d/1fYcGzn2CaBRP5-THjWmYdU2H1S23rA1E/view?usp=sharing)
+
+[Physical Education](https://drive.google.com/file/d/1dJx4SmGsz0jB9N0Erz5OqBk-NHG1lGKi/view?usp=sharing)
+
+
 **Primary 2**
 
 [Briefing Slides by AYH](https://drive.google.com/file/d/16gJMy10Q5CwQqKf2Q-9h7cLcLi34-tuZ/view?usp=sharing)
