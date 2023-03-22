@@ -4,7 +4,7 @@ permalink: /our-staff/Teaching-Staff/p3/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/2023%20P3.jpeg)
+![](/images/2023%20P3%20NEW.jpeg)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -60,8 +60,8 @@ third_nav_title: Teaching Staff
     <td class="tg-zr06"><a href="mailto: zareena_kamarraj@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> zareena_kamarraj@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"></td>
-    <td class="tg-zr06"><a href="mailto:yer_lay_keow@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
+    <td class="tg-zr06">Mrs Fong Lay Keow</td>
+    <td class="tg-zr06">yer_lay_keow@schools.gov.sg<a href="mailto:yer_lay_keow@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">3 Kindness</td>
