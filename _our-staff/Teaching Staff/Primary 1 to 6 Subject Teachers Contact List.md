@@ -119,7 +119,7 @@ third_nav_title: Teaching Staff
     <td class="tg-h4gs"><a href="/files/3-Charity.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Charity</span></a><br><br></td>
     <td class="tg-h4gs"><a href="/files/3-Grace.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Grace</span></a><br><br></td>
     <td class="tg-h4gs"><a href="/files/3-Humility.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Humility</span></a><br><br></td>
-    <td class="tg-h4gs"><a href="/files/3-Joy.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Joy</span></a><br><br></td>
+    <td class="tg-h4gs"><a href="/files/3-Joy%20EDITED.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Joy</span></a><br><br></td>
     <td class="tg-h4gs"><a href="/files/3-Kindness.pdf" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">3 Kindness</span></a><br><br></td>
     <td class="tg-h4gs"></td>
   </tr>
