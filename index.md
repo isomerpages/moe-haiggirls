@@ -26,4 +26,8 @@ sections:
       url: /calendar/
       image: /images/calendardemo.png
       alt: calendar demo
+  - infobar:
+      description: "Our school telephone line is currently unavailable. Please contact
+        us through our school mobile number: 91142012. Apologies for any
+        inconvenience."
 ---
