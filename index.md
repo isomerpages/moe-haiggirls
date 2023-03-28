@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/haighp.gif
-  - infobar:
-      description: "Our school telephone line is currently unavailable. Please contact
-        us through our school mobile number: 91142012. We apologize for any
-        inconvenience."
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
