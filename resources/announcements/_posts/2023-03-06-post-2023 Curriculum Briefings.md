@@ -1,6 +1,6 @@
 ---
 title: 2023 Curriculum Briefings
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/permalink/2023curriculumbriefings/
 date: 2023-03-06
 layout: post
 description: ""
