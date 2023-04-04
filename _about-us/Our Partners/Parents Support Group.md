@@ -81,9 +81,7 @@ third_nav_title: Our Partners
 
 Our children are our Buds, our Sapling and our Hope for The Future. Our Vision is to guide them. Our mission is to educate and enrich their lives. Here at Haig Girls’ School, we are Parents in Education, involved in many aspects of our children’s lives.&nbsp;
 
-  
-
-We work hand in hand with the teachers to help out children reach out and soar to touch the stars &amp; be the STARS!
+ We work hand in hand with the teachers to help out children reach out and soar to touch the stars &amp; be the STARS!
 
 Are you interested to join our Parents Support Group (PSG)? 
 If your child/ward is/was a student in Haig Girls’ School and you are interested to volunteer in our school, please submit your application for PSG through this [online form.](https://form.gov.sg/62e39a2c723e8e00127a3149)
