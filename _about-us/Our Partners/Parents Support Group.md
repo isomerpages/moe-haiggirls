@@ -85,3 +85,8 @@ Our children are our Buds, our Sapling and our Hope for The Future. Our Vision i
 
 Are you interested to join our Parents Support Group (PSG)? 
 If your child/ward is/was a student in Haig Girls’ School and you are interested to volunteer in our school, please submit your application for PSG through this [online form.](https://form.gov.sg/62e39a2c723e8e00127a3149)
+
+      
+Are you interested to join our group of Parent Volunteers (PV)? This is for parents who are interested to register their child/ward in Haig Girls’ School at Phase 2B of the P1 Registration Exercise.
+
+If you are interested to join our PV group, please submit your application through this&nbsp;[online form](https://form.gov.sg/635b4bb383d9150011f0aa57)&nbsp;by 31 May 2023.
