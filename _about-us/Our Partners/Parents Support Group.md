@@ -90,4 +90,3 @@ If your child/ward is/was a student in Haig Girls’ School and you are interest
 Are you interested to join our group of Parent Volunteers (PV)? This is for parents who are interested to register their child/ward in Haig Girls’ School at Phase 2B of the P1 Registration Exercise.
 
 If you are interested to join our PV group, please submit your application through this&nbsp;[online form](https://form.gov.sg/635b4bb383d9150011f0aa57)&nbsp;by 31 May 2023.
-
