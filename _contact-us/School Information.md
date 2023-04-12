@@ -211,7 +211,7 @@ Fri - **Closed**
 
 *Lunch Break: 1PM - 2PM*
 
- Tel: 68940 3382
+ Tel: 8940 3382
 
 Please contact the following dental clinics on the days when the school dental clinic is closed:
 
