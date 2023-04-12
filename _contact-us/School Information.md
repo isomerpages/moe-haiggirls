@@ -200,6 +200,7 @@ Mr Winson
 ### 8\. School Dental Clinic
 
   
+****Please note that clinic operates on alternate weeks***
 
 **Opening Hours:**
 
