@@ -201,9 +201,17 @@ Mr Winson
 
   
 
-**Opening Hours:**&nbsp;Tuesday &amp; Thursday, 8.00 a.m. to 5.30 p.m.    
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;_(Lunch Break: 12.30 p.m. to 1.30 p.m.)_   
-**Tel:**&nbsp; 89403382
+**Opening Hours:**
+
+Mon &amp; Thurs - **8AM - 5.30PM**
+
+Tue &amp; Wed - **8AM - 1PM**
+
+Fri - **Closed**
+
+*Lunch Break: 1PM - 2PM*
+
+ Tel: 68940 3382
 
 Please contact the following dental clinics on the days when the school dental clinic is closed:
 
