@@ -5,20 +5,20 @@ description: ""
 ---
 ### 1\. Contact Information  
 
-**Address:** 51 Koon Seng Road Singapore 427072     
+**Address:**&nbsp;51 Koon Seng Road Singapore 427072&nbsp;    
 (Main gate is along Tembeling Road)    
-**Tel:** 6344 0293   
-**Fax:** 6447 4169    
-**E-mail:** [haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg) 
+**Tel:**&nbsp;6344 0293   
+**Fax:**&nbsp;6447 4169    
+**E-mail:**&nbsp;[haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg)&nbsp;
 
    
 
 ### 2\. Travel Information
  
 
-**Bus Services:** 33 (from Bedok Interchange to Kent Ridge Terminal)   
-**Nearest MRT Station:** Eunos    
-**Bus Stop No. nearest to the school**: 82149 (Bef Koon Seng Rd)
+**Bus Services:**&nbsp;33 (from Bedok Interchange to Kent Ridge Terminal)   
+**Nearest MRT Station:**&nbsp;Eunos    
+**Bus Stop No. nearest to the school**:&nbsp;82149 (Bef Koon Seng Rd)
 
 **Locality Map:**
 ![](/images/localitymap.png)
@@ -29,14 +29,14 @@ description: ""
 
 **Arrival and Dismissal Time**     
 
-**Monday to Thursday:**           7.30 a.m. to 1.30 p.m.    
-**Friday:**                                            7.30 a.m. to 1.00 p.m.
+**Monday to Thursday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7.30 a.m. to 1.30 p.m.    
+**Friday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.30 a.m. to 1.00 p.m.
 
 (Pupils are expected to arrive before 7.30 a.m. for the morning assembly. Flag-raising commences at 7.30 a.m.)
 
   
 
-**Recess Time & Snack Breaks**
+**Recess Time &amp; Snack Breaks**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -146,12 +146,12 @@ description: ""
 
 **School Terms**
 
-**Monday to Thursday:**      6.45 a.m. to 5.30 p.m.    
-**Friday:**                                       6.45 a.m. to 5.00 p.m.
+**Monday to Thursday:**&nbsp; &nbsp; &nbsp; 6.45 a.m. to 5.30 p.m.    
+**Friday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.45 a.m. to 5.00 p.m.
 
  
 **School Holidays**    
-**Monday to Friday:**            8.00 a.m. to 5.00 p.m.
+**Monday to Friday:**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8.00 a.m. to 5.00 p.m.
 
   
 
@@ -162,21 +162,21 @@ description: ""
 **Paciﬁc Bookstores Pte Ltd**
 
 14 Arumugam Road, #08-01 Lion Building Road C, Singapore 409959
-**Tel**: 6464 0111   
-**Fax**: 6464 0110
+**Tel**:&nbsp;6464 0111   
+**Fax**:&nbsp;6464 0110
 
 **Opening Hours in School during the School Terms**:  
 Monday to Friday, 8.00am to 3.00pm    
 (Lunch Break: 11.30am to 12.30pm)    
-**Tel**: 63480869 
+**Tel**:&nbsp;63480869 
 
 ### 5\. School Uniform Supplier
 
 **Asencio Pte Ltd**  
 120 Hillview Avenue #05-01 Kewalram Hillview  
 Singapore 669594  
-Timing: **12.30pm to 2.30pm**  
-                  **Gate 2 – security guard post (Every Tuesday and Thursday)**   
+Timing:&nbsp;**12.30pm to 2.30pm**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Gate 2 – security guard post&nbsp;(Every Tuesday and Thursday)**   
 Contact No: 67643102  
 Email: uniforms@asencio.com.sg   
 [Guides on how to purchase uniform online](/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf)
@@ -185,7 +185,7 @@ Email: uniforms@asencio.com.sg
 
 Sinbus (S) Transport Services   
 Mr Winson      
-**HP**: 9673 3654
+**HP**:&nbsp;9673 3654
 
   
 
@@ -193,7 +193,7 @@ Mr Winson
 
 **Kowabunga! Education (E) Pte Ltd**
 3 Ang Mo Kio Street 62, #08-21 Link@AMK, Singapore 589139   
-**Tel**: 6560 7200
+**Tel**:&nbsp;6560 7200
 
   
 
@@ -201,9 +201,17 @@ Mr Winson
 
   
 
-**Opening Hours:** Tuesday & Thursday, 8.00 a.m. to 5.30 p.m.    
-                                     _(Lunch Break: 12.30 p.m. to 1.30 p.m.)_   
-**Tel:** 6344 0508
+**Opening Hours:**
+
+Mon &amp; Thurs - **8AM - 5.30PM**
+
+Tue &amp; Wed - **8AM - 1PM**
+
+Fri - **Closed**
+
+*Lunch Break: 1PM - 2PM*
+
+ Tel: 8940 3382
 
 Please contact the following dental clinics on the days when the school dental clinic is closed:
 
@@ -237,30 +245,30 @@ Please contact the following dental clinics on the days when the school dental c
 
   
 
-**Total Defence Day                                                      February**      
-**Sports Day                                                                       February / March**    
-**P5 Advanced Student Leadership Camp      March**   
-**Physical Fitness Tests (P4 and P6 only)         April**    
-**International Friendship Day                              April**     
-**Racial Harmony Day                                                 July**   
-**P5 Outdoor Adventure Camp                            July**     
-**National Day Celebration                                     August**     
-**Teachers' Day Celebration                                   September**      
-**Children's Day Celebrations                               October**  
-**Prize Giving Day                                                         November**   
-**P6 Graduation Day                                                   November**
+**Total Defence Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; February**      
+**Sports Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;February / March**    
+**P5 Advanced Student Leadership Camp &nbsp; &nbsp; &nbsp;March**   
+**Physical Fitness Tests (P4 and P6 only) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;April**    
+**International Friendship Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April**     
+**Racial Harmony Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;July**   
+**P5 Outdoor Adventure Camp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July**     
+**National Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August**     
+**Teachers' Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;September**&nbsp;     
+**Children's Day Celebrations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October**  
+**Prize Giving Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November**   
+**P6 Graduation Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November**
    
 
 ### 10\. Examinations
 
   
 
-**P4 and P6 Mid Year Exams (Oral & Written)                April / May**  
-**P3 GEP Screening** **Exercise**                                                      **August / October**   
-**PSLE Oral / Listening Comprehension                              August / September**   
-**P6 Preliminary Examinations                                                 August**   
-**PSLE Written Examinations                                                    September / October**   
-**P3, P5 End-of-Year Exams (Oral & Written)                  October / November**
+**P4 and P6 Mid Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April / May**  
+**P3 GEP Screening**&nbsp;**Exercise**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**August / October**   
+**PSLE Oral / Listening Comprehension&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August / September**   
+**P6 Preliminary Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August**   
+**PSLE Written Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September / October**   
+**P3, P5 End-of-Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; October / November**
 
   
 
