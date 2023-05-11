@@ -32,7 +32,7 @@ description: ""
 
 \* Contact Person: Mr Melvyn D Oliveiro
 
-#### How to get here?
+##### How to get here?
 
 \* Bus Services: 33 (from Bedok Interchange to Kent Ridge Terminal)
 
