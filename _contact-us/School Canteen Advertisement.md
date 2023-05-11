@@ -3,7 +3,7 @@ title: School Canteen Advertisement
 permalink: /contact-us/sca/
 description: ""
 ---
-**Malay Food Stall - 16 June 2023 - Rice or noodle stalls are acceptable.**
+## **Malay Food Stall - 16 June 2023 - Rice or noodle stalls are acceptable.**
 
 **Japanese/Korean Food Stall - 16 June 2023 - NIL**
 
@@ -40,7 +40,7 @@ description: ""
 
 \* Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
 
-\*\*Interest applicants must meet the following criteria:\*\*
+##### Interest applicants must meet the following criteria:
 
 \* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
