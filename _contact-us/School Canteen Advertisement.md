@@ -3,11 +3,11 @@ title: School Canteen Advertisement
 permalink: /contact-us/sca/
 description: ""
 ---
-**Malay Food Stall | 16 Jun 2023 | Rice or noodle stalls are acceptable.**
+**Malay Food Stall | 16 Jun 2023 | Rice or noodle stalls are acceptable.
 
 **Japanese/Korean Food Stall | 16 Jun 2023 | NIL
 
-\*\*Application Procedure\*\*
+### **Application Procedure**
 
 1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
