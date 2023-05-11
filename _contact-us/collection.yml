@@ -2,7 +2,7 @@ collections:
   contact-us:
     output: true
     order:
-      - School Bus Advertisement.md
       - School Information.md
       - Feedback.md
       - School Canteen Advertisement.md
+      - School Bus Advertisement.md
