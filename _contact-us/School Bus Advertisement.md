@@ -342,11 +342,7 @@ The bus fares listed below are the maximum fares for each distance cap. Actual b
 
   
 
-<table align="left" cellspacing="0" cellpadding="0"><tbody><tr><td height="87" width="86"></td></tr><tr><td></td><td><img height="68" width="712"></td></tr></tbody></table>
-
-&nbsp;
-
-  
+<table align="left" cellspacing="0" cellpadding="0"><tbody><tr><td height="87" width="86"></td></tr></tbody></table>
 
 <table style="margin-left:7.55pt;border-collapse:collapse;mso-table-layout-alt:fixed;
  border:none;mso-border-alt:solid #999999 .75pt;mso-yfti-tbllook:480;
