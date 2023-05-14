@@ -6,6 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-[2022 Semester 1 Achievements](/resources/news-and-events/2022-sem-1-achievements/)
+**[2022 Semester 1 Achievements](/resources/news-and-events/2022-sem-1-achievements/)**
 
-2023 Semester 1 Achievements
+**2023 Semester 1 Achievements**
