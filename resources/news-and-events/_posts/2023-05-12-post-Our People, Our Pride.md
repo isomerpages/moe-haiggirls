@@ -8,4 +8,4 @@ image: ""
 ---
 **[2022 Semester 1 Achievements](/resources/news-and-events/2022-sem-1-achievements/)**
 
-**2023 Semester 1 Achievements**
+[**2023 Semester 1 Achievements**](/files/2023%20semester%201%20achievements.pdf)
