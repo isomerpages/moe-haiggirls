@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+##### Please [click HERE](https://sites.google.com/moe.edu.sg/2023-hgs-eopen-house/home) to view our 2023 E-Open house website
+
+![](/images/e%20open%20house%20with%20qr%20code.jpg)
+
+  
+        
