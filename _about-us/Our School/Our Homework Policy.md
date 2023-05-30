@@ -138,5 +138,6 @@ As our partners-in-education, we seek your support in the following matters:&nbs
 
 If your child has a more intensive rehearsal or sports practice/competition schedule during a particular period of time, please inform the respective subject teachers about this. While our teachers will be flexible about homework deadlines for these exceptional cases, we encourage our pupils to manage their time well and seek the co-operation of parents to ensure that your child balances her other commitments with her academic responsibilities.&nbsp;
 
-We welcome parents’ feedback on our Homework Policy. Kindly contact us via Tel: 6344 0293 /Email:&nbsp;[haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg). 
+We welcome parents’ feedback on our Homework Policy. Kindly contact us via Tel: 6344 0293 Email:&nbsp;[haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg). 
+
 Thank You.
