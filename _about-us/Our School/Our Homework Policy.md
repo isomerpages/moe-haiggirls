@@ -17,106 +17,123 @@ The completion of homework also allows our pupils to take responsibility for the
 
 School Term
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="677" style="width:508.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+<table style="width:508.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1056;mso-padding-alt:0in 0in 0in 0in;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.2pt"><td width="107" valign="top" style="width:80.5pt;border:solid windowtext 1.0pt;
+ mso-border-insidev:.5pt solid windowtext" width="677" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.2pt"><td style="width:80.5pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:32.2pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">Monday – Friday</span></p></td><td width="156" valign="top" style="width:117.0pt;border:solid windowtext 1.0pt;
+  height:32.2pt" valign="top" width="107"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Monday – Friday</span></p></td><td style="width:117.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P1 &amp; P2</span></b></p></td><td width="156" valign="top" style="width:117.0pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="156"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P1 &amp; P2</span></b></p></td><td style="width:117.0pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P3 &amp; P4</span></b></p></td><td width="138" valign="top" style="width:103.5pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="156"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P3 &amp; P4</span></b></p></td><td style="width:103.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P5</span></b></p></td><td width="120" valign="top" style="width:1.25in;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="138"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P5</span></b></p></td><td style="width:1.25in;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P6</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:53.75pt"><td width="107" valign="top" style="width:80.5pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="120"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P6</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:53.75pt"><td style="width:80.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal">Maximum <span lang="EN-SG" style="mso-ansi-language:EN-SG">no. of hours per day</span></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
+  padding:.05in .1in .05in .1in;height:53.75pt" valign="top" width="107"><p class="MsoNormal">Maximum <span style="mso-ansi-language:EN-SG" lang="EN-SG">no. of hours per day</span></p></td><td style="width:117.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">45 minutes</span></p></td><td width="156" valign="top" style="width:117.0pt;border-top:none;border-left:
+  height:53.75pt" valign="top" width="156"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">45 minutes</span></p></td><td style="width:117.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1 hour</span></p></td><td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
+  height:53.75pt" valign="top" width="156"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1 hour</span></p></td><td style="width:103.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1.5 hours</span></p></td><td width="120" valign="top" style="width:1.25in;border-top:none;border-left:
+  height:53.75pt" valign="top" width="138"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1.5 hours</span></p></td><td style="width:1.25in;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">2 hours</span></p></td></tr></tbody></table>
+  height:53.75pt" valign="top" width="120"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">2 hours</span></p></td></tr></tbody></table>
 
-School Holidays (Additional)
+School Holidays 
 
+<table style="width:521.5pt;border-collapse:collapse;mso-yfti-tbllook:1056;
+ mso-padding-alt:0in 0in 0in 0in" width="695" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.2pt"><td style="width:130.0pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:32.2pt" valign="top" width="173"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Maximum no. of hours for homework</span></b></p></td><td style="width:1.5in;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="144"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P1 &amp; P2</span></b></p></td><td style="width:103.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="138"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P3 &amp; P4</span></b></p></td><td style="width:94.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="126"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P5</span></b></p></td><td style="width:85.5pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt" valign="top" width="114"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">P6</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:53.75pt"><td style="width:130.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:.05in .1in .05in .1in;height:53.75pt" valign="top" width="173"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">March Holiday</span></p></td><td style="width:1.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="144"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">NIL</span></p></td><td style="width:103.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="138"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">NIL</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="126"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1.5 hour</span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="114"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">2 hours</span></p></td></tr><tr style="mso-yfti-irow:2;height:53.75pt"><td style="width:130.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:.05in .1in .05in .1in;height:53.75pt" valign="top" width="173"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">June Holiday</span></p></td><td style="width:1.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="144"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1.5 hours</span></p></td><td style="width:103.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="138"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">2 hours</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="126"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">3 hours</span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="114"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">4 hours</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:53.75pt"><td style="width:130.0pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:.05in .1in .05in .1in;height:53.75pt" valign="top" width="173"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">September Holiday</span></p></td><td style="width:1.5in;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="144"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">NIL</span></p></td><td style="width:103.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="138"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1 hour</span></p></td><td style="width:94.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="126"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">1.5 hour</span></p></td><td style="width:85.5pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
+  height:53.75pt" valign="top" width="114"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">4 hours</span></p></td></tr></tbody></table>
+	
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="695" style="width:521.5pt;border-collapse:collapse;mso-yfti-tbllook:1056;
- mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:32.2pt"><td width="173" valign="top" style="width:130.0pt;border:solid windowtext 1.0pt;
+ mso-padding-alt:0in 0in 0in 0in"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:53.75pt"><td width="173" valign="top" style="width:130.0pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">Maximum no. of hours for homework</span></b></p></td><td width="144" valign="top" style="width:1.5in;border:solid windowtext 1.0pt;
+  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">November and December Holiday</span></p></td><td width="144" valign="top" style="width:1.5in;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P1 &amp; P2</span></b></p></td><td width="138" valign="top" style="width:103.5pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="138" valign="top" style="width:103.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P3 &amp; P4</span></b></p></td><td width="126" valign="top" style="width:94.5pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="126" valign="top" style="width:94.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P5</span></b></p></td><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="114" valign="top" style="width:85.5pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:32.2pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">P6</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:53.75pt"><td width="173" valign="top" style="width:130.0pt;border:solid windowtext 1.0pt;
+  solid windowtext .5pt;padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:53.75pt"><td width="695" colspan="5" valign="top" style="width:521.5pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">March Holiday</span></p></td><td width="144" valign="top" style="width:1.5in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1.5 hour</span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">2 hours</span></p></td></tr><tr style="mso-yfti-irow:2;height:53.75pt"><td width="173" valign="top" style="width:130.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">June Holiday</span></p></td><td width="144" valign="top" style="width:1.5in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1.5 hours</span></p></td><td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">2 hours</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">3 hours</span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">4 hours</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:53.75pt"><td width="173" valign="top" style="width:130.0pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">September Holiday</span></p></td><td width="144" valign="top" style="width:1.5in;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">NIL</span></p></td><td width="138" valign="top" style="width:103.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1 hour</span></p></td><td width="126" valign="top" style="width:94.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">1.5 hour</span></p></td><td width="114" valign="top" style="width:85.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:.05in .1in .05in .1in;
-  height:53.75pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">4 hours</span></p></td></tr></tbody></table>
+  padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
+  tab-stops:list .5in"><span style="font-family:&quot;Arial&quot;,sans-serif;
+  mso-fareast-font-family:Arial"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Homework assignments will not be given over festive periods during term time,</p><p class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>e.g. Chinese New Year, Hari Raya Puasa and Deepavali.</p></td></tr></tbody></table>
 
 To give our pupils time for other pursuits over the weekend, we have not included weekends in the time norms. The completion of homework assigned on Fridays can be spread over the weekend. &nbsp;
 
