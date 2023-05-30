@@ -133,7 +133,7 @@ School Holidays
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:.05in .1in .05in .1in;height:53.75pt"><p class="MsoNormal" style="margin-left:.5in;text-indent:-.25in;mso-list:l0 level1 lfo1;
   tab-stops:list .5in"><span style="font-family:&quot;Arial&quot;,sans-serif;
-  mso-fareast-font-family:Arial"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Homework assignments will not be given over festive periods during term time,</p><p class="MsoNormal"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>e.g. Chinese New Year, Hari Raya Puasa and Deepavali.</p></td></tr></tbody></table>
+  mso-fareast-font-family:Arial"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Hari Raya Puasa and Deepavali.</p></td></tr></tbody></table>
 
 To give our pupils time for other pursuits over the weekend, we have not included weekends in the time norms. The completion of homework assigned on Fridays can be spread over the weekend. &nbsp;
 
