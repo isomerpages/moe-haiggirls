@@ -4,9 +4,9 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: Please take note that there will be a power shutdown of our
-  electrical supply on 13 Jun, from 2-4 pm. For any queries, please contact us
-  at  6344 0293. Thank you.
+notification: Please note that there will be a power shutdown of our electrical
+  supply on 13 Jun, from 2-4 pm. For any queries, please contact us at  6344
+  0293. Thank you.
 sections:
   - hero:
       background: /images/haighp.gif
