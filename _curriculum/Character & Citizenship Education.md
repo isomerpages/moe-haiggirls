@@ -202,7 +202,8 @@ Fig: Clusters of study across the various levels
 
 ### Learning Journeys
 
- 
+ **![](https://lh5.googleusercontent.com/xBIeFizciTCwOGO1xcebYiWemCab4pBs0HJyMXma0_73GsO1lef9p1IYaE86rT7Ne9isQYhnm2j11jcnh14m_GnnOhIRvBdpviCyBOB5hY0kzWRGqhpqi92hCEmJFw_KcWKRHhAoFB4B)**
+ **![](https://lh3.googleusercontent.com/JsVcB-scWlAtCGnrJ37Pu6B4M_yb4Xi1REus78zPAmhGle0dmsedF8tpqhDpGj_Vqo475Bn06YXkcFgEoOTyVWdR1ngBYwQF4uLcvqAwoOy2Y1TSQ7CB7BMv_neBpJlwm_GzJOWcB0un)**
 
 Above: Snippets of our P4- 6 Learning Journeys and parents that have come along to support us
 
@@ -325,4 +326,3 @@ Read more about our VIA efforts [here](https://www.haiggirls.moe.edu.sg/hgs-expe
 IPW is a school-wide programme that helps students to integrate learning and create new value through an interdisciplinary approach. IPW provides students with the opportunities to appreciate the culture and heritage of their community, to develop a sense of belonging and pride as well as to play a role in active citizenship. This ties in with the 2E2R approach of Explicit teaching, Experience, Role-Modeling and Reflection.
 
 Click [here](https://www.haiggirls.moe.edu.sg/hgs-experienc/alp/) for more information.
-
