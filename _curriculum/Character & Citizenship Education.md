@@ -326,3 +326,76 @@ Read more about our VIA efforts [here](https://www.haiggirls.moe.edu.sg/hgs-expe
 IPW is a school-wide programme that helps students to integrate learning and create new value through an interdisciplinary approach. IPW provides students with the opportunities to appreciate the culture and heritage of their community, to develop a sense of belonging and pride as well as to play a role in active citizenship. This ties in with the 2E2R approach of Explicit teaching, Experience, Role-Modeling and Reflection.
 
 Click [here](https://www.haiggirls.moe.edu.sg/hgs-experienc/alp/) for more information.
+
+### Student Leadership Development Programme
+
+**
+
+The student leadership development programme is designed to develop every student as a leader of character. Every student will be given an opportunity to be a leader, beginning at the class level.&nbsp;
+
+The four HGS leadership attributes are:
+
+*   lead by example
+    
+*   serve with humility
+    
+*   take initiative, and
+    
+*   influence others positively
+    
+
+Click&nbsp;[here](https://www.haiggirls.moe.edu.sg/images/sldpledge.jpeg)&nbsp;for the Student Leaders’ Pledge.
+
+Student Leaders’ Investiture
+
+The annual student leaders’ investiture is held in the first semester during assembly. At this investiture, student leaders (ranging from Character Citizenship Education ambassadors to CCA leaders and Prefects will be formally acknowledged and presented with specific badges by the Principal and Vice-Principals. At the same time, the investiture serves as an opportunity to acknowledge that every student in HGS is a leader.
+
+Student Leadership Framework
+
+We believe that every HGS student will be a leader of character who&nbsp;demonstrates our school&nbsp;values (I4Cs) and leadership attributes. Our school’s Student Leadership Development Committee has created a Student Leadership Framework to ensure all our students are nurtured to be a leader.
+
+The Student Leadership Framework is built on HGS’ vision of “Leaders of Character, Striving for Excellence in a Vibrant School”. It has four concentric circles with the inner circles depicting the values and leadership attributes, while the outer circles illustrate the platforms and approaches for students to hone their leadership skills.&nbsp;
+
+![A picture containing text, screenshot, cartoon, diagram
+Description automatically generated](https://lh4.googleusercontent.com/gg8glgQIse0BpZf8SOiKbjjVEmJByTrzHDNcZGdvzqQe8ph3xABW2YF6u6R38OOBE0M6w6_lGN-tnUHO0yXIXbiFwCMRRK0F11MYicQ3nVBuih4lp4BnovIFGTjN-PDOQH_d_azVp8oX)
+
+The first inner circle indicates our school values (I4Cs) – Integrity, Commitment, Cooperation, Creativity&nbsp;and Concern, which we would like to inculcate in every Haig girl.
+
+The second inner circle indicates the leadership attributes – “Leads by Example”, “Takes Initiative”, “Serves with Humility” and “Influences Others Positively” which further build upon the fundamental school values of I4Cs.
+
+The third outer circle shows the platforms (CCA Leaders, Class Leaders, Ambassadors and Prefects) that we have designed to provide our Haig girl the opportunity to take on authentic leadership roles.
+
+Finally, the outermost circle depicts the 2E2R approach - “Experience”, “Explicit teaching”, “Reflection” and “Role-modelling”, used to cultivate the leadership qualities in our students.
+
+*   Through explicit teaching and by providing students with experiences (e.g. FTGP Leadership Lessons, Leadership Training, Leadership Opportunities), all students will be able to develop their leadership capabilities.
+    
+*   We also empower our students to lead in events such as the&nbsp;TKSS Junior Leadership Symposium, Leadership Assembly Presentations and the HGS Open House. No Haig girl is too young to make a difference to others, the school and the community.
+    
+*   Furthermore, we encourage the students to reflect and evaluate their own strengths and missteps in their leadership journey. Using a growth mindset for self-reflection coupled with peer evaluation will help solidify their understanding of what it takes to be a good leader.
+    
+*   We also provide affirmation and encouragement through events such as the Student Leaders’ Investiture and Prize-Giving Day. We celebrate not only achievements but the hearts of our students.
+    
+
+Leadership Training Structure
+
+To support the students in developing their leadership skills, a three-tiered&nbsp;training structure was&nbsp;created.
+
+![A picture containing circle, graphics, symbol, design
+Description automatically generated](https://lh4.googleusercontent.com/xoKgGpTBzJC4KhsWKtgFrV_bNuDA2MfLKZRfjJfjOF86YMcv7R-wgqBImjeVlbv-0qZwJulM-0qLJBqsGpjtXw-Xq6J5pqNu4GK13IDnk8eHNqVb1oxMdMeDAOQTo5xEgs7dQlKCXvdi)
+
+3-Tiered Student  
+Leadership Training
+
+In addition to the above key training programmes, there would be specialised training programmes catered for different groups of leaders so as to hone their skills in the specific areas.
+
+  
+
+![A collage of a group of students in a classroom
+Description automatically generated with low confidence](https://lh6.googleusercontent.com/_Y-XCiM7q-5nF2YwLZl5IYGIenZsyADZ7UqblFrxyTPgHoSqHJJyCE-Qxg3omnshkG49jp4ahtUa50Ni9JFHyhPhlOcIHpK5kD10ir6Ay5sRCM-tH665FRtNvJDcsyTzIAYNBXC6UIRi)![A group of people sitting in a classroom
+Description automatically generated with low confidence](https://lh3.googleusercontent.com/Z7xPeo8vEIoIXUXqKLVExErwXrsOLWC9kJSnJMaEfzUzq_v5FTjvZJDh9XmfaaXXkU_0avqVB_T27MNd4CzO6m9Tb3UWPy4qwdWVJVg4m828c6oOU0jlvKM-4DVyv9Bvh0xmCQJ1SdBu)![A picture containing screenshot, volleyball, person, clothing
+Description automatically generated](https://lh6.googleusercontent.com/SOeM7VG4QLXvkMOzeGWAMbvHiFVsmDxonW-M4UXDUqUAngJDFNAme9yanslcLra2PC_WVvPz9HSquGWpDhFIzUcZCcovOZZ9dns8wKHzVnJLhk-MYsuZhQOK84803XyvufzW6VcYfcHd)
+
+TKSS Junior Leadership Symposium
+
+Partnership with TKSS and TKPS in sharing and developing leadership skills for students from other primary schools. Our prefects facilitate this symposium, and the other leaders participate in the event.
+
