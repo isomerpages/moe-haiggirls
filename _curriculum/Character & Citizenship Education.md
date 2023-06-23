@@ -154,13 +154,6 @@ Social Studies&nbsp;
   
 ![](https://lh5.googleusercontent.com/RRnSC3RnGAgm6VrI55QI0BrenVyocjnK3dhXxuMXn-wIU_8BNj90zWa6mqI-CTUV3idQKGUTSJZeakKpVQhnrB9VxEN9bOZV7K4RFhRMhuFdEnPh53yEGRrAXbh55vJc5a73JLtq2AfB)![](https://lh6.googleusercontent.com/w7qnN3OxsWkiR0xi2e6ASApNiUs7rKsCSrmiw13VC3K1NiHd7Wib3chAZLQvz7VLq7KpgNxcwdQyPU-e1t75GqVCHRqptcNfjZWBMG8NtkvRXedgJU6yVtsRiZbXZ3CtdVs7DiSJw-tF)![](https://lh5.googleusercontent.com/It9-NX7j73-_mT6WJ-sGaKn7K4xZamwHffxHANV7UtqP97EnKZnRM2VzpxiFLQPg0QOGPHI85aSJr-AnHXVIPaYEyjaVsCYA9Kw1prsK043Smq3SF4TPQ3LS_ejaj85e1LO1p-qfeMEu)
 
-  
-
-  
-
-  
-  
-
 Above: Our dedicated group of Social Studies teachers &amp; snippets of Social Studies lessons in action
 
 Purpose
@@ -205,3 +198,131 @@ As participative citizens, students will:&nbsp;
 **![](https://lh4.googleusercontent.com/2AJ5-MTTyQgU_nU5yz6zmTFqm19UANcXnGkVdCTuPojIpBM3C6ubxmloxV5wbD--Q7M3UF8P9oRsq3l066sE71C4KEtyMdZFOEbIOv915G62sHtCmd41BmTFKgVbSvZlFHiLhAG8zAQF)**
 
 Fig: Clusters of study across the various levels
+
+
+### Learning Journeys
+
+ 
+
+Above: Snippets of our P4- 6 Learning Journeys and parents that have come along to support us
+
+ Cohort LJs have been developed to provide all students with opportunities to explore their Singaporean identity through the arts, culture and heritage. These complement our national Art, Character and Citizenship Education and Social Studies curricula.
+
+Cohort LJs consist of the Primary 5 NE Show, Museum-Based Learning (MBL) and learning journeys that are part of our ALP-IPW (Integrated Project Work).
+**![](https://lh6.googleusercontent.com/xviar-i7wa1trdPKYsF5RlVPagaxLorvYFsSu0SNa2L2EMsXf9w1snt8m1t8Ii8xuVJLq8JSXgFQxHMgkBvsmYN1GQDWZ7R9ap51bw7FfEKxx-u1u9_6ZtFIr3yiVQ70MaozjL68QK__)**
+
+
+Fig: Overview of Cohort Learning Journeys
+
+### Museum-Based Learning
+
+Our MBL (CCE, History and Social Studies) and signature P4 IPW TIMEOUT program aims to enable a more inclusive and authentic learning experience for students in art, heritage and history through pre-, during- and post-visit lessons to Singapore’s art museums and historical sites. As these LJs are designed to achieve respective syllabus outcomes, including the development of citizenship dispositions and national identity in students, our students go through these compulsory cohort LJs at the designated academic level and in all three phases (i.e. pre-, during and post-learning journey).
+
+The pre-visit experience arouses students' interest, activates their prior knowledge and provides relevant context to allow students to form deeper and more meaningful connections to the new knowledge and experiences gained during the visit. The post-visit experience provides time and space for students to review, reflect and help them make connections between what they already know or have experienced within their lives and across the curriculum.
+
+All the MBL experiences are facilitated by museum educators with expertise in content on both the galleries and artefacts at the respective sites, further reinforced by our Social Studies teachers in class.
+
+The MBL (CCE, History and Social Studies) are developed around the following themes and questions:
+
+&nbsp;Themes
+
+*   Our Singapore Way: Our Multicultural Heritage&nbsp;
+    
+*   Our Singapore Spirit: Turning Challenges into Opportunities
+    
+*   Our Singapore Story: Growing Singapore Together
+    
+
+Key Questions&nbsp;
+
+*   How do I demonstrate respect for and appreciation of diversity?
+    
+*   What does being Singaporean and/or living in Singapore mean to me?
+    
+*   How can I be an advocate for positive change in the community and society?
+    
+*   What are some local, global, social and environmental issues that I care about?
+    
+
+### NE Core Events
+
+Total Defence Day&nbsp;
+
+![](https://lh5.googleusercontent.com/OMXZS9zVuRRCJG2gAjJ-4Yfv3JQ5vNc0QDCbkejXhWRKlPFstskaVQGM4pG0pNaRUKuOvIIbuIyEJiRGbUZuMxWLyB35Y5LIdjybWzKtMGwOUPSZ0ksC2UADuudn2mM_H1rE8ujlXnV-)![](https://lh6.googleusercontent.com/gg8w-SSSO0lSat0iACvOYQOXJlNl2qD-HhyyCuMHhNoPEOu0Y9jLpRxpCzcSLAsRtrtwy6gTjBVv70jGTbZVbBgTgPwNXpHBwBHkivgXh9PZHb4Q6IKDahrIpR-9lJCJ_vLJmv7_8cvf)
+
+We commemorate Total Defence Day on 15 February each year to mark the fall of Singapore to the Japanese in 1942. In commemorating TDD, our students reflect on the importance of Total Defence as Singapore's best all-round response to threats and challenges that confront Singapore (e.g. terrorism, pandemics, cyber-attacks, influence campaigns or economic crises). Students also reflect on the continuing relevance of the six pillars of Total Defence - Military Defence, Civil Defence, Economic Defence, Social Defence, Digital Defence and Psychological Defence - as well as the core message of every Singaporean standing together, each playing our part to protect Singapore and our shared way of life.&nbsp;
+
+International Friendship Day
+
+  
+![](https://lh5.googleusercontent.com/t23br6eJuc4pkUvM7gGHzq5Myi9WYE5ja22H0f4Oxv-QpCaMVJZGrGBCVq1uuHZJD4PTUbiLguSuPOZdgaVZRvP1OiklBq35lB4O0SryK_vX1giLq6vvpA2mml1gsxnpWGnfZYkAHs76)![](https://lh3.googleusercontent.com/blkwFBmrsMVraMLmjZhvDQ0BD3rCHCrAqrgjuR_VswQ_FV6nWwXxvO-MqwyacMMLOinhCO98cC7N8gVWApxKNaqOFlgf9rnXxd_yUvvcNUs_PMyS9V8Vt3eMaqA-X75tNXqhUn17o8Pj)
+
+  
+
+  
+  
+
+  
+
+We commemorate International Friendship Day on the 3rd Friday of Term 2. This is a day dedicated to the understanding of Singapore's relations with neighbouring countries and beyond. The commemoration of IFD allows our students to be sensitised to Singapore's geopolitical realities, and to reflect on the importance of a) an active foreign policy to maintain Singapore's international space; b) openness to the international flow of trade, ideas and talent; c) cross-cultural skills and a global orientation; and d) the spirit of friendship and collaboration amongst different people. Through our specially planned assembly program and NE Focused CCE (FTGP) lessons, our students are acquainted with the diverse and colourful culture and traditions of the region and the lives of their peers in other ASEAN Member-States. We also nurture in them the spirit of friendship and collaboration among different peoples in ASEAN and beyond, on top of having them keep an open mindset and express an appreciation of the contributions of foreigners living, working and studying in Singapore.
+
+### As part of school efforts to promote foreigner-local integration, experiences have been designed for the foreign students in our midst to have:&nbsp;
+
+1.  Mutual understanding, appreciation, and acceptance among students of different lifestyles and cultural backgrounds
+    
+2.  Spirit of friendship and social values of collaboration
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+Racial Harmony Day
+
+![](https://lh6.googleusercontent.com/cTduzjOFtBOuVdvUW1cjfhRL1VZDiv4uGKGRfNyRUell8Os7JktA7kZnRomxde-V33gl1wIgi9UQ9ykspvfgU4Y8jadn82jYjemHtYZzh1IvZ86oYz8j7QY0pOZFdfHr2DxznWj0elvh)![](https://lh5.googleusercontent.com/tcspjV83ZRzZg93iCRzHtURRS4mtUqI-zmf-qu1U-PVav7UXtA4gT1ppl47pF29rnCCs_5N-iYMDuT-FVLPxBefaBsJCrhxX2uBmz2AML1-4WsiG6mGdj3N-zsnPvrCE-46ohM6LXka1)![](https://lh6.googleusercontent.com/DMeV7dxxk9LFs8GiFJU6K_YpxpGh3yVHyE-nI1iPvHBoGw_6VoxFTGOtuITlnJ3ccqoBwmNwcI33lUFoo4Mr3zNwTa03xPAcB_zOctDhxWrF_EmdV8e-i_NptCemXyTZUcL5tq15AtSA)![](https://lh3.googleusercontent.com/zsguswOYGSi92ooOR-9jizlX7fL72qsFpFrg9uUzw4JQfsy-PUT30KzFt9W2-1tZl1P3G4tyrZdaLgZc5y_i9sM6aIG2coBNYiPlDQfKk5_UFO_SgIaA_C78_GPvvIVfsvIQYebh3WOc)
+
+Above: Students engaged in RHD activities led by our CCE Ambassadors and supported by our very lovely Parents Support Group (PSG)
+
+We commemorate Racial Harmony Day (RHD) on 21 July each year to mark the anniversary of the 1964 race riots. On this day, students reflect on and celebrate Singapore as a harmonious society built on a rich diversity of cultures and the collaborative effort of all to promote social cohesion. As part of our commemoration, we facilitate activities that enable our students to make friends with people of other races and religions and reinforce the message that in Singapore, people are treated equally regardless of their race and religion, and that students should appreciate the  
+different cultures that make up Singapore.&nbsp;
+
+  
+
+  
+
+  
+
+National Day![](https://lh4.googleusercontent.com/XHpMwqWP7090NvdD4Y74zGJagXC_Jj7d5SSD2_IFVhaNTOse0qwZdaYn9u_JDCETzEPCpHeDfqXHTvmG9P6GsvHcUYoUkJYkr4iy-3c1vA0RPNJ7k4jpWatT-FRnuAwpiKOHEy6PCbee)![](https://lh4.googleusercontent.com/8UE9yqquXJVx7g-rM6z2venJB4SUDZpxQpP-gC5Y2tevaYze4NH7PiI5I-kZ8hQ758P85l2nKKu03kOnIXCzKGVM8Os62C_xYsireayd7KDwFRx4pi9VJ1H34YdLdTG1U_LSJEUT2Coc)![](https://lh3.googleusercontent.com/sLPZY2xafDxQ8BXqNLojXAF3_ODIQbO67N4EsapzDPuNKuoRe3yELVOZe5Pbpa8Vv0-e9AFLYWLWOOT6vxRSlCTemtj_oWEdXv6l066swCrPZ9nJ9IPr1T0gfbPE4huLUPqg6l_ypg2E)![](https://lh4.googleusercontent.com/HWXMb8ywXrVPXlxgKomk5uCA-HTRWCOUV8tHS_3ZY3LxgGi5UyDvSewSg0K4ikS5gRZRHwQFPq_oq9pYFJ4Do33-BxQwrj8HhVlgpM43h2uTorBhTO5EJhRD5Il29Ri__hO-41dZSlep)![](https://lh3.googleusercontent.com/TtPiR2uEVEnlwtxpxl6R59zVSgxOHYH-DOIwwwKjNvS4B0zKu34cYVXb4n-WTCVZFnTvOKB5xvImgLBCFXBsSfHqZJk2JiEgYP6YU2jCtwwgWmBr92uFb0XCDPgbvvEFdEbSOWBf1BAc)![](https://lh6.googleusercontent.com/5lJpksQ_gJ61GyCS62oIGlyLS8KNwFVMXVVoRwjT3WneJeGmrfN3imUyPHoY3gEHxeD1Bi5ZmMrTGPdwwadgKOG6eez6znJ4uKYv8aYI4kc5kHSnCvueScA5GPct4n2CbQEhw2vq8SHn)![](https://lh6.googleusercontent.com/easJqnFq5SwZSGLusuyxGnNr6u7eIeFWLMYOj9AlmdIAosw4sy86h_C0fasiCrhspIB4usvujb1EBlnGEGkFJ8O7jMFassOrs5DB1euEFt2WSP2LxA1pie0v0MnaLSsmFfesDjrlzhFd)![](https://lh4.googleusercontent.com/q5qFqjuLrnrifXbhcHsRv2gd3icLPFCz5jiTgrVEUHGQWtmkcM9WKS5ixz6YYDXIbPQcF8na72CvLQXnhDuIAJ1ZdfsGcyh9EMx_t8Jhits_p9ucM6N9h3MBElXlLEBlY6Nd0BkyWKz9)![](https://lh4.googleusercontent.com/NiZ83VgDbpi4ykkL7JoMGIcpIhA_5fy6gHzTv5iC0DDjS3T8zYnDGDa2FZZTJS7n4R6asozvGmRn4W3PY_tgleH7-dOdKeoAQhZ_EdBA0CzM2qwmp8cNvHT493iYSONhT3G-wSIOKrcN)
+
+  
+
+National Day marks our separation from Malaysia in 1965, and our emergence as an independent country in a community of nations. The school-based commemoration brings to students a sense of the historical importance and solemnity of National Day. As part of our National Day celebrations at Haig Girls, we provide our students with a platform to live out the school’s vision of being leaders of character through engaging in active citizenry. We remind our students of the importance of giving and emphasize on instilling a heart of gratitude in our students.&nbsp;
+
+As part of our Bags of Blessings initiative through the years, we have reached out to various groups of people in society (e.g. Residents at Marine Parade flats, migrant workers, frontline &amp; healthcare workers, the less fortunate children and youths residing in homes &amp; shelters etc). This outreach helps provide an opportunity for our students to embrace the power of giving, to think about others before themselves and believe that anyone, regardless of their age, is able to give back to the community and make a positive difference to another person.
+
+Our Parents Support Group would hold a yearly charity book drive in conjunction with our National Day celebrations. They would collect pre-loved books from our students and staff and sell them during recess to students and teachers. Proceeds from the book drive would then be donated fully to our students in need.
+
+### Values In Action
+
+Service to the school and community, leadership roles and responsibilities, CCAs and group work are important experiences that we give our students, so that they can live out the school values in the process of serving others and working with one another.&nbsp;
+
+Read more about our VIA efforts [here](https://www.haiggirls.moe.edu.sg/hgs-experience/leaders-of-character/).
+
+### Integrated Project Work (IPW)
+
+IPW is a school-wide programme that helps students to integrate learning and create new value through an interdisciplinary approach. IPW provides students with the opportunities to appreciate the culture and heritage of their community, to develop a sense of belonging and pride as well as to play a role in active citizenship. This ties in with the 2E2R approach of Explicit teaching, Experience, Role-Modeling and Reflection.
+
+Click [here](https://www.haiggirls.moe.edu.sg/hgs-experienc/alp/) for more information.
+
