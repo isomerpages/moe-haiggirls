@@ -398,4 +398,3 @@ Description automatically generated](https://lh6.googleusercontent.com/SOeM7VG4Q
 TKSS Junior Leadership Symposium
 
 Partnership with TKSS and TKPS in sharing and developing leadership skills for students from other primary schools. Our prefects facilitate this symposium, and the other leaders participate in the event.
-
