@@ -30,4 +30,3 @@ Our teachers have conducted professional sharing sessions at national and intern
 
 **![](https://lh6.googleusercontent.com/NueQfYiRCUI2D3eT9YmVWtb5KrUcOukzjaRbS2e5jj07hSubbslZDcd50OzcnMIpQ3tj_3KPRJG7m5HiwKbQdPV11wSRNFv5tUuX4ZGnuyyTxtKAFm-Ee_6SkF_8_hvLUKHBqOkoW_HQ)**
 **Staff Learning Journey to the Edible Garden City in November 2022**
-
