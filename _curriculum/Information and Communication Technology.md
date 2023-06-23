@@ -77,3 +77,5 @@ Different Professional Development programmes are developed according to the 3-t
 ![](https://lh5.googleusercontent.com/aNvrHgAiHXluSjzHjtrNzc90LVoMjovBIKgG7eGL0JGaUk83CV32663Ty1hZzGNUl-LxwuKvm78r4xu-qcOgZ-M5tyK5YhwKmy-whFQA5vHedHUIHPunLMXu0Utusruquv3daDPX6x2r)
 
 Teachers attend whole school training sessions, workshops and conferences, work in Professional Learning Communities, conduct peer and group observations and have individual coaching sessions to design ICT-enriched learning experiences.
+
+**![](https://lh5.googleusercontent.com/Bv0RHqXZ_anzvvSrXgvAfZRLyT1WkRibvyclii8glo7y4z3HZ0rv9cbTqi862r9kIV6z5FK7xcBYt2nWMAExI6RqcCNOHaH6j_YwkHjy93OlRZpuvVEPVL4byjKl-NldAs0Xa_UmBDMbbdfZIkrvxw)**
