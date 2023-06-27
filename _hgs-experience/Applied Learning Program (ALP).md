@@ -158,7 +158,7 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
 
 ##### **IPW for Primary Three – Food Security and Resilience**
 
-*Pictures for P3 IPW will be updated in mid 2023 due to programme revamp.*
+![](/images/p3%20ipw%202023.jpg)
 
       
 ##### **IPW for Primary Four– TIMEOUT**
