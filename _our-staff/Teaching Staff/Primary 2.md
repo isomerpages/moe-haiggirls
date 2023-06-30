@@ -4,23 +4,12 @@ permalink: /our-staff/Teaching-Staff/p2/
 description: ""
 third_nav_title: Teaching Staff
 ---
-![](/images/2023%20P2%201.jpeg)
-![](/images/2023%20P2%202.jpeg)
+![](/images/new%20p2%2030%20june.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sce8{background-color:#FFF;color:#FC9400;text-align:left;text-decoration:underline;vertical-align:middle}
-.tg .tg-8rcp{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-794o{background-color:#FFF;color:#F93;text-align:left;text-decoration:underline;vertical-align:middle}
-</style>
+
 <table class="tg">
 <tbody>
-  <tr>
+<tr>
     <td class="tg-8rcp">Class</td>
     <td class="tg-8rcp">Form Teacher</td>
     <td class="tg-8rcp">Email</td>
@@ -50,12 +39,16 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06">Mrs Heng Phek Huang</td>
-    <td class="tg-zr06"><a href="mailto: tay_phek_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> tay_phek_huang@moe.edu.sg</span></a></td>
+    <td class="tg-zr06"><a href="mailto:&nbsp;tay_phek_huang@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">&nbsp;tay_phek_huang@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-zr06">Mdm Lu Seok Hua</td>
+    <td class="tg-zr06"><a href="mailto:lu_seok_hua@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">lu_seok_hua@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Joy</td>
     <td class="tg-zr06">Miss Sharene Foo</td>
-    <td class="tg-zr06"><a href="mailto: foo_phang_khim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> foo_phang_khim@schools.gov.sg</span></a></td>
+    <td class="tg-zr06"><a href="mailto:&nbsp;foo_phang_khim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">&nbsp;foo_phang_khim@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Mainura</td>
@@ -63,12 +56,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06"></td>
-    <td class="tg-sce8"><a href= target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
+    <td class="tg-sce8"><a href="target=&quot;_blank&quot;" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="3">2 Kindness</td>
     <td class="tg-zr06">Mrs Lisa Yap</td>
-    <td class="tg-sce8"><a href="mailto: wong_hsiao_sien_lisa@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> wong_hsiao_sien_lisa@schools.gov.sg</span></a></td>
+    <td class="tg-sce8"><a href="mailto:&nbsp;wong_hsiao_sien_lisa@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">&nbsp;wong_hsiao_sien_lisa@schools.gov.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-zr06">Mdm Angeline Guay</td>
@@ -80,12 +73,12 @@ third_nav_title: Teaching Staff
   </tr>
   <tr>
     <td class="tg-zr06" rowspan="2">2 Patience</td>
-    <td class="tg-zr06"> Mrs Jeya Lawrence</td>
+    <td class="tg-zr06">&nbsp;Mrs Jeya Lawrence</td>
     <td class="tg-sce8"><a href="mailto:kavitha_jeyamalar_segeran@schools.gov.sgg"><span style="text-decoration:underline;color:#FC9400">kavitha_jeyamalar_segeran@schools.gov.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-zr06"> Mdm Choo Poh Ying</td>
-    <td class="tg-zr06"><a href="mailto: choo_poh_ying@schools.gov.sgg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400"> choo_poh_ying@schools.gov.sg</span></a></td>
+    <td class="tg-zr06">&nbsp;Mdm Choo Poh Ying</td>
+    <td class="tg-zr06"><a href="mailto:&nbsp;choo_poh_ying@schools.gov.sgg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:underline;color:#FC9400">&nbsp;choo_poh_ying@schools.gov.sg</span></a></td>
   </tr>
 </tbody>
 </table>
