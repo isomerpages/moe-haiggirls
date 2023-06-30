@@ -62,8 +62,7 @@ third_nav_title: Teaching Staff
     <td class="tg-a2w0"><a rel="noopener noreferrer" target="_blank" href="mailto:norah_nordin@schools.gov.sg"><span style="text-decoration:underline;color:#FC9400">norah_nordin@schools.gov.sg</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ktyi"></td>
-    <td class="tg-a2w0"><a rel="noopener noreferrer" target="_blank" href="mailto:wong_hsiao_sien_lisa@moe.edu.sg"><span style="text-decoration:underline;color:#FC9400"></span></a></td>
+  
   </tr>
   <tr>
     <td rowspan="2" class="tg-ktyi">1 Patience</td>
