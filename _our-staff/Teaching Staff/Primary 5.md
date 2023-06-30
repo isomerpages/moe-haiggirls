@@ -46,10 +46,11 @@ third_nav_title: Teaching Staff
     <td class="tg-zr06"><a href="mailto:&nbsp;yeo_yu_nian_nikki@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400">&nbsp;yeo_yu_nian_nikki@schools.gov.sg</span></a></td>
 		</tr><tr>
 		<td class="tg-zr06"></td>
-    <td class="tg-zr06"><a href="mailto:&nbsp;&nbsp;helimmi_ahmad_ibrahim@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="color:#FC9400"></span></a></td>
+    <td class="tg-zr06"><span style="color:#FC9400"></span></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><span style="font-weight:400;font-style:normal">5 Humility</span></td>
+    
+<td class="tg-zr06"><span style="font-weight:400;font-style:normal">5 Humility</span></td>
     <td class="tg-zr06">Ms Aisyah</td>
     <td class="tg-sce8"><a href="mailto:siti_aisyah_puteri_junadi@schools.gov.sgg"><span style="text-decoration:underline;color:#FC9400">siti_aisyah_puteri_junadi@schools.gov.sg</span></a></td>
 		</tr><tr>
