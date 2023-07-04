@@ -48,7 +48,7 @@ We will not be liable for any loss or damage in
 
 **7\. Privacy Policy**
 
-Please view our Privacy Policy page by clicking this .
+Please view our Privacy Policy page by clicking [here](https://haiggirls.moe.edu.sg/privacy/hgsprivacypolicy/) .
 
   
 
