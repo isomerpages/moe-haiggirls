@@ -1,6 +1,7 @@
 ---
-title: Privacy Statement
-permalink: /privacy/
+title: Privacy Policy
+permalink: /hgsprivacypolicy/
+description: ""
 ---
 1.  This is a Haig Girls' School, Government Agency website. We adopt the same principles relating to your privacy as other Government of Singapore websites.
 2.  If you are only browsing this website, we do not capture data that allows us to identify you individually.
