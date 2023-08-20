@@ -4,10 +4,8 @@ permalink: /contact-us/sca/
 description: ""
 ---
 ##### Stall Vacancies:
-**Malay Food Stall - 16 June 2023 - Rice or noodle stalls are acceptable.**
 
-**Japanese/Korean Food Stall - 16 June 2023 - NIL**
-
+![](/images/canteen%20vacancy.jpg)
 
 ### **Application Procedure**
 
