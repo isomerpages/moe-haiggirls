@@ -42,16 +42,16 @@ Art Club students conduct interesting activities to recruit new members for the�
 following year.
 
 ![](https://lh3.googleusercontent.com/ilAn6J1t3pgnn2SI2ZqwZuvsmB7C7a2I-HJl98jJ0btnjflXw4DBouX-7f-Y-KaHZnLBXMvPqUaYUUxandPGi2Pyl5-A286i6YN6y60bXlUAzSizPcvq3V7T3DD_AGggjk8KsM7h099a)  
-Visitors to our booth
+Visitors to our booth.
 ![](https://lh6.googleusercontent.com/JeMQ_bEKFEQlhkZAXXfKi1_xbJ6oN4uRhtE8FyBgu6sNaGr8BFelFK6XUrqnLBmOkQVN5MDvo5HqLU1JZgryOXNoA1_c-SsJbir8F8TKFk0LXuzQ07lIZciSqLlF11Yc7iqupTHkjKvc)
-CCA leaders at the Art Booth
+CCA leaders at the Art Booth.
 
 3\. Designing of cards/tags for Bags of Blessings
 
 Art Club members have helped to design card/tags for the VIA programme - Bags of Blessings since 2022.
 
 ![](https://lh4.googleusercontent.com/dyac02ph-o89V6dZilb_PzPMNJ6yqZnCAeJSVl2wbiA-_Ts9-t0upImCuJ6rxgz1y0ctj05oxjF_B_KHGEx7JSzhCJEZ2Ya3UsI6c7du4qJaYbNcbtXAYPaB0iies5IswrtGjOiEJZke)![](https://lh4.googleusercontent.com/jK0N0TEi58i8hhmd9X4KrLJPJLd2svv7H43SQv-7FXH-uKkE4ZCzVBvkvjy4mDCljyoMroBms9FuwkS1aUK2HtkrWzXStWI-uKGD66oL1pHwldDOTT7wD_kwEk5UY36h7wUwGypb_gnL)
-Cards designed by Art Club members
+Cards designed by Art Club members.
 
 #### Teachers
 
