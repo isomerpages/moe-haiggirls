@@ -32,23 +32,19 @@ Members curate artworks for this popular and well-received Art Exhibition. Diffe
 *   Selecting and categorizing artworks done by P1 to P5 schoolmates, D3T2 Art  students as well as Art Club members.         
     
 ![](https://lh5.googleusercontent.com/zOrPuA3Xx-iSbVWGC-LhSWsA8f3Ri28szbiZ_u_eJmlSfba5AozFrAKfM-hUYMuwx0TmTmPrL5gs7GVoiaLyy8lu0h1Eiqjg7TUyYY9Xits1ESm8y7aXzacfEHCmZSEQu9RWBT9QYL5o)  
-Some Art Club art works on display 
+Some Art Club artworks on display.
 ![](https://lh4.googleusercontent.com/H4bOvm42whmUzL-rz7bMTbaM-EO9GTBdpWyNnkuhvBN5Cn9o3y8mdX-c4ey_gTBRgif6283soXM87TS9wg1nhtshcWMgSibIFtEqHwtYaCgARiPIhXGkgqwvXhdCai3tDEcCo-682sLY)
-
-            Working together with the other group of students to present art
-
-                                                                          works to visitors
+Working together to present artworks to visitors.
 
 2\. CCA Carnival 
 
 Art Club students conduct interesting activities to recruit new members for the 
-
 following year.
 
 ![](https://lh3.googleusercontent.com/ilAn6J1t3pgnn2SI2ZqwZuvsmB7C7a2I-HJl98jJ0btnjflXw4DBouX-7f-Y-KaHZnLBXMvPqUaYUUxandPGi2Pyl5-A286i6YN6y60bXlUAzSizPcvq3V7T3DD_AGggjk8KsM7h099a)  
 Visitors to our booth
 ![](https://lh6.googleusercontent.com/JeMQ_bEKFEQlhkZAXXfKi1_xbJ6oN4uRhtE8FyBgu6sNaGr8BFelFK6XUrqnLBmOkQVN5MDvo5HqLU1JZgryOXNoA1_c-SsJbir8F8TKFk0LXuzQ07lIZciSqLlF11Yc7iqupTHkjKvc)
-3 leaders mending the booth
+CCA leaders at the Art Booth
 
 3\. Designing of cards/tags for Bags of Blessings
 
