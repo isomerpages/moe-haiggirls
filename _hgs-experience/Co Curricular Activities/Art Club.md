@@ -51,7 +51,7 @@ CCA leaders at the Art Booth
 Art Club members have helped to design card/tags for the VIA programme - Bags of Blessings since 2022.
 
 ![](https://lh4.googleusercontent.com/dyac02ph-o89V6dZilb_PzPMNJ6yqZnCAeJSVl2wbiA-_Ts9-t0upImCuJ6rxgz1y0ctj05oxjF_B_KHGEx7JSzhCJEZ2Ya3UsI6c7du4qJaYbNcbtXAYPaB0iies5IswrtGjOiEJZke)![](https://lh4.googleusercontent.com/jK0N0TEi58i8hhmd9X4KrLJPJLd2svv7H43SQv-7FXH-uKkE4ZCzVBvkvjy4mDCljyoMroBms9FuwkS1aUK2HtkrWzXStWI-uKGD66oL1pHwldDOTT7wD_kwEk5UY36h7wUwGypb_gnL)
-Cards designed by  Art Club members
+Cards designed by Art Club members
 
 #### Teachers
 
