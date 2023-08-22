@@ -54,4 +54,4 @@ Lantern making activity during Mid-Autumn Festival Carnival
 
 [Click Here](https://drive.google.com/file/d/1JLpMCYsRs_ju357hH0ofOoyWGD8I1r7G/view?usp=sharing) to view our Mother Tongue Fortnight Video.
 
-[Click Here]() to view 学生园地
+[]()[]() to view 学生园地
