@@ -12,7 +12,8 @@ sections:
   - infopic:
       image: /images/2023 teachers day notice.jpg
       alt: Image alt text
-      subtitle: For HGS Graduates' Visit
+      subtitle: 2023 Teacher's Day
+      description: For HGS Graduates' Visit
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
