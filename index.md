@@ -10,8 +10,7 @@ sections:
   - hero:
       background: /images/haighp.gif
   - infopic:
-      title: "2023 Teachers Day "
-      subtitle: Infopic Subtitle
+      title: 2023 Teachers Day
       description: Infopic description
       button: Button Text
       image: /images/2023 teachers day notice.jpg
