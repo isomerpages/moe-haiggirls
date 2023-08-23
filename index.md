@@ -9,6 +9,13 @@ notification: The school will close at 2pm on Thursday, 31 August 2023. We will
 sections:
   - hero:
       background: /images/haighp.gif
+  - infopic:
+      title: "2023 Teachers Day "
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/2023 teachers day notice.jpg
+      alt: Image alt text
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
