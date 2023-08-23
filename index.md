@@ -10,10 +10,9 @@ sections:
   - hero:
       background: /images/haighp.gif
   - infopic:
-      title: 2023 Teachers' Day
-      button: Button Text
       image: /images/2023 teachers day notice.jpg
       alt: Image alt text
+      subtitle: For HGS Graduates' Visit
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
