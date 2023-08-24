@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Admin Team
 
-![](/images/EAS%20(1).jpeg)
+![](/images/eas%20aug%202023.jpg)
 
 
 ### Operation Support Staff
@@ -15,4 +15,3 @@ description: ""
 ### ICT / Lab / Library Staff
 
 ![](/images/EAS%20(2).jpeg)
-
