@@ -10,7 +10,7 @@ description: ""
 
 ### Operation Support Staff
 
-![](/images/OSO%20Dept.jpeg)
+![](/images/oso%202023.jpg)
 
 ### ICT / Lab / Library Staff
 
