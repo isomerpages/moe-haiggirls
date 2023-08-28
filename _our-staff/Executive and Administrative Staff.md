@@ -14,4 +14,4 @@ description: ""
 
 ### ICT / Lab / Library Staff
 
-![](/images/EAS%20(2).jpeg)
+![](/images/support%20staff%202023.jpg)
