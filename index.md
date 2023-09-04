@@ -4,8 +4,7 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: The school will close at 2pm on Thursday, 31 August 2023. We will
-  resume operations on Monday, 4 September 2023 at 8 a.m.
+notification: ""
 sections:
   - hero:
       background: /images/haighp.gif
