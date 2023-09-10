@@ -5,7 +5,7 @@ description: ""
 ---
 ##### Stall Vacancies:
 
-![](/images/canteen%20vacancy.jpg)
+![](/images/canteen%20ad%208-9.jpg)
 
 ### **Application Procedure**
 
