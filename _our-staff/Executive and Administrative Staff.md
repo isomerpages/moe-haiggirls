@@ -5,7 +5,7 @@ description: ""
 ---
 ### School Admin Team
 
-![](/images/eas%20aug%202023.jpg)
+![](/images/sat%20(2).jpg)
 
 
 ### Operation Support Staff
