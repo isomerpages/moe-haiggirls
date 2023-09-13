@@ -3,8 +3,6 @@ title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
 ---
-
-
 The Physical Education programme in Haig Girls’ promotes sports for character building and social bonding. In line with Vision 2030 “Live Better Through Sports” led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports, we aim for every pupil to be physically educated leader of character.
 
   
@@ -73,3 +71,6 @@ Every P4 to P6 pupil, who is medically fit, will have to go through the NAPFA te
 ### Co-Curricular Activities (CCA)
 
 Click [here](/hgs-experience/Co-Curricular-Activities/ccas/) for more information.
+
+### Photos
+Please [click here](https://photos.app.goo.gl/F4mqrDwm9WGXxNBG6)   to view the photos from our recent P5 Camp.
