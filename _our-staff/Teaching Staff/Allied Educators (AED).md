@@ -12,7 +12,7 @@ third_nav_title: Teaching Staff
 <tbody>
   <tr>
     <td class="tg-wa1i"><img style="width:75%" src="/images/aed1.jpeg">Senior AED<br>(Learning Behavioural Support)<br><a href="mailto:ong_peck_kuan@schools.gov.sg">Ms Ong Peck Kuan Ada</a></td>
-    <td class="tg-wa1i"><img style="width:75%" src="/images/ms%20lynn%20lim.jpg">Senior School Counselor<br>
+ <td class="tg-wa1i"><img style="width:75%" src="/images/ms%20lynn%20lim.jpg">Senior School Counselor<br>
 			<a target="" href="mailto:lim_cixian@schools.gov.sg">Ms Lynn Lim</a></td>
   </tr>
   <tr>
