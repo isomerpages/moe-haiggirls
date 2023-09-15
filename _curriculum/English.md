@@ -35,22 +35,22 @@ We recognise the importance of students reading extensively. Engaged and avid re
 
 Through the programme, we hope to grow in each of our students a love for books, and most importantly,&nbsp;**_a love for the language_**.
 
+
 2) Learning Support Programmes
 
-We support the learning of our Low Progress Learners who requires more learning support in&nbsp;their learning of reading and writing through the implementation of the following programmes:![Diagram
-Description automatically generated](file:///C:/Users/S85161~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif)
+We support the learning of our Low Progress Learners who requires more learning support in&nbsp;their learning of reading and writing through the implementation of the following programmes:
 
-4) Whole School Approach to Writing
+![](/images/el%20part%203.png)
+
+3) Whole School Approach to Writing
 
 We adopt a whole-school approach to writing by using a common language, our HGS Writing Goals, in every EL classroom.&nbsp; This approach has enabled us to develop effective writers who are able to connect intimately with their readers and express their ideas clearly and effectively.
 
-<table cellpadding="0" cellspacing="0" align="left"><tbody><tr><td width="0" height="1"></td></tr><tr><td></td><td><img width="528" height="300"></td></tr></tbody></table>
 
-&nbsp;
+![](/images/el%20part%204.jpg)
 
   
-
-5) Talent Development Programmes&nbsp;
+4) Talent Development Programmes&nbsp;
 
 &nbsp; &nbsp; &nbsp;(i) Speech &amp; Drama&nbsp; &nbsp; &nbsp;(ii) Creative Writing
 
