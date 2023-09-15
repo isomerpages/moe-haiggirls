@@ -27,7 +27,7 @@ We aim to build a strong foundation in our students through the implementation o
 
 The curriculum encompasses the following programmes and approaches:
 
-1) Extensive Reading Programme&nbsp;
+1) **Extensive Reading Programme&nbsp;**
 
 We recognise the importance of students reading extensively. Engaged and avid readers are generally better speakers and writers. Students can search for books in the HGS Library by accessing the&nbsp;[HGS Library Catalogue online](https://schoolibrary.moe.edu.sg/haiggirls/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME). We also encourage students to borrow books from the National Library Board, which has&nbsp;[book lists](https://www.nlb.gov.sg/Browse/ForChildren.aspx),&nbsp;[book recommendations](http://www.nlb.gov.sg/discovereads/)&nbsp;and&nbsp;[e-resources for children](http://eresources.nlb.gov.sg/Main/Pages/Primary).&nbsp;
 
@@ -36,13 +36,13 @@ We recognise the importance of students reading extensively. Engaged and avid re
 Through the programme, we hope to grow in each of our students a love for books, and most importantly,&nbsp;**_a love for the language_**.
 
 
-2) Learning Support Programmes
+2) **Learning Support Programmes**
 
 We support the learning of our Low Progress Learners who requires more learning support in&nbsp;their learning of reading and writing through the implementation of the following programmes:
 
 ![](/images/el%20part%203.png)
 
-3) Whole School Approach to Writing
+3) **Whole School Approach to Writing**
 
 We adopt a whole-school approach to writing by using a common language, our HGS Writing Goals, in every EL classroom.&nbsp; This approach has enabled us to develop effective writers who are able to connect intimately with their readers and express their ideas clearly and effectively.
 
@@ -50,7 +50,7 @@ We adopt a whole-school approach to writing by using a common language, our HGS 
 ![](/images/el%20part%204.jpg)
 
   
-4) Talent Development Programmes&nbsp;
+4) **Talent Development Programmes&nbsp;**
 
 &nbsp; &nbsp; &nbsp;(i) Speech &amp; Drama&nbsp; &nbsp; &nbsp;(ii) Creative Writing
 
