@@ -149,12 +149,11 @@ Haig Girls’ has developed a distinctive approach to Integrated Project Work (I
 	
 ##### **IPW for Primary One – Our Community and Me**
 
-*Pictures for P1 IPW will be updated in mid 2023 due to programme revamp.*
-
+![](/images/2023%20p1%20ipw.JPG)
 
 ##### **IPW for Primary Two – Singapore - Our City in Nature**
 
-*Pictures for P2 IPW will be updated in mid 2023 due to programme revamp.*
+![](/images/2023%20p2%20ipw.JPG)
 
 ##### **IPW for Primary Three – Food Security and Resilience**
 
