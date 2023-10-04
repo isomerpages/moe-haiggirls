@@ -13,4 +13,4 @@ description: ""
 
 ### ICT / Lab / Library Staff
 
-![](/images/eas%20(3).jpg)
+![](/images/ict%20and%20lib%20(2).jpg)
