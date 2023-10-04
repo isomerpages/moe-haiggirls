@@ -12,7 +12,7 @@ sections:
       id: infopic
       image: /images/2023 p1 orientation poster 1.jpg
       alt: Image alt text
-      subtitle: 2023 P1 Orientation
+      title: 2023 P1 Orientation
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
