@@ -5,12 +5,11 @@ description: ""
 ---
 ### School Admin Team
 
-![](/images/sat%20(2).jpg)
-
+![](/images/sat%20team%20(3).jpg)
 
 ### Operation Support Staff
 
-![](/images/1%20oso%202023.jpg)
+![](/images/om%20&%20oso%20(1).jpg)
 
 ### ICT / Lab / Library Staff
 
