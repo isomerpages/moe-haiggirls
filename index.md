@@ -8,6 +8,11 @@ notification: ""
 sections:
   - hero:
       background: /images/haighp.gif
+  - infopic:
+      id: infopic
+      image: /images/2023 p1 orientation poster 1.jpg
+      alt: Image alt text
+      title: 2023 P1 Orientation
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
