@@ -101,6 +101,7 @@ Students are strongly encouraged to seek sustained participation in the same CCA
       
     
 3.  How can my daughter request for a change in CCA?  
+
 The CCA Registration Exercise is conducted every year in Term 4. Students can submit their request via an online Appeal Form. Any submission after the window period will not be considered unless on medical grounds.  
       
 The link to the online Appeal Form will be disseminated to ALL students via SLS during the window period.  
