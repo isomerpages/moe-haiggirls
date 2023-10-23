@@ -6,7 +6,7 @@ third_nav_title: Co Curricular Activities
 ---
 ### Co-Curricular Activities
 
-###### Frequently Asked Questions
+##### Frequently Asked Questions
 
   
 
