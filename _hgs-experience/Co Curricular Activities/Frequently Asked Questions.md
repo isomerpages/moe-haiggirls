@@ -30,7 +30,7 @@ All CCAs are conducted on Monday afternoons. Due to time and commitment, it woul
     
 P2 students will attend a compulsory CCA Carnival in Semester 2. Through the carnival, P2 students will engage in hands-on activities to learn more about their CCA experience. They can also interact with the student leaders from each CCA to find out more about each CCA.  
       
-    All other students, including new students, can find out more about each CCA by:  
+All other students, including new students, can find out more about each CCA by:  
     \- Visiting the CCA web pages on the school website  
     \- Approaching the HOD PE/CCA  (in-person or via email)  
     \- Approaching the respective CCA Teacher-in-charge (in-person or via email)  
@@ -52,9 +52,9 @@ The P3 CCA Registration and Allocation process and timeline is as follows:
 
 All CCAs in HGS offer a comprehensive, holistic and engaging student developmental programme that aims to maximize students’ potential. Beyond the core knowledge and skills, all CCAs provide opportunities to lead and to participate in competitions or performances.  
       
-    As such, students are strongly encouraged to seek sustained participation in the same CCA from P3-6 to achieve deeper learning and allow for a more complete and fulfilling learning experience.  
+As such, students are strongly encouraged to seek sustained participation in the same CCA from P3-6 to achieve deeper learning and allow for a more complete and fulfilling learning experience.  
       
-    In selecting their 3 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
+In selecting their 3 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
       
     
 **3.  Will my child be allocated to her first choice of CCA?  **
