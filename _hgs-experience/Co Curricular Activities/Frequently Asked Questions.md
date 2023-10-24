@@ -61,7 +61,7 @@ In selecting their 3 preferred CCAs, students should be responsible for their ch
     
 To ensure that we maintain the safety and quality of the learning of all the students enrolled in the CCA, there is a limit to the number of students that each CCA can accept.   
       
-    As we strive to allocate as many students to their first choice as possible, we seek your understanding that your daughter may not be allocated to her first choice. It is certain that she will be allocated to one of her 3 choices.  
+ As we strive to allocate as many students to their first choice as possible, we seek your understanding that your daughter may not be allocated to her first choice. It is certain that she will be allocated to one of her 3 choices.  
       
     
 **4.  How are CCAs being allocated to students? **
