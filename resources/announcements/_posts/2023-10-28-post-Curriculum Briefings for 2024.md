@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+**P2 Curriculum Briefing**
+
+*Slides to be uploaded soon.*
