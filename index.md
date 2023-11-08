@@ -4,7 +4,8 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: ""
+notification: The school will close at 4pm on 17 November 2023 in support of
+  'Eat With Your Family Day' initiative.
 sections:
   - hero:
       background: /images/haighp.gif
