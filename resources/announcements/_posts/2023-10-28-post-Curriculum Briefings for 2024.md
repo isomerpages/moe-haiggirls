@@ -16,3 +16,8 @@ variant: markdown
 **P4 Curriculum Briefing**
 
 [P4 Level Cohort Briefing for 2024](/files/Curriculum_Briefing_for_2024_P5_Students___LATEST.pdf)
+
+
+**P5 Curriculum Briefing**
+
+*Slides will be uploaded soon*
