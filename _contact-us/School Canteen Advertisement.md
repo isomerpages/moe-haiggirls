@@ -2,10 +2,11 @@
 title: School Canteen Advertisement
 permalink: /contact-us/sca/
 description: ""
+variant: markdown
 ---
 ##### Stall Vacancies:
 
-![](/images/canteen%20updates%20-%2017%20nov%202023.jpg)
+![](/images/Canteen_Advert_update_14_11.jpg)
 
 ### **Application Procedure**
 
