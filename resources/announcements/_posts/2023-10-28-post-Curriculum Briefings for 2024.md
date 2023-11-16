@@ -20,4 +20,4 @@ variant: markdown
 
 **P5 Curriculum Briefing**
 
-*Slides will be uploaded soon*
+[P5 Level Cohort Briefing for 2024](/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf)
