@@ -4,7 +4,7 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: The school will be closed at 12pm on 22nd December 2024. Thank you.
+notification: Please note that school will be closed at 12pm on 22nd December 2024.
 sections:
   - hero:
       background: /images/haighp.gif
