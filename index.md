@@ -4,8 +4,7 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: Please be informed that the school General Office will be closed
-  at 12pm on 22nd Dec 2023 for an external event.
+notification: ""
 sections:
   - hero:
       background: /images/haighp.gif
