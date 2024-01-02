@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Teaching Staff
 variant: markdown
 ---
-![](/images/SEN_and_SC_2024.png)
+![](/images/1__SEN_and_SC_2024.png)
 
 **Email Addresses:**
 
-[Mdm Ada Ong](ong_peck_kuan@schools.gov.sg)
+[Ms Ada Ong](ong_peck_kuan@schools.gov.sg)
 
-[Mdm Amni](nur_amni_abdullah@schools.gov.sg)
+[Ms Amni](nur_amni_abdullah@schools.gov.sg)
 
 [Ms Lynn Lim](lim_cixian@schools.gov.sg)
 
