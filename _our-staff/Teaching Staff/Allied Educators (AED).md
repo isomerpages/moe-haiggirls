@@ -9,7 +9,7 @@ variant: markdown
 
 **Email Addresses:**
 
-[Ms Ada Ong](ong_peck_kuan@schools.gov.sg)
+[Mdm Ada Ong](ong_peck_kuan@schools.gov.sg)
 
 [Mdm Amni](nur_amni_abdullah@schools.gov.sg)
 
