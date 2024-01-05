@@ -4,4 +4,7 @@ permalink: /our-staff/key-personnel-and-teacher-leaders/
 description: ""
 variant: markdown
 ---
-Updates in progress
+### Key Personnel
+![](/images/HOD_2024.jpg)
+
+![](/images/SH_2024.jpg)
