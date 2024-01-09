@@ -10,4 +10,4 @@ variant: markdown
 ![](/images/SH_2024.jpg)
 
 ##### Lead Teacher, Senior Teachers & Level Year Heads
-![](/images/LT_ST_and_YH_2024.jpg)
+![](/images/ST_and_YH_and_AYH_updates_9_Jan.jpg)
