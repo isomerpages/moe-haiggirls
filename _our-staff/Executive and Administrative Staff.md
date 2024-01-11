@@ -2,14 +2,6 @@
 title: Executive and Administrative Staff
 permalink: /our-staff/executive-and-administrative-staff/
 description: ""
+variant: tiptap
 ---
-### School Admin Team
-
-![](/images/sat%20team%20(3).jpg)
-
-### Operation Support Staff
-
-![](/images/om%20&%20oso%20(1).jpg)
-
-### ICT / Lab / Library Staff
-![](/images/ict%20and%20lib%20(2).jpg)
+<h3>School Admin Team</h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAT_Team_2024.jpg"></div><h3>Operations Support &amp; Support Staff</h3><p></p>
