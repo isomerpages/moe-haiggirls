@@ -37,3 +37,19 @@ variant: markdown
 **P5 Curriculum Briefing**
 
 [P5 Level Cohort Briefing for 2024](/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf)
+
+**Primary 6 Curriculum Briefing**
+
+[Cohort Briefing for 2024](https://drive.google.com/file/d/1LUptOxhqOVeMWj95Kbyg1erOmOVsiTOv/view?usp=sharing)
+
+[English Language](https://drive.google.com/file/d/1YIoCR0DupAQ7nJKOugmAMHfwZRStfE_S/view?usp=sharing)
+
+[Mathematics](https://docs.google.com/presentation/d/15FwEJZ-wHvP9P059FBUHvGOEfxV3T6s6/edit?usp=drive_link)
+
+[Science](https://docs.google.com/presentation/d/1Yil2j2kIA0Qvp3xvY06Y4aFtHokZfAdc/edit?usp=drive_link)
+
+[Physical Education](https://drive.google.com/file/d/1_WVwLQPxoqL0aHsl_Eg3ZUN6DFDUq5ln/view?usp=drive_link)
+
+[Mother Tongue CL](https://drive.google.com/file/d/16NUD8rHtmHASFHyv94wR00fK3Jml4Idt/view?usp=drive_link)
+
+[Mother Tongue ML](https://drive.google.com/file/d/1oUhxkKXYSBBnc8Q5gKHB98Wf5xx96mXh/view?usp=drive_link)
