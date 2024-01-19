@@ -1,10 +1,4 @@
 contact_us: https://www.haiggirls.moe.edu.sg/contact-us/school-information/
 show_reach: true
 faq: /faq/
-social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  linkedin: https://www.linkedin.com/company/YourAgency
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-feedback: ""
+social_media: {}
