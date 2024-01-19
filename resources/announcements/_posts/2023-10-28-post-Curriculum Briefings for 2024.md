@@ -13,7 +13,7 @@ variant: markdown
 
 [English Language](https://drive.google.com/file/d/1nnG2TtXuRrGsl5PQYYksPgItpkMvQSSk/view?usp=drive_link)
 
-[Mathematics](https://drive.google.com/file/d/1gdcES2MvDC09Pw6I4rqyFHcg9__VXQ4e/view?usp=drive_link)
+[Mathematics](https://drive.google.com/file/d/1cTtNoldUlPRzNyJ_hXuptzg7d3VF4WRC/view?usp=drive_link)
 
 [Mother Tongue](https://drive.google.com/file/d/16cxOZt0J8Y7cMd_GTaBYbRtl6Sck83P3/view?usp=drive_link)
 
@@ -46,7 +46,7 @@ variant: markdown
 
 [Mathematics](https://docs.google.com/presentation/d/15FwEJZ-wHvP9P059FBUHvGOEfxV3T6s6/edit?usp=drive_link)
 
-[Science](https://docs.google.com/presentation/d/1Yil2j2kIA0Qvp3xvY06Y4aFtHokZfAdc/edit?usp=drive_link)
+[Science](https://docs.google.com/presentation/d/1Yil2j2kIA0Qvp3xvY06Y4aFtHokZfAdc/edit?usp=drive_link&ouid=117632019865597675983&rtpof=true&sd=true)
 
 [Physical Education](https://drive.google.com/file/d/1_WVwLQPxoqL0aHsl_Eg3ZUN6DFDUq5ln/view?usp=drive_link)
 
