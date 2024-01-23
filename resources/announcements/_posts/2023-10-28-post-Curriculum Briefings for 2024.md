@@ -37,6 +37,8 @@ variant: markdown
 
 [English Language](https://drive.google.com/file/d/1G7M03hcwGxBM1144MGsAWTCRVEJ1SasG/view?usp=drive_link)
 
+[Mother Tongue](https://drive.google.com/file/d/1IH4aYpvjEzY3HrK9c-VBvIpZtp38QhhA/view?usp=drive_link)
+
 [Mathematics](https://drive.google.com/file/d/1I4TFXs3Sf9tZdYuoJwojoqaf7-SA6D8K/view?usp=drive_link)
 
 [Science](https://drive.google.com/file/d/1_kVbXXq0P_mMpDWh4sTDPpOCcle9IU9n/view?usp=drive_link)
@@ -73,4 +75,4 @@ variant: markdown
 
 [Mother Tongue ML](https://drive.google.com/file/d/1oUhxkKXYSBBnc8Q5gKHB98Wf5xx96mXh/view?usp=drive_link)
 
-[Mother Tongue (TL)](https://drive.google.com/file/d/1VWGG1V2D0mw0GhBrQpD9PmqfnaanD4Ml/view?usp=drive_link)
+[Mother Tongue TL](https://drive.google.com/file/d/1VWGG1V2D0mw0GhBrQpD9PmqfnaanD4Ml/view?usp=drive_link)
