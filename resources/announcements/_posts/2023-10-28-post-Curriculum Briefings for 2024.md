@@ -21,13 +21,34 @@ variant: markdown
 
 [Aesthetics](https://drive.google.com/file/d/1GdKWWpstZ6BVWl-M291-TGRSMq_nfjSR/view?usp=drive_link)
 
-[Character & Citizenship](https://drive.google.com/file/d/1OYiQv91Ij89aPaMWJGaGX-X_pOSPesI1/view?usp=drive_link)
+[Character & Citizenship Education](https://drive.google.com/file/d/1OYiQv91Ij89aPaMWJGaGX-X_pOSPesI1/view?usp=drive_link)
+
+
 
 **P2 Curriculum Briefing**
 
 [P2 Level Cohort Briefing for 2024](https://drive.google.com/file/d/15X_uX0td21bwTRXqt_Rwc5VhqDzHdjaD/view?usp=drive_link)
 
 [P2 CCA Selection and Allocation](https://drive.google.com/file/d/1P2SvxWYPcO4jQiIoBXvkFpTnG5AHdJ_C/view?usp=drive_link)
+
+**P3 Curriculum Briefing**
+
+[Cohort Breifing by AYH](https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link)
+
+[English Language](https://drive.google.com/file/d/1G7M03hcwGxBM1144MGsAWTCRVEJ1SasG/view?usp=drive_link)
+
+[Mother Tongue](https://drive.google.com/file/d/1IH4aYpvjEzY3HrK9c-VBvIpZtp38QhhA/view?usp=drive_link)
+
+[Mathematics](https://drive.google.com/file/d/1I4TFXs3Sf9tZdYuoJwojoqaf7-SA6D8K/view?usp=drive_link)
+
+[Science](https://drive.google.com/file/d/1_kVbXXq0P_mMpDWh4sTDPpOCcle9IU9n/view?usp=drive_link)
+
+[Character & Citizenship Education](https://drive.google.com/file/d/1oERhpiik_bUy52s_tzrS1Yq3mxVWXnbs/view?usp=drive_link)
+
+[Art & Music](https://drive.google.com/file/d/1WHSY85OU8TskN9OA3m6cjAwV7VUxnvG_/view?usp=drive_link)
+
+[Physical Education](https://drive.google.com/file/d/1RLWvdXv46VtUUcRD0vBsxBcKjqGf8sGc/view?usp=drive_link)
+
 
 **P4 Curriculum Briefing**
 
@@ -54,4 +75,4 @@ variant: markdown
 
 [Mother Tongue ML](https://drive.google.com/file/d/1oUhxkKXYSBBnc8Q5gKHB98Wf5xx96mXh/view?usp=drive_link)
 
-[Mother Tongue (TL)](https://drive.google.com/file/d/1VWGG1V2D0mw0GhBrQpD9PmqfnaanD4Ml/view?usp=drive_link)
+[Mother Tongue TL](https://drive.google.com/file/d/1VWGG1V2D0mw0GhBrQpD9PmqfnaanD4Ml/view?usp=drive_link)
