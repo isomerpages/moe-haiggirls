@@ -45,6 +45,8 @@ variant: markdown
 
 [Art & Music](https://drive.google.com/file/d/1WHSY85OU8TskN9OA3m6cjAwV7VUxnvG_/view?usp=drive_link)
 
+[Physical Education](https://drive.google.com/file/d/1RLWvdXv46VtUUcRD0vBsxBcKjqGf8sGc/view?usp=drive_link)
+
 
 **P4 Curriculum Briefing**
 
