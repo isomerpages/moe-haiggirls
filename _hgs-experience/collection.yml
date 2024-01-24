@@ -1,0 +1,30 @@
+collections:
+  hgs-experience:
+    output: true
+    order:
+      - Leaders of Character.md
+      - Curriculum.md
+      - Applied Learning Program (ALP).md
+      - Learning For Life Programme (LLP).md
+      - Co Curricular Activities/.keep
+      - Co Curricular Activities/Co Curricular Activities (CCAs).md
+      - Co Curricular Activities/Frequently Asked Questions.md
+      - Co Curricular Activities/Badminton.md
+      - Co Curricular Activities/Red Cross Youth.md
+      - Co Curricular Activities/Netball.md
+      - Co Curricular Activities/Drama Club.md
+      - Co Curricular Activities/Soccer.md
+      - Co Curricular Activities/Wushu.md
+      - Co Curricular Activities/Art Club.md
+      - Co Curricular Activities/Handbells.md
+      - Co Curricular Activities/Gamelan.md
+      - Co Curricular Activities/HGS Chorale.md
+      - Co Curricular Activities/Chinese Dance.md
+      - Co Curricular Activities/Modern Dance.md
+      - Co Curricular Activities/Indian Dance.md
+      - Co Curricular Activities/Bowling.md
+      - Co Curricular Activities/Brownies.md
+      - Co Curricular Activities/Science Club.md
+      - Discover, Develop & Dedicate Your Talent Time (D3T2).md
+      - Our 70th Anniversary Celebrations.md
+      - Internationalisation Programme.md

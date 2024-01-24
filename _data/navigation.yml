@@ -1,0 +1,17 @@
+logo: /images/Logo.png
+links:
+  - title: About Us
+    url: /about-us/principals-message/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/principals-message/
+      - title: Our School
+        url: /about-us/Our-School/our-heritage/
+      - title: Our Staff
+        url: /our-staff/school-leaders/
+      - title: Our Partners
+        url: /about-us/Our-Partners/our-partners/
+  - title: Contact Us
+    collection: contact-us
+  - title: HGS Experience
+    collection: hgs-experience
