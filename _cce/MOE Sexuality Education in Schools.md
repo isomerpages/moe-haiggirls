@@ -53,7 +53,7 @@ b.       Character and Citizenship Education (CCE)
 8.         Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
 9.         Parents who wish to opt their children out of the Sexuality Education lessons need to complete an [opt-out form](https://form.gov.sg/65b65b26ec82b22e0b037fac). 
-This form will be communicated  to parents at the start of the year via Parents Gateway. The form is also downloadable here. 
+This form will be communicated  to parents at the start of the year via Parents Gateway. The form is also downloadable [here](/files/2024_HGS_SEd_Parent_Opt_out_Form__Updated_.pdf). 
 The completed opt-out form is to be submitted by **23/02/2024.**
 
 10.       Parents can contact the school at [haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg), Tel: 6344 0293 for discussion or to seek clarification about the school’s Sexuality Education programme.
