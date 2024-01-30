@@ -75,7 +75,7 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1AnsxTe0RwRDmgU0Bxtr70T7_ESZq36w5/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
-<p><a href="https://docs.google.com/presentation/d/1S0aJxFCZTJtwyfuF-sNO65jcU0YoZJT6/edit?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
+<p><a href="https://drive.google.com/file/d/1pVY9SvsHhJfS2p5uKsw8pKM7C-lxjVSH/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1DZ3_EsTrn5VJUFLVuGNc1oTwInAkTi2z/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>
 </p>
