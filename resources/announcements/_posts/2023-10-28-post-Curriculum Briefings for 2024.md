@@ -29,6 +29,20 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1P2SvxWYPcO4jQiIoBXvkFpTnG5AHdJ_C/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P2 CCA Selection and Allocation</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1SCXAxoLF1fThleEcEcCaq1usBzQt8fUg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing 2024</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1fBedexfBBdOYEzhJ0BSHOQ1xOjL73FsV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="https://drive.google.com/file/d/19BRGSY1bixwugbN_hzH7DKOfeyscBAlP/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1dKmyhqSO6FeYbGfcRJ7OjY__04SMjxeW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1woxdmMGQxnw5vMtSSfbyKj1MExzQKhWi/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1LOvxmjTh1Cipl09neMLN-4Mz_cUcOcDN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1FW7k8Md5WE3tdmDhHYJm-GhEQRYWZzDu/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Music</a>
+</p>
 <p><strong>P3 Curriculum Briefing</strong>
 </p>
 <p><a href="https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Breifing by AYH</a>
