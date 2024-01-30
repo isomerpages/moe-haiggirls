@@ -13,7 +13,7 @@ variant: markdown
 
 (a) Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
 
-(b) Guide students to make wise, informed and responsible decisions on sexuality matters.
+b) Guide students to make wise, informed and responsible decisions on sexuality matters.
 
 (c) Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
@@ -35,11 +35,9 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more informa
 
 5. The subjects that incorporate topics on sexuality include:
 
-```
 a. Science
 
 b. Character and Citizenship Education (CCE)
-```
 
 **Sexuality Education Lessons**:
 
