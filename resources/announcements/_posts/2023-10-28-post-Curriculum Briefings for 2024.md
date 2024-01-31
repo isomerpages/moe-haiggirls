@@ -25,11 +25,7 @@ variant: tiptap
 </p>
 <p><strong>P2 Curriculum Briefing</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/15X_uX0td21bwTRXqt_Rwc5VhqDzHdjaD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P2 Level Cohort Briefing for 2024</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1P2SvxWYPcO4jQiIoBXvkFpTnG5AHdJ_C/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">P2 CCA Selection and Allocation</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1SCXAxoLF1fThleEcEcCaq1usBzQt8fUg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing 2024</a>
+<p><a href="https://drive.google.com/file/d/1SCXAxoLF1fThleEcEcCaq1usBzQt8fUg/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1fBedexfBBdOYEzhJ0BSHOQ1xOjL73FsV/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
@@ -45,7 +41,7 @@ variant: tiptap
 </p>
 <p><strong>P3 Curriculum Briefing</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Breifing by AYH</a>
+<p><a href="https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Breifing for 2024</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1G7M03hcwGxBM1144MGsAWTCRVEJ1SasG/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
@@ -67,7 +63,7 @@ variant: tiptap
 </p>
 <p><strong>P5 Curriculum Briefing</strong>
 </p>
-<p><a href="/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Level Cohort Briefing for 2024</a>
+<p><a href="/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1j3vEMml5i1RXSxJMqed6s2W4lbVM6zoW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
