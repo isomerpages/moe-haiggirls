@@ -2,43 +2,49 @@
 title: Discover, Develop & Dedicate Your Talent Time (D3T2)
 permalink: /hgs-experience/discover-develop-and-dedicate-your-talent-time/
 description: ""
+variant: tiptap
 ---
-To nurture and celebrate the diverse talents of our pupils, Haig Girls’ initiated D3T2, a school-based talent development programme. Pupils who are talented in the visual arts, music, dance, drama, English and Chinese creative arts, Maths, Science or sports are given opportunities to develop their talents and interests in these areas. The pupils in our D3T2 programme ‘dedicate’ their talents in service to the school and community.
-
-![](https://lh3.googleusercontent.com/T6vGuP4Vju6S8ZOqN-PPg8M4JNMqR14ZdwOG9S3PgEF9EZAkqIijOQabrJ_2Q9HYiyypUpnNl-ZJBE-FH4_yjE5z9MuySnjKcuTxxvoKbx16uDousZfGnj31Yg3MWyuHddUF13lXNxph_If48afUWg)
-
-  
-
-  
-
-  
-
-  
-![](https://lh6.googleusercontent.com/5gOeiBLJwQXKudP7Vsv_ZjaXGdGM30H_Ycx7ccVTDrOSCFf09kufs0_5w6lMVs2OkVn_mYSKqouh2S4AZeQYVa-fGWI7cezpRTVY4YRDKtuTp5hwMoF3qYEzc0dhSdmCb602gO8C7OTO)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-"Friends in Unexpected Places" publication by D3T2 Creative Writing
-
-  
-
-List of D3T2 Programmes
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="151"><col width="323"><col width="194"></colgroup><tbody><tr style="height:0pt"><td style="border-left:solid #d6d6d6 0.5pt;border-right:solid #d6d6d6 0.5pt;border-bottom:solid #d6d6d6 0.5pt;border-top:solid #d6d6d6 0.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Badminton</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Bowling</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Netball</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Soccer</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wushu</span></p></td><td style="border-left:solid #d6d6d6 0.5pt;border-right:solid #d6d6d6 0.5pt;border-bottom:solid #d6d6d6 0.5pt;border-top:solid #d6d6d6 0.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Creative Arts</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">English Creative Writing</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Malay Language GEMS</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Math Olympiad /&nbsp;</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">E2K Math</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">E2K Science</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Visual Arts</span></p></td><td style="border-left:solid #d6d6d6 0.5pt;border-right:solid #d6d6d6 0.5pt;border-bottom:solid #d6d6d6 0.5pt;border-top:solid #d6d6d6 0.5pt;vertical-align:top;background-color:#ffffff;padding:6pt 9pt 6pt 9pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Gamelan</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Handbells</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">HGS Chorale</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Arial;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Indian Dance</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Modern Dance</span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"><br></span><span style="font-size:12pt;font-family:Lato,sans-serif;color:#444444;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Chinese Dance</span></p></td></tr></tbody></table>
-
-\*Table updated on January 2023
-
+<p>To nurture and celebrate the diverse talents of our pupils, Haig Girls’
+initiated D3T2, a school-based talent development programme. Pupils who
+are talented in the visual arts, music, dance, drama, English and Chinese
+creative arts, Maths, Science or sports are given opportunities to develop
+their talents and interests in these areas. The pupils in our D3T2 programme
+‘dedicate’ their talents in service to the school and community.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/T6vGuP4Vju6S8ZOqN-PPg8M4JNMqR14ZdwOG9S3PgEF9EZAkqIijOQabrJ_2Q9HYiyypUpnNl-ZJBE-FH4_yjE5z9MuySnjKcuTxxvoKbx16uDousZfGnj31Yg3MWyuHddUF13lXNxph_If48afUWg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/5gOeiBLJwQXKudP7Vsv_ZjaXGdGM30H_Ycx7ccVTDrOSCFf09kufs0_5w6lMVs2OkVn_mYSKqouh2S4AZeQYVa-fGWI7cezpRTVY4YRDKtuTp5hwMoF3qYEzc0dhSdmCb602gO8C7OTO">
+</div>
+<p>"Friends in Unexpected Places" publication by D3T2 Creative Writing</p>
+<p>List of D3T2 Programmes</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton
+<br>Bowling
+<br>Netball
+<br>Soccer
+<br>Wushu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chinese Creative Arts
+<br>Language Arts
+<br>Malay Language GEMS
+<br>Math Olympiad /&nbsp;E2K Math
+<br>E2K Science
+<br>Visual Arts</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gamelan
+<br>Handbells
+<br>HGS Chorale
+<br>Indian Dance
+<br>Modern Dance
+<br>Chinese Dance</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*Table updated on January 2023</p>
