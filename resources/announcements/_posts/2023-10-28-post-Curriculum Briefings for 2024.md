@@ -77,8 +77,6 @@ variant: tiptap
 </p>
 <p><strong>P5 Curriculum Briefing</strong>
 </p>
-<p><a href="/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
-</p>
 <p><a href="https://drive.google.com/file/d/1j3vEMml5i1RXSxJMqed6s2W4lbVM6zoW/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1uFK_xBr9HVaeVZneX-sPGIyrl7chJ9F1/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
