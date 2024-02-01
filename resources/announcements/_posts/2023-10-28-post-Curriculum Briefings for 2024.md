@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 <p><strong>P3 Curriculum Briefing</strong>
 </p>
-<p><a href="https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Breifing for 2024</a>
+<p><a href="https://drive.google.com/file/d/1frLzxrtDNcM25aNU3ZxQElwjvGQsj0NN/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1G7M03hcwGxBM1144MGsAWTCRVEJ1SasG/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
 </p>
@@ -58,8 +58,6 @@ variant: tiptap
 <p><a href="https://drive.google.com/file/d/1RLWvdXv46VtUUcRD0vBsxBcKjqGf8sGc/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>
 </p>
 <p><strong>P4 Curriculum Briefing</strong>
-</p>
-<p><a href="/files/Curriculum_Briefing_for_2024_P5_Students___LATEST.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Level Cohort Briefing for 2024</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1UMHyjmGU-HftgRX6Q84uh0C4WQIyaOkR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
 </p>
