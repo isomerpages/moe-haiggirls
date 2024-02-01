@@ -61,6 +61,22 @@ variant: tiptap
 </p>
 <p><a href="/files/Curriculum_Briefing_for_2024_P5_Students___LATEST.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Level Cohort Briefing for 2024</a>
 </p>
+<p><a href="https://drive.google.com/file/d/1UMHyjmGU-HftgRX6Q84uh0C4WQIyaOkR/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1NxZTjSsMOGXbzJS9r70Hh4ppeTbWRt7R/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1ekCiuXGfPBsAJ6fsGpIDVNT7wPyM0oU4/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1kTCtleGeFXMz4yUur0zz0K_clmgT7W0u/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1Y5T-w6N836tfi_Tw-TEJacAsuBsXItQ6/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Character &amp; Citizenship Education</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1s5IZdARsZKcW_95ygyLMMMcy5QWW_tuw/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Physical Education</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1w6JLpgfMWxgJNV6rOS1YiXL5X6PHkejs/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Art &amp; Music</a>
+</p>
+<p><a href="https://drive.google.com/file/d/1pTO7oa8tiIudDu0s6DhOvSDksEKajVlD/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue</a>
+</p>
 <p><strong>P5 Curriculum Briefing</strong>
 </p>
 <p><a href="/files/2023_P5_Curriculum_Briefing_Part_2_10_Nov_2023_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Cohort Briefing for 2024</a>
