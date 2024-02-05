@@ -27,4 +27,17 @@ and parents to submit their nominations. Nomination is open from <strong>15 Janu
 <p>4. Do note that the online nomination closes on <strong>01 April 2024</strong>.
 The links and QR code are given below for your easy access.</p>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://go.gov.sg/mitt2024nominationformel" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TTA_QR_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Most Inspiring Tamil Teacher 2024 Nomination Form (English)</div><div class="isomer-card-link">-</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://go.gov.sg/mitt2024nominationform" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/TTA_QR_2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Most Inspiring Tamil Teacher 2024 Nomination Form (Tamil)</div>
+<div class="isomer-card-link">-</div>
+</div>
+</a>
+</div>
 <p></p>
