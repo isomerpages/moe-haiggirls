@@ -41,5 +41,11 @@ innovations.</p>
 </ul>
 <p>If the above sounds like a teacher you know, nominate him/her for the
 Inspiring Teacher of English Award today via the link below by <strong>15 March 2024</strong>.</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/65bfabba51aa6434d3a8dfd7</a>
+<p><strong><a href="https://go.gov.sg/ohc788" rel="noopener noreferrer nofollow" target="_blank">Click here</a></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ITEA_2024_QR_code_final.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
