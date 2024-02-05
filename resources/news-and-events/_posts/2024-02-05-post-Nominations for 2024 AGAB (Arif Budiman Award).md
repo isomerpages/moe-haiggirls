@@ -24,8 +24,8 @@ your staff, students and parents to submit their nominations. Nomination
 is open from <strong>2 February 2024 to 1 April 2024.</strong>
 </p>
 <p>4. Nominations can be done via the following URL <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/agab2024</a> or
-by scanning the QR code below. Kindly note that nomination will close on
-1 April 2024.</p>
+by scanning the QR code below. <strong>Kindly note that nomination will close on 1 April 2024.</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/AGAB_2024.jpg">
