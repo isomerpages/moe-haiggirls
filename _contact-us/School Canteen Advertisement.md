@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### Stall Vacancies:
 
-![](/images/Canteen_Ad_for_website_Jan_2024.jpg)
+![](/images/Canteen_Ad___29_March_2024.jpg)
 
 ### **Application Procedure**
 
