@@ -4,10 +4,12 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: ""
+notification: Please note that there will be a scheduled power shutdown on 8
+  March 2024 from 3pm to 7pm for essential maintenance work. Thank you.
 sections:
   - hero:
       background: /images/haighp.gif
+      variant: center
   - resources:
       title: News, Events and Announcements
       subtitle: Latest Updates
