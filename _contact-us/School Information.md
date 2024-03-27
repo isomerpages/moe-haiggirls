@@ -2,6 +2,7 @@
 title: School Information
 permalink: /contact-us/school-information/
 description: ""
+variant: markdown
 ---
 ### 1\. Contact Information  
 
@@ -183,18 +184,18 @@ Email: uniforms@asencio.com.sg
 
 ### 6\. School Bus Services
 
-Sinbus (S) Transport Services   
-Mr Winson      
-**HP**:&nbsp;9673 3654
+
+**SINBUS Pte Ltd / Mr Khairul**
+
+Tel: 80719291
 
   
 
 ### 7\. Student Care Centre Operator
 
-**Kowabunga! Education (E) Pte Ltd**
-3 Ang Mo Kio Street 62, #08-21 Link@AMK, Singapore 589139   
-**Tel**:&nbsp;6560 7200
+**Commit Learning Pte Ltd**
 
+Tel: 89454806
   
 
 ### 8\. School Dental Clinic
@@ -289,4 +290,3 @@ In order to ensure the safety of every pupil in the school, all parents / guardi
 *   produce their identity cards for identification purposes, sign in and obtain a visitor's pass at the security guard post and proceed directly to the General Office.
 *   inform the General Office should they wish to take their child / ward out of school.
 
- _Information updated on 22 Jan 2019._
