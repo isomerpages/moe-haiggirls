@@ -28,7 +28,7 @@ have inspired students to have an interest in&nbsp;Chinese&nbsp;language
 and culture, and have used creative and engaging&nbsp;teaching&nbsp;methods
 and/or learning activities with their students.</p>
 <p>You may nominate your&nbsp;Chinese&nbsp;Language teachers who are respected
-and well-loved by students&nbsp;at the following link:&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://bit.ly/dclta2024</a></strong>
+and well-loved by students <a href="https://www.gevme.com/nomination-form-DCLTA2024" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
 <p>&nbsp;Registration will close on Sunday, 12 May 2024.</p>
 <p>&nbsp;</p>
