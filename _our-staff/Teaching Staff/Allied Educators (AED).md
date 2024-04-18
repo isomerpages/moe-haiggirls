@@ -15,4 +15,4 @@ variant: markdown
 
 [Ms Lynn Lim](lim_cixian@schools.gov.sg)
 
-Ms Thandar Soe
+[Ms Thandar Soe](thandar_soe@schools.gov.sg)
