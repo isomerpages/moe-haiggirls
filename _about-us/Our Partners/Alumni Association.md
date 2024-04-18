@@ -3,6 +3,7 @@ title: Alumni Association
 permalink: /about-us/Our-Partners/alumni-association/
 description: ""
 third_nav_title: Our Partners
+variant: markdown
 ---
 We have recently revived our Alumni Association for our old girls to actively support the school’s vision and areas of focus, in particular the development of character, leadership and creativity. Chaired by Ms Beverly Wee, our group of dedicated alumna have returned to our school to give talks as part of our Alumni Lecture Series. Dr Yeo Wei Wei and Ms Ye Shufang of the National Art Gallery, shared their work in Arts Education at our inaugural Alumni Lecture. Professor Debbie Ong, a former Head Prefect of Haig Girls’ School, gave an insightful speech about leadership at our Student Leaders’ Investiture. Other old girls have shared insights into their work as a news editor, entrepreneur and leadership coach. The Creative Director for our 60th Anniversary Musical was Ms Oniatta Effendi, who is also part of the HGS family. Another alumna, Ms Jane Ittogi, Partner, Shook Lin & Bok LLP; Chairperson of the Singapore Art Museum, also graced our Speech and Prize-Giving Day cum Alumni Homecoming as a Guest of Honour.  
   
@@ -12,4 +13,6 @@ As an alumna, you can give back to Haig Girls’ School in so many ways: be a sp
   
 
 **_Alumni Membership_**.   
-_Click [here](https://haiggirls.moe.edu.sg/qql/slot/u240/Our%20Partners/Alumni%20Membership.pdf) to download the Alumni Membership form._
+[Click here](/files/Alumni_Membership_Form.pdf) to download the Alumni Membership form. 
+
+*Please do note that we will require your supporting document as an Alumni; eg PSLE result slip, HGS report book etc. There will be a S$20 fee (in cash) to be made to the school. For more information, please email us via* [haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg)
