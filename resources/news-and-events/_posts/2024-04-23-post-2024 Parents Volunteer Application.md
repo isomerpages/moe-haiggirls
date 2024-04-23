@@ -19,6 +19,6 @@ Haig Girls’ School at Phase 2B of the 2025 P1 Registration Exercise.</p>
 <p>The PV application will be from 1 March to 30 April 2024. If you are interested
 to join our HGS family, please submit your application through the online
 form below <strong>by 30 April 2024</strong>.</p>
-<p>&nbsp;Link: <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/635b4bb383d9150011f0aa57</a>
+<p>&nbsp;<a href="https://form.gov.sg/635b4bb383d9150011f0aa57" rel="noopener noreferrer nofollow" target="_blank">Click here to access the form.</a>
 </p>
 <p>&nbsp;</p>
