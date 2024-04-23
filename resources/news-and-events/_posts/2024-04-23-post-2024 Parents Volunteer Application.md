@@ -10,8 +10,7 @@ variant: tiptap
 <p>Are you interested to join our group of Parent Volunteers (PV)?</p>
 <p>This is for parents who are interested to register their child/ward in
 Haig Girls’ School at Phase 2B of the 2025 P1 Registration Exercise.</p>
-<p><s>&nbsp;</s>
-</p>
+<p></p>
 <p>Year your child/ward is born: 2019</p>
 <p>P1 Admission: Jan 2026</p>
 <p>P1 Registration: 2025</p>
