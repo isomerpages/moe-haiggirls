@@ -8,6 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Ms_Marion_Tay.jpg">
 </div>
+<p></p>
 <p>2023 had been an eventful year for Haig Girls’ School with most activities
 resuming full steam post-Covid. The HGS community bade farewell to Ms Lo
 Yen Nie, who gave 7 years of dedicated service as Principal, from December
