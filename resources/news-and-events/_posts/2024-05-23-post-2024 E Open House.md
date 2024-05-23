@@ -1,0 +1,9 @@
+---
+title: 2024 E Open House
+permalink: /2024-e-open-house/
+date: 2024-05-23
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
