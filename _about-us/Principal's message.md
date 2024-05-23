@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Ms_Marion_Tay.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Marion_Tay.jpg">
 </div>
 <p></p>
 <p>2023 had been an eventful year for Haig Girls’ School with most activities
