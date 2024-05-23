@@ -7,3 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>More details will be included soon!</p>
