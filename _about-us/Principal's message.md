@@ -4,8 +4,9 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
+**![](/images/Ms_Marion_Tay.jpg)** 
 
-![](/images/Ms_Marion_Tay.jpg) 2023 had been an eventful year for Haig Girls’ School with most activities resuming full steam post-Covid. The HGS community bade farewell to Ms Lo Yen Nie, who gave 7 years of dedicated service as Principal, from December 2016 to December 2023. Ms Lo is well-loved and held in high esteem by the school community and is undoubtedly missed.
+2023 had been an eventful year for Haig Girls’ School with most activities resuming full steam post-Covid. The HGS community bade farewell to Ms Lo Yen Nie, who gave 7 years of dedicated service as Principal, from December 2016 to December 2023. Ms Lo is well-loved and held in high esteem by the school community and is undoubtedly missed.
 
 Haig Girls’ School is a well-established school in the East of Singapore with history dating back to 1951. The thousands of girls who have passed through the gates of the school and the dedicated staff bear testimony to the educational experience the school offered and still offers to our Haig Girls today. For this, I would like to give thanks to those who have gone before me and to the many who still work in the school.
 
@@ -19,5 +20,5 @@ In 2026, Haig Girls’ School will celebrate our 75th Anniversary. This marks an
 
 Thank you for your strong partnership.
 
-Ms Marion Tay  
-Principal
+**Ms Marion Tay  
+Principal**
