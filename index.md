@@ -4,7 +4,7 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: Please note that 31 May 2024 is Eat WIth Your Family. General
+notification: Please note that 31 May 2024 is Eat WIth Your Family Day. General
   Office will be closing at 4pm. Thank you
 sections:
   - hero:
