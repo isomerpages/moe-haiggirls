@@ -185,9 +185,9 @@ Email: uniforms@asencio.com.sg
 ### 6\. School Bus Services
 
 
-**SINBUS Pte Ltd / Mr Khairul**
+**SINBUS Pte Ltd / Mr Felix**
 
-Tel: 80719291
+Tel: 83116293
 
   
 
@@ -289,4 +289,3 @@ In order to ensure the safety of every pupil in the school, all parents / guardi
 
 *   produce their identity cards for identification purposes, sign in and obtain a visitor's pass at the security guard post and proceed directly to the General Office.
 *   inform the General Office should they wish to take their child / ward out of school.
-
