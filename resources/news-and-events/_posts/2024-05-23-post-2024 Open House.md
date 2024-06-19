@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>More details will be included soon!</p>
+<p>Our Open House will be held on <strong>4 July 2024, 10 a.m. to 12 p.m</strong>.
+We look forward to seeing you!</p>
