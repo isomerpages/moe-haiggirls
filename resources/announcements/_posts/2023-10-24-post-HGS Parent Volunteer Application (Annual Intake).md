@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-*   **Application period: 1st March to 30th April every year**
+  **Application period: 1st March to 30th April every year**
 
 <table style="margin-left:34.1pt;border-collapse:collapse;mso-yfti-tbllook:1184;
  mso-padding-alt:0in 0in 0in 0in" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:76.1pt;border:solid windowtext 1.0pt;
