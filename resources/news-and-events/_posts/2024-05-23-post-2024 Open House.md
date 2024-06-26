@@ -7,5 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Our Open House will be held on <strong>4 July 2024, 10 a.m. to 12 p.m</strong>.
-We look forward to seeing you!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Open_House_Poster_26_June_2024.jpg">
+</div>
+<p></p>
