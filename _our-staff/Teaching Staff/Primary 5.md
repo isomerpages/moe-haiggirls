@@ -157,10 +157,25 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vibha DO Ashok Ghariwala (Mdm Vibha)</p>
+<p>Vibha Ashok Ghariwala</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Vibha_Ashok_Ghariwala_Mrs@schools.gov.sg</a>
+<p><a href="mailto:vibha_ashok_ghariwala_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">vibha_ashok_ghariwala_mrs@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5J</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mary Shi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mary_magdalene_zhang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mary_magdalene_zhang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
