@@ -81,21 +81,6 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Radiah Bte Md Ali Jinnah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">radiah_md_ali_jinnah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ng Peng Woon Rachel</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,6 +100,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">kandesan_ramasamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Hwee Kheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_hwee_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kheng_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
