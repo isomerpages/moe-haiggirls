@@ -15,6 +15,91 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Amanda Loh Li Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alisa Pan Jingting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Aesthetics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Boon Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Mother-Tongue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wee Jee Chen Charlotte</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wan Alfida Suleiman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
