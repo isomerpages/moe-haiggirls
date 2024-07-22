@@ -1,5 +1,5 @@
 ---
-title: HGS 2024 E Learning Day 23 to 24 July 2024
+title: HGS E Learning Day 23 to 24 July 2024
 permalink: /hgs-2024-e-learning-day/
 date: 2024-07-22
 layout: post
