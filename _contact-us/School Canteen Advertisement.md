@@ -36,7 +36,7 @@ variant: markdown
 
 \* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
 
-   More details on HMSP: [Click here](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
+   More details on HMSP: [Click Here](https://hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
 \* Able to maintain high standard of food safety and personal hygiene.
 
