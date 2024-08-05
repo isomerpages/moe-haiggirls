@@ -6,15 +6,13 @@ variant: markdown
 ---
 ##### Stall Vacancies:
 
-![](/images/canteen_advert_end_july_2024.jpg)
+![](/images/canteen_advert_for_aug_2024.jpg)
 
-### **Application Procedure**
+**Application Procedure**
 
-1\. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
+1.Download and complete the [application form](https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf)
 
-[Application Form](/files/2023%20canteen%20application%20form.pdf)
-
-2\. Attached the following documents together with the application form:
+2\. Attach the following documents together with the application form:
 
 \* Photocopy of the NRIC (front and back)
 
@@ -22,33 +20,23 @@ variant: markdown
 
 \* Photocopy of relevant certificates such as Basic Food Hygiene Course, etc
 
-3\. Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3\. Submit the completed application form and documents by closing date via email:
 
-\* Address: 51 Koon Seng Road Singapore 427072
+\*Email to: [haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg)
 
-\* Contact No: 6344 0293
+\*Attn: Mr Jace Ng (Operations Manager)
 
-\* Email: haiggirlssch@moe.edu.sg
+\*Contact No: 6344 0293
 
-\* Contact Person: Mr Melvyn D Oliveiro
-
-##### **How to get here?**
-
-\* Bus Services: 33 (from Bedok Interchange to Kent Ridge Terminal)
-
-\* Nearest MRT Station: Eunos
-
-\* Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
-
-##### **Interest applicants must meet the following criteria:**
+**Interested applicants must meet the following criteria:**
 
 \* Singapore citizen or Singapore Permanent Resident (SPR) for stallholder and stall assistant.
 
 \* Able to provide good service and quality food with prices determined in consultation with the school.
 
-\* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the "Healthy Meals in Schools Programme (HMSP)" guidelines
+\* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
 
-https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
+   More details on HMSP: [Click here](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)
 
 \* Able to maintain high standard of food safety and personal hygiene.
 
@@ -62,4 +50,4 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 \* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-\* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.\
+\* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.Committee at the applicant's own expense.\
