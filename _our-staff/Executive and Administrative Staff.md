@@ -118,7 +118,7 @@ variant: tiptap
 <p>OSO&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng</p>
+<p>Mr Teng Lay Heng</p>
 </td>
 </tr>
 <tr>
