@@ -41,19 +41,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/vpa.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal (Admin)</p>
-<p><a href="mailto:netty_salmiyati_senawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Netty Salmiyati Senawi</a>
-</p>
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
