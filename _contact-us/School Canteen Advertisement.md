@@ -6,11 +6,11 @@ variant: markdown
 ---
 ##### Stall Vacancies:
 
-![](/images/canteen_advert_for_aug_2024.jpg)
+![](/images/canteen_advertfor_sept_2024.jpg)
 
 **Application Procedure**
 
-1.Download and complete the [application form](https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf)
+1. Download and complete the [application form](https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf)
 
 2\. Attach the following documents together with the application form:
 
@@ -50,4 +50,4 @@ variant: markdown
 
 \* Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-\* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense. Committee at the applicant's own expense.
+\* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
