@@ -20,7 +20,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Ms_Marion_Tay_Sze_Leng.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Ms_Marion_Tay_Sze_Leng.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Mrs_Evelyn_Tay.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Mrs_Evelyn_Tay.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
