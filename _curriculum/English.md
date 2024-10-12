@@ -2,6 +2,7 @@
 title: English
 permalink: /curriculum/english/
 description: ""
+variant: markdown
 ---
 ###  Our Vision and Mission
 
@@ -62,10 +63,11 @@ Here are PDF links to the D3T2 Creative Writing publications:&nbsp;
 
 Gaining inspiration from six artefacts from the Ancient Singapore section at the National Museum of Singapore’s History Gallery, students wrote imaginative poems, stories and information texts to tell young readers about Singapore’s rich, mysterious past.&nbsp;
 
-2.&nbsp;[D3T2 Creative Writing Poems](https://drive.google.com/file/d/1GTrKZcgXxKwMydU5Qag2Y8bhOcPuft83/view?usp=sharing)&nbsp;(2017)&nbsp;
+2. D3T2 Creative Writing Poems 
+*(Link to be updated soon)*
 
 Some of the poems in this collection were the result of a workshop on nature poems by Singaporean poet Patricia Tan, while others were written in response to the theme ‘Dreams and Stories’. Many of these poems were included in Vietnamese artist Tran Trong Vu’s artwork at the Gallery Children’s Biennale entitled ‘Sonnet in Blue’.&nbsp;&nbsp;
 
-3.&nbsp;[Play](https://drive.google.com/file/d/1n_4M-314nFXDjkeegG6Uv9StFqZ0NWRd/view?usp=sharing)&nbsp;(2018)
+3. Play
 
 With the help of advertising agency TBWA &nbsp;Singapore, students wrote advertising campaigns on playground safety, which are linked via QR codes in this publication. Students also wrote poems and short stories that were inspired by the ‘The More We Get Together: Singapore’s Playgrounds 1930-2030’ exhibition at the National Museum of Singapore, as well as from interacting with children from the Thye Hua Kuan Moral Charities EIPIC Centre @ Tampines at an inclusive playground through the National Council of Social Service’s Children in Action programme.
