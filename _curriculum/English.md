@@ -62,7 +62,7 @@ We talent-spot students who demonstrate a flair for writing, and invite them to 
 Gaining inspiration from six artefacts from the Ancient Singapore section at the National Museum of Singapore’s History Gallery, students wrote imaginative poems, stories and information texts to tell young readers about Singapore’s rich, mysterious past.&nbsp;
 
 2. D3T2 Creative Writing Poems 
-*(Link to be updated soon)*
+*(Links to be updated soon)*
 
 Some of the poems in this collection were the result of a workshop on nature poems by Singaporean poet Patricia Tan, while others were written in response to the theme ‘Dreams and Stories’. Many of these poems were included in Vietnamese artist Tran Trong Vu’s artwork at the Gallery Children’s Biennale entitled ‘Sonnet in Blue’.&nbsp;&nbsp;
 
