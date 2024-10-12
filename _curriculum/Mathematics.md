@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /curriculum/mathematics/
 description: ""
+variant: markdown
 ---
 ### Vision
 
@@ -172,29 +173,11 @@ Useful Links
 
 [Math Apprentice](http://www.mathapprentice.com/)
 
-[Fun Brain - Maths](http://www.funbrain.com/brain/MathBrain/MathBrain.html)
-
 [Math Open Ref - Triangle](http://www.mathopenref.com/triangle.html)
 
 [Primary Resources (Maths)](http://www.primaryresources.co.uk/maths/mathsD1.htm)
-
-[A Maths Dictionary For Kids](http://www.amathsdictionaryforkids.com/)
 
 [Primary Homework Help - Maths](http://www.primaryhomeworkhelp.co.uk/maths/)
 
 [Math Playground - Thinking Blocks  
 ](http://www.mathplayground.com/thinkingblocks.html)[Maths Is Fun - Geometry (Symmetry)](http://www.mathsisfun.com/geometry/symmetry.html)
-
-[National Library of Virtual Manipulatives  
-](http://nlvm.usu.edu/en/nav/vlibrary.html)[Maths Is Fun - Geometry (Triangles-interactive)  
-  
-  
-  
-  
-  
-  
-  
-](http://www.mathsisfun.com/geometry/triangles-interactive.html)
-
-  
- 
