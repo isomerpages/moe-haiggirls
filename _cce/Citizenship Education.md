@@ -2,6 +2,7 @@
 title: Citizenship Education
 permalink: /cce/citizenship-education/
 description: ""
+variant: markdown
 ---
 Citizenship Education and Character Education, has always been at the heart of education in Singapore. Various key programmes such as Civics and Moral Education, National Education, Social Studies and Values In Action have been put in place to inculcate values and build competencies in our pupils to develop them into good individuals and useful citizens.  
 
@@ -9,7 +10,6 @@ The National Education (NE) in Singapore focuses on developing a sense of nation
 
 Driven by the 2E2R approach of Explicit teaching, Experience, Reflection and Role-modelling, our programmes focus on the head, heart and hands of every Haig Girl, allowing every student to grow into a leader of character and an active and concerned citizen.
 
-Click [here](http://www.ne.edu.sg/ne_messages.htm) for the National Education Messages.
 
 ![](/images/cie1.jpeg)
 
