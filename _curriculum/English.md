@@ -59,7 +59,7 @@ We talent-spot students who demonstrate a flair for writing, and invite them to 
 
 Here are PDF links to the D3T2 Creative Writing publications:&nbsp;
 
-1.&nbsp;[A Rich but Unknown Past](https://drive.google.com/file/d/1pwmmDveelhvjgSFL0rhlubiqXq0bvSp3/view?usp=sharing)&nbsp;(2017)&nbsp;
+1. A Rich But Unknown Past
 
 Gaining inspiration from six artefacts from the Ancient Singapore section at the National Museum of Singapore’s History Gallery, students wrote imaginative poems, stories and information texts to tell young readers about Singapore’s rich, mysterious past.&nbsp;
 
