@@ -57,8 +57,6 @@ We adopt a whole-school approach to writing by using a common language, our HGS 
 
 We talent-spot students who demonstrate a flair for writing, and invite them to join our Discover, Develop and Dedicate your Talent Time (D3T2) Creative Writing programme, which aims to expose good student writers to writing experiences beyond the classroom, and to contribute their writing back to the community through published writing.&nbsp;
 
-Here are PDF links to the D3T2 Creative Writing publications:&nbsp;
-
 1. A Rich But Unknown Past
 
 Gaining inspiration from six artefacts from the Ancient Singapore section at the National Museum of Singapore’s History Gallery, students wrote imaginative poems, stories and information texts to tell young readers about Singapore’s rich, mysterious past.&nbsp;
