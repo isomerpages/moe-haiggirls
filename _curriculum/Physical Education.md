@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /curriculum/physical-education/
 description: ""
+variant: markdown
 ---
 The Physical Education programme in Haig Girls’ promotes sports for character building and social bonding. In line with Vision 2030 “Live Better Through Sports” led by the Singapore Sports Council and the Ministry of Community Development, Youth and Sports, we aim for every pupil to be physically educated leader of character.
 
@@ -35,7 +36,7 @@ As the school encourages every pupil to play actively, recess is the best time f
 
 ### Outdoor Adventure
 
-Every Primary 5 pupil will go through the [Outdoor Adventure Camp](https://drive.google.com/drive/folders/1jlrXwjhk1DyiLCJr3SMoiZjSt9yKXvO5) where they will learn the importance of leadership, responsible decision-making and problem solving skills which will help them overcome challenges they may face in future. They will also learn to form better relationships with fellow school mates and foster greater team spirit.
+Every Primary 5 pupil will go through the Outdoor Adventure Camp where they will learn the importance of leadership, responsible decision-making and problem solving skills which will help them overcome challenges they may face in future. They will also learn to form better relationships with fellow school mates and foster greater team spirit.
 
   
 
