@@ -11,6 +11,7 @@ We aim to
     
 *   allow students to apply the knowledge of Science to understand the environmental issues facing Earth and raise everyone’s awareness of these issues.
     
+Key Highlights
 
 Students are introduced to science concepts beyond the primary science syllabus.
 
