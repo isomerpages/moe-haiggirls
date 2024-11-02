@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /hgs-experience/Co-Curricular-Activities/modern-dance/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Modern Dance
 
@@ -23,9 +24,13 @@ Description automatically generated with medium confidence](https://lh3.googleus
 
 #### Teachers
 
-Mdm Marie Yong (OIC)  
-Ms Rasyidah bte Mohamed Idrus  
-Mdm Celestina Sharmini
+
+Ms Long Peizhen (OIC)
+
+Mdm Marie Yong
+
+Ms Rasyidah Bte Mohamed Idrus
+
 
 **Details**
 

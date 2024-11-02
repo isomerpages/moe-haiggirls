@@ -3,6 +3,7 @@ title: Drama Club
 permalink: /hgs-experience/Co-Curricular-Activities/drama-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Drama Club
 
@@ -65,16 +66,9 @@ Besides, we have had inter-CCA collaborations which support the cross pollinatio
 ![](https://lh5.googleusercontent.com/CgnB94LotWOmwMbwqxcCGxh0vGP0hNUWjZz2alw6FIRJiKawt2WmLOvs6qMDrF_-XhUMuolkCQlmlnLtOtXDdHB_j0Ptvy2SoamTk0Sa5z7QkS-Rq5A1_RAWk_tW5dfm-rpNnYTMIZPh)
 
   
-
-  
-
-  
-
-  
-
-Mrs Nikki Lin (OIC)  
+Mr Mohammad Fauzi Wahid (OIC)  
 Mrs Sunita Singh  
-Mr Mohammad Fauzi Wahid
+
 
 **Details**
 

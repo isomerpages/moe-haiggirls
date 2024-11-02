@@ -3,6 +3,7 @@ title: Badminton
 permalink: /hgs-experience/Co-Curricular-Activities/badminton/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Badminton
 
@@ -35,11 +36,10 @@ Our girls are also given leadership opportunities to organise various activities
 
 Ms Siti Nurhanis Binte Zamrot  
 Mdm Alia Hanna Binte Mahmud  
+Mdm Sri Burdiasih
 Mr Appathurai Mahadevan
 
 **Details**
 
 CCA session: Mondays, 2.15pm - 3.45pm, School Hall  
 D3T2 session: Fridays, 1.30pm - 3.00pm, School Hall
-
- 

@@ -3,6 +3,7 @@ title: Netball
 permalink: /hgs-experience/Co-Curricular-Activities/netball/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Netball
 
@@ -73,8 +74,7 @@ Most recently, the Senior Team achieved 2nd Runner-up in the East Zone Primary S
 
 Miss Cheong Long Xin (OIC)  
 Ms Angeline Guay  
-Miss Zhang Ying  
-Mr Mohammed Kassim Abdul Karim
+Mrs Celeste Lim
 
 **Details**
 

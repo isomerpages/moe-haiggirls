@@ -3,8 +3,8 @@ title: Brownies
 permalink: /hgs-experience/Co-Curricular-Activities/brownies/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 ## Brownies
 
   
@@ -48,11 +48,11 @@ Combined Division Activity
 
 ### Teachers
 
-Ms Marhainie Kamarudin (OIC)  
+Ms Chantel Leow (OIC)  
+
+Ms Marhainie Kamarudin
 
 Mdm Loh Chu Imm  
-
-Ms Chantel Leow
 
 Mdm Vibha Ashok Ghariwala
 

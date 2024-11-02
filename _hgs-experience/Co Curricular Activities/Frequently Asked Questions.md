@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 permalink: /hgs-experience/Co-Curricular-Activities/faq/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Co-Curricular Activities
 
@@ -36,11 +37,11 @@ All other students, including new students, can find out more about each CCA by:
     \- Approaching the respective CCA Teacher-in-charge (in-person or via email)  
       
 
-**P3 CCA Registration and Allocation**
+**CCA Registration and Allocation**
 
 **1.  When is the CCA Selection and Allocation exercise conducted? 
 
-The P3 CCA Registration and Allocation process and timeline is as follows:  
+The CCA Registration and Allocation process and timeline is as follows:  
     P2 Term 4: CCA Carnival  
     P2 Term 4: CCA Registration (Students submit their preferred choice of cca)  
     P3 Term 1, Week 1: Form teachers will release their CCA Allocation results.  
@@ -54,14 +55,14 @@ All CCAs in HGS offer a comprehensive, holistic and engaging student development
       
 As such, students are strongly encouraged to seek sustained participation in the same CCA from P3-6 to achieve deeper learning and allow for a more complete and fulfilling learning experience.  
       
-In selecting their 3 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
+In selecting their 4 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
       
     
 **3.  Will my child be allocated to her first choice of CCA?
     
 To ensure that we maintain the safety and quality of the learning of all the students enrolled in the CCA, there is a limit to the number of students that each CCA can accept.   
       
- As we strive to allocate as many students to their first choice as possible, we seek your understanding that your daughter may not be allocated to her first choice. It is certain that she will be allocated to one of her 3 choices.  
+ As we strive to allocate as many students to their first choice as possible, we seek your understanding that your daughter may not be allocated to her first choice. It is certain that she will be allocated to one of her 4 choices.  
       
     
 **4.  How are CCAs being allocated to students? **
@@ -94,9 +95,7 @@ Students are strongly encouraged to seek sustained participation in the same CCA
     
 **3.  How can my daughter request for a change in CCA?
 
-The CCA Registration Exercise is conducted at the end of each year. Students can submit their request via an online Appeal Form. Any submission after the window period will not be considered unless on medical grounds.  
-      
-The link to the online Appeal Form will be disseminated to ALL students via SLS during the window period.  
+The CCA Registration Exercise is conducted at the end of each year. Students can approach their current CCA teachers and explain their reason for the request to change CCA. Parents can follow up with the request for change in CCA with HOD PE & CCA after the conversation with the CCA teachers.
       
 All requests are subject to availability of vacancy in the CCA of choice. The results of the request will be released by Term 1 Week 2 the following year, before the commencement of CCAs in Term 1 Week 4.  
       
