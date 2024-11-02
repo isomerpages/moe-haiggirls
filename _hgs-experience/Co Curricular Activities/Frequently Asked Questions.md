@@ -3,6 +3,7 @@ title: Frequently Asked Questions
 permalink: /hgs-experience/Co-Curricular-Activities/faq/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Co-Curricular Activities
 
@@ -36,11 +37,11 @@ All other students, including new students, can find out more about each CCA by:
     \- Approaching the respective CCA Teacher-in-charge (in-person or via email)  
       
 
-**P3 CCA Registration and Allocation**
+**CCA Registration and Allocation**
 
 **1.  When is the CCA Selection and Allocation exercise conducted? 
 
-The P3 CCA Registration and Allocation process and timeline is as follows:  
+The CCA Registration and Allocation process and timeline is as follows:  
     P2 Term 4: CCA Carnival  
     P2 Term 4: CCA Registration (Students submit their preferred choice of cca)  
     P3 Term 1, Week 1: Form teachers will release their CCA Allocation results.  
@@ -54,7 +55,7 @@ All CCAs in HGS offer a comprehensive, holistic and engaging student development
       
 As such, students are strongly encouraged to seek sustained participation in the same CCA from P3-6 to achieve deeper learning and allow for a more complete and fulfilling learning experience.  
       
-In selecting their 3 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
+In selecting their 4 preferred CCAs, students should be responsible for their choices, and only select CCAs that they are ready to commit to until Primary 6.  
       
     
 **3.  Will my child be allocated to her first choice of CCA?
