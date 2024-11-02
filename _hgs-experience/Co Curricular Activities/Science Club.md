@@ -3,12 +3,13 @@ title: Science Club
 permalink: /hgs-experience/Co-Curricular-Activities/science-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 We aim to
 
 *   develop every science club member’s skills and knowledge in observing, thinking, testing and investigating the natural phenomena around them
     
-*   allow students to apply the knowledge of Science to understand the environmental issues facing Earth and raise everyone’s awareness of these issues.Key Highlights
+*   allow students to apply the knowledge of Science to understand the environmental issues facing Earth and raise everyone’s awareness of these issues.
     
 
 Students are introduced to science concepts beyond the primary science syllabus.
