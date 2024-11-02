@@ -3,8 +3,8 @@ title: Bowling
 permalink: /hgs-experience/Co-Curricular-Activities/bowling/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 ### Bowling
 
 **About the Bowling CCA**
@@ -56,7 +56,7 @@ Madam Zareena – 2IC
 
 Mdm Mainura
 
-Miss Norasiken
+
 
 **Details**
 
