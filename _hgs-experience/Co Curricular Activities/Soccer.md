@@ -3,6 +3,7 @@ title: Soccer
 permalink: /hgs-experience/Co-Curricular-Activities/soccer/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Soccer
 
@@ -51,7 +52,7 @@ What are you waiting for? Come join the HGS Soccer Family now!
 Mr Muhammad Asyik bin Abdul Aziz (OIC)  
 Mr Muhamad Ansar bin Kamsan  
 Ms Grace Ng  
-Mdm Radiah
+Mr Mohammed Kassim Bin Abdul Karim
 
 **Details**
 
