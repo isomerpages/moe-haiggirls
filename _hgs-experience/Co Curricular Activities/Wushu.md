@@ -3,8 +3,8 @@ title: Wushu
 permalink: /hgs-experience/Co-Curricular-Activities/wushu/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
-
 ## Wushu
 
  
@@ -41,9 +41,7 @@ Students enjoy Wushu because they learn to protect themselves while staying heal
 
 Mrs Ang Chuay Yen (OIC)
 
-Mrs Raihana Beevi Bte Mohd Yunoos
 
-Mrs Celeste Lim  
   
 
 **Details**
