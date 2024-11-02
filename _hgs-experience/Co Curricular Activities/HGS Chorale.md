@@ -3,6 +3,7 @@ title: HGS Chorale
 permalink: /hgs-experience/Co-Curricular-Activities/hgs-chorale/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### HGS Chorale
 
@@ -41,6 +42,7 @@ In HGS Choir, we aim for our students to develop and demonstrate a sense of resp
 
 Ms Esther Cheah (OIC)  
 Ms Cindy Chiong  
+Ms Siti Aisyah
   
 
 **Details**
