@@ -3,6 +3,7 @@ title: Co Curricular Activities (CCAs)
 permalink: /hgs-experience/Co-Curricular-Activities/ccas/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 CCA is a vital part of our pupils’ holistic, well-rounded education. It helps nurture our pupils and develops qualities such as resilience, tenacity, confidence and perseverance, which prepare them to adapt and thrive in a rapidly changing world.
 
@@ -42,9 +43,9 @@ In Haig Girls’, we provide a comprehensive range of CCA.
 </tbody>
 </table>
 
-_\*Table updated January 2022_
 
 
-The CCA Carnival was held on 5 Nov 2021. Even though it was conducted over Zoom for the first time, both P2 parents and students provided feedback that the session was informative and helpful. They were better able to understand the school’s approach towards holistic development through the CCAs, and select their choice of CCA based on the offerings of each CCA viz. their child’s strengths and interests. 
+
+The CCA Carnival was held on 5 Nov 2021. Even though it was conducted over Zoom for the first time, both P2 parents and students provided feedback that the session was informative and helpful. They were better able to understand the school’s approach towards holistic development through the CCAs, and select their choice of CCA based on the offerings of each CCA viz. their child’s strengths and interests.&nbsp;
 
 [Frequently Asked Questions](/hgs-experience/Co-Curricular-Activities/faq/)
