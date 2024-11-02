@@ -95,9 +95,7 @@ Students are strongly encouraged to seek sustained participation in the same CCA
     
 **3.  How can my daughter request for a change in CCA?
 
-The CCA Registration Exercise is conducted at the end of each year. Students can submit their request via an online Appeal Form. Any submission after the window period will not be considered unless on medical grounds.  
-      
-The link to the online Appeal Form will be disseminated to ALL students via SLS during the window period.  
+The CCA Registration Exercise is conducted at the end of each year. Students can approach their current CCA teachers and explain their reason for the request to change CCA. Parents can follow up with the request for change in CCA with HOD PE & CCA after the conversation with the CCA teachers.
       
 All requests are subject to availability of vacancy in the CCA of choice. The results of the request will be released by Term 1 Week 2 the following year, before the commencement of CCAs in Term 1 Week 4.  
       
