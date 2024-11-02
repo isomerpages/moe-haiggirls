@@ -3,6 +3,7 @@ title: Art Club
 permalink: /hgs-experience/Co-Curricular-Activities/art-club/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ### Art Club
 
@@ -58,6 +59,7 @@ Cards designed by Art Club members.
 Mdm Salinah bte Misri (OIC)  
 Mdm Syazwani Samure  
 Mrs Lisa Yap
+Ms Shankari
 
 **Details**
 
