@@ -3,6 +3,7 @@ title: Gamelan
 permalink: /hgs-experience/Co-Curricular-Activities/gamelan/
 description: ""
 third_nav_title: Co Curricular Activities
+variant: markdown
 ---
 ## Gamelan
 
@@ -24,8 +25,9 @@ Description automatically generated](https://lh3.googleusercontent.com/CMF-yh6KA
 ### Teachers
 
 Rita Zulkarnain (OIC)  
-Long Peizhen  
-Sri Burdiasih
+
+Ms Chen Lijun
+
 
 **Details**
 
