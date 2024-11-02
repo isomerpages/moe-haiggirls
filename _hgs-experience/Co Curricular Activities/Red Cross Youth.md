@@ -26,7 +26,7 @@ Description automatically generated with low confidence](https://lh3.googleuserc
 ### Teachers
 
 Ms Farizah (OIC)  
-Ms Wu Tzu Yi
+Mdm Sharifah Hazirah
 
 **Details**
 
