@@ -41,7 +41,7 @@ Students enjoy Wushu because they learn to protect themselves while staying heal
 
 Mrs Ang Chuay Yen (OIC)
 
-
+Miss Teh Soo Bin
   
 
 **Details**
