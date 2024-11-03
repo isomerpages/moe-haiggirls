@@ -20,7 +20,7 @@ We strive to inculcate the following skills and values in our members:
 *   School Values of Integrity, Commitment, Creativity, Concern and Cooperation
     
 
-Key Highlights
+**Key Highlights
 
 Some projects that our members are undertaking in 2023 : 
 
