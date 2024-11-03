@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-### HGS Chorale
+### Choir
 
-About Chorale
+About Choir
 
 • To enable pupils to experience and acquire the Social and Emotional Learning (SEL) and 21st century competencies (21CC)
 
