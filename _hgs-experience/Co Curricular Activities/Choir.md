@@ -1,13 +1,13 @@
 ---
-title: HGS Chorale
-permalink: /hgs-experience/Co-Curricular-Activities/hgs-chorale/
+title: Choir
+permalink: /hgs-experience/co-curricular-activities/choir/
 description: ""
 third_nav_title: Co Curricular Activities
 variant: markdown
 ---
-### HGS Chorale
+### Choir
 
-About Chorale
+About Choir
 
 • To enable pupils to experience and acquire the Social and Emotional Learning (SEL) and 21st century competencies (21CC)
 
@@ -17,9 +17,7 @@ About Chorale
 
 • To enable pupils to understand and apply the rules of singing and voice projection
 
-Key Highlights
-
-  
+****Key Highlights
 
 In HGS Choir, we aim for our students to develop and demonstrate a sense of responsibility, discipline and a passion for singing, through the rich traditions of choral music. The choir sings as an ensemble, and are given many opportunities to perform at various settings. In 2022, they participated in various school events and the biannual Singapore Youth Festival (SYF). Moreover, they were invited to perform for the Joo Chiat Children’s Day Carnival in October 2022, with Minister Tan See Leng gracing the event. 
 
