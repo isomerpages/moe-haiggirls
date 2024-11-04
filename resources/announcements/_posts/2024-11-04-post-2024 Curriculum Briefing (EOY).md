@@ -1,6 +1,6 @@
 ---
 title: 2024 Curriculum Briefing (EOY)
-permalink: /2024-curriculum-briefing-nov/
+permalink: /2024-curriculum-briefing-eoy/
 date: 2024-11-04
 layout: post
 description: ""
