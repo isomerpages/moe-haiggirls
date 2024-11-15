@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><strong>P4 Curriculum Briefing Slides</strong>
 </p>
-<p><a href="/files/Curriculum_Briefing_for_P5__2025__Parents.pdf" rel="noopener nofollow" target="_blank">P4 Cohort Briefing</a>
+<p><a href="/files/Curriculum_Briefing_for_P5__2025__Parents__8_NOV_2024_.pdf" rel="noopener nofollow" target="_blank">P4 Cohort Briefing</a>
 </p>
 <p><strong>P5 Curriculum Briefing Slides</strong>
 </p>
