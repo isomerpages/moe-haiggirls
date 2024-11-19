@@ -65,5 +65,3 @@ learnt during CCA and have more exposure to the beautiful game.</p>
 </p>
 <p>CCA session: Mondays, 3.15pm - 4.45pm, School Field/Netball Court/ISH/Hall
 <br>D3T2 session: Fridays, 3.00pm - 5.00pm, School Field/Netball Court/ ISH/Hall</p>
-<p></p>
-<p>Court</p>
