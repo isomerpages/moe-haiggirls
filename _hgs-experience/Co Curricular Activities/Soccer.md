@@ -50,7 +50,6 @@ learnt during CCA and have more exposure to the beautiful game.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh6.googleusercontent.com/zu_NhQKSY89UwYb4hm0GtKhDBJer7w1tSsf78f9K_--Wrvyvmu6aAASKAGyIti-NwpqI6WhJMlp5orOmo-3BzB2hOyygFjo5pKRWg780zp3Hj6NKl9gubYh7Y0swhAc3c3wORoTMOy0cNYSihnw6cw">
 </div>
-<h4></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://lh3.googleusercontent.com/F3w-idS0oICLQuhkBvuIG5kwh3h8lrghZ_WSskgrX1oU9Ct-904PDU0mcRBVJ6n5c58fe2sZunDVdC4eELoqHZONR9GY1pPUiRvkiIT-WRRwSTVaF5e1tjp9Vf3vyweYav-FDJa_3v7ujRStQDW7fQ">
 </div>
