@@ -3,86 +3,118 @@ title: Parents Support Group
 permalink: /about-us/Our-Partners/parents-support-group/
 description: ""
 third_nav_title: Our Partners
-variant: markdown
+variant: tiptap
 ---
-<center><iframe allowfullscreen="true" height="400" width="659" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQl5DdnCjuKAXFFJOgAYTC3mI8TAoTuHngdBVhwxwqqZI3LifaeCx3diECubrRGh9MYtiSmQTGTVLgx/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
-### Areas of Contribution
-
-![](/images/aoc.png)
-
-
-### Parents Support Group (PSG) Core Committee Members
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-5739{background-color:#FFE5BA;text-align:left;vertical-align:top}
-.tg .tg-u15l{background-color:#FFF7EA;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<h3>Areas of Contribution</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/aoc.png">
+</div>
+<h3>Parents Support Group (PSG) Core Committee Members</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-u15l">Mdm Siti Zawiyah</td>
-    <td class="tg-u15l">Ms Devayani</td>
-  </tr>
-  <tr>
-    <td class="tg-5739">Ms Maxine Vaswani</td>
-    <td class="tg-5739">Ms Sammi Xu</td>
-  </tr>
-  <tr>
-    <td class="tg-u15l">Ms Joey Lai</td>
-    <td class="tg-u15l">Ms Cathy Chan</td>
-  </tr>
-  <tr>
-    <td class="tg-5739">Ms Gözde Zehnder</td>
-    <td class="tg-5739">Ms Geetika</td>
-  </tr>
-  <tr>
-    <td class="tg-u15l">Ms Faziana Idrus</td>
-    <td class="tg-u15l">Ms Shirley Tan</td>
-  </tr>
-  <tr>
-    <td class="tg-5739">Mrs Ritu Mishra</td>
-    <td class="tg-5739">Ms Joejo Tee</td>
-  </tr>
-  <tr>
-    <td class="tg-u15l">Ms May Lee</td>
-    <td class="tg-u15l">Ms Leticia Malphettes</td>
-  </tr>
-  <tr>
-    <td class="tg-5739">Ms Michelle Ng Hwee Chin</td>
-    <td class="tg-5739">Ms Elaine Seetoh</td>
-  </tr>
-  <tr>
-    <td class="tg-u15l">Ms Shirin Farhad</td>
-    <td class="tg-u15l"> </td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zawiyah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Devayani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maxine Vaswani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sammi Xu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Joey Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cathy Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gözde Zehnder</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Geetika</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Faziana Idrus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Shirley Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Ritu Mishra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joejo Tee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms May Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Leticia Malphettes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Ng Hwee Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Elaine Seetoh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shirin Farhad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
-
-### Shared Values
-
-**4Cs:**
-
-*   Commitment  
-    
-*   Communication  
-    
-*   Cooperation  
-    
-*   Conduct
-
-  
-
-### Mission Statement
-
-Our children are our Buds, our Sapling and our Hope for The Future. Our Vision is to guide them. Our mission is to educate and enrich their lives. Here at Haig Girls’ School, we are Parents in Education, involved in many aspects of our children’s lives.&nbsp;
-
- We work hand in hand with the teachers to help out children reach out and soar to touch the stars &amp; be the STARS!
-
-Are you interested to join our Parents Support Group (PSG)? 
-If your child/ward is/was a student in Haig Girls’ School and you are interested to volunteer in our school, please submit your application for PSG through this [online form.](https://form.gov.sg/62e39a2c723e8e00127a3149)
+<h3>Shared Values</h3>
+<p><strong>4Cs:</strong>
+</p>
+<ul>
+<li>
+<p>Commitment</p>
+</li>
+<li>
+<p>Communication</p>
+</li>
+<li>
+<p>Cooperation</p>
+</li>
+<li>
+<p>Conduct</p>
+</li>
+</ul>
+<h3>Mission Statement</h3>
+<p>Our children are our Buds, our Sapling and our Hope for The Future. Our
+Vision is to guide them. Our mission is to educate and enrich their lives.
+Here at Haig Girls’ School, we are Parents in Education, involved in many
+aspects of our children’s lives.&nbsp;</p>
+<p>We work hand in hand with the teachers to help out children reach out
+and soar to touch the stars &amp; be the STARS!</p>
+<p>Are you interested to join our Parents Support Group (PSG)? If your child/ward
+is/was a student in Haig Girls’ School and you are interested to volunteer
+in our school, please submit your application for PSG through this <a href="https://form.gov.sg/62e39a2c723e8e00127a3149" rel="noopener noreferrer nofollow" target="_blank">online form.</a>
+</p>

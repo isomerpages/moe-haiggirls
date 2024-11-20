@@ -1,6 +1,6 @@
 ---
-title: School Bus Advertisement
-permalink: /contact-us/sba/
+title: School Bus Service
+permalink: /contact-us/sbs/
 description: ""
 variant: tiptap
 ---
