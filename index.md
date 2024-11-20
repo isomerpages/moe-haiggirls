@@ -19,12 +19,4 @@ sections:
       description: E-Resources for Students, Parents and Staff
       button: View ALl
       url: /useful-links/
-  - infopic:
-      title: Calendar
-      subtitle: Haig Girls'
-      description: Schedule for the Academic Year
-      button: View More
-      url: /calendar/
-      image: /images/calendardemo.png
-      alt: calendar demo
 ---
