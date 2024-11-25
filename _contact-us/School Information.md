@@ -194,8 +194,8 @@ Email: [uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)
 
 **Sinbus (S) Transport Services  
   
-**• 9143 3777 (Admin)  
-• 8071 9291 (Operations)  
+**9143 3777 (Admin)  
+8071 9291 (Operations)  **
   
 Main Office:  
 408 Sembawang Drive  
