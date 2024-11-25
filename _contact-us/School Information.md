@@ -2,303 +2,327 @@
 title: School Information
 permalink: /contact-us/school-information/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### 1\. Contact Information  
-
-**Address:**&nbsp;51 Koon Seng Road Singapore 427072&nbsp;    
-(Main gate is along Tembeling Road)    
-**Tel:**&nbsp;6344 0293   
-**Fax:**&nbsp;6447 4169    
-**E-mail:**&nbsp;[haiggirlssch@moe.edu.sg](mailto:haiggirlssch@moe.edu.sg)&nbsp;
-
-   
-
-### 2\. Travel Information
- 
-
-**Bus Services:**&nbsp;33 (from Bedok Interchange to Kent Ridge Terminal)   
-**Nearest MRT Station:**&nbsp;Eunos    
-**Bus Stop No. nearest to the school**:&nbsp;82149 (Bef Koon Seng Rd)
-
-**Locality Map:**
-![](/images/localitymap.png)
-
-### 3\. School Hours
-
-  
-
-**Arrival and Dismissal Time**     
-
-**Monday to Thursday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7.30 a.m. to 1.30 p.m.    
-**Friday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.30 a.m. to 1.00 p.m.
-
-(Pupils are expected to arrive before 7.30 a.m. for the morning assembly. Flag-raising commences at 7.30 a.m.)
-
-  
-
-**Recess Time &amp; Snack Breaks**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2g1l{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 593px">
+<h3>1. Contact Information</h3>
+<p><strong>Address:</strong>&nbsp;51 Koon Seng Road Singapore 427072&nbsp;
+<br>(Main gate is along Tembeling Road)
+<br><strong>Tel:</strong>&nbsp;6344 0293
+<br><strong>Fax:</strong>&nbsp;6447 4169
+<br><strong>E-mail:</strong>&nbsp;<a href="mailto:haiggirlssch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a>&nbsp;</p>
+<h3>2. Travel Information</h3>
+<p><strong>Bus Services:</strong>&nbsp;33 (from Bedok Interchange to Kent
+Ridge Terminal)
+<br><strong>Nearest MRT Station:</strong>&nbsp;Eunos
+<br><strong>Bus Stop No. nearest to the school</strong>:&nbsp;82149 (Bef Koon
+Seng Rd)</p>
+<p><strong>Locality Map:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/localitymap.png">
+</div>
+<h3>3. School Hours</h3>
+<p><strong>Arrival and Dismissal Time</strong>
+</p>
+<p><strong>Monday to Thursday:</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; 7.30 a.m. to 1.30 p.m.
+<br><strong>Friday:</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.30 a.m. to 1.00 p.m.</p>
+<p>(Pupils are expected to arrive before 7.30 a.m. for the morning assembly.
+Flag-raising commences at 7.30 a.m.)</p>
+<p><strong>Recess Time &amp; Snack Breaks</strong>
+</p>
+<table style="minWidth: 100px">
 <colgroup>
-<col style="width: 91px">
-<col style="width: 170px">
-<col style="width: 169px">
-<col style="width: 163px">
+<col>
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-2g1l"></td>
-    <td class="tg-nrix" colspan="2"><span style="font-weight:700;font-style:normal">Recess Time</span></td>
-    <td class="tg-nrix"><span style="font-weight:700;font-style:normal">Snack Break</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">Level</td>
-    <td class="tg-f4yw">Mon – Thu</td>
-    <td class="tg-f4yw">Fri</td>
-    <td class="tg-f4yw">Mon - Thu</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">P1 &amp; P5</td>
-    <td class="tg-7yig">9.10 a.m. to 9.40 a.m.</td>
-    <td class="tg-7yig">9.00am to 9.30am</td>
-    <td class="tg-f4yw">12.05 p.m. to 12.15 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">P2 &amp; P4</td>
-    <td class="tg-7yig">9.40 a.m. to 10.10 a.m.</td>
-    <td class="tg-7yig">9.30a.m. to 10 .00 a.m.</td>
-    <td class="tg-7yig">12.05 p.m. to 12.15 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">P3 &amp; P6</td>
-    <td class="tg-7yig">10.10 a.m. to 10.40 a.m.</td>
-    <td class="tg-7yig">10.00 a.m. to 10.30 a.m.</td>
-    <td class="tg-7yig">12.05 p.m. to 12.15 p.m.</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Recess Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Snack Break</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon – Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon - Thu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1 &amp; P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.10 a.m. to 9.40 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am to 9.30am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.05 p.m. to 12.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2 &amp; P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.40 a.m. to 10.10 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.30a.m. to 10 .00 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.05 p.m. to 12.15 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3 &amp; P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.10 a.m. to 10.40 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>10.00 a.m. to 10.30 a.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12.05 p.m. to 12.15 p.m.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-**After School Activities**
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 564px">
+<p><strong>After School Activities</strong>
+</p>
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 104px">
-<col style="width: 279px">
-<col style="width: 181px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-9hzb">Day</td>
-    <td class="tg-9hzb">Activities</td>
-    <td class="tg-9hzb">Time</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Monday</td>
-    <td class="tg-7yig">CCA</td>
-    <td class="tg-7yig">2.15 p.m. to 4.45 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Tuesday</td>
-    <td class="tg-7yig">CCA, D3T2, Enrichment Programmes</td>
-    <td class="tg-7yig">2.00 p.m. to 5.00 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Wednesday</td>
-    <td class="tg-7yig">Remedial</td>
-    <td class="tg-7yig">2.10 p.m. to 3.45 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Thursday</td>
-    <td class="tg-7yig">Remedial, Enrichment Programmes</td>
-    <td class="tg-7yig">2.10 p.m. to 3.45 p.m.</td>
-  </tr>
-  <tr>
-    <td class="tg-7yig">Friday</td>
-    <td class="tg-7yig">D3T2 Programmes</td>
-    <td class="tg-7yig">1.30 p.m. to 4.30 p.m.</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.15 p.m. to 4.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA, D3T2, Enrichment Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00 p.m. to 5.00 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wednesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remedial</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10 p.m. to 3.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Remedial, Enrichment Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.10 p.m. to 3.45 p.m.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>D3T2 Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1.30 p.m. to 4.30 p.m.</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
- 
-
-**Opening Hours of General Office**
-
-**School Terms**
-
-**Monday to Thursday:**&nbsp; &nbsp; &nbsp; 6.45 a.m. to 5.30 p.m.    
-**Friday:**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 6.45 a.m. to 5.00 p.m.
-
- 
-**School Holidays**    
-**Monday to Friday:**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 8.00 a.m. to 5.00 p.m.
-
-  
-
-  
-
-### 4\. School Bookshop  
-
- **Paciﬁc Bookstores Pte Ltd **
- 
-Opening Hours for Walk-Ins during School Term  
-Monday: 2:00pm to 2:30pm  
-Tuesdays to Fridays: 2:00pm to 3:00pm  
-Tel: 94765125 (WhatsApp)  
-  
-Main Office:  
-14 Arumugam Road #08-01  
-LTC Building Road C Singapore 409959  
-Tel: 6464 0111  
-Fax: 6464 0110
-
-### 5\. School Uniform Supplier
-
-**Asencio Pte Ltd**  
-  
-Walk-In Purchase  
-Every Tuesdays and Thursdays from 12.30pm to 2.30pm  
-Gate 2 – Security Guard Post  
-&nbsp;  
-Main Office:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-120 Hillview Avenue #05-01  
-Kewalram Hillview  
-Singapore 669594  
-Contact No: 67643102  
-  
-Email: [uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)  
-[Guides on how to purchase uniform online](/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf)
-
-### 6\. School Bus Services
-
-**Sinbus (S) Transport Services  
-  
-**9143 3777 (Admin)  
-8071 9291 (Operations)  **
-  
-Main Office:  
-408 Sembawang Drive  
-#08-802  
-Singapore 750408
-
-  
-
-### 7\. Student Care Centre Operator
-
-**Commit Learning Pte Ltd**
-
-Tel: 89454806
-  
-
-### 8\. School Dental Clinic
-
-  
-****Please note that clinic operates on alternate weeks***
-
-**Opening Hours:**
-
-Mon &amp; Thurs - **8AM - 5.30PM**
-
-Tue &amp; Wed - **8AM - 1PM**
-
-Fri - **Closed**
-
-*Lunch Break: 1PM - 2PM*
-
- Tel: 8940 3382 **(via whatsapp only)**
-
-Please contact the following dental clinics on the days when the school dental clinic is closed:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 517px">
+<p><strong>Opening Hours of General Office</strong>
+</p>
+<p><strong>School Terms</strong>
+</p>
+<p><strong>Monday to Thursday:</strong>&nbsp; &nbsp; &nbsp; 6.45 a.m. to
+5.30 p.m.
+<br><strong>Friday:</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; 6.45 a.m. to 5.00 p.m.</p>
+<p><strong>School Holidays</strong>
+<br><strong>Monday to Friday:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+8.00 a.m. to 5.00 p.m.</p>
+<h3>4. School Bookshop</h3>
+<p><strong>Paciﬁc Bookstores Pte Ltd </strong>
+</p>
+<p>Opening Hours for Walk-Ins during School Term
+<br>Monday: 2:00pm to 2:30pm
+<br>Tuesdays to Fridays: 2:00pm to 3:00pm
+<br>Tel: 94765125 (WhatsApp)</p>
+<p>Main Office:
+<br>14 Arumugam Road #08-01
+<br>LTC Building Road C Singapore 409959
+<br>Tel: 6464 0111
+<br>Fax: 6464 0110</p>
+<h3>5. School Uniform Supplier</h3>
+<p><strong>Asencio Pte Ltd</strong>
+</p>
+<p>Walk-In Purchase
+<br>Every Tuesdays and Thursdays from 12.30pm to 2.30pm
+<br>Gate 2 – Security Guard Post
+<br>&nbsp;
+<br>Main Office:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>120 Hillview Avenue #05-01
+<br>Kewalram Hillview
+<br>Singapore 669594
+<br>Contact No: 67643102</p>
+<p>Email: <a href="mailto:uniforms@asencio.com.sg" rel="noopener noreferrer nofollow" target="_blank">uniforms@asencio.com.sg</a>
+<br><a href="/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Guides on how to purchase uniform online</a>
+</p>
+<h3>6. School Bus Services</h3>
+<p><strong>Sinbus (S) Transport Services</strong>
+</p>
+<p><strong>9143 3777 (Admin)<br>8071 9291 (Operations)</strong> 
+</p>
+<p>Main Office:
+<br>408 Sembawang Drive
+<br>#08-802
+<br>Singapore 750408</p>
+<h3>7. Student Care Centre Operator</h3>
+<p><strong>Commit Learning Pte Ltd</strong>
+</p>
+<p>Tel: 89454806</p>
+<h3>8. School Dental Clinic</h3>
+<p>*<strong><em>Please note that clinic operates on alternate weeks</em></strong>
+</p>
+<p><strong>Opening Hours:</strong>
+</p>
+<p>Mon &amp; Thurs - <strong>8AM - 5.30PM</strong>
+</p>
+<p>Tue &amp; Wed - <strong>8AM - 1PM</strong>
+</p>
+<p>Fri - <strong>Closed</strong>
+</p>
+<p><em>Lunch Break: 1PM - 2PM</em>
+</p>
+<p>Tel: 8940 3382 <strong>(via whatsapp only)</strong>
+</p>
+<p>Please contact the following dental clinics on the days when the school
+dental clinic is closed:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col style="width: 190px">
-<col style="width: 327px">
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-ktyi">Tao Nan School</td>
-    <td class="tg-ktyi">Monday to Friday, <span style="font-weight:bold">Tel</span>: 6241 6218</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">CHIJ Katong Primary</td>
-    <td class="tg-ktyi">Monday to Wednesday, <span style="font-weight:bold">Tel</span>: 6345 4107</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tao Nan School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Friday, <strong>Tel</strong>: 6241 6218</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIJ Katong Primary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday to Wednesday, <strong>Tel</strong>: 6345 4107</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-### 9\. Special Events
-
-  
-
-**Total Defence Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; February**      
-**Sports Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;February / March**    
-**P5 Advanced Student Leadership Camp &nbsp; &nbsp; &nbsp;March**   
-**Physical Fitness Tests (P4 and P6 only) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;April**    
-**International Friendship Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April**     
-**Racial Harmony Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;July**   
-**P5 Outdoor Adventure Camp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July**     
-**National Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August**     
-**Teachers' Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;September**&nbsp;     
-**Children's Day Celebrations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October**  
-**Prize Giving Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November**   
-**P6 Graduation Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November**
-   
-
-### 10\. Examinations
-
-  
-
-**P4 and P6 Mid Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April / May**  
-**P3 GEP Screening**&nbsp;**Exercise**&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**August / October**   
-**PSLE Oral / Listening Comprehension&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August / September**   
-**P6 Preliminary Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August**   
-**PSLE Written Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September / October**   
-**P3, P5 End-of-Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; October / November**
-
-  
-
-### 11\. Absence from School
-
-  
-
-The school values curriculum time. Parents are advised to plan vacations to coincide with school holidays. Please refer to school rule 1.2 on page 16 of the Student Handbook.
-
-
-### 12\. Visitors to the School
-
-  
-
-In order to ensure the safety of every pupil in the school, all parents / guardians are requested to:
-
-*   produce their identity cards for identification purposes, sign in and obtain a visitor's pass at the security guard post and proceed directly to the General Office.
-*   inform the General Office should they wish to take their child / ward out of school.
+<h3>9. Special Events</h3>
+<p><strong>Total Defence Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; February</strong>
+<br><strong>Sports Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;February / March</strong>
+<br><strong>P5 Advanced Student Leadership Camp &nbsp; &nbsp; &nbsp;March</strong>
+<br><strong>Physical Fitness Tests (P4 and P6 only) &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;April</strong>
+<br><strong>International Friendship Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April</strong>
+<br><strong>Racial Harmony Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;July</strong>
+<br><strong>P5 Outdoor Adventure Camp&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; July</strong>
+<br><strong>National Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August</strong>
+<br><strong>Teachers' Day Celebration&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;September</strong>&nbsp;
+<br><strong>Children's Day Celebrations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;October</strong>
+<br><strong>Prize Giving Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November</strong>
+<br><strong>P6 Graduation Day&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;November</strong>
+</p>
+<h3>10. Examinations</h3>
+<p><strong>P4 and P6 Mid Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; April / May</strong>
+<br><strong>P3 GEP Screening</strong>&nbsp;<strong>Exercise</strong>&nbsp;&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp;<strong>August / October</strong>
+<br><strong>PSLE Oral / Listening Comprehension&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; August / September</strong>
+<br><strong>P6 Preliminary Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;August</strong>
+<br><strong>PSLE Written Examinations&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; September / October</strong>
+<br><strong>P3, P5 End-of-Year Exams (Oral &amp; Written)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; October / November</strong>
+</p>
+<h3>11. Absence from School</h3>
+<p>The school values curriculum time. Parents are advised to plan vacations
+to coincide with school holidays. Please refer to school rule 1.2 on page
+16 of the Student Handbook.</p>
+<h3>12. Visitors to the School</h3>
+<p>In order to ensure the safety of every pupil in the school, all parents
+/ guardians are requested to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>produce their identity cards for identification purposes, sign in and
+obtain a visitor's pass at the security guard post and proceed directly
+to the General Office.</p>
+</li>
+<li>
+<p>inform the General Office should they wish to take their child / ward
+out of school.</p>
+</li>
+</ul>
+<p></p>
