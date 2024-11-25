@@ -192,10 +192,15 @@ Email: [uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)
 
 ### 6\. School Bus Services
 
-
-**SINBUS Pte Ltd / Mr Felix**
-
-Tel: 83116293
+**Sinbus (S) Transport Services  
+  
+**• 9143 3777 (Admin)  
+• 8071 9291 (Operations)  
+  
+Main Office:  
+408 Sembawang Drive  
+#08-802  
+Singapore 750408
 
   
 
