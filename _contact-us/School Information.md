@@ -176,12 +176,18 @@ Fax: 6464 0110
 ### 5\. School Uniform Supplier
 
 **Asencio Pte Ltd**  
-120 Hillview Avenue #05-01 Kewalram Hillview  
+  
+Walk-In Purchase  
+Every Tuesdays and Thursdays from 12.30pm to 2.30pm  
+Gate 2 – Security Guard Post  
+&nbsp;  
+Main Office:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+120 Hillview Avenue #05-01  
+Kewalram Hillview  
 Singapore 669594  
-Timing:&nbsp;**12.30pm to 2.30pm**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Gate 2 – security guard post&nbsp;(Every Tuesday and Thursday)**   
 Contact No: 67643102  
-Email: uniforms@asencio.com.sg   
+  
+Email: [uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)  
 [Guides on how to purchase uniform online](/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf)
 
 ### 6\. School Bus Services
