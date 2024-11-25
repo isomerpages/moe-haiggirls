@@ -160,34 +160,47 @@ variant: markdown
 
 ### 4\. School Bookshop  
 
-**Paciﬁc Bookstores Pte Ltd**
-
-14 Arumugam Road, #08-01 Lion Building Road C, Singapore 409959
-**Tel**:&nbsp;6464 0111   
-**Fax**:&nbsp;6464 0110
-
-**Opening Hours in School during the School Terms**:  
-Monday to Friday, 8.00am to 3.00pm    
-(Lunch Break: 11.30am to 12.30pm)    
-**Tel**:&nbsp;63480869 
+ **Paciﬁc Bookstores Pte Ltd **
+ 
+Opening Hours for Walk-Ins during School Term  
+Monday: 2:00pm to 2:30pm  
+Tuesdays to Fridays: 2:00pm to 3:00pm  
+Tel: 94765125 (WhatsApp)  
+  
+Main Office:  
+14 Arumugam Road #08-01  
+LTC Building Road C Singapore 409959  
+Tel: 6464 0111  
+Fax: 6464 0110
 
 ### 5\. School Uniform Supplier
 
 **Asencio Pte Ltd**  
-120 Hillview Avenue #05-01 Kewalram Hillview  
+  
+Walk-In Purchase  
+Every Tuesdays and Thursdays from 12.30pm to 2.30pm  
+Gate 2 – Security Guard Post  
+&nbsp;  
+Main Office:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+120 Hillview Avenue #05-01  
+Kewalram Hillview  
 Singapore 669594  
-Timing:&nbsp;**12.30pm to 2.30pm**  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Gate 2 – security guard post&nbsp;(Every Tuesday and Thursday)**   
 Contact No: 67643102  
-Email: uniforms@asencio.com.sg   
+  
+Email: [uniforms@asencio.com.sg](mailto:uniforms@asencio.com.sg)  
 [Guides on how to purchase uniform online](/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf)
 
 ### 6\. School Bus Services
 
-
-**SINBUS Pte Ltd / Mr Felix**
-
-Tel: 83116293
+**Sinbus (S) Transport Services  
+  
+**9143 3777 (Admin)  
+8071 9291 (Operations)  **
+  
+Main Office:  
+408 Sembawang Drive  
+#08-802  
+Singapore 750408
 
   
 
