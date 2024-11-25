@@ -202,7 +202,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 <br><strong>Monday to Friday:</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 8.00 a.m. to 5.00 p.m.</p>
 <h3>4. School Bookshop</h3>
-<p><strong>Paciﬁc Bookstores Pte Ltd </strong>
+<p><strong>Paciﬁc Bookstores Pte Ltd</strong>
 </p>
 <p>Opening Hours for Walk-Ins during School Term
 <br>Monday: 2:00pm to 2:30pm
@@ -231,7 +231,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 <h3>6. School Bus Services</h3>
 <p><strong>Sinbus (S) Transport Services</strong>
 </p>
-<p><strong>9143 3777 (Admin)<br>8071 9291 (Operations)</strong> 
+<p><strong>9143 3777 (Admin)<br>8071 9291 (Operations)</strong>
 </p>
 <p>Main Office:
 <br>408 Sembawang Drive
