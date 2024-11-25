@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h5>DETAILS OF BUS OPERATORS AND BUS FARES</h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,7 +45,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>80719291</p>
+<p>9143 3777 (Admin)</p>
+<p>8071 9291 (Operations)</p>
 </td>
 </tr>
 </tbody>
@@ -53,7 +58,16 @@ Actual bus fares based on other commercial considerations such as the distance,
 route, number of students on buses and the size of school bus etc.</p>
 <p><strong>Bus fares for daily school bus services by distance</strong>
 </p>
-<table>
+<table style="minWidth: 175px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="2" colspan="1">
@@ -264,7 +278,10 @@ route, number of students on buses and the size of school bus etc.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -273,7 +290,13 @@ route, number of students on buses and the size of school bus etc.</p>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
