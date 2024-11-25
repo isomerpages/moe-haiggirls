@@ -160,16 +160,18 @@ variant: markdown
 
 ### 4\. School Bookshop  
 
-**Paciﬁc Bookstores Pte Ltd**
-
-14 Arumugam Road, #08-01 Lion Building Road C, Singapore 409959
-**Tel**:&nbsp;6464 0111   
-**Fax**:&nbsp;6464 0110
-
-**Opening Hours in School during the School Terms**:  
-Monday to Friday, 8.00am to 3.00pm    
-(Lunch Break: 11.30am to 12.30pm)    
-**Tel**:&nbsp;63480869 
+ **Paciﬁc Bookstores Pte Ltd **
+ 
+Opening Hours for Walk-Ins during School Term  
+Monday: 2:00pm to 2:30pm  
+Tuesdays to Fridays: 2:00pm to 3:00pm  
+Tel: 94765125 (WhatsApp)  
+  
+Main Office:  
+14 Arumugam Road #08-01  
+LTC Building Road C Singapore 409959  
+Tel: 6464 0111  
+Fax: 6464 0110
 
 ### 5\. School Uniform Supplier
 
