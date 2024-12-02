@@ -241,21 +241,21 @@ Flag-raising commences at 7.30 a.m.)</p>
 <p><strong>Commit Learning Pte Ltd</strong>
 </p>
 <p>Tel: 89454806</p>
-<h3>8. School Dental Clinic</h3>
-<p>*<strong><em>Please note that clinic operates on alternate weeks</em></strong>
+<h3><strong>8. School Dental Clinic</strong></h3>
+<p>&nbsp;<strong><em>Please note that clinic operates on alternate weeks</em></strong>
 </p>
-<p><strong>Opening Hours:</strong>
+<p></p>
+<p><em><u>Opening Hours:</u></em>
 </p>
-<p>Mon &amp; Thurs - <strong>8AM - 5.30PM</strong>
+<p>Mondays to Thursdays –&nbsp;<strong>8:00AM - 5.30PM</strong>
 </p>
-<p>Tue &amp; Wed - <strong>8AM - 1PM</strong>
+<p>Fridays –&nbsp;<strong>8:00AM – 5:00PM</strong>
 </p>
-<p>Fri - <strong>Closed</strong>
+<p><strong><em>Lunch Break: 1PM - 2PM</em></strong>
 </p>
-<p><em>Lunch Break: 1PM - 2PM</em>
+<p>Tel: 8940 3382&nbsp;<strong>(via WhatsApp only)</strong>
 </p>
-<p>Tel: 8940 3382 <strong>(via whatsapp only)</strong>
-</p>
+<p>&nbsp;</p>
 <p>Please contact the following dental clinics on the days when the school
 dental clinic is closed:</p>
 <table style="minWidth: 50px">
@@ -269,7 +269,8 @@ dental clinic is closed:</p>
 <p>Tao Nan School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday, <strong>Tel</strong>: 6241 6218</p>
+<p>Monday to Friday,&nbsp;</p>
+<p><strong>Tel</strong>: 6241 6218</p>
 </td>
 </tr>
 <tr>
@@ -277,7 +278,8 @@ dental clinic is closed:</p>
 <p>CHIJ Katong Primary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Wednesday, <strong>Tel</strong>: 6345 4107</p>
+<p>Monday to Wednesday,&nbsp;</p>
+<p><strong>Tel</strong>: 6345 4107</p>
 </td>
 </tr>
 </tbody>
