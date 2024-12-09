@@ -2,9 +2,8 @@
 title: Learning For Life Programme (LLP)
 permalink: /hgs-experience/llp/
 description: ""
+variant: markdown
 ---
-
-
 ##### Character and Leadership through the Performing and Visual Arts
 
 Our LLP aims to develop character and leadership through diverse learning experiences in the Arts. We adopt a whole-school 3-tiered approach to ensure our students develop their creativity, self-expression and appreciation of Singapore’s multi-cultural heritage through the Arts. These learning experiences are also carefully curated to provide opportunities for students to demonstrate values-in-action and develop leadership skills.
@@ -28,11 +27,7 @@ Our LLP aims to develop character and leadership through diverse learning experi
 ![](/images/llp6.png)
 ![](/images/llp7.png)
 
-
-
-
 <center><strong>Tier 3 – Our D3T2 students hard at work and dedicating their time to the community</strong></center>
 
 ![](/images/llp8.png)
 ![](/images/llp9.png)
-_\*Updated on July 2021_
