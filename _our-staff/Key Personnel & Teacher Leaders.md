@@ -207,21 +207,6 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kavitha Jeya Lawrence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (English Language)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_jeyamalar_segeran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_jeyamalar_segeran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ang Yan Qing Clara</p>
 </td>
 <td rowspan="1" colspan="1">
