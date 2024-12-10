@@ -170,18 +170,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tong Poh Siew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tong_siew_poh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
