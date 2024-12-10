@@ -118,14 +118,6 @@ variant: tiptap
 <p>OSO&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Lay Heng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSO&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tung Siok Chin</p>
 </td>
 </tr>
@@ -151,14 +143,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lester Jerah</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Teacher Aide</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Cindy Kum Eng Hong</p>
 </td>
 </tr>
 <tr>
