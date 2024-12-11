@@ -110,7 +110,7 @@ variant: tiptap
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yatimah</p>
+<p>Ms Yatimah Abdul Hadi</p>
 </td>
 </tr>
 <tr>
@@ -123,10 +123,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kassim Bin Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Librarian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ashikin</p>
+<p>Ms Siti Nur Ashikin</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +142,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yugendran</p>
+<p>Mr Yugendran Sandrasegar</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +158,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jocelyn</p>
+<p>Mdm Jocelyn Toh</p>
 </td>
 </tr>
 </tbody>
