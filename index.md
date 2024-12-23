@@ -4,7 +4,8 @@ title: Haig Girls School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /
-notification: ""
+notification: Wishing you a happy holiday season! Just a reminder that school
+  will be open tomorrow, Christmas Eve, from 8:00 AM to 12:00 PM. Thank you.
 sections:
   - hero:
       background: /images/haighp.gif
