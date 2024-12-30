@@ -54,8 +54,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Harjinder Kaur</p>
-<p>&nbsp;&nbsp;Mdm Lu Seok Hua</p>
-<p>&nbsp;&nbsp;Mdm Tng Shoo Ling</p>
+<p>Mdm Lu Seok Hua</p>
+<p>Mdm Tng Shoo Ling</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
