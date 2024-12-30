@@ -3,10 +3,12 @@ title: Our Vision, Mission, Values & Core Beliefs
 permalink: /about-us/Our-School/our-vision-mission-values-and-core-beliefs/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### Vision:
 
-Leaders of Character, Striving for Excellence in a Vibrant School.  
+
+Empowering every Haig Girl to Learn and Lead, in Service of Others
   
 
 ### Mission:
@@ -15,13 +17,10 @@ To nurture self-directed learners and critical and creative thinkers who can lea
 
   
 
-### Values: I4Cs
+### Values
 
-**Integrity** \- honesty, trustworthiness, doing and standing up for what is right  
-**Commitment** \- responsibility, perseverance, giving of one’s best  
-**Concern** \- showing care, being courteous, respectful, kind, helpful and willing to share  
-**Creativity** \- openness to new ideas, originality, inventive thinking  
-**Cooperation** \- teamwork (working well with people), contributing actively and listening to others, being able to handle conflict  
+    
+**R**espect, **R**esponsibility, **R**esilience, **I**ntegrity, **C**ompassion, **H**umility.
   
 
 ### Core Beliefs:
