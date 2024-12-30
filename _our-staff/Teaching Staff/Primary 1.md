@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -15,215 +14,139 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p><strong>Class&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p><strong>Form Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Chuay Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ang_chuay_yen@schools.gov.sg</a>
+<p><strong>Email Add</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p><strong>1C&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mrs Lisa Wong&nbsp;</p>
+<p>Mdm Wang Jinyan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zareena Kamarraj</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">zareena_kamarraj@schools.gov.sg</a>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_hsiao_sien_lisa@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_jinyan@schools.gov.sg</u></a>
+</p>
+<p>
+<br>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p><strong>1G&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss</p>
+<p>Mdm Harjinder Kaur</p>
+<p>&nbsp;&nbsp;Mdm Lu Seok Hua</p>
+<p>&nbsp;&nbsp;Mdm Tng Shoo Ling</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Leow Xin Yi Chantel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">leow_xin_yi_chantel@schools.gov.sg</a>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
+</p>
+<p>&nbsp;&nbsp;<a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
+</p>
+<p>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p><strong>1H&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss&nbsp;</p>
+<p>Ms Angeline Lee</p>
+<p>Mdm Shaw Teo</p>
+<p>Mdm Salmah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teh Soo Bin</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guay_lay_lee_angeline@schools.gov.sg</u></a>
+</p>
+<p>&nbsp;&nbsp;<a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_shaw_mui@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmah_awang@schools.gov.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>1J&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teh_soo_bin@schools.gov.sg</a>
+<p>Mrs Christina Hing&nbsp;</p>
+<p>&nbsp;&nbsp;Ms Wu Tzu Yi</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_meow_ling_christina@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_tzu_yi@schools.gov.sg</u></a>
+</p>
+<p>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sri Burdiasih Bte Ahmad Saibon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">sri_burdiasih_ahmad_saibon@schools.gov.sg</a>
+<p><strong>1K&nbsp;</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Arlene Prescott</p>
+<p>Mdm Norah</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arlene_prescott@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norah_nordin@schools.gov.sg</u></a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chua Boon Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
+<p><strong>1P&nbsp;</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>1J</p>
+<p>Mdm Alia Hanna</p>
+<p>Mdm Rachel Ng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teo Shaw Mui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">teo_shaw_mui@schools.gov.sg</a>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alia_hanna_mahmud@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1J</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Foo Phang Khim Sharene</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">foo_phang_khim@schools.gov.sg</a>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_peng_woon_rachel@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mainura Binte Mawi&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">mainura_mawi@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Loh Chu Imm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_chu_imm@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tng Shoo Ling @Sara Tng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tng_shoo_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wong Hsiao Sien Lisa (Mrs Lisa Yap)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wong_hsiao_sien_lisa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shiva Shankari Somasundram</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:shiva_shankari_somasundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shiva_shankari_somasundram@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kavitha Jeya Lawrence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kavitha_jeyamalar_segeran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kavitha_jeyamalar_segeran@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
