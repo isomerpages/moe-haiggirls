@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Teaching Staff
 variant: tiptap
 ---
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -15,211 +14,130 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p><strong>Class&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p><strong>Form Teachers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Salinah Bte Misri</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">salinah_misri@schools.gov.sg</a>
+<p><strong>Email Add</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2C</p>
+<p><strong>2C&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm Syazwani</p>
+<p>Mdm Zareena</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wu Tzu Yi</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syazwani_samure@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zareena_kamarraj@schools.gov.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2G&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wu_tzu_yi@schools.gov.sg</a>
+<p>Ms Chantel Leow</p>
+<p>Ms Teh Soo Bin</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leow_xin_yi_chantel@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_soo_bin@schools.gov.sg</u></a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2H&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sri</p>
+<p>Ms Candice Loke</p>
+<p>Mrs Chua Boon Ling</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sri_burdiasih_ahmad_saibon@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>candice_loke_may_xyn_a@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_boon_ling@schools.gov.sg</u></a>
+</p>
+<p>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Harjinder Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">krishnan_harjinder@schools.gov.sg</a>
+<p><strong>2J&nbsp;</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharene Foo</p>
+<p>Ms NurHanis</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_phang_khim@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nurhanis_zamrot@schools.gov.sg</u></a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2G</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Long Peizhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">long_peizhen@schools.gov.sg</a>
+<p><strong>2K&nbsp;</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Mainura</p>
+<p>Mdm Salinah</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mainura_mawi@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salinah_misri@schools.gov.sg</u></a>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ng Peng Woon Rachel</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_peng_woon_rachel@schools.gov.sg</a>
+<p><strong>2P&nbsp;</strong>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>2H</p>
+<p>Mdm Shankari</p>
+<p>Ms Linda Chan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kandesan Ramasamy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">kandesan_ramasamy@schools.gov.sg</a>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiva_shankari_somasundram@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2H</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Hwee Kheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_hwee_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_hwee_kheng_a@schools.gov.sg</a>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>linda_chan@schools.gov.sg</u></a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2J</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Rita Zulkarnain Taha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">rita_zulkarnain_taha@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2J</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subramaniam Prema</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">subramaniam_prema@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Arlene Prescott (Mrs Arlene Yang)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">arlene_prescott@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2K</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Norah Bte Nordin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">norah_nordin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheah Ling Hui Esther</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheah_ling_hui_esther@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lu Seok Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lu_seok_hua@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2P</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siti Nurhanis Bte Zamrot</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_nurhanis_zamrot@schools.gov.sg</a>
+<p>
+<br>
 </p>
 </td>
 </tr>
