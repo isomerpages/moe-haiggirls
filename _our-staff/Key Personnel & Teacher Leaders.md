@@ -78,6 +78,37 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Cheryl Dorothy Nonis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (Science)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheryl_dorothy_nonis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_dorothy_nonis@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lena Chng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (PE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lena_chng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chng@schools.gov.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Wan Alfida Suleiman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,21 +185,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:muhamad_ansar_kamsan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">muhamad_ansar_kamsan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Yeo Yu Nian Nikki</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Citizenship Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yu_nian_nikki@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yu_nian_nikki@schools.gov.sg</a>
 </p>
 </td>
 </tr>
