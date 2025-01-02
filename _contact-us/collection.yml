@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - School Information.md
-      - Feedback.md
       - School Canteen Advertisement.md
       - School Bus Service.md
