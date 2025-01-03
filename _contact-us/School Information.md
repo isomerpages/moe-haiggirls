@@ -241,7 +241,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 <p><strong>Commit Learning Pte Ltd</strong>
 </p>
 <p>Tel: 89454806</p>
-<h3>8.<strong> School Dental Clinic</strong></h3>
+<h3>8.<strong> </strong>School Dental Clinic</h3>
 <p>&nbsp;<strong><em>Please note that clinic operates on alternate weeks</em></strong>
 </p>
 <p></p>
