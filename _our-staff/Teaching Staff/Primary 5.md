@@ -58,7 +58,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Fatmah&nbsp;</p>
-<p>&nbsp;&nbsp;Mrs Sunita Singh</p>
+<p>Mrs Sunita Singh</p>
 <p>Mdm Marie Yong</p>
 <p></p>
 </td>
@@ -81,7 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Siti Aisyah</p>
-<p>&nbsp;&nbsp;Mr Kwok Yao Tsuan</p>
+<p>Mr Kwok Yao Tsuan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
