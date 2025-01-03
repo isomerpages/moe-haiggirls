@@ -34,7 +34,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chuay Yen</p>
-<p>&nbsp;&nbsp;Mr Muhamad Ansar</p>
+<p>Mr Muhamad Ansar</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +54,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Noraini</p>
-<p>&nbsp;&nbsp;Mrs Tay Phek Huang</p>
+<p>Mrs Tay Phek Huang</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms The Jia- Ling&nbsp;</p>
-<p>&nbsp;&nbsp;Mrs Prema</p>
+<p>Mrs Prema</p>
 <p>Ms Rasyidah</p>
 <p></p>
 </td>
