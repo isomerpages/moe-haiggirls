@@ -241,7 +241,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 <p><strong>Commit Learning Pte Ltd</strong>
 </p>
 <p>Tel: 89454806</p>
-<h3><strong>8. School Dental Clinic</strong></h3>
+<h3>8.<strong> </strong>School Dental Clinic</h3>
 <p>&nbsp;<strong><em>Please note that clinic operates on alternate weeks</em></strong>
 </p>
 <p></p>
@@ -284,11 +284,11 @@ dental clinic is closed:</p>
 </tr>
 </tbody>
 </table>
-<h3>10. Absence from School</h3>
+<h3>9. Absence from School</h3>
 <p>The school values curriculum time. Parents are advised to plan vacations
 to coincide with school holidays. Please refer to school rule 1.2 on page
 16 of the Student Handbook.</p>
-<h3>11. Visitors to the School</h3>
+<h3>10. Visitors to the School</h3>
 <p>In order to ensure the safety of every pupil in the school, all parents
 / guardians are requested to:</p>
 <ul data-tight="true" class="tight">
