@@ -19,5 +19,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_P1_PE_PAL_Curriculum_Briefing_2_Jan_2025.pdf" rel="noopener nofollow" target="_blank">PE &amp; PAL</a>
 </p>
-<p><a href="https://drive.google.com/drive/folders/18gzi_jFxhNHKCg5xnSQbjPKWgVphPL_A" rel="noopener nofollow" target="_blank">Mother Tongue</a>
+<p><a href="https://drive.google.com/file/d/1xSIqMP91vLkp2PY1HyY3FbFlyznRCGZU/view?usp=sharing" rel="noopener nofollow" target="_blank">Mother Tongue</a>
 </p>
