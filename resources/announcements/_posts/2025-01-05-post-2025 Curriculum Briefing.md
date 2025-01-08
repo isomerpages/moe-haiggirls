@@ -21,3 +21,6 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1xSIqMP91vLkp2PY1HyY3FbFlyznRCGZU/view?usp=sharing" rel="noopener nofollow" target="_blank">Mother Tongue</a>
 </p>
+<p></p>
+<p><a href="/files/2025_P1_Aesthetics_and_LLP_Curriculum_Briefing.pdf" rel="noopener nofollow" target="_blank">Aesthetics &amp; Learning for Life Programme (LLP)</a>
+</p>
