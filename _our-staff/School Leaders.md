@@ -11,12 +11,14 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal:</strong> Ms Marion Tay</p>
+<p><strong>Principal:</strong>  <a href="mailto:marion_tay@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Marion Tay</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal:</strong> Mrs Evelyn Tay</p>
+<p><strong>Vice Principal:</strong>  <a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Evelyn Tay</a>
+</p>
 </td>
 </tr>
 </tbody>
