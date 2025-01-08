@@ -53,18 +53,6 @@ variant: tiptap
 <p>Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Melvyn Doliveiro&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">melvyn_doliveiro@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mr Jace Ng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,6 +115,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kassim Bin Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science TA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nooraishahbi Binte Hussain</p>
 </td>
 </tr>
 <tr>
