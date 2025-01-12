@@ -52,44 +52,40 @@ Health, Sexual Behaviour, and, Culture, Society and Law. You may click
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>(<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
 for more information on the scope of Sexuality Education in the school
 curriculum.</p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
-topics on sexuality include:</p>
+<p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
 (CCE)</p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
-mark the onset of puberty. With better nutrition and improved health care,
-children are reaching puberty at a younger age and have to grapple with
-physical, emotional and psychological changes in themselves. The implication
-is that our children are becoming biologically ready for sexual activity
-sooner without necessarily having the corresponding cognitive or emotional
-maturity to modulate their behaviours. Furthermore, our young are also
-exposed to a wide range of influences that could endanger health and undermine
-the integrity of the family. Our students require close guidance so that
-they can respond with discernment to the sexual messages in the media and
-other sources.</p>
-<p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
-lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
-lessons, students will learn healthy ways to manage the physiological,
-social and emotional changes in their growing years. They learn to build
-healthy and rewarding relationships with others, including those with members
-of the opposite sex. Students are also guided to make wise, informed and
-responsible decisions to keep themselves safe from sexuality-related risks.</p>
+<p>6.&nbsp;&nbsp;The upper primary years mark the onset of puberty. With
+better nutrition and improved health care, children are reaching puberty
+at a younger age and have to grapple with physical, emotional and psychological
+changes in themselves. The implication is that our children are becoming
+biologically ready for sexual activity sooner without necessarily having
+the corresponding cognitive or emotional maturity to modulate their behaviours.
+Furthermore, our young are also exposed to a wide range of influences that
+could endanger health and undermine the integrity of the family. Our students
+require close guidance so that they can respond with discernment to the
+sexual messages in the media and other sources.</p>
+<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
+at Primary 5 and 6. Through these lessons, students will learn healthy
+ways to manage the physiological, social and emotional changes in their
+growing years. They learn to build healthy and rewarding relationships
+with others, including those with members of the opposite sex. Students
+are also guided to make wise, informed and responsible decisions to keep
+themselves safe from sexuality-related risks.</p>
 <p>&nbsp;<a href="https://drive.google.com/file/d/1cCZsglzaoXDpz4kdI5ohmvVIbdvErqWL/view?usp=sharing" rel="noopener nofollow" target="_blank">Please click here to view the lesson overview.</a>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
-<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
-children out of Sexuality Education lessons, and/or supplementary Sexuality
-Education programmes by MOE-approved external providers.</p>
-<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
-opt their children out of the Sexuality Education lessons need to complete
-an opt-out form <a href="https://form.gov.sg/67828b2679519709651850dd" rel="noopener nofollow" target="_blank">here.</a> This
-form will be communicated &nbsp;to parents at the start of the year and
-is also downloadable <a href="/files/3__2025_HGS_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
+<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
+<p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
+Education lessons need to complete an opt-out form <a href="https://form.gov.sg/67828b2679519709651850dd" rel="noopener nofollow" target="_blank">here.</a> This form
+will be communicated &nbsp;to parents at the start of the year and is also
+downloadable <a href="/files/3__2025_HGS_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
 The completed opt-out form is to be submitted by 07/04/2025.</p>
-<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-at <a rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a>,
+<p>10.&nbsp;Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a>,
 Tel: 6344 0293 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
