@@ -40,8 +40,8 @@ and society; and</p>
 <p>(d)&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection
 against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
 you and your loved ones.</p>
-<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
-for more information on MOE Sexuality Education.</p>
+<p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for more information
+on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of Haig Girls’ School’s Sexuality Education Programme for 2025</strong>
 </p>
@@ -49,9 +49,8 @@ for more information on MOE Sexuality Education.</p>
 the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
 Health, Sexual Behaviour, and, Culture, Society and Law. You may click
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>(<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
-for more information on the scope of Sexuality Education in the school
-curriculum.</p>
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>for more information on the scope of Sexuality Education in the
+school curriculum.</p>
 <p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
 <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
