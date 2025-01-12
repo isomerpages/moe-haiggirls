@@ -52,6 +52,7 @@ school curriculum.</p>
 <p>5.&nbsp;The subjects that incorporate topics on sexuality include:</p>
 <p>a.&nbsp;Science</p>
 <p>b.&nbsp;Character and Citizenship Education (CCE)</p>
+<p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;The upper primary years mark the onset of puberty. With
 better nutrition and improved health care, children are reaching puberty
