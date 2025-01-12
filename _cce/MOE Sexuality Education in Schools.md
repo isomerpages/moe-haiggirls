@@ -7,16 +7,16 @@ variant: tiptap
 <h2>MOE Sexuality Education in Schools - Haig Girls' School</h2>
 <p><strong>Moe Sexuality Education in Schools</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-(SEd) in schools aims to enable students to understand the physiological,
-social and emotional changes they experience as they mature, develop healthy
-and rewarding relationships with others, including those with members of
-the opposite sex, and make wise, informed and responsible decisions on
-sexuality matters. SEd is premised on the importance of the family as the
-basic unit of society. This means encouraging healthy, heterosexual marriages
-and stable nuclear family units with extended family support. The teaching
-and learning of SEd is based on respect for the values and beliefs of the
-different ethnic and religious communities in Singapore on sexuality issues.</p>
+<p>1.&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools aims to enable
+students to understand the physiological, social and emotional changes
+they experience as they mature, develop healthy and rewarding relationships
+with others, including those with members of the opposite sex, and make
+wise, informed and responsible decisions on sexuality matters. SEd is premised
+on the importance of the family as the basic unit of society. This means
+encouraging healthy, heterosexual marriages and stable nuclear family units
+with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious
+communities in Singapore on sexuality issues.</p>
 <p>&nbsp;</p>
 <ol start="2" data-tight="true" class="tight">
 <li>
@@ -30,28 +30,26 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The <strong>Key Messages</strong> of
-Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
-marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.</p>
+<p>3.&nbsp;&nbsp;The <strong>Key Messages</strong> of Sexuality Education are:</p>
+<p>(a)&nbsp;&nbsp;&nbsp;Love and respect yourself as you love and respect
+others;</p>
+<p>(b)&nbsp;&nbsp;Build positive relationships based on love and respect
+(which are the foundation for strong families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;Make responsible decisions for yourself, your family
+and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;Abstinence before marriage is the best protection
+against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt
+you and your loved ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a>)
 for more information on MOE Sexuality Education.</p>
 <p></p>
 <p><strong>Overview of Haig Girls’ School’s Sexuality Education Programme for 2025</strong>
 </p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education
-is delivered in a holistic manner through the school curriculum. The content
-for Sexuality Education is grouped into five main themes: Human Development,
-Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture,
-Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
+<p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
+the school curriculum. The content for Sexuality Education is grouped into
+five main themes: Human Development, Interpersonal Relationships, Sexual
+Health, Sexual Behaviour, and, Culture, Society and Law. You may click
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>(<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
 for more information on the scope of Sexuality Education in the school
 curriculum.</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The subjects that incorporate
