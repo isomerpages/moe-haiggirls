@@ -92,7 +92,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharene Foo</p>
-<p>Ms NurHanis</p>
+<p>Ms Siti Nurhanis</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
