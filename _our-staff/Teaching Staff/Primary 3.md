@@ -85,13 +85,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Rita</p>
 <p>Mr Kandesan</p>
-<p></p>
+<p>Mdm Radiah (T2)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ramdas_jothibai_theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>rita_zulkarnain_taha@schools.gov.sg</u></a>
 </p>
 <p><a href="mailto:ramdas_jothibai_theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kandesan_ramasamy@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:ramdas_jothibai_theresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>radiah_md_ali_jinnah@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p></p>
