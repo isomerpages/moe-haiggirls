@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p></p>
-<h4></h4>
+<h1></h1>
 <p><a href="https://drive.google.com/file/d/1xp9v8MkrzpHT2Ye76_nlUjPJEM-ifC0n/view?usp=drive_link" rel="noopener nofollow" target="_blank">P6 PE Curriculum Briefing 2025</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1TjLG4g6m-qDQ2wNR0SfJyFh6SXxHrEWL/view?usp=drive_link" rel="noopener nofollow" target="_blank">P6 MTL Curriculum Briefing 2025</a>
