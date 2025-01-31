@@ -15,9 +15,9 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1m2ERvriCmBexyYOc5Ug237LR69u5tqUD/view?usp=drive_link" rel="noopener nofollow" target="_blank">Science Briefing</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1BTTOQPqWHxegLO-ju3Lbr1aiz1hAK1j3/view?usp=drive_link" rel="noopener nofollow" target="_blank">PE Briefing </a>
+<p><a href="https://drive.google.com/file/d/1BTTOQPqWHxegLO-ju3Lbr1aiz1hAK1j3/view?usp=drive_link" rel="noopener nofollow" target="_blank">PE Briefing</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1rH7o_VDarmeCzuClfuea2DYupIPkHxQJ/view?usp=drive_link" rel="noopener nofollow" target="_blank">MTL Briefing </a>
+<p><a href="https://drive.google.com/file/d/1rH7o_VDarmeCzuClfuea2DYupIPkHxQJ/view?usp=drive_link" rel="noopener nofollow" target="_blank">MTL Briefing</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1Dg6dztZD9CSuanrhBYBhekH16qnWqf1w/view?usp=drive_link" rel="noopener nofollow" target="_blank">Aesthetics and LLP</a>
 </p>
