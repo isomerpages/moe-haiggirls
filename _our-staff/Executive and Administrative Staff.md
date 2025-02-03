@@ -38,14 +38,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurfa'izah Jamaludin</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">nurfaizah_jamaludin@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
