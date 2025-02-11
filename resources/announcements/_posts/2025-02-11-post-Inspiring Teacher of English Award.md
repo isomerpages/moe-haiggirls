@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/Inspiring_Teacher_of_English_Award_2025.pdf" rel="noopener nofollow" target="_blank">Inspiring Teacher of English Award</a>
+</p>
