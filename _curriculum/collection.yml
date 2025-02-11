@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Holistic Assessment.md
       - Arts Education/.keep
       - Arts Education/Arts Education.md
       - Arts Education/Art.md
