@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Haig Girls School
+title: Haig Girls' School
 description: Brief site description here
 image: /images/HGS CREST.png
 permalink: /

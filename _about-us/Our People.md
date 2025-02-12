@@ -1,7 +1,8 @@
 ---
-title: Our Staff
-permalink: /about-us/our-staff/
+title: Our People
+permalink: /about-us/our-people/
 description: ""
+variant: tiptap
 ---
 ### Staff Professional Development 
 
