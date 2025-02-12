@@ -247,9 +247,9 @@ Flag-raising commences at 7.30 a.m.)</p>
 <p></p>
 <p><em><u>Opening Hours:</u></em>
 </p>
-<p>Mondays to Thursdays –&nbsp;<strong>8:00AM - 5.30PM</strong>
+<p>Monday, Wednesday, Friday –&nbsp;<strong>8:00AM - 5.00PM</strong>
 </p>
-<p>Fridays –&nbsp;<strong>8:00AM – 5:00PM</strong>
+<p>Tuesday and Friday –&nbsp;<strong>8:00AM – 5:30PM</strong>
 </p>
 <p><strong><em>Lunch Break: 1PM - 2PM</em></strong>
 </p>
@@ -266,20 +266,19 @@ dental clinic is closed:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tao Nan School</p>
+<p>Bedok Green Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday,&nbsp;</p>
-<p><strong>Tel</strong>: 6241 6218</p>
+<p><strong>Tel</strong>: 84900687</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CHIJ Katong Primary</p>
+<p>Temasek Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Wednesday,&nbsp;</p>
-<p><strong>Tel</strong>: 6345 4107</p>
+<p></p>
+<p><strong>Tel</strong>: 91136344</p>
 </td>
 </tr>
 </tbody>
