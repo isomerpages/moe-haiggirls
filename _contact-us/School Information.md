@@ -249,7 +249,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 </p>
 <p>Monday, Wednesday, Friday –&nbsp;<strong>8:00AM - 5.00PM</strong>
 </p>
-<p>Tuesday and Friday –&nbsp;<strong>8:00AM – 5:30PM</strong>
+<p>Tuesday and Thursday –&nbsp;<strong>8:00AM – 5:30PM</strong>
 </p>
 <p><strong><em>Lunch Break: 1PM - 2PM</em></strong>
 </p>
