@@ -3,6 +3,7 @@ title: Our Crest, Motto, Philosophy & Pupils' Creed
 permalink: /about-us/Our-School/our-crest-motto-philosophy-and-pupils-creed/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
 ### School Crest
 
@@ -22,8 +23,7 @@ third_nav_title: Our School
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><img src="/images/HGS%20CREST.png" 
-     style="width:95%"></td>
+    <td class="tg-c3ow"><img src="/images/HGS%20CREST.png" style="width:95%"></td>
     <td class="tg-nx8p"><br><span style="font-weight:bold;font-style:normal">White</span><span style="font-style:normal">  </span>- Purity of thoughts and ideals<br><br><span style="font-weight:bold;font-style:normal">Amber</span><span style="font-style:normal">  </span>- Excellence in the field and in the class<br><br><span style="font-weight:bold;font-style:normal">Brown</span><span style="font-style:normal">  </span>- Upholding our honour and zeal</td>
   </tr>
 </tbody>
@@ -32,13 +32,8 @@ third_nav_title: Our School
 ### School Motto
 
 <em>"Ars Potens Est"</em>   
-**(Knowledge is Power in service to others, the school and the community.)**  
-  
-
-### School Philosophy
-
-With effort, perseverance and resilience, every pupil can think, learn, achieve and excel.  
-  
+**(Knowledge is Power&nbsp;in service to others, the school and the community.)**  
+ 
 
 ### Pupils’ Creed
 
