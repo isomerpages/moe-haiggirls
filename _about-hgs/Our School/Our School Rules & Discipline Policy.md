@@ -293,24 +293,9 @@ are to be worn.</p>
 <p>3.5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Attire checks will be conducted to ensure that students are properly attired.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.6</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>All students in school uniform must conduct themselves like a lady both
-within and outside the school so as to uphold the good image of the school.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3.7</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Students are to be polite, respectful and greet all school staff and elders.</p>
+within and outside the school to uphold the good image of the school. The
+uniform should always be worn with pride and honour.</p>
 </td>
 </tr>
 </tbody>
