@@ -170,7 +170,7 @@ areas (canteen, foyer, and school gates) to communicate with parents/guardians.<
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.8</p>
+<p>2.9</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are not to bring to school any unauthorised electronic, communication,
@@ -182,27 +182,31 @@ and/or transmitting visual, audio or verbal information.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.9</p>
+<p>2.10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must use social media responsibly. They must respect other users
-and adhere to netiquette. All pupils under 13 are not allowed to set up
-their own Facebook, Twitter, Instagram, Snapchat or TikTok, etc accounts.
-If your family has set up any of these social media accounts, parents'
-supervision is necessary.
+<p>All students under the age of 13 are not allowed to set up their own Facebook,
+Twitter, Instagram, Snapchat or TikTok, etc accounts.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students must use digital platforms, including chat groups, responsibly
+and adhere to netiquette.
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.10</p>
+<p>2.11</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are not allowed to use motorised or non-motorised modes of transport
 (e.g: scooters, skateboards, hover boards, unicycles, etc.) within the
-school compound. If they use them to travel from home to school, they will
-need to park these vehicles at a designated point upon arrival in school.</p>
+school compound. If students use these to to travel to and from home, they
+will need to park these vehicles at the designated point upon arrival in
+school.</p>
 </td>
 </tr>
 </tbody>
