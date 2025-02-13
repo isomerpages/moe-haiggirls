@@ -411,8 +411,8 @@ to the best of their ability.</p>
 <p>3.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There will no be no make-up assessment for all written and listening comprehension
-assessments unless specified by the school.</p>
+<p>Students must not bring mobile phones, smartwatches or any other electronic
+devices into the examination room.</p>
 </td>
 </tr>
 <tr>
@@ -420,10 +420,8 @@ assessments unless specified by the school.</p>
 <p>4.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must not cheat, attempt to cheat or help others to cheat during
-all assessments/examinations.
-<br>
-</p>
+<p>There will no be no make-up assessment for all written and listening comprehension
+assessments unless specified by the school.</p>
 </td>
 </tr>
 <tr>
@@ -431,8 +429,10 @@ all assessments/examinations.
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must not bring mobile phones or any other electronic devices
-into the examination room.</p>
+<p>Students must not cheat, attempt to cheat or help others to cheat during
+all assessments/examinations.
+<br>
+</p>
 </td>
 </tr>
 <tr>
