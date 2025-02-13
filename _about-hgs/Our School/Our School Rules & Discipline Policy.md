@@ -29,7 +29,7 @@ for flag-raising which commences at 7.30 a.m..</p>
 <p>Students must be present on all school days. Their parents should write
 to seek school leaders' permission at least one week in advance should
 they need to be excused due to official commitments such as external competitions
-and exams. If studnets are ill, they should submit a medical certificate
+and exams. If students are ill, they should submit a medical certificate
 or a note from their parents on their return to school.</p>
 </td>
 </tr>
