@@ -2,92 +2,108 @@
 title: Curriculum
 permalink: /hgs-experience/Curriculum/curriculum/
 description: ""
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ejye{color:#fd7e00;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 750px">
+<table style="minWidth: 75px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 250px">
-<col style="width: 250px">
+<col>
+<col>
+<col>
 </colgroup>
 <tbody>
-  <tr>
-    <td class="tg-wa1i"><a href = "/curriculum/Arts-Education/arts-education" target = "_self"> 
-          <img src="/images/AE.jpg" 
-     style="width:100%"></a>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/AE.jpg">
+</div>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/character-and-citizenship-education/" target = "_self"> 
-          <img src="/images/CCE.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/CCE.jpg">
+</div>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/english/" target = "_self"> 
-          <img src="/images/ENG.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/ENG.jpg">
+</div>
 </td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href="/curriculum/Arts-Education/arts-education"><span style="text-decoration:underline;color:#FC9400">Arts Education</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/character-and-citizenship-education/"><span style="text-decoration:underline;color:#FC9400">Character and Citizenship Education</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/english/"><span style="text-decoration:underline;color:#FC9400">English</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href = "/curriculum/ict/" target = "_self"> 
-          <img src="/images/ICT.jpg" 
-     style="width:100%"></a>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/Arts-Education/arts-education" rel="noopener noreferrer nofollow" target="_blank"><u>Arts Education</u></a>
+</p>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/mathematics/" target = "_self"> 
-          <img src="/images/MATH.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/character-and-citizenship-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Character and Citizenship Education</u></a>
+</p>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/mother-tongue/" target = "_self"> 
-          <img src="/images/MT.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/english/" rel="noopener noreferrer nofollow" target="_blank"><u>English</u></a>
+</p>
 </td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href="/curriculum/ict/"><span style="text-decoration:underline;color:#FC9400">Information And Communication Technology</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/mathematics/"><span style="text-decoration:underline;color:#FC9400">Mathematics</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/mother-tongue/"><span style="text-decoration:underline;color:#FC9400">Mother Tongue</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href = "/curriculum/physical-education/" target = "_self"> 
-          <img src="/images/PE.jpg" 
-     style="width:100%"></a>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/ICT.jpg">
+</div>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/science/" target = "_self"> 
-          <img src="/images/SCI.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MATH.jpg">
+</div>
 </td>
-    <td class="tg-wa1i"><a href = "/curriculum/teaching-and-learning-through-the-arts/" target = "_self"> 
-          <img src="/images/TLART.jpg" 
-     style="width:100%"></a>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/MT.jpg">
+</div>
 </td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"><a href="/curriculum/physical-education/"><span style="text-decoration:underline;color:#FC9400">Physical Education</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/science/"><span style="text-decoration:underline;color:#FC9400">Science</span></a></td>
-    <td class="tg-wa1i"><a href="/curriculum/teaching-and-learning-through-the-arts/"><span style="text-decoration:underline;color:#FC9400">Teaching and Learning through the Arts</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href = "/curriculum/holistic-assessment/" target = "_self"> 
-          <img src="/images/HA.jpg" 
-     style="width:100%"></a>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/ict/" rel="noopener noreferrer nofollow" target="_blank"><u>Information And Communication Technology</u></a>
+</p>
 </td>
-    <td class="tg-wa1i"></td>
-  </tr>
-  <tr>
-    <td class="tg-wa1i"></td>
-    <td class="tg-wa1i"><a href="/curriculum/holistic-assessment/"><span style="text-decoration:underline;color:#FC9400">Holistic Assessment</span></a></td>
-    <td class="tg-wa1i"></td>
-  </tr>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/mathematics/" rel="noopener noreferrer nofollow" target="_blank"><u>Mathematics</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/mother-tongue/" rel="noopener noreferrer nofollow" target="_blank"><u>Mother Tongue</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/PE.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/SCI.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/TLART.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/science/" rel="noopener noreferrer nofollow" target="_blank"><u>Science</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/curriculum/teaching-and-learning-through-the-arts/" rel="noopener noreferrer nofollow" target="_blank"><u>Teaching and Learning through the Arts</u></a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
