@@ -26,11 +26,23 @@ for flag-raising which commences at 7.30 a.m..</p>
 <p>1.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must be present on all school days. Their parents should write
-to seek school leaders' permission at least one week in advance should
-they need to be excused due to official commitments such as external competitions
-and exams. If students are ill, they should submit a medical certificate
-or a note from their parents on their return to school.</p>
+<p>Students must be present on all school days.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If a student is absent from school, either a medical certificate or a
+letter from her parent/guardian to explain her absence must be presented
+to her Form Teachers.</p>
+</li>
+<li>
+<p>Students' parents/guardians should write to seek school leaders' permission
+at least one week in advance should they need to be excused due to official
+commitments such as external competitions and exams.</p>
+</li>
+<li>
+<p>Students are not allowed to take any leave of absence during term time
+to travel abroad for holiday.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -39,7 +51,9 @@ or a note from their parents on their return to school.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must not leave the school premises before they are dismissed
-for the day without permission from the teachers.</p>
+for the day,</p>
+<p>including afternoon activities such as CCA and Booster classes, without
+permission from the form teachers.</p>
 </td>
 </tr>
 </tbody>
@@ -68,9 +82,18 @@ fist placed over the heart.
 <p>2.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must not frighten, threaten or bully others online or offline.
+<p>All students must be courteous and kind to one another. STudents are to
+be respectful and greet all school staff and elders.
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students must not frighten, threaten or bully others online or offline.</p>
 </td>
 </tr>
 <tr>
