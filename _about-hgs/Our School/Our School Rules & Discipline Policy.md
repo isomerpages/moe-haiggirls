@@ -226,7 +226,8 @@ school.</p>
 <td rowspan="1" colspan="1">
 <p>Students are to be in the prescribed school uniform for all school activities.
 Modification to the uniform is not allowed. Only white shoes (with no coloured
-lines or logos) and white socks are to be worn.
+lines or logos) and white socks covering the ankles are to be worn. High-cut
+shoes are not permitted.
 <br>
 </p>
 </td>
@@ -236,7 +237,7 @@ lines or logos) and white socks are to be worn.
 <p>3.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must only wear PE attire during PE lessons or CCAs unless otherwise
+<p>PE attire must only be worn during PE lessons or CCAs unless otherwise
 stated. PE t-shirts must be neatly tucked in.
 <br>
 </p>
@@ -257,18 +258,34 @@ stated. PE t-shirts must be neatly tucked in.
 <p>3.4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must be neat and tidy.
-<br>- Hair touching the lower line of the collar of the blouse must be tied
-up neatly.Shoulder length hair must be tied up neatly. Hair should be combed
-back from the face and neatly pinned up if necessary. Fringe should be
-short and above the eyebrow. Only simple and small brown, orange, yellow,
-white or black ribbons, clips and hair bands are allowed. Highlighting
-or dyeing of hair is not allowed.
-<br>- Only small and simple earrings/ear studs are allowed. Other forms of
-jewellery or ornaments must not be worn. Wrist watches must be plain and
-simple.
+<p>Students must always be neat and tidy.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>No highlighting or dyeing of hair is not allowed.</p>
+</li>
+<li>
+<p>Fringe should be short and above the eyebrows. Hair must be combed back
+from the face and neatly pinned up if necessary.</p>
+</li>
+<li>
+<p>Hair touching the lower line of the collar of the blouse must be tied
+up neatly.</p>
+</li>
+<li>
+<p>Only plain and small brown, orange, yellow, white or black ribbons, clips
+and hair bands are allowed.</p>
+</li>
+<li>
+<p>Only one pair of small and simple earrings/ear studs are allowed. No other
+forms of jewellery, for e.g., necklaces, bracelets and similar accessories
+are to be worn.</p>
+</li>
+<li>
+<p>Wrist watches must be plain and simple.
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
