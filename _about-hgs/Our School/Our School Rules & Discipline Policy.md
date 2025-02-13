@@ -375,15 +375,8 @@ all assessments/examinations.
 <p>5.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pupils who are ill should not be in school for tests and examinations.
-If a pupil has a temperature of 37.6C and above, she will not be allowed
-to sit for the test / exam and her parents will be asked to take her home.
-If a pupil misses a test / exam because of illness, she needs to submit
-a medical certificate. The pupil will not get a ‘0’ for the test / exam.
-The school will indicate ‘VR’ (Valid Reason) in her report book and her
-overall marks will be pro-rated accordingly.
-<br>
-</p>
+<p>Students must not bring mobile phones or any other electronic devices
+into the examination room.</p>
 </td>
 </tr>
 <tr>
@@ -391,8 +384,21 @@ overall marks will be pro-rated accordingly.
 <p>6.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Pupils who are absent for a test / exam for reasons other than illness
-should produce relevant documents to support her absence.
+<p>Students who are ill should not be in school for tests and examinations.
+If a student has a temperature of 38 C and above, she will not be allowed
+to sit for the test / exam and her parents will be asked to take her home.
+If a student misses a test / exam because of illness, she needs to submit
+a medical certificate upon her return to school.
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>.
 <br>
 </p>
 </td>
