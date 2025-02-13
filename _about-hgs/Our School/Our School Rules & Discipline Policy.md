@@ -406,7 +406,7 @@ all school assessments, marks will be pro-rated accordingly.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7.</p>
+<p>8.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Candidates from Primary 3 to Primary 6 can only use 2B pencil to shade
