@@ -170,11 +170,7 @@ need to park these vehicles at a designated point upon arrival in school.</p>
 </tr>
 </tbody>
 </table>
-<h3>3. BE PROPERLY ATTIRED AND BEHAVE LIKE A LADY</h3><pre><code>&lt;tr&gt;&lt;td class="tg-0lax"&gt;&lt;span style="color:#000"&gt;3.6&lt;/span&gt;&lt;/td&gt;
-&lt;td class="tg-0lax"&gt;All students in school uniform must conduct themselves like a lady both within and outside the school so as to uphold the good image of the school.&lt;/td&gt;
-	 &lt;/tr&gt;
-&lt;tr&gt;&lt;td class="tg-0lax"&gt;&lt;span style="color:#000"&gt;3.7&lt;/span&gt;&lt;/td&gt;
-&lt;td class="tg-0lax"&gt;Students are to be polite, respectful and greet all school staff and elders.&lt;/td&gt;</code></pre>
+<h3>3. BE PROPERLY ATTIRED AND BEHAVE LIKE A LADY</h3><pre><code></code></pre>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -240,6 +236,23 @@ simple.
 </td>
 <td rowspan="1" colspan="1">
 <p>Attire checks will be conducted to ensure that students are properly attired.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>All students in school uniform must conduct themselves like a lady both
+within and outside the school so as to uphold the good image of the school.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students are to be polite, respectful and greet all school staff and elders.</p>
 </td>
 </tr>
 </tbody>
