@@ -82,7 +82,7 @@ fist placed over the heart.
 <p>2.2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>All students must be courteous and kind to one another. STudents are to
+<p>All students must be courteous and kind to one another. Students are to
 be respectful and greet all school staff and elders.
 <br>
 </p>
@@ -98,7 +98,7 @@ be respectful and greet all school staff and elders.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.3</p>
+<p>2.4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students are not allowed to have in their possession any weapon. They
@@ -110,7 +110,7 @@ intended to be used to cause harm to others.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.4</p>
+<p>2.5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students should not engage in buying or selling of things either online
@@ -121,7 +121,7 @@ or in person to schoolmates.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.5</p>
+<p>2.6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students must not engage in dishonest acts e.g., lying, cheating and forging
@@ -132,26 +132,40 @@ signatures.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.6</p>
+<p>2.7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must not steal.
+<p>Students must not take any item belonging to others without first obtaining
+their permission. All students are responsible for their personal belongings.
 <br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2.7</p>
+<p>2.8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students must switch off their electronic devices during all school activities.
-They are only allowed to use their mobile phones to communicate with their
-parents/guardians in the canteen, foyer and at the school gates before
-and after school hours. Students should not be using their electronic devices
-to take photographs or for entertainment purposes while in the school premises.
+<p>Students are not to use electronic devices (smartphones, smartwatches,
+etc.) during school hours.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All devices must be switched off throughout school hours, including CCAs
+and after-school programmes.</p>
+</li>
+<li>
+<p>Devices should be store in students' bags before school starts.</p>
+</li>
+<li>
+<p>After school hours, students may use their electronic devices in designated
+areas (canteen, foyer, and school gates) to communicate with parents/guardians.</p>
+</li>
+<li>
+<p>Students are responsible for the safekeeping of their devices.
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
