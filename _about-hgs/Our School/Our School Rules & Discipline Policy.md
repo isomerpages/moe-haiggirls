@@ -398,7 +398,8 @@ a medical certificate upon her return to school.
 <p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>.
+<p>In the event of absenteeism (supported by valid Medical Certificate) for
+all school assessments, marks will be pro-rated accordingly.
 <br>
 </p>
 </td>
@@ -408,8 +409,10 @@ a medical certificate upon her return to school.
 <p>7.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>There will be no make-up assessments for the written and listening comprehension
-assessments.</p>
+<p>Candidates from Primary 3 to Primary 6 can only use 2B pencil to shade
+the Optical Answer Sheet (OAS) during the examinations. If candidates fail
+to shade the OAS properly (e.g. double shading, not shading at all, skipping
+of questions in the shading), these OAS will not be awarded any marks.</p>
 </td>
 </tr>
 </tbody>
