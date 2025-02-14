@@ -1,6 +1,6 @@
 ---
-title: Alumni Association
-permalink: /about-us/Our-Partners/alumni-association/
+title: Alumnae
+permalink: /about-us/our-partners/alumnae/
 description: ""
 third_nav_title: Our Partners
 variant: markdown
