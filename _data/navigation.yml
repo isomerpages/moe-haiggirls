@@ -15,24 +15,3 @@ links:
     collection: hgs-experience
   - title: Contact Us
     collection: contact-us
-  - title: Learning
-    url: /permalink
-    sublinks:
-      - title: English
-        url: /permalink
-      - title: Mathematics
-        url: /permalink
-      - title: Science
-        url: /permalink
-      - title: Mother Tongue
-        url: /permalink
-      - title: Arts Education
-        url: /permalink
-      - title: Physical Education
-        url: /permalink
-      - title: CCE
-        url: /permalink
-      - title: ICT
-        url: /permalink
-      - title: Internationalisation
-        url: /permalink
