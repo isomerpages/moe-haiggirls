@@ -288,7 +288,7 @@ dental clinic is closed:</p>
 to coincide with school holidays. Please refer to school rule 1.2 on page
 12 of the Student Handbook.</p>
 <h3>10. Visitors to the School</h3>
-<p>In order to ensure the safety of every pupil in the school, all parents
+<p>In order to ensure the safety of every student in the school, all parents
 / guardians are requested to:</p>
 <ul data-tight="true" class="tight">
 <li>
