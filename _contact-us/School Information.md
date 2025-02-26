@@ -286,7 +286,7 @@ dental clinic is closed:</p>
 <h3>9. Absence from School</h3>
 <p>The school values curriculum time. Parents are advised to plan vacations
 to coincide with school holidays. Please refer to school rule 1.2 on page
-16 of the Student Handbook.</p>
+12 of the Student Handbook.</p>
 <h3>10. Visitors to the School</h3>
 <p>In order to ensure the safety of every pupil in the school, all parents
 / guardians are requested to:</p>
