@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Soccer.md
       - Drama Club.md
       - Netball.md
       - Red Cross Youth.md
