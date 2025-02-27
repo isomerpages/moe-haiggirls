@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Internationalisation.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -13,3 +12,4 @@ collections:
       - Physical Education.md
       - Character & Citizenship Education.md
       - Information and Communication Technology.md
+      - Internationalisation.md
