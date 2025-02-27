@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Arts Education/.keep
-      - Arts Education/Music.md
       - Teaching and Learning through the Arts.md
