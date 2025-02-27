@@ -2,10 +2,8 @@
 title: Our Partners
 permalink: /about-us/Our-Partners/our-partners/
 description: ""
-third_nav_title: Our Partners
 ---
-<img src="/images/Partnership.jpeg" 
-     style="width:55%">
+<img src="/images/Partnership.jpeg" style="width:55%">
 
 
 Our Philosophy
@@ -19,7 +17,7 @@ Our Purpose
 -----------
 
 * Realisation of Haig Girls’ School’s vision and mission
-* Achievement of student-centric, values driven education  
+* Achievement of student-centric, values driven education&nbsp;&nbsp;
 
 Principles of Partnership
 -------------------------
@@ -36,4 +34,4 @@ Areas of Partnership
 * Sharing expertise and networks
 * Contributing to programmes
 * Providing inputs on strategic directions
-* Supporting school innovation & improvement
+* Supporting school innovation &amp; improvement

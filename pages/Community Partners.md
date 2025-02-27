@@ -2,7 +2,6 @@
 title: Community Partners
 permalink: /about-us/Our-Partners/community-partners/
 description: ""
-third_nav_title: Our Partners
 ---
 Haig Girls’ School has built a network of external partners to support us in our programmes. Read more below.
 

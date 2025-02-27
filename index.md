@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Haig Girls' School
-description: Brief site description here
+description: Haig Girls' School Updated 27 February 2025
 image: /images/HGS CREST.png
 permalink: /
 notification: ""

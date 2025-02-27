@@ -1,5 +1,5 @@
 ---
-title: Our Staff
+title: Our Staff Culture
 permalink: /about-us/our-people/
 description: ""
 variant: tiptap
