@@ -2,10 +2,12 @@ collections:
   hgs-experience:
     output: true
     order:
-      - Leaders of Character.md
-      - Curriculum.md
       - Applied Learning Program (ALP).md
       - Learning For Life Programme (LLP).md
+      - Discover, Develop & Dedicate Your Talent Time (D3T2).md
+      - Our 70th Anniversary Celebrations.md
+      - Leaders of Character.md
+      - Curriculum.md
       - Co Curricular Activities/.keep
       - Co Curricular Activities/Co Curricular Activities (CCAs).md
       - Co Curricular Activities/CCA Policy.md
@@ -25,6 +27,4 @@ collections:
       - Co Curricular Activities/Bowling.md
       - Co Curricular Activities/Brownies.md
       - Co Curricular Activities/Science Club.md
-      - Discover, Develop & Dedicate Your Talent Time (D3T2).md
-      - Our 70th Anniversary Celebrations.md
       - Internationalisation Programme.md
