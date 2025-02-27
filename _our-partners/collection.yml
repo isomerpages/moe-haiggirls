@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumnae.md
-      - Home School Partnership Guidelines.md
-      - Parents Support Group.md
-      - School Advisory Committee.md
       - Our Partners.md
+      - School Advisory Committee.md
+      - Parents Support Group.md
+      - Home School Partnership Guidelines.md
+      - Alumnae.md
