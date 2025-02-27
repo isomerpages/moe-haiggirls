@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Internationalisation.md
       - English.md
       - Mathematics.md
       - Science.md
