@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Co Curricular Activities (CCAs).md
       - CCA Policy.md
       - Science Club.md
       - Brownies.md
@@ -19,4 +20,3 @@ collections:
       - Red Cross Youth.md
       - Badminton.md
       - Frequently Asked Questions.md
-      - Co Curricular Activities (CCAs).md
