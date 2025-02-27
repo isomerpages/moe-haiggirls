@@ -4,7 +4,7 @@ permalink: /hgs-experience/Co-Curricular-Activities/ccas/
 description: ""
 variant: markdown
 ---
-CCA is a vital part of our pupils’ holistic, well-rounded education. It helps nurture our pupils and develops qualities such as resilience, tenacity, confidence and perseverance, which prepare them to adapt and thrive in a rapidly changing world.
+CCA is a vital part of our students' holistic, well-rounded education. It helps nurture our students and develops qualities such as resilience, tenacity, confidence and perseverance, which prepare them to adapt and thrive in a rapidly changing world.
 
 In Haig Girls’, we provide a comprehensive range of CCA.
 
