@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Bowling.md
       - Gamelan.md
       - Modern Dance.md
       - Chinese Dance.md
