@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Brownies.md
       - Bowling.md
       - Gamelan.md
       - Modern Dance.md
