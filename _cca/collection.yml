@@ -1,0 +1,22 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Co Curricular Activities (CCAs).md
+      - CCA Policy & Framework.md
+      - Science Club.md
+      - Brownies.md
+      - Bowling.md
+      - Gamelan.md
+      - Modern Dance.md
+      - Chinese Dance.md
+      - Choir.md
+      - Handbells.md
+      - Art Club.md
+      - Wushu.md
+      - Soccer.md
+      - Drama Club.md
+      - Netball.md
+      - Red Cross Youth.md
+      - Badminton.md
+      - Frequently Asked Questions.md

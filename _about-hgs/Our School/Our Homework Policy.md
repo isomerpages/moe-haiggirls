@@ -3,17 +3,18 @@ title: Our Homework Policy
 permalink: /about-us/Our-School/our-homework-policy/
 description: ""
 third_nav_title: Our School
+variant: markdown
 ---
-At Haig Girls’ School, we believe that age-appropriate, manageable, and meaningful homework is beneficial and supports our pupils’ learning.
+At Haig Girls’ School, we believe that age-appropriate, manageable, and meaningful homework is beneficial and supports our students' learning.
 
 **Objectives of homework:**&nbsp;
 
-*   reinforces lessons taught in class and allows pupils to consolidate their learning, gain additional practice and apply concepts learnt;
+*   reinforces lessons taught in class and allows students to consolidate their learning, gain additional practice and apply concepts learnt;
 *   involving reading/research before lessons helps to nurture independent and self-directed learners; &nbsp;
-*   allows teachers to monitor pupils’ understanding and progress so that they can provide timely intervention and feedback;
+*   allows teachers to monitor students’ understanding and progress so that they can provide timely intervention and feedback;
 *   provides parents/guardians with information on their child/ward’s progress and opportunities to be involved in her learning.&nbsp;
 
-The completion of homework also allows our pupils to take responsibility for their learning and cultivate important study habits and life skills such as time management and self-direction. &nbsp;
+The completion of homework also allows our students to take responsibility for their learning and cultivate important study habits and life skills such as time management and self-direction. &nbsp;
 
 School Term
 
@@ -135,19 +136,19 @@ School Holidays
   tab-stops:list .5in"><span style="font-family:&quot;Arial&quot;,sans-serif;
   mso-fareast-font-family:Arial"><span style="mso-list:Ignore">•<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Homework assignments will not be given over festive periods during term time, e.g. Chinese New Year, Hari Raya Puasa and Deepavali.</p></td></tr></tbody></table>
 
-To give our pupils time for other pursuits over the weekend, we have not included weekends in the time norms. The completion of homework assigned on Fridays can be spread over the weekend. &nbsp;
+To give our students time for other pursuits over the weekend, we have not included weekends in the time norms. The completion of homework assigned on Fridays can be spread over the weekend. &nbsp;
 
 &nbsp;We seek parents/guardians’ understanding if homework time norms are exceeded during the pre-exam period (especially for P6 classes), when practice papers are given.
 
-**Homework Board**&nbsp;–To coordinate the daily homework load across subjects, every&nbsp;classroom has a homework board which will indicate the homework amount, the&nbsp;approximate time needed and the deadline for each subject. Pupils will record all&nbsp;assigned homework in the Student Handbook.
+**Homework Board**&nbsp;–To coordinate the daily homework load across subjects, every&nbsp;classroom has a homework board which will indicate the homework amount, the&nbsp;approximate time needed and the deadline for each subject. Students will record all&nbsp;assigned homework in the Student Handbook.
 
-**Homework File**&nbsp;–&nbsp;Pupils will place all their homework (e.g. worksheets, exercise&nbsp;books, workbooks, practice papers) for each day in a homework file. Form teachers will&nbsp;provide pupils with more information pertaining to this homework file. Parents/Guardians&nbsp;need not purchase a new file and are welcome to reuse any existing file that fulfills&nbsp;the&nbsp;criteria of the homework file.&nbsp;&nbsp;
+**Homework File**&nbsp;–&nbsp;Students will place all their homework (e.g. worksheets, exercise&nbsp;books, workbooks, practice papers) for each day in a homework file. Form teachers will&nbsp;provide students with more information pertaining to this homework file. Parents/Guardians&nbsp;need not purchase a new file and are welcome to reuse any existing file that fulfills&nbsp;the&nbsp;criteria of the homework file.&nbsp;&nbsp;
 
-As part of our school’s efforts to nurture self-directed learners and imbue our pupils with the school value of ‘Commitment’, we will remind our pupils to be self-disciplined and responsible in completing their homework independently and punctually. However, we do recognize that our pupils also need support and encouragement from their parents/guardians. &nbsp;
+As part of our school’s efforts to nurture self-directed learners and imbue our pupils with the school value of ‘Commitment’, we will remind our students to be self-disciplined and responsible in completing their homework independently and punctually. However, we do recognize that ourstudents also need support and encouragement from their parents/guardians. &nbsp;
 
 As our partners-in-education, we seek your support in the following matters:&nbsp;
 
-*   do check your child/ward’s homework file and acknowledge in the Pupil’s Handbook that you have taken note of the homework assigned; &nbsp;&nbsp;
+*   do check your child/ward’s homework file and acknowledge in the Student Handbook that you have taken note of the homework assigned; &nbsp;&nbsp;
 *   ensure&nbsp;that your child/ward has a quiet, conducive environment to complete her homework;
 *   encourage your child/ward to exercise self-discipline and complete her homework within the stipulated timeframe;
 *   school homework takes precedence over other work assigned by yourself or your &nbsp;child/ward’s tutor, if she has one;

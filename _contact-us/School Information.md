@@ -29,7 +29,7 @@ Seng Rd)</p>
 <br><strong>Friday:</strong>&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.30 a.m. to 1.00 p.m.</p>
-<p>(Pupils are expected to arrive before 7.30 a.m. for the morning assembly.
+<p>(Students are expected to arrive before 7.30 a.m. for the morning assembly.
 Flag-raising commences at 7.30 a.m.)</p>
 <p><strong>Recess Time &amp; Snack Breaks</strong>
 </p>
@@ -140,7 +140,7 @@ Flag-raising commences at 7.30 a.m.)</p>
 <p>CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.15 p.m. to 4.45 p.m.</p>
+<p>2.15 p.m. to 3.45 p.m.</p>
 </td>
 </tr>
 <tr>
@@ -286,9 +286,9 @@ dental clinic is closed:</p>
 <h3>9. Absence from School</h3>
 <p>The school values curriculum time. Parents are advised to plan vacations
 to coincide with school holidays. Please refer to school rule 1.2 on page
-16 of the Student Handbook.</p>
+12 of the Student Handbook.</p>
 <h3>10. Visitors to the School</h3>
-<p>In order to ensure the safety of every pupil in the school, all parents
+<p>In order to ensure the safety of every student in the school, all parents
 / guardians are requested to:</p>
 <ul data-tight="true" class="tight">
 <li>

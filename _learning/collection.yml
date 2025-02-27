@@ -1,0 +1,15 @@
+collections:
+  learning:
+    output: true
+    order:
+      - English.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue.md
+      - Arts Education.md
+      - Music.md
+      - Art.md
+      - Physical Education.md
+      - Character & Citizenship Education.md
+      - Information and Communication Technology.md
+      - Internationalisation.md

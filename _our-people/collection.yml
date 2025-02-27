@@ -1,0 +1,16 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Leaders.md
+      - Key Personnel & Teacher Leaders.md
+      - Teachers and Allied Educators/.keep
+      - Teachers and Allied Educators/Mother Tongue Teachers.md
+      - Teachers and Allied Educators/Primary 1.md
+      - Teachers and Allied Educators/Primary 2.md
+      - Teachers and Allied Educators/Primary 3.md
+      - Teachers and Allied Educators/Primary 4.md
+      - Teachers and Allied Educators/Primary 5.md
+      - Teachers and Allied Educators/Primary 6.md
+      - Teachers and Allied Educators/Allied Educators (AED).md
+      - School Administrative Staff.md
