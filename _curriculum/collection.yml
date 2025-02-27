@@ -1,5 +1,4 @@
 collections:
   curriculum:
     output: true
-    order:
-      - Teaching and Learning through the Arts.md
+    order: []
