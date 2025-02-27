@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Badminton.md
       - Frequently Asked Questions.md
       - Co Curricular Activities (CCAs).md
