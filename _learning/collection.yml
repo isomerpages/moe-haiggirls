@@ -2,13 +2,13 @@ collections:
   learning:
     output: true
     order:
-      - Music.md
-      - Art.md
-      - Information and Communication Technology.md
-      - Science.md
       - English.md
       - Mathematics.md
-      - Physical Education.md
-      - Character & Citizenship Education.md
+      - Science.md
       - Mother Tongue.md
       - Arts Education.md
+      - Music.md
+      - Art.md
+      - Physical Education.md
+      - Character & Citizenship Education.md
+      - Information and Communication Technology.md
