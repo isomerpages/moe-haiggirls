@@ -2,5 +2,4 @@ collections:
   curriculum:
     output: true
     order:
-      - Arts Education/.keep
       - Teaching and Learning through the Arts.md
