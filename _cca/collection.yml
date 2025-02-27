@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Science Club.md
       - Brownies.md
       - Bowling.md
       - Gamelan.md
