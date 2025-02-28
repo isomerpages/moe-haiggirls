@@ -30,7 +30,7 @@ variant: tiptap
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st March 2025 to 30 April 2026</p>
+<p>1st March 2025 to 30th April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
