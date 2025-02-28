@@ -31,12 +31,12 @@ variant: tiptap
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st March 2025 to 30th April 2025</p>
+<p>1 March 2025 to 30 April 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Child born between 2nd Jan 2020 and 1st Jan 2021 (both dates inclusive)</p>
+<p>Child born between 2 Jan 2020 and 1 Jan 2021 (both dates inclusive)</p>
 </li>
 <li>
 <p>Please register your interest as a Parent Volunteer (<a href="https://form.gov.sg/635b4bb383d9150011f0aa57" rel="noopener nofollow" target="_blank">Here</a>)</p>
