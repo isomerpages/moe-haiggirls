@@ -4,7 +4,8 @@ permalink: /engagement-charter-hgs/
 variant: tiptap
 description: ""
 ---
-<p>Our staff are committed to partner you with sincerity, integrity and professionalism.
-By showing mutual courtesy and respect, we set a positive example for our
-children. MOE values our staff and will take firm action to protect them
-against any unreasonable behaviour, harassment or abuse</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/charter.png">
+</div>
+<p></p>
