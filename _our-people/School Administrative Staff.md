@@ -20,7 +20,7 @@ variant: markdown
 <p>Mr Andy Chew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chew_qi_hao_andy@schools.gov.sg</a>
+<p><a href="mailto:chew_qi_hao_andy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_qi_hao_andy@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -32,7 +32,7 @@ variant: markdown
 <p>Ms Pauline Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">loh_pauline@schools.gov.sg</a>
+<p> <a href="mailto:loh_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_pauline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ variant: markdown
 <p>Mdm Cynthia Nia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
+<p> <a href="mailto:Nia_Shujun_Cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: markdown
 <p>Mr Jace Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ng_nghee_kwang@schools.gov.sg</a>
+<p> <a href="mailto:ng_nghee_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_nghee_kwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -68,7 +68,7 @@ variant: markdown
 <p>Ms Siti Aisyah Khalid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_khalid@schools.gov.sg</a>
+<p><a href="mailto:siti_aisyah_khalid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_aisyah_khalid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ variant: markdown
 <p>Mdm Hasnah Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">ahmad_hasnah@schools.gov.sg</a>
+<p> <a href="mailto:ahmad_hasnah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_hasnah@schools.gov.sg</a>
 </p>
 </td>
 </tr>
