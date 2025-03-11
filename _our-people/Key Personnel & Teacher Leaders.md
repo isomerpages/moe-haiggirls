@@ -54,7 +54,7 @@ variant: markdown
 <p>Head of Department (Mother-Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
+<p><a href="mailto:chua_boon_ling@schools.gov.sg<" rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -69,14 +69,24 @@ variant: markdown
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
+<p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>wee_jee_chen_charlotte@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
+</a></p><p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>wee_jee_chen_charlotte@schools.gov.sg</a>
+</p>
 </td>
+</tr>
+<tr>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">Ms</a></p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>wee_jee_chen_charlotte@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
+</a></td>
 <td rowspan="1" colspan="1">
 <p>Cheryl Dorothy Nonis</p>
 </td>
