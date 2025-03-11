@@ -7,3 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="https://drive.google.com/file/d/1e3t-vr6QDcm9dTp2yFhqpm-9wotWqclM/view" rel="noopener nofollow" target="_blank">Voices of HGS 2024</a>
+</p>
+<p></p>
