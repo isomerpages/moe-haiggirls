@@ -2,11 +2,14 @@
 title: Key Personnel & Teacher Leaders
 permalink: /our-staff/key-personnel-and-teacher-leaders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>Key Personnel</h3>
-<table style="minWidth: 100px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -27,6 +30,15 @@ variant: markdown
 <p><a href="mailto:amanda_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,6 +53,15 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:pan_jingting_alisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -57,6 +78,15 @@ variant: markdown
 <p><a href="mailto:chua_boon_ling@schools.gov.sg<" rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -69,22 +99,25 @@ variant: markdown
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-	<p><a href="mailto:wee_jee_chen_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
-</p><p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>>wee_jee_chen_charlotte@schools.gov.sg</a>
+<p><a href="mailto:wee_jee_chen_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
 </p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
-<td colspan=" target="noopener noreferrer nofollow">
-</a></p><p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg> wee_jee_chen_charlotte@schools.gov.sg</a>
-</p>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
 </td>
-</tr>
-<tr>
-</tr>
-<tr>
-<td colspan=" rel="noopener noreferrer nofollow" target="_blank">
-</a></p></td>
 <td rowspan="1" colspan="1">
 <p>Cheryl Dorothy Nonis</p>
 </td>
@@ -94,6 +127,15 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheryl_dorothy_nonis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_dorothy_nonis@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -111,6 +153,15 @@ variant: markdown
 </p>
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,6 +176,15 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_alfida_suleiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
