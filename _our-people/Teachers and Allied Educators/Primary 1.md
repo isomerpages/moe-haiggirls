@@ -61,8 +61,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
 </p>
-<p>&nbsp;&nbsp;<a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>
-</p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
 <p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
 </p>
 <p>
