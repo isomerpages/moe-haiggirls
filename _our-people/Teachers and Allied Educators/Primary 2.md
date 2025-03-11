@@ -1,9 +1,9 @@
 ---
 title: Primary 2
-permalink: /our-staff/Teaching-Staff/p2/
+permalink: /our-staff/teaching-staff/p2/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -39,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>syazwani_samure@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zareena_kamarraj@schools.gov.sg</u></a>
+<p><a href="mailto:zareena_kamarraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>zareena_kamarraj@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -55,9 +55,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leow_xin_yi_chantel@schools.gov.sg</u></a>
+<p><a href="mailto:leow_xin_yi_chantel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>leow_xin_yi_chantel@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_soo_bin@schools.gov.sg</u></a>
+<p><a href="mailto:teh_soo_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teh_soo_bin@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -74,11 +74,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sri_burdiasih_ahmad_saibon@schools.gov.sg</u></a>
+<p><a href="mailto:sri_burdiasih_ahmad_saibon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sri_burdiasih_ahmad_saibon@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>candice_loke_may_xyn_a@schools.gov.sg</u></a>
+<p><a href="mailto:candice_loke_may_xyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>candice_loke_may_xyn_a@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_boon_ling@schools.gov.sg</u></a>
+<p><a href="mailto:chua_boon_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_boon_ling@schools.gov.sg</u></a>
 </p>
 <p>
 <br>
@@ -96,9 +96,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_phang_khim@schools.gov.sg</u></a>
+<p><a href="mailto:foo_phang_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>foo_phang_khim@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nurhanis_zamrot@schools.gov.sg</u></a>
+<p><a href="mailto:siti_nurhanis_zamrot@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_nurhanis_zamrot@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -114,9 +114,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mainura_mawi@schools.gov.sg</u></a>
+<p><a href="mailto:mainura_mawi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mainura_mawi@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salinah_misri@schools.gov.sg</u></a>
+<p><a href="mailto:salinah_misri@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salinah_misri@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -127,14 +127,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shankari</p>
+<p>Ms Shankari</p>
 <p>Ms Linda Chan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiva_shankari_somasundram@schools.gov.sg</u></a>
+<p><a href="mailto:shiva_shankari_somasundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shiva_shankari_somasundram@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>linda_chan@schools.gov.sg</u></a>
+<p><a href="mailto:linda_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>linda_chan@schools.gov.sg</u></a>
 </p>
 <p>
 <br>

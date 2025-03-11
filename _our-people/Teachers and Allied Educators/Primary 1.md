@@ -39,7 +39,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wong_hsiao_sien_lisa@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_jinyan@schools.gov.sg</u></a>
+<p><a href="mailto:wang_jinyan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wang_jinyan@schools.gov.sg</u></a>
 </p>
 <p>
 <br>
@@ -59,16 +59,16 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
+<p><a href="mailto:krishnan_harjinder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p></p>
 <p></p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
+<p><a href="mailto:lu_seok_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
+<p><a href="mailto:tng_shoo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
 </p>
 <p>
 <br>
@@ -81,17 +81,17 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angeline Lee</p>
+<p>Ms Angeline Guay</p>
 <p>Mdm Shaw Teo</p>
 <p>Mdm Salmah</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guay_lay_lee_angeline@schools.gov.sg</u></a>
+<p><a href="mailto:guay_lay_lee_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guay_lay_lee_angeline@schools.gov.sg</u></a>
 </p>
-<p>&nbsp;&nbsp;<a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_shaw_mui@schools.gov.sg</u></a>
+<p>&nbsp;&nbsp;<a href="mailto:teo_shaw_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_shaw_mui@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmah_awang@schools.gov.sg</u></a>
+<p><a href="mailto:salmah_awang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmah_awang@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -107,9 +107,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_meow_ling_christina@schools.gov.sg</u></a>
+<p><a href="mailto:quek_meow_ling_christina@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>quek_meow_ling_christina@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_tzu_yi@schools.gov.sg</u></a>
+<p><a href="mailto:wu_tzu_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wu_tzu_yi@schools.gov.sg</u></a>
 </p>
 <p>
 <br>
@@ -127,9 +127,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arlene_prescott@schools.gov.sg</u></a>
+<p><a href="mailto:arlene_prescott@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arlene_prescott@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norah_nordin@schools.gov.sg</u></a>
+<p><a href="mailto:norah_nordin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norah_nordin@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -145,9 +145,9 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alia_hanna_mahmud@schools.gov.sg</u></a>
+<p><a href="mailto:alia_hanna_mahmud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>alia_hanna_mahmud@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_peng_woon_rachel@schools.gov.sg</u></a>
+<p><a href="mailto:ng_peng_woon_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_peng_woon_rachel@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
