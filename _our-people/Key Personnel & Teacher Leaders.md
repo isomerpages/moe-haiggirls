@@ -2,7 +2,7 @@
 title: Key Personnel & Teacher Leaders
 permalink: /our-staff/key-personnel-and-teacher-leaders/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3>Key Personnel</h3>
 <table style="minWidth: 100px">
@@ -24,7 +24,7 @@ variant: tiptap
 <p>Head of Department (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg</a>
+<p><a href="mailto:amanda_loh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Head of Department (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg</a>
+<p><a href="mailto:pan_jingting_alisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg</a>
 </p>
 </td>
 </tr>

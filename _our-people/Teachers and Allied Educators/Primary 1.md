@@ -1,9 +1,9 @@
 ---
 title: Primary 1
-permalink: /our-staff/Teaching-Staff/p1/
+permalink: /our-staff/teaching-staff/p1/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: tiptap
+variant: markdown
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -61,8 +61,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
 </p>
-<p>&nbsp;&nbsp;<a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>
-</p>
+<p></p>
+<p></p>
+<p></p>
+<p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
 <p><a href="mailto:wong_hsiao_sien_lisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
 </p>
 <p>
@@ -98,7 +103,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christina Hing&nbsp;</p>
-<p>&nbsp;&nbsp;Ms Wu Tzu Yi</p>
+<p>Ms Wu Tzu Yi</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
