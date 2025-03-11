@@ -24,7 +24,7 @@ variant: tiptap
 <p>Head of Department (English Language)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">amanda_loh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -39,7 +39,7 @@ variant: tiptap
 <p>Head of Department (Aesthetics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">pan_jingting_alisa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -54,7 +54,7 @@ variant: tiptap
 <p>Head of Department (Mother-Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -69,7 +69,7 @@ variant: tiptap
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ variant: tiptap
 <p>Head of Department (Science)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheryl_dorothy_nonis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_dorothy_nonis@schools.gov.sg </a>
+<p><a href="mailto:cheryl_dorothy_nonis@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_dorothy_nonis@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ variant: tiptap
 <p>Head of Department (PE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lena_chng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chng@schools.gov.sg </a>
+<p><a href="mailto:lena_chng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chng@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -115,7 +115,7 @@ variant: tiptap
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg</a>
 </p>
 </td>
 </tr>
