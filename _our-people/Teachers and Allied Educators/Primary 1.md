@@ -98,7 +98,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Christina Hing&nbsp;</p>
-<p>&nbsp;&nbsp;Ms Wu Tzu Yi</p>
+<p>Ms Wu Tzu Yi</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
