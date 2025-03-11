@@ -69,7 +69,8 @@ variant: markdown
 <p>Head of Department (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>>wee_jee_chen_charlotte@schools.gov.sg</a>
+	<p><a href="mailto:wee_jee_chen_charlotte@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wee_jee_chen_charlotte@schools.gov.sg</a>
+</p><p><a rowspan="1" href="mailto:wee_jee_chen_charlotte@schools.gov.sg>>wee_jee_chen_charlotte@schools.gov.sg</a>
 </p>
 </td>
 </tr>
