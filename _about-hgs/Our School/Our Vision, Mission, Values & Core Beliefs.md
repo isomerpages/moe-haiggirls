@@ -16,7 +16,7 @@ Empowering every Haig Girl to Learn and Lead, in Service of Others
 
 ### Mission:
 
-To develop for self-directed learners and critical and creative thinkers who lead and serve with integrity and compassion.
+To develop self-directed learners and critical and creative thinkers who lead and serve with integrity and compassion.
 
   
 
