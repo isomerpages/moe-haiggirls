@@ -72,7 +72,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<p>&nbsp;<a href="https://drive.google.com/file/d/1cCZsglzaoXDpz4kdI5ohmvVIbdvErqWL/view?usp=sharing" rel="noopener nofollow" target="_blank">Please click here to view the lesson overview.</a>
+<p><a href="https://drive.google.com/file/d/1wFBuYiM5aV5-meXmbInr1WzyOleFLfGT/view" rel="noopener nofollow" target="_blank">Please click here to view the lesson overview.</a>
 </p>
 <p><strong>Information for Parents</strong>
 </p>
