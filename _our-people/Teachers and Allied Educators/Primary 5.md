@@ -102,12 +102,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Kassim&nbsp;</p>
 <p>Mdm Lim Hwee Kheng</p>
+<p>Ms Alisa Pan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mohammed_kassim_abdul@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_kassim_abdul@schools.gov.sg</u></a>
 </p>
 <p><a href="mailto:lim_hwee_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_hwee_kheng_a@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:pan_jingting_alisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pan_jingting_alisa@schools.gov.sg</u></a>
 </p>
 <p></p>
 <p></p>
