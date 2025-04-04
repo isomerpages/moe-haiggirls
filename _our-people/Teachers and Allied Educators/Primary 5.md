@@ -3,7 +3,7 @@ title: Primary 5
 permalink: /our-staff/teaching-staff/p5/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <table style="minWidth: 75px">
@@ -82,12 +82,14 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Ms Siti Aisyah</p>
 <p>Mr Kwok Yao Tsuan</p>
-<p></p>
+<p>Ms Kong Seok Fun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_aisyah_puteri_junadi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>siti_aisyah_puteri_junadi@schools.gov.sg</u></a>
 </p>
 <p><a href="mailto:kwok_yao_tsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwok_yao_tsuan@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:kong_seok_fun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_seok_fun@schools.gov.sg</u></a>
 </p>
 <p></p>
 </td>
@@ -100,7 +102,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mr Kassim&nbsp;</p>
 <p>Mdm Lim Hwee Kheng</p>
-<p>Ms Kong Seok Fun</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,8 +109,7 @@ variant: markdown
 </p>
 <p><a href="mailto:lim_hwee_kheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_hwee_kheng_a@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:kong_seok_fun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kong_seok_fun@schools.gov.sg</u></a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
