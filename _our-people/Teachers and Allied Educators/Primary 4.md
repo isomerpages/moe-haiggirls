@@ -3,7 +3,7 @@ title: Primary 4
 permalink: /our-staff/teaching-staff/p4/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: markdown
+variant: tiptap
 ---
 <p></p>
 <table style="minWidth: 75px">
@@ -94,7 +94,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Farhana</p>
 <p>Mr Fauzi</p>
-<p>Ms Alisa Pan</p>
+<p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -102,8 +102,7 @@ variant: markdown
 </p>
 <p><a href="mailto:mohammad_fauzi_wahid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_fauzi_wahid@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:pan_jingting_alisa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>pan_jingting_alisa@schools.gov.sg</u></a>
-</p>
+<p></p>
 <p></p>
 </td>
 </tr>
