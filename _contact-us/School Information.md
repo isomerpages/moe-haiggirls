@@ -14,8 +14,8 @@ variant: tiptap
 <p><strong>Bus Services:</strong>&nbsp;33 (from Bedok Interchange to Kent
 Ridge Terminal)
 <br><strong>Nearest MRT Station:</strong>&nbsp;Eunos
-<br><strong>Bus Stop No. nearest to the school</strong>:&nbsp;82149 (Bef Koon
-Seng Rd)</p>
+<br><strong>Bus Stop No. nearest to the school</strong>:&nbsp;82149 (Before
+Koon Seng Rd)</p>
 <p><strong>Locality Map:</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -30,7 +30,7 @@ Seng Rd)</p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;7.30 a.m. to 1.00 p.m.</p>
 <p>(Students are expected to arrive before 7.30 a.m. for the morning assembly.
-Flag-raising commences at 7.30 a.m.)</p>
+Flag-raising ceremony commences at 7.30 a.m.)</p>
 <p><strong>Recess Time &amp; Snack Breaks</strong>
 </p>
 <table style="minWidth: 100px">
