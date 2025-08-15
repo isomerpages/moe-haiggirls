@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - School Bus.md
       - Our Partners.md
       - School Advisory Committee.md
       - Parents Support Group.md
       - Alumnae.md
+      - School Bus.md
