@@ -15,7 +15,7 @@ during this special occasion.</p>
 <p>Please note the following visiting times:</p>
 <p>Wednesday, 3 September 2025: 2.00 p.m. to 4.30 p.m.</p>
 <p>Thursday, 4 September 2025: 10.45 a.m. to 11.30 a.m.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Do observe the following for your visit:</p>
 <p>All former students must enter through Gate 2 and register at the security
 post.</p>
