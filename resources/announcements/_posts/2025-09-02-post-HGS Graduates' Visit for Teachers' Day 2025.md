@@ -29,5 +29,5 @@ for their dedication.</p>
 <p></p>
 <p>We look forward to welcoming you back home to HGS.</p>
 <p></p>
-<p>Yours faithfully,</p>
-<p>Haig Girls' School</p>
+<p>Yours faithfully,
+<br>Haig Girls' School</p>
