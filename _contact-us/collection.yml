@@ -2,6 +2,6 @@ collections:
   contact-us:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Engagement Charter HGS.md
       - School Information.md
+      - School Canteen Advertisement.md
