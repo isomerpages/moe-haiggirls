@@ -146,7 +146,7 @@ variant: tiptap
 <p>Lena Chng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (PE)</p>
+<p>Head of Department (PE &amp; CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lena_chng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lena_chng@schools.gov.sg</a>
