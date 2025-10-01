@@ -32,7 +32,7 @@ description: ""
 <p></p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1. Download and complete the application form - <a href="https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a> 
+<p>1. Download and complete the application form - <a href="https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <p></p>
 <p>2. Attach the following documents together with the application form:</p>
