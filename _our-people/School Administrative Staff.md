@@ -131,6 +131,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tracy Koh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Science TA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,7 +174,7 @@ variant: tiptap
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jocelyn Toh</p>
+<p>Mdm Mary Andrews</p>
 </td>
 </tr>
 </tbody>
