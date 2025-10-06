@@ -35,7 +35,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Katherine Tan</p>
 <p>Mr Maha&nbsp;</p>
-<p>Mdm Vibha (S2)</p>
+<p>Mdm Vibha</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
