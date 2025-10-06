@@ -69,14 +69,14 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Sri</p>
-<p>Ms Candice Loke</p>
-<p>Mrs Chua Boon Ling</p>
+<p> Mrs Mary Shi
+</p><p>Mrs Chua Boon Ling</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sri_burdiasih_ahmad_saibon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>sri_burdiasih_ahmad_saibon@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:candice_loke_may_xyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>candice_loke_may_xyn_a@schools.gov.sg</u></a>
+	<p><a href="mailto:mary_magdalene_zhang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mary_magdalene_zhang@schools.gov.sg</u></a>
 </p>
 <p><a href="mailto:chua_boon_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_boon_ling@schools.gov.sg</u></a>
 </p>
