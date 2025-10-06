@@ -288,21 +288,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ang Yan Qing Clara</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head (Science)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yan_qing_clara@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -342,21 +327,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anwara Khatun d/o Moklis Khan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher (Art)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:anwara_khatun_moklis_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anwara_khatun_moklis_khan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm</p>

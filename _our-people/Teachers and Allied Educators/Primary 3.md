@@ -3,7 +3,7 @@ title: Primary 3
 permalink: /our-staff/teaching-staff/p3/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 100px">
 <colgroup>
@@ -38,7 +38,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Theresa</p>
 <p>Mdm Chen Lijun</p>
-<p>Ms Esther Cheah (S2)</p>
+<p>Ms Esther Cheah</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,7 +85,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p>Mdm Rita</p>
 <p>Mr Kandesan</p>
-<p>Mdm Radiah (T2)</p>
+<p>Mdm Radiah</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

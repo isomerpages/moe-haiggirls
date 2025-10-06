@@ -34,18 +34,19 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Katherine Tan</p>
-<p>Mr Maha</p>
-<p>Mrs Clara Kang&nbsp;</p>
-<p>Mdm Vibha (S2)</p>
+<p>Mr Maha&nbsp;</p>
+<p>Mdm Vibha</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_kiat_beekatherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kiat_beekatherine@schools.gov.sg</u></a>
 </p>
+<p></p>
+<p></p>
 <p><a href="mailto:appathurai_mahadevan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>appathurai_mahadevan@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:ang_yan_qing_clara@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_yan_qing_clara@schools.gov.sg</u></a>
-</p>
+<p></p>
+<p></p>
 <p><a href="mailto:vibha_ashok_ghariwala_mrs@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>vibha_ashok_ghariwala_mrs@schools.gov.sg</u></a>
 </p>
 <p></p>

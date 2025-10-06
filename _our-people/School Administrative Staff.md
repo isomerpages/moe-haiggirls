@@ -2,7 +2,7 @@
 title: School Administrative Staff
 permalink: /our-staff/executive-and-administrative-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3>School Admin Team</h3>
 <table style="minWidth: 75px">
@@ -32,7 +32,7 @@ variant: markdown
 <p>Ms Pauline Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:loh_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_pauline@schools.gov.sg</a>
+<p><a href="mailto:loh_pauline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_pauline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -44,7 +44,7 @@ variant: markdown
 <p>Mdm Cynthia Nia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:Nia_Shujun_Cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
+<p><a href="mailto:Nia_Shujun_Cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -56,7 +56,7 @@ variant: markdown
 <p>Mr Jace Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:ng_nghee_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_nghee_kwang@schools.gov.sg</a>
+<p><a href="mailto:ng_nghee_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_nghee_kwang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,19 @@ variant: markdown
 <p>Mdm Hasnah Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p> <a href="mailto:ahmad_hasnah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_hasnah@schools.gov.sg</a>
+<p><a href="mailto:ahmad_hasnah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_hasnah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chew Thiam Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Chew_Thiam_Soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -115,6 +127,14 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kassim Bin Othman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OSO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Tracy Koh</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +174,7 @@ variant: markdown
 <p>Receptionist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jocelyn Toh</p>
+<p>Mdm Mary Andrews</p>
 </td>
 </tr>
 </tbody>
