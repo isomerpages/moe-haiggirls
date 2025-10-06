@@ -17,13 +17,13 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal:</strong>  <a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Evelyn Tay</a>
+<p><strong>Vice-Principal:</strong>  <a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Evelyn Tay</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice Principal:</strong>  <a href="mailto:sherlyn_seah_xiao_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Seah Xiao Yun Sherlyn</a>
+<p><strong>Vice-Principal:</strong>  <a href="mailto:sherlyn_seah_xiao_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms  Sherlyn Seah</a>
 </p>
 </td>
 </tr>
