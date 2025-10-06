@@ -54,20 +54,18 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Harjinder Kaur</p>
-<p>Mdm Lu Seok Hua</p>
 <p>Mdm Tng Shoo Ling</p>
 <p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:krishnan_harjinder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p><a href="mailto:lu_seok_hua@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lu_seok_hua@schools.gov.sg</u></a>&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
+	</p>
+	
+		
 <p><a href="mailto:tng_shoo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
 </p>
 <p>
