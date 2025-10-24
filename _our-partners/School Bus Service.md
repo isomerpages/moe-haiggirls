@@ -50,10 +50,6 @@ description: ""
 </table>
 <p><strong>BUS FARES</strong>
 </p>
-<p>The bus fares listed below are the maximum fares for each distance cap.
-Actual bus fares based on other commercial considerations such as the distance,
-route, number of students on buses and the size of school bus etc.</p>
-<p></p>
 <p><strong>Bus fares for daily school bus services by distance</strong>
 </p>
 <table style="minWidth: 75px">
