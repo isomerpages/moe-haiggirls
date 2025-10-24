@@ -274,7 +274,7 @@ route, number of students on buses and the size of school bus etc.</p>
 <p>Up to 15 seaters</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&gt;15-30 seaters</p>
+<p>&gt;15 seaters</p>
 </th>
 </tr>
 <tr>
