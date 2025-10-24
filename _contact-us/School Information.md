@@ -229,14 +229,14 @@ Flag-raising ceremony commences at 7.30 a.m.)</p>
 <br><a href="/files/Haig%20Girls%20School%20online%20uniform%20purchase%20info%202023.pdf" rel="noopener noreferrer nofollow" target="_blank">Guides on how to purchase uniform online</a>
 </p>
 <h3>6. School Bus Services</h3>
-<p><strong>Sinbus (S) Transport Services</strong>
+<p><strong>Revolving Transport Pte Ltd</strong>
 </p>
-<p><strong>9143 3777 (Admin)<br>8071 9291 (Operations)</strong>
+<p><strong>9767 9277 (Operations)</strong>
 </p>
 <p>Main Office:
-<br>408 Sembawang Drive
-<br>#08-802
-<br>Singapore 750408</p>
+<br>61 Lengkok Bahru
+<br>#01-448
+<br>Singapore 150061</p>
 <h3>7. Student Care Centre Operator</h3>
 <p><strong>Commit Learning Pte Ltd</strong>
 </p>
