@@ -259,7 +259,6 @@ route, number of students on buses and the size of school bus etc.</p>
 </table>
 <p></p>
 <p>Bus fares for Services after school activities by distance</p>
-<p>Initial Service Period</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
