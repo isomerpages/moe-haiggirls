@@ -16,16 +16,17 @@ description: ""
 <th rowspan="1" colspan="1">
 <p>Name of Company / Operator</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Sinbus (S) Transport Services</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Revolving Transport Pte Ltd</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>408 Sembawang Drive #08-802 Singapore 750408</p>
+<p>61 Lengkok Bahru #01-448 Singapore 150061</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +34,8 @@ description: ""
 <p>Email address</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sinbuscca@gmail.com</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">haiggirls.revolving@gmail.com</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -41,23 +43,17 @@ description: ""
 <p>Contact No.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9143 3777 (Admin)</p>
-<p>8071 9291 (Operations)</p>
+<p>9767 9277 (Operations)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>BUS FARES</strong>
 </p>
-<p>The bus fares listed below are the maximum fares for each distance cap.
-Actual bus fares based on other commercial considerations such as the distance,
-route, number of students on buses and the size of school bus etc.</p>
-<p></p>
 <p><strong>Bus fares for daily school bus services by distance</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -71,10 +67,7 @@ route, number of students on buses and the size of school bus etc.</p>
 <p>Up to 15 seater</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&gt;15-30 seaters</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&gt;30 seaters</p>
+<p>&gt;15 seaters</p>
 </th>
 </tr>
 <tr>
@@ -118,24 +111,6 @@ route, number of students on buses and the size of school bus etc.</p>
 </tbody>
 </table>
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>1 way</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>2 way</p>
-</th>
-</tr>
-</tbody>
-</table>
 </td>
 </tr>
 <tr>
@@ -149,9 +124,6 @@ route, number of students on buses and the size of school bus etc.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -166,11 +138,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$192.60</p>
+<p>$180</p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>$203.60</strong>
-</p>
+<p>$200</p>
 </th>
 </tr>
 </tbody>
@@ -185,36 +156,16 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$192.60</p>
+<p>$160</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>$203.60</p>
+<p>$180</p>
 </th>
 </tr>
 </tbody>
 </table>
 <p></p>
 </th>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>$160.00</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$170.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,10 +180,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$203.00</p>
+<p>$220</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>$214.00</p>
+<p>$240</p>
 </th>
 </tr>
 </tbody>
@@ -247,29 +198,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$203.00</p>
+<p>$180</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>$214.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$180.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$190.00</p>
+<p>$200</p>
 </th>
 </tr>
 </tbody>
@@ -290,195 +222,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$224.00</p>
+<p>$240</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>$235.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$224.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$235.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$200.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$210.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;6-8km</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$267.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$278.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$267.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$278.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;8-10km</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$288.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$299.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$288.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$299.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;10-12km</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$310.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$321.00</p>
+<p>$260</p>
 </th>
 </tr>
 </tbody>
@@ -493,91 +240,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>$310.00</p>
+<p>$200</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>$321.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;12-14km</p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$340.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$350.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$340.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$350.00</p>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>$0.00</p>
+<p>$220</p>
 </th>
 </tr>
 </tbody>
@@ -589,9 +255,8 @@ route, number of students on buses and the size of school bus etc.</p>
 </table>
 <p></p>
 <p>Bus fares for Services after school activities by distance</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -599,16 +264,13 @@ route, number of students on buses and the size of school bus etc.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Distance</p>
+<p>Distance Range Category</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Up to 15 seaters</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>&gt;15-30 seaters</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>&gt;30 seaters</p>
+<p>&gt;15 seaters</p>
 </th>
 </tr>
 <tr>
@@ -616,13 +278,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <p>Up to 2km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$6.00</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>$5.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$3.00</p>
+<p>$5.00</p>
 </td>
 </tr>
 <tr>
@@ -633,10 +292,7 @@ route, number of students on buses and the size of school bus etc.</p>
 <p>$6.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$5.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
+<p>$6.00</p>
 </td>
 </tr>
 <tr>
@@ -644,69 +300,10 @@ route, number of students on buses and the size of school bus etc.</p>
 <p>&gt;4-6km</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$6.00</p>
+<p>$7.00</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>$5.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$4.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;6-8km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$6.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$5.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;8-10km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$8.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$8.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;10-12km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$10.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$10.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.00</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&gt;12-14km</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$10.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$10.00</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>$0.00</p>
+<p>$7.00</p>
 </td>
 </tr>
 </tbody>
