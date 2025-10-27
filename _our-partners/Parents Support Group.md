@@ -113,7 +113,14 @@ Here at Haig Girls’ School, we are Parents in Education, involved in many
 aspects of our children’s lives.&nbsp;</p>
 <p>We work hand in hand with the teachers to help out children reach out
 and soar to touch the stars &amp; be the STARS!</p>
-<p>Are you interested to join our Parents Support Group (PSG)? If your child/ward
-is/was a student in Haig Girls’ School and you are interested to volunteer
-in our school, please submit your application for PSG through this <a href="https://form.gov.sg/62e39a2c723e8e00127a3149" rel="noopener noreferrer nofollow" target="_blank">online form.</a>
+<p>Are you interested to join our Parents Support Group (PSG)?</p>
+<p>If your <strong><em>child/ward is/was a student in Haig Girls’ School</em></strong> and
+you are interested to volunteer in our school, please email the school
+via <a rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a> in
+the following format:</p>
+<p>&nbsp;<strong>Email Subject: Interest to Join Parents Support Group (PSG)</strong>
 </p>
+<p>Name of Parent:</p>
+<p>Contact number:</p>
+<p>Name of Child:</p>
+<p>Class / Level:</p>
