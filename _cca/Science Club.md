@@ -27,9 +27,9 @@ confidence, and discover the joy of science in everyday life.</p>
 <p><strong>Teachers-in-Charge</strong>
 </p>
 <p>Mdm Noraini (OIC)</p>
-<p><a href="mailto:noraini_riffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_riffin@schools.gov.sg</a> 
+<p><a href="mailto:noraini_riffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_riffin@schools.gov.sg</a>
 </p>
 <p>Mrs Heng-Tay Peck Huang</p>
-<p><a href="mailto:tay_peck_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peck_huang@schools.gov.sg</a> 
+<p><a href="mailto:tay_peck_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peck_huang@schools.gov.sg</a>
 </p>
 <p></p>
