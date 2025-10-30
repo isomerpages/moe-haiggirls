@@ -58,4 +58,8 @@ as a tool for expression, collaboration, and meaningful engagement.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ArtClub3.png">
 </div>
 <p>P2 CCA Carnival</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ArtClub4.png">
+</div>
 <p>Students writing and illustrating short stories</p>
