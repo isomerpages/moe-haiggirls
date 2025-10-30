@@ -35,7 +35,7 @@ the dedication, discipline, and excellence of our students.</p>
 <p><strong>Teachers-in-Charge</strong>
 </p>
 <p>Miss Sharene Foo (OIC)</p>
-<p><a href="mailto:foo_phang_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_phang_khim@schools.gov.sg</a> 
+<p><a href="mailto:foo_phang_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_phang_khim@schools.gov.sg</a>
 </p>
 <p>Miss Chen Hsiang Yin</p>
 <p><a href="mailto:chen_hsiang_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_hsiang_yin@schools.gov.sg</a>
