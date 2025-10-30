@@ -46,11 +46,11 @@ as a tool for expression, collaboration, and meaningful engagement.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ArtClub1.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ArtClub1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ArtClub2.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ArtClub2.png">
 </div>
 <p>Our Heritage, Peranakan Art: Collage of Shophouses</p>
 <p></p>
