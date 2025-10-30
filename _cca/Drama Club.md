@@ -14,7 +14,7 @@ Drama Club CCA aims to cultivate creativity, the ability to express oneself and 
 
   
 
-Achievements
+**Achievements:**
 
 Mythos Junior Orators Competition 2025
 
@@ -22,7 +22,7 @@ Pilot for Singapore Youth Festival Arts Presentation Drama (Primary) 2025
 
   
 
-Session Details
+**Session Details:**
 
 Mondays, 2.15 p.m. – 3.45 p.m.
 
