@@ -36,10 +36,10 @@ Youth Festival (SYF) 2025 Celebrations – Kaleidoscope, held at Esplanade
 <p><strong>Teachers-in-Charge:</strong>
 </p>
 <p>Mdm Rita Zulkarnain (OIC)</p>
-<p><a href="mailto:rita_zulkarnain_taha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_zulkarnain_taha@schools.gov.sg</a> 
+<p><a href="mailto:rita_zulkarnain_taha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_zulkarnain_taha@schools.gov.sg</a>
 </p>
 <p>Mdm Chen Lijun</p>
-<p><a href="mailto:chen_lijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_lijun@schools.gov.sg</a> 
+<p><a href="mailto:chen_lijun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_lijun@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
