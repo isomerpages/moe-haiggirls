@@ -42,16 +42,16 @@ the dedication, discipline, and excellence of our students.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ChineseDance1.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ChineseDance1.png">
 </div>
 <p>Honing our Dance Skills</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ChineseDance2.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ChineseDance2.png">
 </div>
 <p>Showcase at CCA Carnival</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ChineseDance3.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/ChineseDance3.png">
 </div>
 <p>Singapore Youth Festival Arts Presentation</p>
