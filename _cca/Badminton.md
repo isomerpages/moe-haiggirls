@@ -170,7 +170,3 @@ Mr Appathurai Mahadevan 
   
 
                                     Team Warm-Ups at the start of every training session.
-
-  
-
-  
