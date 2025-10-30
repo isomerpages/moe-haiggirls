@@ -4,7 +4,7 @@ permalink: /hgs-experience/Co-Curricular-Activities/soccer/
 description: ""
 variant: tiptap
 ---
-<h2>Soccer</h2>
+<h2></h2>
 <p><strong>Football</strong>
 </p>
 <p>Football is a growing sport among girls in Singapore, and at Haig Girls’
