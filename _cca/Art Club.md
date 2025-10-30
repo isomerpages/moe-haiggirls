@@ -6,39 +6,26 @@ variant: markdown
 ---
 ### Art Club
 
-
 The Art Club at Haig Girls’ School offers a vibrant space for students to explore creativity and develop a deeper appreciation for visual art. Through hands-on experiences with diverse media, techniques, and both local and global art forms, students discover artistic traditions and Singapore’s rich cultural heritage.
-
-  
 
 The programme builds creative confidence through individual projects and collaborative artworks that foster teamwork, communication, and inclusivity. Students apply critical thinking as they plan, reflect, and make thoughtful artistic choices.
 
-  
-
 Aligned with 21st Century Competencies (E21CC), the Art Club nurtures self-management, empathy, and responsible decision-making. Through artmaking and peer feedback, students express themselves, value diverse perspectives, and grow through creative challenges.
-
-  
 
 Participation in external competitions builds resilience, confidence, and connection with the wider art community. By balancing individual and group artmaking, students sharpen artistic skills and learn to use art as a tool for expression, collaboration, and meaningful engagement.
 
   
 
-Achievements:
-
-  
+**Achievements:**
 
 Clean Plate Campaign 2024 World Food Drawing Contest  
 (Liu Xiaoci, 4G – Consolation Prize Winner)
-
-  
 
 Marine Parade 50th Anniversary Drawing Competition 
 
   
 
-Session Details:
-
-  
+**Session Details:**
 
 Mondays, 2.15 p.m. - 3.45 p.m.
 
@@ -140,5 +127,3 @@ Mrs Lisa Yap
   
 
                           Students writing and illustrating short stories
-
-  
