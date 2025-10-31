@@ -29,7 +29,23 @@ confidence, and discover the joy of science in everyday life.</p>
 <p>Mdm Noraini (OIC)</p>
 <p><a href="mailto:noraini_riffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_riffin@schools.gov.sg</a>
 </p>
-<p>Mrs Heng-Tay Peck Huang</p>
+<p>Mrs Heng Peck Huang</p>
 <p><a href="mailto:tay_peck_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peck_huang@schools.gov.sg</a>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ScienceClub1.jpg">
+</div>
+<p>Working Together on Robotics</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ScienceClub2.png">
+</div>
+<p>Making a Terrarium</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ScienceClub3.png">
+</div>
+<p>Growing New Plants</p>
