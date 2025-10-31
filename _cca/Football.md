@@ -1,6 +1,6 @@
 ---
-title: Soccer
-permalink: /hgs-experience/Co-Curricular-Activities/soccer/
+title: Football
+permalink: /hgs-experience/co-curricular-activities/football/
 description: ""
 variant: tiptap
 ---
