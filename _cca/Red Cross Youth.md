@@ -43,7 +43,3 @@ Mdm Sharifah Hazirah Syed Nasir
  Mrs Katherine Michael
 
 [tan\_kiat\_beekatherine@schools.gov.sg](mailto:tan_kiat_beekatherine@schools.gov.sg)
-
-
-
-  
