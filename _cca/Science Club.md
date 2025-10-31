@@ -32,6 +32,9 @@ confidence, and discover the joy of science in everyday life.</p>
 <p>Mrs Heng Peck Huang</p>
 <p><a href="mailto:tay_peck_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peck_huang@schools.gov.sg</a>
 </p>
+<p>Mrs Lim Jia-Ling</p>
+<p><a href="mailto:the_jia-ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">the_jia-ling@schools.gov.sg</a> 
+</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
