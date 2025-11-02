@@ -60,18 +60,15 @@ the court.</p>
 </div>
 <p>Cheering for Team HGS!</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Badminton2.png">
 </div>
 <p>Singles Match - 2025 Senior Division</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Badminton3.png">
 </div>
 <p>Imparting their skills at P2 CCA Carnival</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Badminton4.jpg">
