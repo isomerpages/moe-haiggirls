@@ -39,18 +39,17 @@ the skills which they have acquired through Red Cross activities.</p>
 <p><a href="mailto:tan_kiat_beekatherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kiat_beekatherine@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RCY1.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/RCY1.png">
 </div>
 <p>Basic Outdoor Activities: Tent Pitching</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RCY2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/RCY2.jpg">
 </div>
 <p>Basic First Aid Skills: CPR</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RCY3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/RCY3.png">
 </div>
 <p>Basic First Aid Skills: Bandaging</p>
