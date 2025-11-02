@@ -54,4 +54,3 @@ the skills which they have acquired through Red Cross activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/RCY3.png">
 </div>
 <p>Basic First Aid Skills: Bandaging</p>
-<p></p>
