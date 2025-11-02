@@ -59,9 +59,8 @@ Ali, Binbin Belle Zheng, Audrey Fu Enyu, Nie Ady Hao Yue, Amerlyn Lee Sa’at
 </div>
 <p>Always Ready to Lend a Hand</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Crafting and Creating" src="/images/Brownie2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Brownie2.jpg">
 </div>
 <p>Crafting and Creating</p>
 <p></p>
