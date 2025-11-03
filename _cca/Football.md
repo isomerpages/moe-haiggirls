@@ -56,11 +56,11 @@ their skills, teamwork, resilience, and sportsmanship through the sport.</p>
 </div>
 <p>2025 Senior Division</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football3.png">
 </div>
 <p>2024 NSG Junior Champions</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Football4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football4.png">
 </div>
 <p>Indoor Training Sessions</p>
 <p></p>
