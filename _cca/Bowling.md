@@ -45,22 +45,18 @@ in their secondary schools and beyond.</p>
 <p><a href="mailto:zareena_kamarraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zareena_kamarraj@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Bowling1.jpg">
 </div>
 <p>2025 National School Games</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Bowling2.png">
 </div>
 <p>2024 National School Games</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Bowling3.png">
 </div>
 <p>Warming - Up for National School Games</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Bowling4.png">
 </div>

@@ -4,9 +4,7 @@ permalink: /hgs-experience/co-curricular-activities/football/
 description: ""
 variant: tiptap
 ---
-<h2></h2>
-<p><strong>Football</strong>
-</p>
+<h3><strong>Football</strong></h3>
 <p>Football is a growing sport among girls in Singapore, and at Haig Girls’
 School, it continues to attract strong interest and enthusiasm. Through
 commitment, teamwork, and resilience, our Football Team has consistently
@@ -46,4 +44,21 @@ their skills, teamwork, resilience, and sportsmanship through the sport.</p>
 <p>Mr Mohammed Kassim Bin Abdul Karim&nbsp;</p>
 <p><a href="mailto:muhd_asyik_abdul_aziz@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammed_kassim_abdul@schools.gov.sg</u></a>&nbsp;&nbsp;&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football1.png">
+</div>
+<p>Weekly Practice Sessions</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football2.png">
+</div>
+<p>2025 Senior Division</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football3.png">
+</div>
+<p>2024 NSG Junior Champions</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Football4.png">
+</div>
+<p>Indoor Training Sessions</p>
 <p></p>
