@@ -40,21 +40,24 @@ both on and off the stage.</p>
 <p><a href="mailto:rasyidah_mohamed_idrus_z@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rasyidah_mohamed_idrus_z@schools.gov.sg</a>
 </p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance1.png">
 </div>
 <p>Singapore Youth Festival (SYF) Dance Presentation</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance2.png">
 </div>
 <p>Performance at Joo Chiat Community Club</p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance3.jpg">
 </div>
-<p></p>
+<p>Performance for HGS <em>Remarkably You</em> programme, celebrating self-expression.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance4.jpg">
+</div>
+<p>Conditioning exercises to build strength and stamina during CCA practice.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ModernDance5.png">
+</div>
 <p>Weekly Rehearsals</p>
+<p></p>
