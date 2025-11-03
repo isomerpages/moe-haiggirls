@@ -2,80 +2,72 @@
 title: Netball
 permalink: /hgs-experience/Co-Curricular-Activities/netball/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### Netball
-
-
-**About Netball**
-
-“Netball is more than just a CCA, it is a way of life.”
-
-Netball is a game that demands stamina, skills, accuracy, and teamwork. Through Netball, we hope to inculcate our school values as well as sportsmanship in our students. We also hope that our students will forge lifelong friendships through the love of the sport. 
-
-Our objectives are:
-
-*   To encourage the love of the game through the teaching of Netball skills and concepts 
-    
-*   To enable students to acquire the understanding of playing a netball game
-    
-*   To instill a sense of responsibility and discipline through routines
-    
-*   To enable students to develop their fundamental motor skills and movement concepts
-    
-*   To develop student athletes who are team players and persevere in difficult situations
-    
-*   To provide opportunities for students to apply their leadership skills through Netball sessions
-    
-*   To develop friendship and a sense of belonging  
-    
-
-**Key Highlights**
-
-All students participating in Netball CCA are taught the concepts and rules of the game. They also work on their fundamental movement skills through drills and activities. Students who show potential to compete at a higher level will be selected for the D3T2 Training Squad. They will undergo vigorous training twice a week – Mondays and Fridays to develop their Netball competencies. 
-
-On top of skills and knowledge acquisition in the Netball sessions, students are provided with opportunities to develop 21CC through experiential learning outside the classroom.
-
-Netballers are given the opportunity to compete in the National School Games Netball Zonal Championships, various Sports Carnivals and friendly games with other teams. Our HGS team managed to clinch the 1st Runner-up in the East Zone Primary Schools Netball Championship Junior Division in 2017 and Champions in the East Zone Primary Schools Netball Championship Senior Division 2018. 
-
-Most recently, the Senior Team achieved 2nd Runner-up in the East Zone Primary Schools Senior Division 2023. 
-
-  
-![](https://lh3.googleusercontent.com/71xcq_abJjtyVN0K4B90l7moaPup7QbqJnx3t7EmmmQLaRkuHNl1HLU4YKWSEGsMyyiSgZiSIVV19m7qfAG4PDwUDZtuDu3Y2rHj9yACnWH262EGmf9O0d00gTo__9XAjC9fK_x6AtzL)![](https://lh4.googleusercontent.com/xtoVPMBuxPJ3ZWG3u4Xh0DgaCJDX6tZK5byMx2J-4OvUxo5C-idCOCfxrdOBIEaWykhW5P4lQvaa1XrdVtISm5asSB1wWEANhSkD8wi5Uj23M1Vv5p32NgHC8cG-aWcsQw1YSb6Kk9GP)
-
-  
-
-  
-
-  
-
-  
-
-  
-![](https://lh4.googleusercontent.com/vQSUgTphLW8cGr6P-zdr2d9TRX0NZbXBF6F9sg9GFzsqRL2bmOcQom-YAJBiQqtVXZ3C4M3TUcL92_ByVjndFGtLDkiehqV_vsceL4z-1FnAIqlxYL6-jvzKXUzAhhu_wmEvOAQM6uys)![](https://lh4.googleusercontent.com/HawTvB41uHuOiwQl179ZuOQD5qarTsK0AkslhBcjc8q1v-1-xKeb6I4jqTrq-1tP4UFSTEDXEzB9VC1ZhJTwQuwf-C5obkuNzuD591J-yO9fNAHPJRNfWYKjb90GFkeN1iFt0-As32ge)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-![](https://lh6.googleusercontent.com/DrinUXlzLgAFBLBYPq9gYBwCGLsj3swi019XdjQY7jwL9rxAiDkO5s5-N_OyuFuaXJHlmofAhgacOpkRN1bLjfdm-JuG58jflsq0NZbFY72Weg5SVmlnP5Q3NmtejWEBz6hHsTC50cOr)
-
-#### Teachers
-
-Miss Cheong Long Xin (OIC)  
-Ms Angeline Guay  
-Mrs Celeste Lim
-
-**Details**
-
-CCA session: Mondays, 2.15pm – 3.45pm, Netball Court / Indoor Sports Hall  
-D3T2 sessions: Fridays, 1.30pm – 3.00pm, Indoor Sports Hall
+<h3><strong>Netball</strong></h3>
+<p>Netball is a dynamic sport that demands stamina, skill, accuracy, and
+strong teamwork. At HGS, we believe Netball is not only a platform to nurture
+athletic ability but also a meaningful avenue to instill our core school
+values and foster good sportsmanship. Most importantly, we hope our students
+will build lifelong friendships through their shared passion for the game.</p>
+<p>All Netball CCA members are introduced to the foundational rules and concepts
+of the game. Training sessions include drills and activities that strengthen
+fundamental movement skills and game awareness. Students who display strong
+potential are invited to join the D3T2 Training Squad, where they undergo
+intensive training twice weekly (on Mondays and Fridays) to further sharpen
+their skills and competitiveness.</p>
+<p>Beyond court-based learning, students also grow through experiential opportunities
+that support the development of 21st Century Competencies. Netballers regularly
+take part in friendly matches, sports carnivals, and the National School
+Games Netball Zonal Championships. At the heart of our Netball CCA is the
+belief that every training, every match, and every moment on the court
+contributes to shaping confident, responsible, and passionate individuals
+— both as athletes and as members of the school community.</p>
+<p></p>
+<p><strong>Achievements:</strong>
+</p>
+<p>NSG National Junior Division Girls Competition 2025 (Tier 1): 1st</p>
+<p>NSG East Zone <strong>Senior </strong>Division Girls Competition 2023:
+3rd</p>
+<p>NSG East Zone <strong>Junior </strong>Division Girls Competition 2022:
+3rd</p>
+<p>NSG East Zone <strong>Senior </strong>Division Girls Competition 2022::
+1st</p>
+<p></p>
+<p><strong>Session Details:</strong>
+</p>
+<p>Mondays, 2.15 p.m. – 3.45 p.m.</p>
+<p>Fridays, 1.30 p.m. – 3.00 p.m.</p>
+<p></p>
+<p><strong>Teachers-in-Charge:</strong>
+</p>
+<p>Miss Cheong Long Xin (OIC)</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cheong_long_xin@schools.gov.sg</a> 
+<br>
+<br>Ms Angeline Guay</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">guay_lay_lee_angeline@schools.gov.sg</a>
+</p>
+<p>Mrs Celeste Lim</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">ang_li_chia@schools.gov.sg</a>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Netball1.png">
+</div>
+<p>2025 Senior Division</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Netball2.png">
+</div>
+<p>Training Session</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Netball3.png">
+</div>
+<p>Defence in Action</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Netball4.png">
+</div>
+<p>Staying Focused</p>
+<p></p>
