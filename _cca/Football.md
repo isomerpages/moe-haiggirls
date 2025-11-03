@@ -4,9 +4,7 @@ permalink: /hgs-experience/co-curricular-activities/football/
 description: ""
 variant: tiptap
 ---
-<h2></h2>
-<p><strong>Football</strong>
-</p>
+<h3><strong>Football</strong></h3>
 <p>Football is a growing sport among girls in Singapore, and at Haig Girls’
 School, it continues to attract strong interest and enthusiasm. Through
 commitment, teamwork, and resilience, our Football Team has consistently
