@@ -29,13 +29,13 @@ and a lifelong passion for the arts in our girls.</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.15 p.m. – 3.45 p.m.</p>
-<p><strong>Teachers-in-Charge</strong>
+<p><strong>Teachers-in-Charge:</strong>
 </p>
 <p>Mr Fauzi (OIC)</p>
-<p><a href="mailto:mohammad_fauzi_wahid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fauzi_wahid@schools.gov.sg</a> 
+<p><a href="mailto:mohammad_fauzi_wahid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fauzi_wahid@schools.gov.sg</a>
 </p>
 <p>Ms Shankari</p>
-<p><a href="mailto:shiva_shankari_somasundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shiva_shankari_somasundram@schools.gov.sg</a> 
+<p><a href="mailto:shiva_shankari_somasundram@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shiva_shankari_somasundram@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
