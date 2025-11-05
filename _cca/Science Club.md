@@ -24,7 +24,7 @@ confidence, and discover the joy of science in everyday life.</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.15 p.m. - 3.45 p.m.</p>
-<p><strong>Teachers-in-Charge</strong>
+<p><strong>Teachers-in-Charge:</strong>
 </p>
 <p>Mdm Noraini (OIC)</p>
 <p><a href="mailto:noraini_riffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">noraini_riffin@schools.gov.sg</a>
@@ -33,7 +33,7 @@ confidence, and discover the joy of science in everyday life.</p>
 <p><a href="mailto:tay_peck_huang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_peck_huang@schools.gov.sg</a>
 </p>
 <p>Mrs Lim Jia-Ling</p>
-<p><a href="mailto:the_jia-ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">the_jia-ling@schools.gov.sg</a> 
+<p><a href="mailto:the_jia-ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">the_jia-ling@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
