@@ -23,19 +23,19 @@ and have consistently proven themselves on the National platform.</p>
 </p>
 <p>NSG Wushu Group Weapon Event (Senior Girls) 2025: 3rd Position</p>
 <p>NSG Wushu 2024: Jessica Gan Xin Rui, 6 Joy</p>
-<p>5-Duan Chang Quan 2024 : 5th Position</p>
-<p>1st International Broadsword 2024 : 2nd Position</p>
+<p>5-Duan Chang Quan 2024: 5th Position</p>
+<p>1st International Broadsword 2024: 2nd Position</p>
 <p>1st International Cudgel 2024: 2nd Position</p>
 <p>NSG Wushu 2024: Elianna Tan Yoon Hsi, 6 Charity</p>
 <p>4-Duan Sword: 5th position</p>
 <p>NSG Wushu 2023: Elyssa Gan Rae-Ann, 6 Joy</p>
-<p>1st International Sword : 1st Position</p>
-<p>1st International Spear : 2nd Position</p>
-<p>1st International Changquan : 7th Position</p>
+<p>1st International Sword: 1st Position</p>
+<p>1st International Spear: 2nd Position</p>
+<p>1st International Changquan: 7th Position</p>
 <p>NSG Wushu 2023: Jessica Gan Xin Rui, 5 Joy</p>
-<p>1st International Broadsword : 1st Position</p>
-<p>4 Duan Cudgel : 3rd Position</p>
-<p>3 Duan Changquan : 5th Position</p>
+<p>1st International Broadsword: 1st Position</p>
+<p>4 Duan Cudgel: 3rd Position</p>
+<p>3 Duan Changquan: 5th Position</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.15 p.m. – 3.45 p.m.
