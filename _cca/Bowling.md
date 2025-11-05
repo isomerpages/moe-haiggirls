@@ -20,14 +20,14 @@ Division in 2024. Many of our alumni have continued their passion for bowling
 in their secondary schools and beyond.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>NSG Bowling Junior Division 2024 : Doubles 6th Position</p>
-<p>NSG Bowling Junior Division 2024 : Quartet 3rd Position</p>
-<p>NSG Bowling Junior Division 2024 : Quartet 5th Position</p>
-<p>NGS Bowling Senior Division 2024 : Singles 4th Position</p>
-<p>NGS Bowling Senior Division 2024 : Doubles 5th position</p>
-<p>NGS Bowling Senior Division 2024 : Doubles 7th Position</p>
-<p>NGS Bowling Senior Division 2024 : Quartet 4th Position</p>
-<p>NSG Senior Divisional Title 2024 : 3rd Position</p>
+<p>NSG Bowling Junior Division 2024: Doubles 6th Position</p>
+<p>NSG Bowling Junior Division 2024: Quartet 3rd Position</p>
+<p>NSG Bowling Junior Division 2024: Quartet 5th Position</p>
+<p>NGS Bowling Senior Division 2024: Singles 4th Position</p>
+<p>NGS Bowling Senior Division 2024: Doubles 5th position</p>
+<p>NGS Bowling Senior Division 2024: Doubles 7th Position</p>
+<p>NGS Bowling Senior Division 2024: Quartet 4th Position</p>
+<p>NSG Senior Divisional Title 2024: 3rd Position</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.10 p.m. - 5.00 p.m.
