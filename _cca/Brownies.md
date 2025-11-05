@@ -29,13 +29,13 @@ exchange, which allow the girls to celebrate the values of the Guiding
 Movement together.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>Puan Noor Aishah Award 2023 : Silver</p>
-<p>National Brownies Revel - Poster Making Competition 2023, Audrey Fu Enyu
-: Silver</p>
+<p>Puan Noor Aishah Award 2023: Silver</p>
+<p>National Brownies Revel - Poster Making Competition 2023, Audrey Fu Enyu:
+Silver</p>
 <p>Puan Noor Aishah Award 2024: Gold</p>
 <p>East Division Day - WAGGGS Trivia Quiz 2024, Nur Sumayyah Binte Muhamad
-Ali, Binbin Belle Zheng, Audrey Fu Enyu, Nie Ady Hao Yue, Amerlyn Lee Sa’at
-: Bronze</p>
+Ali, Binbin Belle Zheng, Audrey Fu Enyu, Nie Ady Hao Yue, Amerlyn Lee Sa’at:
+Bronze</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.15 p.m. - 3.45 p.m.</p>
