@@ -20,13 +20,13 @@ their skills, teamwork, resilience, and sportsmanship through the sport.</p>
 <p></p>
 <p><strong>Achievements:</strong>
 </p>
-<p>NSG Football Senior Girls Division 2025 : 2<sup>nd</sup>
+<p>NSG Football Senior Girls Division 2025: 2<sup>nd</sup>
 </p>
-<p>NSG Football Senior Girls Division 2024 :&nbsp; 2<sup>nd</sup>
+<p>NSG Football Senior Girls Division 2024:&nbsp; 2<sup>nd</sup>
 </p>
-<p>NSG Football Junior Girls Division 2024 : Champions</p>
-<p>NSG Football Senior Girls Division 2023 : Champions</p>
-<p>NSG Football Junior Girls Division 2023 : Champions</p>
+<p>NSG Football Junior Girls Division 2024: Champions</p>
+<p>NSG Football Senior Girls Division 2023: Champions</p>
+<p>NSG Football Junior Girls Division 2023: Champions</p>
 <p></p>
 <p><strong>Session Details:</strong>
 </p>
