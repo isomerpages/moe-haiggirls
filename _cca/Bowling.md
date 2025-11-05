@@ -16,9 +16,11 @@ covered by the school to ensure our students have the best possible learning
 and training experience.</p>
 <p>Our bowlers have performed well at the National School Games over the
 years, with many medal winners and a 3rd place finish in the Senior Girls’
-Division in 2024. Many of our alumni have continued their passion for bowling
-in their secondary schools and beyond.</p>
-<p><strong>Achievements:</strong>
+Division in 2024, and 4th place overall in Senior Divisional Title in 2025.
+Many of our alumni have continued their passion for bowling in their secondary
+schools and beyond.</p>
+<p>
+<br><strong>Achievements:</strong>
 </p>
 <p>NSG Bowling Junior Division 2024: Doubles 6th Position</p>
 <p>NSG Bowling Junior Division 2024: Quartet 3rd Position</p>
