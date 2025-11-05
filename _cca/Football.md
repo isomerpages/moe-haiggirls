@@ -12,11 +12,14 @@ achieved Top 4 placings in the National School Games Football Championships
 every year since 2010.</p>
 <p>Students who are not part of the school team also have opportunities to
 take part in external competitions. At the end of each year, all members
-participate in the FAS Soccer Festival, a friendly competition where they
-can apply what they have learnt during CCA and gain more exposure to the
-beautiful game.</p>
+participate in the FAS Soccer Festival, a friendly competition organised
+by Football Association of Singapore, where they can apply what they have
+learnt during CCA and gain more exposure to the beautiful game.</p>
 <p>The CCA is coached by dedicated teachers who guide students in developing
 their skills, teamwork, resilience, and sportsmanship through the sport.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>Achievements:</strong>
 </p>
