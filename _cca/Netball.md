@@ -30,7 +30,7 @@ both as athletes and as members of the school community.</p>
 <p>NSG East Zone Senior<strong> </strong>Division Girls Competition 2023:
 3rd</p>
 <p>NSG East Zone Junior Division Girls Competition 2022: 3rd</p>
-<p>NSG East Zone Senior<strong> </strong>Division Girls Competition 2022::
+<p>NSG East Zone Senior<strong> </strong>Division Girls Competition 2022:
 1st</p>
 <p></p>
 <p><strong>Session Details:</strong>
