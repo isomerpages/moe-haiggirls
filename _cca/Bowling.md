@@ -29,7 +29,16 @@ schools and beyond.</p>
 <p>NGS Bowling Senior Division 2024: Doubles 5th position</p>
 <p>NGS Bowling Senior Division 2024: Doubles 7th Position</p>
 <p>NGS Bowling Senior Division 2024: Quartet 4th Position</p>
-<p>NSG Senior Divisional Title 2024: 3rd Position</p>
+<p>NSG Bowling Senior Divisional Title 2024: 3rd Position</p>
+<p>NSG Bowling Junior Division 2025: Doubles 6th Position</p>
+<p>NSG Bowling Junior Division 2025: Doubles 7th Position</p>
+<p>NSG Bowling Junior Division 2025: Quartet 3rd Position</p>
+<p>NSG Bowling Junior Division 2025: Doubles 6th Position</p>
+<p>NSG Bowling Senior Division 2025: Quartet 5th &amp; 8th Position</p>
+<p>NSG Bowling Senior Divisional Title 2025: 4th Position</p>
+<p>
+<br>
+</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.10 p.m. - 5.00 p.m.
