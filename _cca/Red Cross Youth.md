@@ -19,11 +19,11 @@ links into servant leaders who contribute to the community by applying
 the skills which they have acquired through Red Cross activities.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>First Aid Championship 2023 : Silver</p>
-<p>First Aid Championship 2024 : Gold</p>
-<p>First Aid Championship 2025 : Gold</p>
-<p>Ambassador of Blood Donation 2024 : Bronze</p>
-<p>Ambassador of Blood Donation 2025 : Silver</p>
+<p>First Aid Championship 2023: Silver</p>
+<p>First Aid Championship 2024: Gold</p>
+<p>First Aid Championship 2025: Gold</p>
+<p>Ambassador of Blood Donation 2024: Bronze</p>
+<p>Ambassador of Blood Donation 2025: Silver</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Monday, 2.15 p.m. - 3.45 p.m.</p>
