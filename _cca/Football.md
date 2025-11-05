@@ -25,13 +25,14 @@ their skills, teamwork, resilience, and sportsmanship through the sport.</p>
 </p>
 <p>NSG Football Senior Girls Division 2025: 2<sup>nd</sup>
 </p>
-<p>NSG Football Senior Girls Division 2024:&nbsp; 2<sup>nd</sup>
+<p>NSG Football Senior Girls Division 2024: 2<sup>nd</sup>
 </p>
+<p>NSG Football Junior Girls Division 2025: Champions</p>
 <p>NSG Football Junior Girls Division 2024: Champions</p>
 <p>NSG Football Senior Girls Division 2023: Champions</p>
 <p>NSG Football Junior Girls Division 2023: Champions</p>
-<p></p>
-<p><strong>Session Details:</strong>
+<p>
+<br><strong>Session Details:</strong>
 </p>
 <p>Mondays, 3.15pm - 4.45pm
 <br>Fridays, 3.00pm - 5.00pm</p>
