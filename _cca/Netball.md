@@ -40,7 +40,7 @@ both as athletes and as members of the school community.</p>
 <p></p>
 <p><strong>Teachers-in-Charge:</strong>
 </p>
-<p>Miss Cheong Long Xin (OIC)</p>
+<p>Ms Cheong Long Xin (OIC)</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">cheong_long_xin@schools.gov.sg</a> 
 <br>
 <br>Ms Angeline Guay</p>
