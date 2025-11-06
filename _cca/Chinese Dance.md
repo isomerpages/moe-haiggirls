@@ -35,10 +35,10 @@ earning Certificates of Distinction at the past ten SYF Arts Presentations
 <p>Fridays, 1.30 p.m. - 3.00 p.m.</p>
 <p><strong>Teachers-in-Charge:</strong>
 </p>
-<p>Miss Sharene Foo (OIC)</p>
+<p>Ms Sharene Foo (OIC)</p>
 <p><a href="mailto:foo_phang_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">foo_phang_khim@schools.gov.sg</a>
 </p>
-<p>Miss Chen Hsiang Yin</p>
+<p>Ms Chen Hsiang Yin</p>
 <p><a href="mailto:chen_hsiang_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_hsiang_yin@schools.gov.sg</a>
 </p>
 <p></p>
