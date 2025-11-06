@@ -11,7 +11,7 @@ and sense of teamwork. Rooted in the principles of Social and Emotional
 Learning (SEL) and 21st Century Competencies (21CC), the Choir cultivates
 values such as responsibility, discipline, and collaboration.</p>
 <p>By coming together for regular rehearsals, members get to build their
-singing skills — like voice projection and singing as a group—while trying
+singing skills like voice projection and singing as a group while trying
 out all kinds of music. This fun and varied experience helps them grow
 as musicians and enjoy the world of performing arts even more.</p>
 <p>Beyond musical growth, members are also given opportunities to develop
