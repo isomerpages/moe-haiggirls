@@ -23,8 +23,8 @@ SYF 2024 Dance Extravaganza at Gardens by the Bay, and the School’s Prize
 Giving Day. These experiences build confidence and performance skills in
 real-world settings.</p>
 <p>The Chinese Dance team has achieved an impressive track record, consistently
-earning Certificates of Distinction at the past ten SYF Arts Presentations—reflecting
-the dedication, discipline, and excellence of our students.</p>
+earning Certificates of Distinction at the past ten SYF Arts Presentations
+- reflecting the dedication, discipline, and excellence of our students.</p>
 <p><strong>Achievements:</strong>
 </p>
 <p>SYF Arts Presentation 2024: Certificate of Distinction</p>
