@@ -34,7 +34,8 @@ in confidence and musical ability while fostering lasting friendships.</p>
 </p>
 <p>Mondays, 2.15 p.m. - 3.45 p.m.</p>
 <p>Fridays, 1.30 p.m. - 3.30 p.m.</p>
-<p>Teachers-in-Charge:</p>
+<p><strong>Teachers-in-Charge:</strong>
+</p>
 <p>Ms Choo Poh Ying (OIC)</p>
 <p><a href="mailto:choo_poh_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">choo_poh_ying@schools.gov.sg</a>
 </p>
