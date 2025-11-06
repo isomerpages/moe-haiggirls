@@ -45,7 +45,7 @@ and have consistently proven themselves on the National platform.</p>
 <p>Mdm Ang Chuay Yen (OIC)</p>
 <p><a href="mailto:ang_chuay_yen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_chuay_yen@schools.gov.sg</a>
 </p>
-<p>Miss Teh Soo Bin</p>
+<p>Ms Teh Soo Bin</p>
 <p><a href="mailto:teh_soo_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teh_soo_bin@schools.gov.sg</a>&nbsp;</p>
 <p></p>
 <p></p>
