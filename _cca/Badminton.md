@@ -28,14 +28,14 @@ the team.</p>
 players, but also well-rounded individuals who embody the school’s values
 and the spirit of fair play, determination, and teamwork both on and off
 the court.</p>
-<p><strong>Achievements</strong>
+<p><strong>Achievements:</strong>
 </p>
 <p>NSG Badminton Junior Division 2025,&nbsp; Singles: Tier 1, Tier 2, Tier
 3</p>
 <p>NSG Badminton Junior Division 2025,&nbsp; Doubles: Tier 3</p>
 <p>NSG Badminton Senior Division 2025,&nbsp; Tier 2</p>
 <p>NSG Badminton Senior Division 2024, Tier 3</p>
-<p><strong>Session Details</strong>
+<p><strong>Session Details:</strong>
 </p>
 <p>Mondays, 2.15 p.m. - 3.45 p.m.
 <br>Fridays, 1.30 p.m. - 3.00 p.m.</p>

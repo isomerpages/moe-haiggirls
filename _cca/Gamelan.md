@@ -27,8 +27,8 @@ Youth Festival (SYF) 2025 Celebrations – Kaleidoscope, held at Esplanade
 – Theatres on the Bay.</p>
 <p><strong>Achievements:</strong>
 </p>
-<p>SYF Arts Presentation 2024 – Certificate of Distinction</p>
-<p>SYF Arts Presentation 2022 – Certificate of Participation</p>
+<p>SYF Arts Presentation 2024: Certificate of Distinction</p>
+<p>SYF Arts Presentation 2022: Certificate of Participation</p>
 <p><strong>Session Details:</strong>
 </p>
 <p>Monday, 2.15 p.m. - 3.45 p.m.</p>

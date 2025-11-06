@@ -22,16 +22,15 @@ take part in friendly matches, sports carnivals, and the National School
 Games Netball Zonal Championships. At the heart of our Netball CCA is the
 belief that every training, every match, and every moment on the court
 contributes to shaping confident, responsible, and passionate individuals
-— both as athletes and as members of the school community.</p>
+both as athletes and as members of the school community.</p>
 <p></p>
 <p><strong>Achievements:</strong>
 </p>
 <p>NSG National Junior Division Girls Competition 2025 (Tier 1): 1st</p>
-<p>NSG East Zone <strong>Senior </strong>Division Girls Competition 2023:
+<p>NSG East Zone Senior<strong> </strong>Division Girls Competition 2023:
 3rd</p>
-<p>NSG East Zone <strong>Junior </strong>Division Girls Competition 2022:
-3rd</p>
-<p>NSG East Zone <strong>Senior </strong>Division Girls Competition 2022::
+<p>NSG East Zone Junior Division Girls Competition 2022: 3rd</p>
+<p>NSG East Zone Senior<strong> </strong>Division Girls Competition 2022:
 1st</p>
 <p></p>
 <p><strong>Session Details:</strong>

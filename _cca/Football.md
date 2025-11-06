@@ -12,23 +12,27 @@ achieved Top 4 placings in the National School Games Football Championships
 every year since 2010.</p>
 <p>Students who are not part of the school team also have opportunities to
 take part in external competitions. At the end of each year, all members
-participate in the FAS Soccer Festival, a friendly competition where they
-can apply what they have learnt during CCA and gain more exposure to the
-beautiful game.</p>
+participate in the FAS Soccer Festival, a friendly competition organised
+by Football Association of Singapore, where they can apply what they have
+learnt during CCA and gain more exposure to the beautiful game.</p>
 <p>The CCA is coached by dedicated teachers who guide students in developing
 their skills, teamwork, resilience, and sportsmanship through the sport.</p>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>Achievements:</strong>
 </p>
-<p>NSG Football Senior Girls Division 2025 : 2<sup>nd</sup>
+<p>NSG Football Senior Girls Division 2025: 2<sup>nd</sup>
 </p>
-<p>NSG Football Senior Girls Division 2024 :&nbsp; 2<sup>nd</sup>
+<p>NSG Football Senior Girls Division 2024: 2<sup>nd</sup>
 </p>
-<p>NSG Football Junior Girls Division 2024 : Champions</p>
-<p>NSG Football Senior Girls Division 2023 : Champions</p>
-<p>NSG Football Junior Girls Division 2023 : Champions</p>
-<p></p>
-<p><strong>Session Details:</strong>
+<p>NSG Football Junior Girls Division 2025: Champions</p>
+<p>NSG Football Junior Girls Division 2024: Champions</p>
+<p>NSG Football Senior Girls Division 2023: Champions</p>
+<p>NSG Football Junior Girls Division 2023: Champions</p>
+<p>
+<br><strong>Session Details:</strong>
 </p>
 <p>Mondays, 3.15pm - 4.45pm
 <br>Fridays, 3.00pm - 5.00pm</p>
