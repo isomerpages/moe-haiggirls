@@ -52,7 +52,7 @@ thrive in a rapidly changing world.</p>
 <p><a href="/hgs-experience/Co-Curricular-Activities/badminton/" rel="noopener noreferrer" target="_blank"><u>Badminton</u></a>
 <br><a href="/hgs-experience/Co-Curricular-Activities/bowling/" rel="noopener noreferrer" target="_blank"><u>Bowling</u></a>
 <br><a href="/hgs-experience/Co-Curricular-Activities/netball/" rel="noopener noreferrer" target="_blank"><u>Netball</u></a>
-<br><a href="/hgs-experience/Co-Curricular-Activities/soccer/" rel="noopener noreferrer" target="_blank"><u>Soccer</u></a>
+<br><a href="/hgs-experience/co-curricular-activities/football/" rel="noopener noreferrer" target="_blank"><u>Football</u></a>
 <br><a href="/hgs-experience/Co-Curricular-Activities/wushu/" rel="noopener noreferrer" target="_blank"><u>Wushu</u></a>
 </p>
 </td>
