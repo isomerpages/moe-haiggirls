@@ -48,16 +48,16 @@ and a lifelong passion for the arts in our girls.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Drama2.jpg">
 </div>
-<p>P6 Drama girls posing during the P6 celebration party cum farewell</p>
+<p>P6 Drama girls - P6 celebration and farewell</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Drama3.jpg">
 </div>
-<p>Drama girls after their Pilot SYF performance at Gateway Theatre</p>
+<p>Pilot SYF performance at Gateway Theatre</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Drama4.jpg">
 </div>
-<p>Drama girls during the Pilot SYF performance at Gateway Theatre</p>
+<p>Pilot SYF performance at Gateway Theatre</p>
