@@ -23,7 +23,7 @@ connections with the wider community.</p>
 <p>Working in groups to co-create dance pieces, students sharpen their problem-solving
 abilities in a supportive and inclusive environment. Along the way, they
 develop essential 21st Century Competencies such as self-awareness, self-management,
-effective communication, and teamwork—skills that prepare them for success
+effective communication, and teamwork - skills that prepare them for success
 both on and off the stage.</p>
 <p><strong>Achievements:</strong>
 </p>
@@ -32,7 +32,8 @@ both on and off the stage.</p>
 </p>
 <p>Monday, 2.15 p.m. - 3.45 p.m.</p>
 <p>Friday, 1.30 p.m. - 3.00 p.m.</p>
-<p>Teachers-in-Charge:</p>
+<p><strong>Teachers-in-Charge:</strong>
+</p>
 <p>Ms Long Peizhen (OIC)</p>
 <p><a href="mailto:long_peizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_peizhen@schools.gov.sg</a>
 </p>
