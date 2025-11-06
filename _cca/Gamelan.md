@@ -11,7 +11,7 @@ cultural landscape. Through exposure to a diverse repertoire, students
 develop musicality, discipline, teamwork, and a strong sense of cultural
 identity within the rich, rhythmic soundscape of Gamelan.</p>
 <p>Students learn the unique striking techniques required to play a range
-of Gamelan instruments — including metallophones, gongs, xylophones, and
+of Gamelan instruments including metallophones, gongs, xylophones, and
 drums. Playing Gamelan is inherently collaborative, requiring deep listening,
 coordination, and shared responsibility, as each instrument contributes
 a vital layer to the ensemble’s interlocking rhythms and melodies.</p>
@@ -23,8 +23,8 @@ within and beyond the school community.</p>
 Singapore Youth Festival (SYF) Arts Presentation, a testament to the students’
 dedication and passion for their craft. In July 2025, the Ensemble collaborated
 with Meridian Secondary School’s Angklung Ensemble to perform at the Singapore
-Youth Festival (SYF) 2025 Celebrations – Kaleidoscope, held at Esplanade
-– Theatres on the Bay.</p>
+Youth Festival (SYF) 2025 Celebrations featured "Kaleidoscope", held at
+Esplanade - Theatres on the Bay.</p>
 <p><strong>Achievements:</strong>
 </p>
 <p>SYF Arts Presentation 2024: Certificate of Distinction</p>
