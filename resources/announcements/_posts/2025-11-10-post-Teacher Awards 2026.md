@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4>CARING TEACHER AWARDS 2026 </h4>
+<h4>CARING TEACHER AWARDS 2026</h4>
 <p>The Caring Teacher Awards (CTA) celebrate educators who exemplify care
 and compassion in their teaching, going beyond the call of duty to nurture
 the holistic development of their students. These dedicated teachers play
@@ -17,7 +17,11 @@ Click here to nominate.</p>
 <p><a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a> Nomination
 closing date: 31 December 2025</p>
 <p></p>
-<h4>PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026 </h4>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Caring_teacher.jpg">
+</div>
+<p></p>
+<h4>PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</h4>
 <p>1. Every year, the President’s Award for Teachers (PAT) and the Outstanding
 Youth in Education Award (OYEA) are given out to teachers in Singapore
 to recognise their professional excellence. Both PAT and OYEA are national
@@ -39,12 +43,12 @@ a source of encouragement for the teacher(s).</p>
 <p><strong>President's Award For Teachers (PAT) 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PAT_2026.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PAT_2026.jpg">
 </div>
 <p><strong>Outstanding Youth In Education Award (OYEA) 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/OYEA_2026.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/OYEA_2026.jpg">
 </div>
 <p></p>
 <p></p>
