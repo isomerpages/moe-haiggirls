@@ -14,8 +14,9 @@ the holistic development of their students. These dedicated teachers play
 a vital role in shaping confident, independent, and resilient learners
 who contribute meaningfully to our nation. Make your nomination today!
 Click here to nominate.</p>
-<p><a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a> Nomination
-closing date: 31 December 2025</p>
+<p><a href="https://www.cta.nie.edu.sg/nominate" rel="noopener noreferrer nofollow" target="_blank">https://www.cta.nie.edu.sg/nominate</a> 
+</p>
+<p>Nomination closing date: 31 December 2025</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CTA_2026_Logo.png">
@@ -35,10 +36,11 @@ teachers embody youthful idealism, energy and enthusiasm, and inspire both
 their students and peers through their words and deeds. Teachers who are
 35 years old and below in 2026 are eligible for the award.</p>
 <p>4. Nominations for PAT 2026 and OYEA 2026 are now open and will close
-on Friday, 9 January 2026. 5. We would like to invite you and your child/ward
-to submit your nomination(s) for one or more deserving teacher(s) by clicking
-on the URLs or scanning the QR codes below. Your nomination(s) will be
-a source of encouragement for the teacher(s).</p>
+on Friday, 9 January 2026.</p>
+<p>5. We would like to invite you and your child/ward to submit your nomination(s)
+for one or more deserving teacher(s) by clicking on the URLs or scanning
+the QR codes below. Your nomination(s) will be a source of encouragement
+for the teacher(s).</p>
 <p><strong>President's Award For Teachers (PAT) 2026</strong>
 </p>
 <div class="isomer-image-wrapper">
