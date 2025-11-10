@@ -18,9 +18,8 @@ Click here to nominate.</p>
 closing date: 31 December 2025</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Caring_teacher.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CTA_2026_Logo.png">
 </div>
-<p></p>
 <h4>PRESIDENT’S AWARD FOR TEACHERS (PAT) 2026 &amp; OUTSTANDING YOUTH IN EDUCATION AWARD (OYEA) 2026</h4>
 <p>1. Every year, the President’s Award for Teachers (PAT) and the Outstanding
 Youth in Education Award (OYEA) are given out to teachers in Singapore
