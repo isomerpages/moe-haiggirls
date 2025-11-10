@@ -27,7 +27,7 @@ variant: tiptap
 <p>1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Viswa Roopan s/o Sadasivan</p>
+<p>Mr Viswa Sadasivan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
@@ -60,7 +60,7 @@ variant: tiptap
 <p>4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Sakina Yusuf</p>
+<p>Mrs Sakina Yusuf Kagda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Honorary Member</p>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr Seah Hsiu-Min Eugene</p>
+<p>Dr Eugene Seah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
