@@ -10,7 +10,7 @@ variant: tiptap
 <h3>Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/P1_Orientation_Handbook_2026.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Handbook 2026</a>
+<p><a href="/files/P1_Orientation_Handbook_2026_Final.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Handbook 2026</a>
 </p>
 </li>
 <li>
