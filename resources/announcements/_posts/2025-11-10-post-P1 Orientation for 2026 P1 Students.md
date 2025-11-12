@@ -10,6 +10,18 @@ variant: tiptap
 <h3>Resources</h3>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/HGS_2025_P1_Orientation_Briefing_Slides_Part_1.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Briefing Slides Part 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/HGS_2025_P1_Orientation_Briefing_Slides_Part_2.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Briefing Slides Part 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/HGS_2025_P1_Orientation_Briefing_Slides_Part_3.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Briefing Slides Part 3</a>
+</p>
+</li>
+<li>
 <p><a href="/files/P1_Orientation_Handbook_2026_Final.pdf" rel="noopener nofollow" target="_blank">P1 Orientation Handbook 2026</a>
 </p>
 </li>
