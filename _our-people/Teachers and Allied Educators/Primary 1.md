@@ -32,9 +32,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zareena&nbsp;</p>
+<p>Mdm Zareena&nbsp;Kamarraj</p>
 <p>Mdm Wang Jinyan&nbsp;</p>
-<p>Mdm Salmah</p>
+<p>Mdm Salmah Awang</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +87,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:guay_lay_lee_angeline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>guay_lay_lee_angeline@schools.gov.sg</u></a>
 </p>
-<p>&nbsp;&nbsp;<a href="mailto:teo_shaw_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_shaw_mui@schools.gov.sg</u></a>
+<p><a href="mailto:teo_shaw_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_shaw_mui@schools.gov.sg</u></a>
 </p>
 <p><a href="mailto:salmah_awang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>salmah_awang@schools.gov.sg</u></a>
 </p>
