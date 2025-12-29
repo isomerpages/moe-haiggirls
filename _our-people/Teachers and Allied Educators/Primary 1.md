@@ -118,12 +118,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Arlene Prescott</p>
-<p>Mdm Rita</p>
+<p>Mdm Rita Zulkarnain</p>
 <p>Mdm Tng Shoo Ling</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:arlene_prescott@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>arlene_prescott@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:rita_zulkarnain_taha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_zulkarnain_taha@schools.gov.sg</a>
 </p>
 <p><a href="mailto:tng_shoo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_shoo_ling@schools.gov.sg</a>
 </p>
@@ -136,7 +138,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Shankari</p>
+<p>Ms Shankari Somasundram</p>
 <p>Ms Teh Soo Bin</p>
 <p></p>
 </td>
