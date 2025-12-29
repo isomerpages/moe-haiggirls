@@ -3,7 +3,7 @@ title: Primary 1
 permalink: /our-staff/teaching-staff/p1/
 description: ""
 third_nav_title: Teachers and Allied Educators
-variant: markdown
+variant: tiptap
 ---
 <table style="minWidth: 75px">
 <colgroup>
@@ -56,20 +56,17 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Harjinder Kaur</p>
-<p>Mdm Tng Shoo Ling</p>
+<p>Ms Chantel Leow</p>
+<p>Ms Wu Tzu Yi</p>
 <p></p>
-	<p></p>
-	<p></p>
-	<p></p>
-	
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:krishnan_harjinder@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>krishnan_harjinder@schools.gov.sg</u></a>
-	</p>
-	
-		
-<p><a href="mailto:tng_shoo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tng_shoo_ling@schools.gov.sg</u></a>
+<p><a href="mailto:leow_xin_yi_chantel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leow_xin_yi_chantel@schools.gov.sg</a>
+</p>
+<p><a href="mailto:wu_tzu_yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wu_tzu_yi@schools.gov.sg</a>
 </p>
 <p>
 <br>
