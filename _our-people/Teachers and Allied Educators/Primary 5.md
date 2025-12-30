@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Rasyidah</p>
+<p>Ms Rasyidah Idrus</p>
 <p>Mdm Lena Chng</p>
 <p></p>
 </td>
@@ -51,7 +51,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cindy Chiong</p>
+<p>Mdm Cindy Chiong Sin Ee</p>
 <p>Mr Muhamad Ansar</p>
 <p></p>
 </td>
@@ -72,8 +72,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Kwok Yao Tsuan</p>
-<p>Mrs Raihana</p>
-<p>Ms Farizah</p>
+<p>Mrs Raihana Yunoos</p>
+<p>Ms Farizah Hamdan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kwok_yao_tsuan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kwok_yao_tsuan@schools.gov.sg</u></a>
@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Fauzi</p>
+<p>Mr Mohammad Fauzi</p>
 <p>Mdm Ang Chuay Yen</p>
 <p></p>
 </td>
@@ -111,9 +111,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Celeste Ang&nbsp;</p>
+<p>Mrs Celeste Ang&nbsp;Li Chia</p>
 <p>Mdm Siti Fatmah</p>
-<p>Mrs Mary Shi</p>
+<p>Mrs Mary Magdalene Shi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ang_li_chia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_li_chia@schools.gov.sg</a>
