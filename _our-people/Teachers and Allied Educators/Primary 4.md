@@ -33,9 +33,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noraini</p>
+<p>Mdm Noraini Riffin</p>
 <p>Mdm Loh Chu Imm</p>
-<p>Ms Grace Ng</p>
+<p>Ms Grace Ng Si Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:noraini_riffin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>noraini_riffin@schools.gov.sg</u></a>
@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mubina</p>
+<p>Mdm Mubina Faizie</p>
 <p>Ms Siti Nurhanis</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +74,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Hawa Binte Azali</p>
 <p>Ng Peng Woon Rachel</p>
-<p>Mr Kandesan</p>
+<p>Mr Kandesan Ramasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siti_hawa_azali_b@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_azali_b@schools.gov.sg</a>
@@ -92,14 +92,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p>Ms Ang Mui Sing</p>
+<p>Ms Camarine Heng Li Ling</p>
+<p>Mdm Wan Alfida</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nur_farhana_ramlan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_farhana_ramlan@schools.gov.sg</u></a>
+<p><a href="mailto:ang_mui_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_mui_sing@schools.gov.sg</a>
 </p>
-<p><a href="mailto:mohammad_fauzi_wahid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>mohammad_fauzi_wahid@schools.gov.sg</u></a>
+<p><a href="mailto:camarine_heng_li_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">camarine_heng_li_ling@schools.gov.sg</a>
+</p>
+<p><a href="mailto:wan_alfida_suleiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg</a>
 </p>
 <p></p>
 <p></p>
@@ -111,14 +114,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Fong Lay Keow</p>
-<p>Ms Grace Ng</p>
+<p>Ms Long Peizhen</p>
+<p>Mdm Anwara Khatun</p>
+<p>Mrs Wang Kaifen</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yer_lay_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>yer_lay_keow@schools.gov.sg</u></a>
+<p><a href="mailto:long_peizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">long_peizhen@schools.gov.sg</a>
 </p>
-<p><a href="mailto:grace_ng_sihui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>grace_ng_sihui@schools.gov.sg</u></a>
+<p><a href="mailto:anwara_khatun_moklis_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">anwara_khatun_moklis_khan@schools.gov.sg</a>
+</p>
+<p><a href="mailto:wang_kaifen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kaifen@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
