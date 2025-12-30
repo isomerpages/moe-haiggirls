@@ -121,6 +121,36 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Abirami Archunan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (ICT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abirami_archunan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abirami_archunan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sunita Kaur</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department (CCE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sunita_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_singh@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 100px">
@@ -253,21 +283,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sunita Kaur</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head (Character Education)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sunita_singh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_singh@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,6 +323,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_kaifen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wang_kaifen@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Camarine Heng Li Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head (Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:camarine_heng_li_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">camarine_heng_li_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
