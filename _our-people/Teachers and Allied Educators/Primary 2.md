@@ -127,11 +127,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Alia Hanna</p>
+<p>Ms Candice Loke May Xyn</p>
 <p></p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alia_hanna_mahmud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alia_hanna_mahmud@schools.gov.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Candice_Loke_May_Xyn_A@schools.gov.sg</a>
 </p>
 <p></p>
 <p>
