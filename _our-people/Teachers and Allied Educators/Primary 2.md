@@ -134,7 +134,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:alia_hanna_mahmud@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">alia_hanna_mahmud@schools.gov.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Candice_Loke_May_Xyn_A@schools.gov.sg</a>
+<p><a href="mailto:candice_loke_may_xyn_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">candice_loke_may_xyn_a@schools.gov.sg</a>
 </p>
 <p></p>
 <p>
