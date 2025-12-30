@@ -108,17 +108,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Hsiang Yin</p>
 <p>Mrs Rebecca Chan</p>
-<p>Mdm Wan Alfida</p>
+<p>Mdm Syazwani</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chen_hsiang_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chen_hsiang_yin@schools.gov.sg</u></a>
-</p>
 <p><a href="mailto:poh_pei_yun_rebecca@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>poh_pei_yun_rebecca@schools.gov.sg</u></a>
 </p>
-<p><a href="mailto:wan_alfida_suleiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>wan_alfida_suleiman@schools.gov.sg</u></a>
+<p><a href="mailto:syazwani_samure@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">syazwani_samure@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
@@ -132,17 +129,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Anwara</p>
-<p>Ms Long Peizhen</p>
 <p>Mdm Alicia Ngerng</p>
+<p>Mdm Katherine Tan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anwara_khatun_moklis_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>anwara_khatun_moklis_khan@schools.gov.sg</u></a>
-</p>
-<p><a href="mailto:long_peizhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>long_peizhen@schools.gov.sg</u></a>
-</p>
 <p><a href="mailto:ngerng_minru_alicia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ngerng_minru_alicia@schools.gov.sg</u></a>
+</p>
+<p><a href="mailto:tan_kiat_beekatherine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kiat_beekatherine@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
