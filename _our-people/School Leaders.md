@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal: </strong>
+<p><strong>Principal:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong> 
+<p><strong>Vice-Principal:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong> 
+<p><strong>Vice-Principal:</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
