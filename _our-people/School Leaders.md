@@ -2,28 +2,38 @@
 title: School Leaders
 permalink: /our-staff/school-leaders/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table style="minWidth: 25px">
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal:</strong>  <a href="mailto:marion_tay@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms Marion Tay</a>
+<p><strong>Principal:             </strong>Ms Marion Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:marion_tay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marion_tay@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong>  <a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener nofollow" target="_blank">Mrs Evelyn Tay</a>
+<p><strong>Vice-Principal:</strong> Mrs Evelyn Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_goh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong>  <a href="mailto:sherlyn_seah_xiao_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ms  Sherlyn Seah</a>
+<p><strong>Vice-Principal:</strong> Ms Sherlyn Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sherlyn_seah_xiao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherlyn_seah_xiao_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
