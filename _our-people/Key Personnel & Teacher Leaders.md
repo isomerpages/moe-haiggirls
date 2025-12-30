@@ -343,7 +343,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h5>Lead Teacher, Senior Teachers &amp; Level Year Heads</h5>
+<h5>Senior Teachers</h5>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
