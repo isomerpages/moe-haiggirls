@@ -36,9 +36,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs The Jia-Ling</p>
+<p>Mrs Lim Jia-Ling</p>
 <p>Ms Choo Poh Ying</p>
-<p>Mrs Prema</p>
+<p>Mrs Prema Subramaniam</p>
 <p></p>
 <p></p>
 </td>
@@ -63,7 +63,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Fong Lay Keow</p>
 <p>Mdm Chen Lijun</p>
-<p>Mdm Norah</p>
+<p>Mdm Norah Nordin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yer_lay_keow@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yer_lay_keow@schools.gov.sg</a>
@@ -83,8 +83,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Theresa</p>
-<p>Mdm Radiah</p>
+<p>Mdm Theresa Ramdas</p>
+<p>Mdm Radiah Jinnah</p>
 <p>Mrs Chua Boon Ling</p>
 <p></p>
 </td>
@@ -108,8 +108,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rebecca Chan</p>
-<p>Mdm Syazwani</p>
+<p>Mrs Rebecca Chan Pei Yun</p>
+<p>Mdm Syazwani Samure</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -129,8 +129,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Alicia Ngerng</p>
-<p>Mdm Katherine Tan</p>
+<p>Mdm Alicia Ngerng Minru</p>
+<p>Mdm Katherine Tan Kiat Bee</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
