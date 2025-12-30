@@ -4,15 +4,20 @@ permalink: /our-staff/school-leaders/
 description: ""
 variant: tiptap
 ---
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Principal:             </strong>Ms Marion Tay</p>
+<p><strong>Principal: </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Marion Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:marion_tay@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">marion_tay@schools.gov.sg</a>
@@ -21,7 +26,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong> Mrs Evelyn Tay</p>
+<p><strong>Vice-Principal:</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Evelyn Tay</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:evelyn_goh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_goh@schools.gov.sg</a>
@@ -30,7 +39,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Vice-Principal:</strong> Ms Sherlyn Seah</p>
+<p><strong>Vice-Principal:</strong> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sherlyn Seah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sherlyn_seah_xiao_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sherlyn_seah_xiao_yun@schools.gov.sg</a>
