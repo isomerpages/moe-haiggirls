@@ -18,7 +18,7 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Amanda Loh Li Hui</p>
+<p>Amanda Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (English Language)</p>
@@ -63,7 +63,7 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wee Jee Chen Charlotte</p>
+<p>Charlotte Mok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (Mathematics)</p>
@@ -92,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Dr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lena Chng</p>
@@ -123,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Abirami Archunan</p>
@@ -141,7 +141,7 @@ variant: tiptap
 <p>Mrs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sunita Kaur</p>
+<p>Sunita Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department (CCE)</p>
