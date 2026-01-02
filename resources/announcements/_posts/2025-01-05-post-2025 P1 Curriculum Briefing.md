@@ -7,8 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Primary 1</strong>
-</p>
+<p></p>
 <p><a href="https://drive.google.com/file/d/1ODJJUIlGyxNbnZTemilTOdcKpp1jhJQH/view?usp=sharing" rel="noopener nofollow" target="_blank">Welcome Slides by Year Head</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1bYPKtcVA21zsVUBMkWvqRFjTP334RS75/view?usp=sharing" rel="noopener nofollow" target="_blank">English Language</a>
