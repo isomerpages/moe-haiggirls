@@ -1,14 +1,12 @@
 ---
-title: 2025 Curriculum Briefing
-permalink: /2025-curriculum-briefing/
+title: 2025 P1 Curriculum Briefing
+permalink: /2025-p1-curriculum-briefing/
 date: 2025-01-05
 layout: post
 description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Primary 1</strong>
-</p>
 <p><a href="https://drive.google.com/file/d/1ODJJUIlGyxNbnZTemilTOdcKpp1jhJQH/view?usp=sharing" rel="noopener nofollow" target="_blank">Welcome Slides by Year Head</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1bYPKtcVA21zsVUBMkWvqRFjTP334RS75/view?usp=sharing" rel="noopener nofollow" target="_blank">English Language</a>
