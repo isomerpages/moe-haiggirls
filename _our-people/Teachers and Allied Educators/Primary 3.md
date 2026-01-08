@@ -85,7 +85,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Theresa Ramdas</p>
 <p>Mdm Radiah Jinnah</p>
-<p>Mrs Chua Boon Ling</p>
+<p>Mdm Chua Boon Ling</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,7 +130,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Alicia Ngerng Minru</p>
-<p>Mrs Katherine Michael</p>
+<p>Mrs Katherine Michaels</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
