@@ -4,9 +4,8 @@ permalink: /cce/moe-sexuality-education-in-schools/
 description: ""
 variant: tiptap
 ---
-<h2>MOE Sexuality Education in Schools - Haig Girls' School</h2>
-<p><strong>Moe Sexuality Education in Schools</strong>
-</p>
+<h2>HAIG GIRLS’ SCHOOL</h2>
+<h2>MOE Sexuality Education in Schools</h2>
 <p>1.&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools aims to enable
 students to understand the physiological, social and emotional changes
 they experience as they mature, develop healthy and rewarding relationships
@@ -18,41 +17,42 @@ with extended family support. The teaching and learning of SEd is based
 on respect for the values and beliefs of the different ethnic and religious
 communities in Singapore on sexuality issues.</p>
 <p>2.&nbsp;The <strong>Goals</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
-in managing their physiological, social and emotional changes as they grow
-up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
-to make wise, informed and responsible decisions on sexuality matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
-develop a moral compass and respect for themselves and others by having
-positive mainstream values and attitudes about sexuality that are premised
-on the family as the basic unit of society.</p>
-<p></p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
 <p>3.&nbsp; The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
-yourself as you love and respect others;</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
-relationships based on love and respect (which are the foundation for strong
-families);</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
-decisions for yourself, your family and society; and</p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
-marriage is the best protection against STIs/HIV and unintended pregnancies.
-Casual sex can harm and hurt you and your loved ones.</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones</p>
+<p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview of Haig Girls’ School’s Sexuality Education Programme for 2025</strong>
+<p></p>
+<p><strong>Overview of Haig Girls’ School’s Sexuality Education Programme for 2026</strong>
 </p>
 <p>4.&nbsp;Sexuality Education is delivered in a holistic manner through
 the school curriculum. The content for Sexuality Education is grouped into
 five main themes: Human Development, Interpersonal Relationships, Sexual
 Health, Sexual Behaviour, and, Culture, Society and Law. You may click
-<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a>for more information on the scope of Sexuality Education in the
-school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include:</p>
-<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and
-Citizenship Education (CCE)</p>
+<a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener nofollow" target="_blank">here</a>() for more information on the scope of Sexuality Education in
+the school curriculum.</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
+</ol>
+<p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+<p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+(CCE)</p>
 <p></p>
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6.&nbsp;&nbsp;The upper primary years mark the onset of puberty. With
@@ -74,14 +74,16 @@ are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
 <p><a href="https://drive.google.com/file/d/1Z4MtpCVXRtF_x7hff-pzKk7u2jt6A5U3/view?ts=67e0f219" rel="noopener nofollow" target="_blank">Please click here to view the lesson overview.</a>
 </p>
-<p><strong>Information for Parents</strong>
+<p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons.</p>
+<p>8.&nbsp;Parents may opt their children out of Sexuality Education lessons,
+and/or supplementary Sexuality Education programmes by MOE-approved external
+providers.</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
-Education lessons need to complete an opt-out form <a href="https://form.gov.sg/67828b2679519709651850dd" rel="noopener nofollow" target="_blank">here.</a> This form
-will be communicated &nbsp;to parents at the start of the year and is also
-downloadable <a href="/files/3__2025_HGS_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 07/04/2025.</p>
+Education lessons need to complete an <a href="https://form.gov.sg/696cd8db68c5d3bca2620d16" rel="noopener nofollow" target="_blank">opt-out form</a>. This
+form will be communicated &nbsp;to parents at the start of the year and
+is also downloadable <u>here</u> (Insert downloadable Parents Opt Out Form)
+The completed opt-out form is to be submitted by 27/03/2026.</p>
 <p>10.&nbsp;Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a>,
 Tel: 6344 0293 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
