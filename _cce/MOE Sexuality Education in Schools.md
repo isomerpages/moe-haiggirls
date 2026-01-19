@@ -82,8 +82,9 @@ providers.</p>
 <p>9.&nbsp;&nbsp;Parents who wish to opt their children out of the Sexuality
 Education lessons need to complete an <a href="https://form.gov.sg/696cd8db68c5d3bca2620d16" rel="noopener nofollow" target="_blank">opt-out form</a>. This
 form will be communicated &nbsp;to parents at the start of the year and
-is also downloadable <u>here</u> (Insert downloadable Parents Opt Out Form)
-The completed opt-out form is to be submitted by 27/03/2026.</p>
+is also downloadable <a href="https://www.haiggirls.moe.edu.sg/files/3__2025_HGS_Parent_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a> (Insert
+downloadable Parents Opt Out Form) The completed opt-out form is to be
+submitted by 27/03/2026.</p>
 <p>10.&nbsp;Parents can contact the school at <a rel="noopener noreferrer nofollow" target="_blank">haiggirlssch@moe.edu.sg</a>,
 Tel: 6344 0293 for discussion or to seek clarification about the school’s
 Sexuality Education programme.</p>
