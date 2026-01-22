@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - MOE Sexuality Education in Schools.md
       - English.md
       - Mathematics.md
       - Science.md
@@ -12,5 +11,6 @@ collections:
       - Art.md
       - Physical Education.md
       - Character & Citizenship Education.md
+      - MOE Sexuality Education in Schools.md
       - Information and Communication Technology.md
       - Internationalisation.md
