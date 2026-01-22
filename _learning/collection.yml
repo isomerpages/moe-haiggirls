@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - MOE Sexuality Education in Schools.md
       - English.md
       - Mathematics.md
       - Science.md
