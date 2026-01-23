@@ -23,7 +23,3 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1-pB_13-8lWnNGShtPjrraA7jSHPnY765/view?usp=drive_link" rel="noopener nofollow" target="_blank">Character and Citizenship Education</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1wka9HBbbAvuofS3jOYwgPDsnK3vqtbJv/view?usp=drive_link" rel="noopener nofollow" target="_blank"> Programme (LLP)</a>
-</p>
-<p><a href="https://drive.google.com/file/d/1_akaDbzeSQr_jtgR5M7FQfkmzeItp_KG/view?usp=drive_link" rel="noopener nofollow" target="_blank">PE &amp; PAL</a>
-</p>
