@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 <p><a href="https://drive.google.com/file/d/1hZREE1Vwn8zy47r-VRa3qzeMXiZle7uX/view?usp=drive_link" rel="noopener nofollow" target="_blank">Mother Tongue</a>
 </p>
-<p><a href="https://drive.google.com/file/d/13pq2iKgvqZwaqXBnLVacO0Ajt4MGdLg1/view?usp=drive_link" rel="noopener nofollow" target="_blank">Physical Education</a>
+<p><a href="https://drive.google.com/file/d/13pq2iKgvqZwaqXBnLVacO0Ajt4MGdLg1/view?usp=drive_link" rel="noopener nofollow" target="_blank">Physical Education and PAL</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1h8uRiac4__CTRxFk8XTCUn6ou3QZrwsk/view?usp=drive_link" rel="noopener nofollow" target="_blank">Aesthetics &amp; Learning for Life Programme</a>
 </p>
