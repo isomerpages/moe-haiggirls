@@ -9,3 +9,6 @@ variant: tiptap
 ---
 <p><a href="https://drive.google.com/file/d/1NvSOiork1YO4qW3FcFZXYWVA9g7NV4lg/view" rel="noopener nofollow" target="_blank">Footprints of the Past</a>
 </p>
+<p></p>
+<p><a href="/files/2026_HGS_Parent_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Test</a>
+</p>
