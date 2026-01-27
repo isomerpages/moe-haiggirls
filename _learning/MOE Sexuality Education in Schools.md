@@ -4,8 +4,8 @@ permalink: /cce/moe-sexuality-education-in-schools/
 description: ""
 variant: tiptap
 ---
-<h2>HAIG GIRLS’ SCHOOL</h2>
-<h2>MOE Sexuality Education in Schools</h2>
+<h3>HAIG GIRLS’ SCHOOL</h3>
+<h3>MOE Sexuality Education in Schools</h3>
 <p>1.&nbsp;&nbsp;&nbsp;Sexuality Education (SEd) in schools aims to enable
 students to understand the physiological, social and emotional changes
 they experience as they mature, develop healthy and rewarding relationships
