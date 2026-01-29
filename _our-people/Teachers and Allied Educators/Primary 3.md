@@ -130,7 +130,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Alicia Ngerng Minru</p>
-<p>Mrs Katherine Michaels</p>
+<p>Mrs Katherine Michael</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
