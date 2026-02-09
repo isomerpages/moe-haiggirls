@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><a href="https://drive.google.com/file/d/1Tj8E99eKtFBnZ0QsyJ6k1frI-103yG1n/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome by School Leader</a>
+<p><a href="https://drive.google.com/file/d/18Jiciyj88AU4Kx7pD8a3nohZnj2tJEx4/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome by School Leader</a>
 </p>
-<p><a href="https://drive.google.com/file/d/16bdxe7858PqIskCYda7za4Q3Edk_kpKS/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome to HGS SDT</a>
+<p><a href="https://drive.google.com/file/d/1aFGB-bUhGk9iYXdETc07SwL_pMjgCRL6/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome to HGS SDT</a>
 </p>
 <p><a href="https://drive.google.com/file/d/19Z9sm57Ez9PjKql6FA29fAdSMfBJO_9r/view?usp=drive_link" rel="noopener nofollow" target="_blank">English Language</a>
 </p>
