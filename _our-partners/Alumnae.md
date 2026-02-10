@@ -14,7 +14,7 @@ and inspiring future generations of Haig girls.</p>
 it marks the beginning of a new and lasting relationship. As alumnae, you
 remain connected through shared memories, core values, and a strong sense
 of belonging to the Haig Girls’ School community.</p>
-<h4><strong><u>Key Objectives of the HGS Alumnae Association</u></strong><br></h4>
+<h4><strong><u>Key Objectives of the HGS Alumnae Association</u></strong></h4>
 <ul>
 <li>
 <p>To reconnect and foster networking among HGS alumnae
