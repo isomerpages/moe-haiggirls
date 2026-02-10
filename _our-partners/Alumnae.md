@@ -84,6 +84,32 @@ download the Alumni Membership Application Form.</p>
 where generations of Haig Girls reunited to celebrate shared memories,
 connection, and lifelong sisterhood.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The planning committee of the 2025 HGS Alumnae Gathering" src="/images/2.jpg">
+</div>
+<p>The planning committee of the 2025 HGS Alumnae Gathering, coming together
+in the spirit of collaboration, dedication, and shared pride in the Haig
+Girls’ School community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The Haig Girls’ School community gathered in celebration in the 2024 HGS Alumnae Gathering" src="/images/3.png">
+</div>
+<p>The Haig Girls’ School community gathered in celebration in the 2024 HGS
+Alumnae Gathering, <em>A Walk Down Memory Lane</em>, reflecting strong partnerships
+and a shared commitment to nurturing future generations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="The dedicated team of the 2024 HGS Alumnae Gathering" src="/images/4.png">
+</div>
+<p>The dedicated team of the 2024 HGS Alumnae Gathering, whose teamwork,
+passion, and commitment brought the celebration to life and strengthened
+bonds within the Haig Girls’ School community.</p>
+<p>
+<br>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p>We have recently revived our Alumni Association for our old girls to actively
