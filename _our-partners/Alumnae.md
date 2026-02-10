@@ -19,13 +19,11 @@ of belonging to the Haig Girls’ School community.</p>
 <li>
 <p>To reconnect and foster networking among HGS alumnae
 <br>
-<br>
 </p>
 </li>
 <li>
 <p>To create opportunities for alumnae to contribute meaningfully to the
 enhancement of their alma mater
-<br>
 <br>
 </p>
 </li>
@@ -38,12 +36,10 @@ enhancement of their alma mater
 <li>
 <p>Preserving and passing on HGS traditions (A Tradition of Continuity)
 <br>
-<br>
 </p>
 </li>
 <li>
 <p>Supporting school programmes and initiatives
-<br>
 <br>
 </p>
 </li>
