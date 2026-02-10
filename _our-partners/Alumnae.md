@@ -64,12 +64,12 @@ The event beautifully highlighted that while time may pass, the threads
 that bind us—shared memories, laughter, and sisterhood—remain strong. From
 heartfelt conversations to joyful reunions, every moment felt like a meaningful
 stitch in the fabric of our shared story.</p>
-<h2><strong><u>Stay Connected</u></strong></h2>
+<h3><strong><u>Stay Connected</u></strong></h3>
 <p>We warmly encourage all alumnae to take part in our alumnae activities
 and to continue supporting the school in achieving its educational objectives
 and outcomes. Together, let us stay connected, support one another, and
 inspire the next generation of Haig Girls.</p>
-<h3><strong><u>Application for Alumnae Membership</u></strong></h3>
+<h4><strong><u>Application for Alumnae Membership</u></strong></h4>
 <p><a href="https://www.haiggirls.moe.edu.sg/files/Alumni_Membership_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
 download the Alumni Membership Application Form.</p>
 <p><em>There will be a S$20 fee (in cash) to be made to the school. For more information, please email us via</em>&nbsp;
