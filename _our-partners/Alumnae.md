@@ -4,7 +4,7 @@ permalink: /about-us/our-partners/alumnae/
 description: ""
 variant: tiptap
 ---
-<h4><strong><u>HGS Alumnae Association</u></strong></h4>
+<h2><strong><u>HGS Alumnae Association</u></strong></h2>
 <p>The HGS Alumnae Association provides a meaningful platform for alumnae
 to stay connected, give back to their alma mater, and contribute to the
 continued growth of Haig Girls’ School. Beyond reconnecting former classmates,
@@ -14,7 +14,7 @@ and inspiring future generations of Haig girls.</p>
 it marks the beginning of a new and lasting relationship. As alumnae, you
 remain connected through shared memories, core values, and a strong sense
 of belonging to the Haig Girls’ School community.</p>
-<h4><strong><u>Key Objectives of the HGS Alumnae Association</u></strong></h4>
+<h3><strong><u>Key Objectives of the HGS Alumnae Association</u></strong></h3>
 <p></p>
 <ul>
 <li>
@@ -32,7 +32,7 @@ enhancement of their alma mater
 <p>To establish and sustain a strong partnership with Haig Girls’ School</p>
 </li>
 </ul>
-<h4><strong><u>How Alumnae Can Contribute</u></strong></h4>
+<h3><strong><u>How Alumnae Can Contribute</u></strong></h3>
 <p></p>
 <ul>
 <li>
@@ -49,9 +49,8 @@ enhancement of their alma mater
 <p>Spearheading special projects i.e., school programmes and publications</p>
 </li>
 </ul>
-<h4><strong><u>Alumnae Events</u></strong></h4>
-<p><strong>2024 Alumnae Gathering – <em>A Walk Down Memory Lane</em></strong>
-</p>
+<h3><strong><u>Alumnae Events</u></strong></h3>
+<h4><strong>2024 Alumnae Gathering – <em>A Walk Down Memory Lane</em></strong></h4>
 <p>On 29 June 2024, we organised an alumnae gathering titled <em>A Walk Down Memory Lane</em>.
 It was heartening to see our alumnae reconnect with old friends, reminisce
 about their school days, and share their journeys since leaving Haig Girls’
@@ -59,19 +58,18 @@ School. The laughter, stories, and camaraderie were a powerful reminder
 of the strong bonds that unite our community. The enthusiasm and active
 participation of our alumnae contributed greatly to the success of the
 event.</p>
-<p><strong><em><br></em>2025 Alumnae Gathering – <em>Threads That Bind Us</em></strong>
-</p>
+<h4><strong><em><br></em>2025 Alumnae Gathering – <em>Threads That Bind Us</em></strong></h4>
 <p>On 12 July 2025, we held our alumnae gathering <em>Threads That Bind Us</em>.
 The event beautifully highlighted that while time may pass, the threads
 that bind us—shared memories, laughter, and sisterhood—remain strong. From
 heartfelt conversations to joyful reunions, every moment felt like a meaningful
 stitch in the fabric of our shared story.</p>
-<h4><strong><u>Stay Connected</u></strong></h4>
+<h2><strong><u>Stay Connected</u></strong></h2>
 <p>We warmly encourage all alumnae to take part in our alumnae activities
 and to continue supporting the school in achieving its educational objectives
 and outcomes. Together, let us stay connected, support one another, and
 inspire the next generation of Haig Girls.</p>
-<h4><strong><u>Application for Alumnae Membership</u></strong></h4>
+<h3><strong><u>Application for Alumnae Membership</u></strong></h3>
 <p><a href="https://www.haiggirls.moe.edu.sg/files/Alumni_Membership_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
 download the Alumni Membership Application Form.</p>
 <p><em>There will be a S$20 fee (in cash) to be made to the school. For more information, please email us via</em>&nbsp;
