@@ -70,7 +70,7 @@ stitch in the fabric of our shared story.</p>
 <p>We warmly encourage all alumnae to take part in our alumnae activities
 and to continue supporting the school in achieving its educational objectives
 and outcomes. Together, let us stay connected, support one another, and
-inspire the next generation of Haig Girls</p>
+inspire the next generation of Haig Girls.</p>
 <h4><strong><u>Application for Alumnae Membership</u></strong></h4>
 <p><a href="https://www.haiggirls.moe.edu.sg/files/Alumni_Membership_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
 download the Alumni Membership Application Form.</p>
