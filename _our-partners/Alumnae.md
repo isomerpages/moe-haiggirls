@@ -15,6 +15,7 @@ it marks the beginning of a new and lasting relationship. As alumnae, you
 remain connected through shared memories, core values, and a strong sense
 of belonging to the Haig Girls’ School community.</p>
 <h4><strong><u>Key Objectives of the HGS Alumnae Association</u></strong></h4>
+<p></p>
 <ul>
 <li>
 <p>To reconnect and foster networking among HGS alumnae
@@ -32,6 +33,7 @@ enhancement of their alma mater
 </li>
 </ul>
 <h4><strong><u>How Alumnae Can Contribute</u></strong></h4>
+<p></p>
 <ul>
 <li>
 <p>Preserving and passing on HGS traditions (A Tradition of Continuity)
@@ -57,8 +59,9 @@ School. The laughter, stories, and camaraderie were a powerful reminder
 of the strong bonds that unite our community. The enthusiasm and active
 participation of our alumnae contributed greatly to the success of the
 event.</p>
-<p><strong>2025 Alumnae Gathering – <em>Threads That Bind Us<br></em></strong>On
-12 July 2025, we held our alumnae gathering <em>Threads That Bind Us</em>.
+<p><strong><em><br></em>2025 Alumnae Gathering – <em>Threads That Bind Us</em></strong>
+</p>
+<p>On 12 July 2025, we held our alumnae gathering <em>Threads That Bind Us</em>.
 The event beautifully highlighted that while time may pass, the threads
 that bind us—shared memories, laughter, and sisterhood—remain strong. From
 heartfelt conversations to joyful reunions, every moment felt like a meaningful
