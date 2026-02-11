@@ -21,3 +21,9 @@ CCAs, and project work, students apply their values in meaningful ways,
 contributing to others and collaborating with peers. Our programmes focus
 on nurturing not only the minds, but also the hearts and hands of every
 Haig girl.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
