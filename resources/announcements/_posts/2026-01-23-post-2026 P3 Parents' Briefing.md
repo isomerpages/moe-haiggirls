@@ -7,9 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><a href="https://drive.google.com/file/d/1b_x32wRQS-HTznH2knxtbDSOYJoQkUNx/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome by School Leader</a>
+<p><a href="https://drive.google.com/file/d/1tLzcOq2sHdg4_ntbtdiDIpt9FQ1wU78y/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome by School Leader</a>
 </p>
-<p><a href="https://drive.google.com/file/d/1a5WR2DMfOdG8aZCxjSbbKCgAtX3CrXKq/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome to HGS SDT</a>
+<p><a href="https://drive.google.com/file/d/1WT3pHTvNt91hH54w3iYzxoRdNB0Dik0Y/view?usp=drive_link" rel="noopener nofollow" target="_blank">Welcome to HGS SDT</a>
 </p>
 <p><a href="https://drive.google.com/file/d/1pA5DfAv93VSILpIU032RPW1LruL_JNNf/view?usp=drive_link" rel="noopener nofollow" target="_blank">School Based Assessment</a>
 </p>
