@@ -24,8 +24,7 @@ persons, self-directed learners, active contributors and concerned citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="IPW for Primary One – Our Community and Me" src="/images/Screenshot_2026_02_10_140933.png">
 </div>
-<p><strong>IPW for Primary Two – Singapore - Our City in Nature</strong>
-</p>
+<h4><strong>IPW for Primary Two – Singapore - Our City in Nature</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="IPW for Primary Two – Singapore - Our City in Nature" src="/images/Screenshot_2026_02_10_145356.png">
 </div>
