@@ -160,9 +160,3 @@ and hand-made National Day buntings</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_3.png">
 </div>
 <p>P6 VIA: Eco Stride around Joo Chiat</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
