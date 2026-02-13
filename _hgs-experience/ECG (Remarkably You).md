@@ -11,7 +11,7 @@ is designed to guide students in discovering their strengths, values, and
 aspirations, empowering them to take ownership of their futures and contribute
 meaningfully to society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230014.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232240.png">
 </div>
 <h2><strong><u>Remarkably You @ HGS</u></strong></h2>
 <p>At Haig Girls, <em>Remarkably You</em> is a signature programme designed
@@ -38,7 +38,7 @@ and a growth mindset—skills essential for thriving in today's world.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230127.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232253.png">
 </div>
 <h2><strong><u>Exploring Career Opportunities</u></strong></h2>
 <p>In addition to fostering self-discovery, students explore various career
@@ -49,7 +49,7 @@ paths. Through the Education and Career Guidance (ECG) program, we aim
 to empower students to become confident, purpose-driven individuals, ready
 to embrace opportunities and challenges with a strong sense of self.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230143.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232313.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_1.jpg">
