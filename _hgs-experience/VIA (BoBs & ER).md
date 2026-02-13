@@ -27,8 +27,7 @@ the framework are the SEL competencies that support and deepen the VIA
 experiences.</p>
 <p>Two key school-wide VIA activities that every Haig girl can look forward
 to are:</p>
-<p><strong><u>Everyday Responsibilities</u></strong>
-</p>
+<h3><strong><u>Everyday Responsibilities</u></strong></h3>
 <p>A&nbsp;clean and organised environment reflects a sense of responsibility,
 respect, and care for the spaces we share. Through Everyday Responsibilities,
 students take ownership of their surroundings by actively contributing
@@ -71,10 +70,10 @@ a Sense of Ownership.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_9.jpg">
 </div>
 <p>A Green Leader Displaying the Cleanliness Placard after Observing a Spotless
-Classroom</p>
-<p>
-<br><strong><u>Bags of Blessings</u></strong>
+Classroom
+<br>
 </p>
+<h3><strong><u>Bags of Blessings</u></strong></h3>
 <p><em>Bags of Blessings (BoBs)</em> is a uniquely Haig Girls’ initiative
 that brings our school community together in the spirit of joy and kindness.
 In celebration of National Day, Haig Girls, along with our dedicated staff,
@@ -110,7 +109,7 @@ to deliver their Bags of Blessings (BoBs) to Serene Nursing Home</p>
 </div>
 <p>Students experienced the joy of giving as they distributed Bags of Blessings
 and hand-made National Day buntings</p>
-<h2><strong><u>Cohort-Based VIA Experiences</u></strong></h2>
+<h3><strong><u>Cohort-Based VIA Experiences</u></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_14_000352.png">
 </div>
