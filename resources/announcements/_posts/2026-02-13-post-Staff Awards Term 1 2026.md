@@ -90,6 +90,3 @@ efforts to upgrade themselves to benefit their students and schools.</p>
 </p>
 <p><strong>Nominate via this link: <a href="https://go.gov.sg/hgsitea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hgsitea2026</a></strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
