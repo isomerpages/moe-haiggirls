@@ -104,9 +104,6 @@ and a growth mindset—skills essential for thriving in today's world.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232253.png">
-</div>
 <h2><strong><u>Exploring Career Opportunities</u></strong></h2>
 <p>In addition to fostering self-discovery, students explore various career
 options through talks by alumnae, industry professionals, and special guest
