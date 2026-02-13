@@ -16,6 +16,22 @@ every Haig girl to learn and lead in service of others, VIA fosters advocacy,
 gratitude, and leadership. Through these experiences, students develop
 meaningful relationships, deepen their sense of responsibility, and grow
 into individuals who make a difference.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_11.png">
+</div>
+<p>The HGS VIA Framework</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_11.png">
 </div>
