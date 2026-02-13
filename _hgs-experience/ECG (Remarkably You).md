@@ -112,9 +112,31 @@ guiding students in making informed decisions about their future career
 paths. Through the Education and Career Guidance (ECG) program, we aim
 to empower students to become confident, purpose-driven individuals, ready
 to embrace opportunities and challenges with a strong sense of self.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232313.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_10.jpg">
 </div>
+<p>Mrs Owens from the Singapore Police K9-Unit shared about her occupation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_11.jpg">
+</div>
+<p>Our invited guests, from Dog Handlers to Mountain Trekkers, inspired students
+with stories of passion and purpose</p>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_1.jpg">
 </div>
