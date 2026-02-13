@@ -18,46 +18,26 @@ meaningfully to society.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>In line with MOE's ECG goals, our programme focuses on:</strong>
-</p>
-<p><strong><br></strong>
-</p>
+<p>In line with MOE's ECG goals, our programme focuses on:</p>
 <ul>
 <li>
-<p><strong>Authentic self-discovery</strong>
-</p>
+<p>Authentic self-discovery</p>
 </li>
 <li>
-<p><strong>Exposure to diverse career options</strong>
-</p>
+<p>Exposure to diverse career options</p>
 </li>
 <li>
-<p><strong>Developing social awareness and</strong>
+<p>Developing social awareness and res<strong>ponsibility</strong>
 </p>
 </li>
 </ul>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;responsibility</strong>
-</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_5.png">
+</div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
