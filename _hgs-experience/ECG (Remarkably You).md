@@ -142,17 +142,20 @@ with stories of passion and purpose</p>
 </div>
 <p>Ms Bridgette See, our HGS Alumna, shared her journey and inspiring a love
 for service and giving back.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2.jpg">
 </div>
 <p>Mdm Suhana, a parent and business owner, shared about building businesses
 and&nbsp; raising families. She showed our students that leadership starts
 with purpose.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_3.jpg">
 </div>
 <p>Ms Bhupinder Kaur, a HGS alumna and parent, shared about turning Science
 into everyday choices, and passion into a meaningful career.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_4.jpg">
 </div>
