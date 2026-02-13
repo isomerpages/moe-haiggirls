@@ -29,7 +29,7 @@ experiences.</p>
 to are:</p>
 <p><strong><u>Everyday Responsibilities</u></strong>
 </p>
-<p>&nbsp;clean and organised environment reflects a sense of responsibility,
+<p>A&nbsp;clean and organised environment reflects a sense of responsibility,
 respect, and care for the spaces we share. Through Everyday Responsibilities,
 students take ownership of their surroundings by actively contributing
 to the cleanliness of their classrooms and school environment.</p>
