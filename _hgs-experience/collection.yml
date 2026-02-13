@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - ECG (Remarkably You).md
       - Applied Learning Program (ALP).md
       - Learning For Life Programme (LLP).md
       - Leaders of Character.md
