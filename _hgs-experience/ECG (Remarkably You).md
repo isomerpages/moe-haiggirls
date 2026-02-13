@@ -19,9 +19,10 @@ to guide students on their journey of self-discovery. It encourages them
 to explore their unique qualities, strengths, and talents, while fostering
 both academic and character growth. Through a series of engaging activities,
 including recess workshops and CCE(FTGP) lessons, students reflect on their
-aspirations, discover new interests, and engage in meaningful self-reflection.</p>
-<p>
-<br>Through <em>Remarkably You</em>, our students embark on a progressive journey
+aspirations, discover new interests, and engage in meaningful self-reflection.
+<br>
+</p>
+<p>Through <em>Remarkably You</em>, our students embark on a progressive journey
 from Primary 1 to 6 that nurtures identity, voice, and purpose. Each level
 offers thoughtfully designed experiences that help students understand
 themselves, build personal strengths, develop practical life skills, and
@@ -35,6 +36,7 @@ and a growth mindset—skills essential for thriving in today's world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230053.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230127.png">
 </div>
@@ -57,7 +59,7 @@ for service and giving back.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2.jpg">
 </div>
-<p>dm Suhana, a parent and business owner, shared about building businesses
+<p>Mdm Suhana, a parent and business owner, shared about building businesses
 and&nbsp; raising families. She showed our students that leadership starts
 with purpose.</p>
 <div class="isomer-image-wrapper">
