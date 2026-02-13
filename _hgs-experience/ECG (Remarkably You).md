@@ -10,9 +10,57 @@ navigate an ever-changing world. At Haig Girls' School, the ECG programme
 is designed to guide students in discovering their strengths, values, and
 aspirations, empowering them to take ownership of their futures and contribute
 meaningfully to society.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_232240.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>In line with MOE's ECG goals, our programme focuses on:</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<ul>
+<li>
+<p><strong>Authentic self-discovery</strong>
+</p>
+</li>
+<li>
+<p><strong>Exposure to diverse career options</strong>
+</p>
+</li>
+<li>
+<p><strong>Developing social awareness and</strong>
+</p>
+</li>
+</ul>
+<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;responsibility</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong><u>Remarkably You @ HGS</u></strong></h2>
 <p>At Haig Girls, <em>Remarkably You</em> is a signature programme designed
 to guide students on their journey of self-discovery. It encourages them
