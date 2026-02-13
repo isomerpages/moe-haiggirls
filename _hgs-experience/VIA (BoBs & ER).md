@@ -99,11 +99,13 @@ in the lives of others.</p>
 </div>
 <p>Students bought essential items and packed Bags of Blessings (BoBs) demonstrating
 teamwork and community spirit.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_2.jpg">
 </div>
 <p>Community Collaboration - Parent Volunteers, teachers, and students ready
 to deliver their Bags of Blessings (BoBs) to Serene Nursing Home</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_1.jpg">
 </div>
@@ -136,10 +138,12 @@ and hand-made National Day buntings</p>
 </tbody>
 </table>
 <p>P1 VIA: Little Hands, Big Actions</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_4.png">
 </div>
 <p>P5 VIA: Community Champions</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_3.png">
 </div>
