@@ -88,5 +88,5 @@ innovative in engaging their students to help them learn English better.</p>
 efforts to upgrade themselves to benefit their students and schools.</p>
 <p>Nomination Closing Date:&nbsp;<strong>23 March 2026, 6 p.m.</strong>
 </p>
-<p><strong>Nominate via this link: <a href="https://go.gov.sg/hgsitea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/hgsitea2026</a></strong>
+<p><strong>Nominate via this link: <a href="https://go.gov.sg/iteahgs2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/iteahgs2026</a></strong>
 </p>
