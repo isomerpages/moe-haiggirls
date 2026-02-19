@@ -2,6 +2,8 @@ collections:
   hgs-experience:
     output: true
     order:
+      - VIA (BoBs & ER).md
+      - ECG (Remarkably You).md
       - Applied Learning Program (ALP).md
       - Learning For Life Programme (LLP).md
       - Leaders of Character.md
