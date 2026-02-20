@@ -102,8 +102,24 @@ deepen understanding and application of scientific ideas.</p>
 </tr>
 </tbody>
 </table>
+<h3><strong>Harnessing Technology for Teaching and Learning</strong></h3>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S12.png">
+</div>
+<p><strong>Students built electric circuits using online simulations, and learnt collaboratively on padlet</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
