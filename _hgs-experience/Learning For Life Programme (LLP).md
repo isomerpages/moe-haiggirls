@@ -6,24 +6,17 @@ variant: tiptap
 ---
 <h2><strong><u>Learning for Life Programme</u></strong></h2>
 <p>The Learning for Life Programme (LLP) at Haig Girls’ School builds character
-and</p>
-<p>leadership through the Arts. A school-wide, three-tiered approach across
-all six levels</p>
-<p>helps students develop creativity, self-expression, and appreciation of
-Singapore’s</p>
-<p>multi-cultural heritage through the domains for art, dance, drama and
-music. Learning</p>
-<p>experiences are curated to provide real-life applications, values-in-action
-opportunities,</p>
-<p>and leadership growth.</p>
+and leadership through the Arts. A school-wide, three-tiered approach across
+all six levels helps students develop creativity, self-expression, and
+appreciation of Singapore’s multi-cultural heritage through the domains
+for art, dance, drama and music. Learning experiences are curated to provide
+real-life applications, values-in-action opportunities, and leadership
+growth.</p>
 <p>Aligned with the school’s vision and mission, the LLP fosters 21st century
-competencies</p>
-<p>such as inventive thinking, responsible decision-making, and care for
-self and others. It</p>
-<p>offers meaningful, age-appropriate experiences that encourage experimentation,</p>
-<p>collaboration, self-discovery, and the joy of learning through showcases
-and student-led</p>
-<p>initiatives.</p>
+competencies such as inventive thinking, responsible decision-making, and
+care for self and others. It offers meaningful, age-appropriate experiences
+that encourage experimentation, collaboration, self-discovery, and the
+joy of learning through showcases and student-led initiatives.</p>
 <p></p>
 <h5>Character and Leadership through the Performing and Visual Arts</h5>
 <p>Our LLP aims to develop character and leadership through diverse learning
