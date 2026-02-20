@@ -68,12 +68,6 @@ impact in their communities.</p>
 </div>
 <p><strong>National sprinter, Shanti Pereira, inspired students with a talk on resilience and determination in reaching their dreams</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 </th>
 </tr>
 <tr>
@@ -84,7 +78,6 @@ impact in their communities.</p>
 </div>
 <p><strong>Students learned about turning their mistakes into learning opportunities</strong>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,24 +86,6 @@ impact in their communities.</p>
 </div>
 <p><strong>Students shared on their ‘Tricky Days’ and how they overcame challenges</strong>
 </p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
