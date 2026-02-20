@@ -66,7 +66,6 @@ impact in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3.jpg">
 </div>
-<p></p>
 <p><strong>National sprinter, Shanti Pereira, inspired students with a talk on resilience and determination in reaching their dreams</strong>
 </p>
 <p></p>
@@ -83,17 +82,17 @@ impact in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G2.jpg">
 </div>
-<p></p>
-<p>Students learned about turning their mistakes into learning opportunities</p>
+<p><strong>Students learned about turning their mistakes into learning opportunities</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G1.jpg">
 </div>
-<p></p>
+<p><strong>Students shared on their ‘Tricky Days’ and how they overcame challenges</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
