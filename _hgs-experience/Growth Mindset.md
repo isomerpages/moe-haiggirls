@@ -66,8 +66,7 @@ impact in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3.jpg">
 </div>
-<p><strong>National sprinter, Shanti Pereira, inspired students with a talk on resilience and determination in reaching th</strong>eir
-dream<strong>s</strong>
+<p><strong>National sprinter, Shanti Pereira, inspired students with a talk on resilience and determination in reaching their dreams</strong>
 </p>
 <p></p>
 <p></p>
