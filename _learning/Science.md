@@ -12,17 +12,13 @@ Innovate. We aim to equip students to make informed decisions, build strong
 foundations for STEM, and develop a spirit of inquiry—fostering curiosity,
 appreciation of Science in daily life, and its role in solving global challenges.</p>
 <h3>Science Curriculum Framework</h3>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
