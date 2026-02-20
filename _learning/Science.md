@@ -56,9 +56,8 @@ them to explore and question.</p>
 <p>Hands-on activities help students connect concrete experiences to abstract
 concepts in real-life contexts. Strategies like model-making and storytelling
 deepen understanding and application of scientific ideas.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -70,9 +69,6 @@ deepen understanding and application of scientific ideas.</p>
 </div>
 <p>Students learnt about fungi at a Mushroom Growing Workshop</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,36 +79,25 @@ deepen understanding and application of scientific ideas.</p>
 <p><strong>Students designed solar ovens using concepts learnt</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_153737.png">
+</div>
+<p><strong>Students built water cycle models and wrote creative Droplet stories</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4.jpg">
 </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S6.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Students explored energy conversion through hands-on activities</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -123,7 +108,3 @@ deepen understanding and application of scientific ideas.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p><strong>Teaching And Learning Through Inquiry</strong>
-</p>
