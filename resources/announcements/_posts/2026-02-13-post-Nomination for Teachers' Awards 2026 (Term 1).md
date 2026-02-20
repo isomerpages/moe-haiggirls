@@ -1,6 +1,6 @@
 ---
-title: Staff Awards Term 1 2026
-permalink: /staff-awards-term-1-2026/
+title: Nomination for Teachers' Awards 2026 (Term 1)
+permalink: /nomination-for-teachers-awards-2026-term-1/
 date: 2026-02-13
 layout: post
 description: ""
