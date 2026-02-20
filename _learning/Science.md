@@ -45,6 +45,78 @@ appreciation of Science in daily life, and its role in solving global challenges
 </tr>
 </tbody>
 </table>
+<h3><strong>Teaching And Learning Through Inquiry</strong></h3>
+<p>We nurture students as inquirers by fostering curiosity and providing
+authentic learning experiences. Our teachers use a variety of teaching
+strategies to facilitate the inquiry process and design meaningful learning
+experiences that develop scientific skills and knowledge, give students
+the opportunity to demonstrate 21CC competencies and values, while inspiring
+them to explore and question.</p>
+<h3><strong>Hands-On Learning</strong></h3>
+<p>Hands-on activities help students connect concrete experiences to abstract
+concepts in real-life contexts. Strategies like model-making and storytelling
+deepen understanding and application of scientific ideas.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S7.jpg">
+</div>
+<p>Students learnt about fungi at a Mushroom Growing Workshop</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5.png">
+</div>
+<p><strong>Students designed solar ovens using concepts learnt</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/S6.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
@@ -53,9 +125,5 @@ appreciation of Science in daily life, and its role in solving global challenges
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>Teaching And Learning Through Inquiry</strong>
+</p>
