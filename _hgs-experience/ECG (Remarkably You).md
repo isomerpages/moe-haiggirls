@@ -138,15 +138,23 @@ to embrace opportunities and challenges with a strong sense of self.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_10.jpg">
 </div>
-<p>Mrs Owens from the Singapore Police K9-Unit shared about her occupation</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_11.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Owens from the Singapore Police K9-Unit shared about her occupation.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Our invited guests, from Dog Handlers to Mountain Trekkers, inspired students
-with stories of passion and purpose</p>
+with stories of passion and purpose.</p>
 </td>
 </tr>
 </tbody>
