@@ -56,6 +56,12 @@ Haig girl.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Click on the images above for more information on
+<br>Haig Girls’ Character and Citizenship Education and Student Leadership.</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
