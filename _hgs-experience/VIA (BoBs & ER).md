@@ -200,16 +200,51 @@ and hand-made National Day buntings.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>P1 VIA: Little Hands, Big Actions.</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>P1 VIA: Little Hands, Big Actions</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_4.png">
 </div>
-<p>P5 VIA: Community Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 VIA: Community Champions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_3.png">
 </div>
-<p>P6 VIA: Eco Stride around Joo Chiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 VIA: Eco Stride around Joo Chiat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
