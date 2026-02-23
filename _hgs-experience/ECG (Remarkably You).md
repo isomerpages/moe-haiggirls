@@ -56,25 +56,6 @@ themselves, build personal strengths, develop practical life skills, and
 contribute meaningfully to their community. Along the way, they grow into
 confident, self-aware individuals equipped with resilience, adaptability,
 and a growth mindset—skills essential for thriving in today's world.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230038.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230053.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_13_230038.png">
 </div>
