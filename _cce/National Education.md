@@ -344,21 +344,32 @@ and harmonious society.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20cce.jpg">
 </div>
-<p>Sang songs close to our hearts at the National Day assembly.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21cce.jpg">
 </div>
-<p>Folks from Geylang East for the Aged sang&nbsp; and danced along at our
-National Day celebration.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22cce.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sang songs close to our hearts at the National Day assembly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Folks from Geylang East for the Aged sang&nbsp; and danced along at our
+National Day celebration.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Students shared a warm breakfast with our community guests.</p>
 </td>
 </tr>
