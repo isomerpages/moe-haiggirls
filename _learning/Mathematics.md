@@ -98,8 +98,12 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_155715.png">
 </div>
-<p>LSM in Action – Students use manipulatives to strengthen numeracy skills</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LSM in Action – Students use manipulatives to strengthen numeracy skills.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -107,16 +111,15 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/m5.png">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/m4.png">
 </div>
-<p><strong>Collaborative exploration of Mathematical concepts in the E2K programme</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Collaborative exploration of Mathematical concepts in the E2K programme.</p>
 </td>
 </tr>
 <tr>
