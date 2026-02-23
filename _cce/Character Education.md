@@ -136,6 +136,24 @@ they learn about developing healthy and rewarding relationships, including
 those with members of the opposite sex, and to make wise, informed and
 responsible decisions on sexuality matters. Click&nbsp;<a href="https://www.haiggirls.moe.edu.sg/cce/moe-sexuality-education-in-schools/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to
 learn more about SEd in Haig girls’.</p>
+<h2><strong>Education and Career Guidance (ECG)</strong></h2>
+<p>Education and Career Guidance (ECG) is not just about exploring future
+pathways—it’s also about helping students discover who they are. Through
+CCE (FTGP), secondary school and career talks, and our signature <em>Remarkably You</em> programme,
+students develop self-awareness, resilience, and a growth mindset. These
+experiences empower them to become confident, purpose-driven individuals,
+ready to embrace future opportunities with a strong sense of self. Click
+<a href="https://www.haiggirls.moe.edu.sg/ecg-remarkably-you/" rel="noopener nofollow" target="_blank">here</a>to read more about our HGS Education and Career Guidance experience.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
