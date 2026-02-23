@@ -30,7 +30,6 @@ to demonstrate values-in-action and develop leadership skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/llp3.png">
 </div>
