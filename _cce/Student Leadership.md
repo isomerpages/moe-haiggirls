@@ -27,11 +27,6 @@ to develop and refine their leadership skills.</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>The Student Leadership Framework is designed to develop leadership in
