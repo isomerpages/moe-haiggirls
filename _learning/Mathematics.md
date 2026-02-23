@@ -128,9 +128,11 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/m3.png">
 </div>
-<p><strong>Students reinforced their learning through games during recess</strong>
-</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students reinforced their learning through games during recess.</p>
 </td>
 </tr>
 <tr>
@@ -139,9 +141,11 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/m2.jpg">
 </div>
-<p><strong>Interactive learning on digital platforms</strong>
-</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Interactive learning on digital platforms.</p>
 </td>
 </tr>
 <tr>
@@ -150,9 +154,12 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_155759.png">
 </div>
-<p><strong>Applying Mathematics in real-world contexts – measuring to bake, counting money to buy things</strong>
-</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Applying Mathematics in real-world contexts – measuring to bake, counting
+money to buy things.</p>
 </td>
 </tr>
 <tr>
@@ -161,9 +168,11 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_155809.png">
 </div>
-<p><strong>C-P-A Approach: Hands-on learning using concrete materials</strong>
-</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C-P-A Approach: Hands-on learning using concrete materials.</p>
 </td>
 </tr>
 <tr>
@@ -172,9 +181,11 @@ connection to their learning.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/m1.png">
 </div>
-<p><strong>Collaborative Peer Learning – Students worked together to solve problems</strong>
-</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Collaborative Peer Learning – Students worked together to solve problems.</p>
 </td>
 </tr>
 </tbody>
