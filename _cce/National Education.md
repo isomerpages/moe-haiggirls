@@ -219,8 +219,54 @@ and collaboration.</p>
 </tr>
 </tbody>
 </table>
+<h2><strong>Racial Harmony Day</strong></h2>
+<p>Theme: Our People, Our Tapestry</p>
+<p>We commemorate Racial Harmony Day (RHD) each year on 21 July to mark the
+anniversary of the 1964 race riots. On this day, students reflect on and
+celebrate Singapore’s harmonious society, built on a rich diversity of
+cultures and the collective effort to promote social cohesion. Through
+various activities, students engage with peers from different races and
+religions, reinforcing the message that all people in Singapore are treated
+equally regardless of race or religion. These experiences encourage appreciation
+for the diverse cultures that make up our nation.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17cce.jpg">
+</div>
+<p>Students performed "Chan Mali Chan" during RHD assembly.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18cce.jpg">
+</div>
+<p>Students participated in hands-on activities, learning to accept and appreciate
+one another.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19cce.jpg">
+</div>
+<p>Through traditional games and stories, students engaged in activities
+deepening their understanding of friends from different races and religions
+in Singapore.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
