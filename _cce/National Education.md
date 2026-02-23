@@ -178,9 +178,47 @@ call home, while promoting the spirit of friendship and collaboration.</p>
 </tbody>
 </table>
 <p>
-<br>
-</p>
+<br>As part of our efforts to promote foreign-local integration, the school
+designed experiences to foster mutual understanding and appreciation among
+students from different cultural backgrounds. This year, students visited
+Kampong Buangkok to learn more about Singapore’s history and heritage,
+encouraging meaningful interactions between local and ISPR students, building
+mutual trust, and deepening their appreciation for the country they now
+call home, while promoting the spirit of friendship and collaboration.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14cce.jpg">
+</div>
+<p>Students visited Kampong Buangkok to learn about Singapore’s history.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15cce.jpg">
+</div>
+<p>Hands-on learning in action as students engaged in activities during the
+Kampong Buangkok experience.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16cce.jpg">
+</div>
+<p>2025 International Students and P6 CCE Ambassadors fostering friendship
+and collaboration.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
