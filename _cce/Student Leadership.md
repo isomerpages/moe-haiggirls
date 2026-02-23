@@ -4,70 +4,118 @@ permalink: /cce/student-leadership/
 description: ""
 variant: tiptap
 ---
-The student leadership development programme is designed to develop every pupil as a leader of character. Every pupil will be given an opportunity to be a leader, beginning at the class level.&nbsp;  
-
-  
-
-The four leadership qualities are:
-
-*   lead by example
-*   serve with humility
-*   take initiative, and
-*   work well with and inspire others.
-
- 
-Click&nbsp;[here](/images/sldpledge.jpeg)&nbsp;for the Student Leaders’ Pledge.
-
-  
-
-## Student Leaders’ Investiture
-
-The annual student leaders’ investiture is held in the first semester during assembly programme. At this investiture, pupil leaders (ranging from Citizenship Education ambassadors, safety leaders to CCA leaders, Prefects and more) will be formally acknowledged and presented with specific badges by the Principal and Vice-Principal. At the same time, the investiture serves as an opportunity to acknowledge that every pupil in HGS is a leader.
-
-## Student Leadership Framework
-
-We believe that every HGS student will be a leader of character who&nbsp;demonstrates our school&nbsp;values (I4Cs) and leadership attributes. Our school’s Student Leadership Development Committee has created a Student Leadership Framework to ensure all our students are nurtured to be a leader.
-
-The Student Leadership Framework is built on HGS’ vision of “Leaders of Character, Striving for Excellence in a Vibrant School”. It has four concentric circles with the inner circles depicting the values and leadership attributes, while the outer circles illustrate the platforms and approaches for students to hone their leadership skills.&nbsp;
-
-<img src="/images/sld1.jpeg" style="width:65%">
-
-
-The first inner circle indicates our school values (I4Cs) – Integrity, Commitment, Cooperation, Creativity&nbsp;
-
-and Concern, which we would like to inculcate in every Haig girl.
-
-The second inner circle indicates the leadership attributes – “Leads by Example”, “Takes Initiative”, “Serves with Humility” and “Influences Others Positively” which further build upon the fundamental school values of I4Cs.
-
-The third outer circle shows the platforms (CCA Leaders, Class Leaders, Ambassadors and Prefects) that we have designed to provide our Haig girl the opportunity to take on authentic leadership roles.
-
-Finally, the outer most circle depicts the 2E2R approach - “Experience”, “Explicit teaching”, “Reflection” and “Role-modelling”, used to cultivate the leadership qualities in our students.
-
-* Through explicit teaching and by providing students with experiences (e.g. FTGP Leadership Lessons, Leadership Training, Leadership Opportunities), all students will be able to develop their leadership capabilities.
-
-
-* We also empower our students to lead in events such as the&nbsp;TKSS Junior Leadership Symposium, Leadership Assembly Presentations and the HGS Open House. No Haig girl is too young to make a difference to others, the school and the community.
-
-
-* Furthermore, we encourage the students to reflect and evaluate their own strengths and missteps in their leadership journey. Using a growth mindset for self-reflection coupled with peer evaluation will help solidify their understanding of what it takes to be a good leader.
-
-
-* We also provide affirmation and encouragement through events such as&nbsp;Student Leaders’ Investiture and Prize-giving day. We celebrate not only achievements but the heart of our students.
-
-  
-
-Leadership Training Structure
------------------------------
-
-To support the pupils in developing their leadership skills, a three-tiered&nbsp;training structure was&nbsp;created.
-
-<img src="/images/sld2.png" style="width:25%">
-
-**<center>3-Tiered Student<br>Leadership Training</center>**
-
-
-In addition to the above key training programmes, there would be specialised training programmes catered for different groups of leaders so as to hone their skills in the specific areas.
-
-![](/images/sld1.png)
-![](/images/sld3.png)
-![](/images/sld4.png)
+<p>At HGS, we believe that every student has the potential to be a leader
+of character, demonstrating our school values and leadership attributes.
+To nurture this potential, the Student Leadership Framework has been established
+to guide students in their leadership journey.</p>
+<p>
+<br>Rooted in HGS’ vision of <em>“Empowering every Haig Girl to Learn and Lead, in Service of Others,”</em> the
+framework is represented by four concentric circles. The inner circles
+highlight our core values and leadership attributes, while the outer circles
+illustrate the platforms and approaches that provide students with opportunities
+to develop and refine their leadership skills.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26cce.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Student Leadership Framework is designed to develop leadership in
+every Haig Girl through four concentric circles:</p>
+<h4><strong>Inner Circle: School Values (R<sup>3</sup>ICH)</strong></h4>
+<p>This circle represents our core values: Responsibility, Resilience, Respect,
+Integrity, Compassion, and Humility (R3ICH), which are foundational to
+leadership development.</p>
+<h4><strong>Second Circle: Leadership Attributes</strong></h4>
+<p>This circle focuses on key leadership qualities:</p>
+<ul>
+<li>
+<p>Leads by Example</p>
+</li>
+<li>
+<p>Takes Initiative</p>
+</li>
+<li>
+<p>Serves with Humility</p>
+</li>
+<li>
+<p>Influences Others Positively</p>
+</li>
+</ul>
+<h4><strong>Third Circle: Leadership Platforms</strong></h4>
+<p>This circle represents authentic leadership roles such as CCA Leaders,
+Class Leaders, Ambassadors, and Prefects, giving students real opportunities
+to lead.</p>
+<h4><strong>Outermost Circle: The 2E2R Approach</strong></h4>
+<p>The outer circle illustrates the 2E2R approach:</p>
+<ul>
+<li>
+<p>Experience</p>
+</li>
+<li>
+<p>Explicit Teaching</p>
+</li>
+<li>
+<p>Reflection</p>
+</li>
+<li>
+<p>Role-modelling</p>
+</li>
+</ul>
+<p>This approach helps develop leadership through teaching, practical experiences,
+reflection, and peer evaluation, with opportunities for students to lead
+events like the TKSS Junior Leadership Symposium and HGS Open House. We
+also provide affirmation through events such as the Student Leaders' Investiture
+and Prize-Giving Day, celebrating both achievements and the character of
+our students.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27cce.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/28cce.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our 2025 prefects ExCO who were empowered to lead and support all our
+student leaders.</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our 2025 prefects who Lead,Serve, Inspire.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
