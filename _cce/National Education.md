@@ -281,21 +281,32 @@ for the diverse cultures that make up our nation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/17cce.jpg">
 </div>
-<p>Students performed "Chan Mali Chan" during RHD assembly.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/18cce.jpg">
 </div>
-<p>Students participated in hands-on activities, learning to accept and appreciate
-one another.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/19cce.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students performed "Chan Mali Chan" during RHD assembly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students participated in hands-on activities, learning to accept and appreciate
+one another.</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Through traditional games and stories, students engaged in activities
 deepening their understanding of friends from different races and religions
 in Singapore.</p>
