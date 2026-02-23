@@ -99,21 +99,38 @@ a hoop with one finger</p>
 <p>Students displayed strong teamwork to guide a blindfolded classmate</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h2><strong>Values Curriculum</strong></h2>
+<p>At Haig Girls’ School, our six core values—Respect, Responsibility, Resilience,
+Integrity, Compassion, and Humility—form the foundation of our values curriculum.
+These values are explicitly taught and reinforced through various platforms,
+helping students build character and guide their daily choices. To bring
+these values to life in relatable ways, we introduced the Amberinas—our
+in-house mascots who embody each value. Through classroom experiences and
+strong partnerships with parents, we aim to nurture Haig girls who grow
+to be respectful, responsible, and compassionate individuals who lead and
+serve with heart, both in school and beyond.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_11_083407.png">
+</div>
+<p><em>HGS Values &amp; Amberinas</em>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
