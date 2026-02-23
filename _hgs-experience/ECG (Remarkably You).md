@@ -17,7 +17,7 @@ meaningfully to society.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>In line with MOE's ECG goals, our programme focuses on:</p>
 <ul>
 <li>
@@ -27,11 +27,10 @@ meaningfully to society.</p>
 <p>Exposure to diverse career options</p>
 </li>
 <li>
-<p>Developing social awareness and res<strong>ponsibility</strong>
-</p>
+<p>Developing social awareness and responsibility</p>
 </li>
 </ul>
-</th>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
