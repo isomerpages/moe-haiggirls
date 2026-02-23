@@ -61,18 +61,36 @@ care within the school community.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Students Taking Responsibility and Cleaning Up at their Classroom, Fostering
 a Sense of Ownership.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_9.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A Green Leader Displaying the Cleanliness Placard after Observing a Spotless
-Classroom
-<br>
-</p>
+Classroom.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong><u>Bags of Blessings</u></strong></h3>
 <p><em>Bags of Blessings (BoBs)</em> is a uniquely Haig Girls’ initiative
 that brings our school community together in the spirit of joy and kindness.
