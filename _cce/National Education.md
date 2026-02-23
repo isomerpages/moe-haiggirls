@@ -45,10 +45,16 @@ to become informed, empathetic, and active citizens.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_11_083514.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce35.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce34.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
