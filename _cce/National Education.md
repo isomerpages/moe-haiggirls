@@ -264,10 +264,26 @@ in Singapore.</p>
 </tr>
 </tbody>
 </table>
+<h2><br><strong>National Day</strong></h2>
+<p>Schools commemorate National Day on 8 August to mark Singapore’s independence
+in 1965. At Haig Girls, we celebrate this milestone by instilling the values
+of active citizenship and gratitude in our students. As part of the <strong>Bags of Blessings</strong> initiative,
+students engage in outreach to various community groups, learning the importance
+of giving back. <em>Read more </em><a href="https://www.haiggirls.moe.edu.sg/via-bobs-er/" rel="noopener nofollow" target="_blank">here</a><em>.</em> Additionally,
+our Parents Support Group organizes a charity book drive, with proceeds
+supporting students in need.</p>
+<p>A key part of the Primary 5 student development experience is the <strong>NE Show</strong>,
+where all Primary 5 students are invited to attend this preview of the
+National Day Parade, deepening their connection to the nation’s heritage
+and values.</p>
+<p>Students look forward to the NE commemorative events, which help to deepen
+students' understanding of Singapore's history, values, and their role
+as active citizens. Through these events, students develop a strong sense
+of national identity, resilience, and an appreciation for Singapore's diverse
+and harmonious society.</p>
 <p>
 <br>
 </p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
