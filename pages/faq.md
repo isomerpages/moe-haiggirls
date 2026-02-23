@@ -10,7 +10,7 @@ variant: tiptap
 <br>Refer to point 1 on contact information&nbsp;<a href="/contact-us/school-information/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 <p><strong>When are the school terms/ school holidays?</strong>
-<br><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education/school-terms-and-holidays</a>
+<br><a href="https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20250730-school-terms-and-holidays-for-2026</a>
 </p>
 <p><strong>What CCA are available?</strong>
 <br>Click&nbsp;<a href="/hgs-experience/Co-Curricular-Activities/ccas/" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
