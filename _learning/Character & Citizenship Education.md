@@ -24,8 +24,9 @@ values.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_085822.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_092018.png">
 </div>
 <p><em>The CCE 2021 Curriculum Frame</em>
 </p>
@@ -47,7 +48,7 @@ and <strong>Family Education (FE)</strong>.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_084716.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_091909.png">
 </div>
 </td>
 </tr>
