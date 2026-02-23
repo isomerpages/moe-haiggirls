@@ -281,6 +281,39 @@ students' understanding of Singapore's history, values, and their role
 as active citizens. Through these events, students develop a strong sense
 of national identity, resilience, and an appreciation for Singapore's diverse
 and harmonious society.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20cce.jpg">
+</div>
+<p>Sang songs close to our hearts at the National Day assembly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21cce.jpg">
+</div>
+<p>Folks from Geylang East for the Aged sang&nbsp; and danced along at our
+National Day celebration.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22cce.jpg">
+</div>
+<p>Students shared a warm breakfast with our community guests.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
