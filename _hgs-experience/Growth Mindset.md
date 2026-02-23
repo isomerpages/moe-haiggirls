@@ -59,16 +59,22 @@ impact in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G4.jpg">
 </div>
-<p>Students reflected Growth and Fixed Mindsets through a colouring activity</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G3.jpg">
 </div>
-<p><strong>National sprinter, Shanti Pereira, inspired students with a talk on resilience and determination in reaching their dreams</strong>
-</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students reflected Growth and Fixed Mindsets through a colouring activity.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National sprinter, Shanti Pereira, inspired students with a talk on resilience
+and determination in reaching their dreams.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,16 +82,22 @@ impact in their communities.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G2.jpg">
 </div>
-<p><strong>Students learned about turning their mistakes into learning opportunities</strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/G1.jpg">
 </div>
-<p><strong>Students shared on their ‘Tricky Days’ and how they overcame challenges</strong>
-</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students learned about turning their mistakes into learning opportunities.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students shared on their ‘Tricky Days’ and how they overcame challenges.</p>
 </td>
 </tr>
 </tbody>
