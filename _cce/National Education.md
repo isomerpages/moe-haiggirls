@@ -27,8 +27,51 @@ dispositions.</p>
 </tr>
 </tbody>
 </table>
+<h2><strong>Social Studies</strong></h2>
+<p>Social Studies helps students explore real-world issues, develop critical
+thinking, and appreciate diverse perspectives. Through inquiry-based learning
+and authentic learning experiences, students deepen their understanding
+of Singapore’s identity and global interconnectedness. Museum-based learning
+(MBL) experiences, including visits to art museums and historical sites,
+further enrich this by connecting students to Singapore's cultural heritage.
+These experiences complement the curriculum, encouraging reflection on
+themes like multiculturalism and social change, and empowering students
+to become informed, empathetic, and active citizens.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_11_083514.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7cce.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Students on a museum-based learning journey exploring the past to understand
+the present</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students engaged in group discussions during their Social Studies lesson</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
