@@ -175,22 +175,33 @@ call home, while promoting the spirit of friendship and collaboration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/11cce.jpg">
 </div>
-<p>International Friendship Day assembly programme.</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12cce.jpg">
 </div>
-<p>Students learnt more about our neighbouring countries.</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/13cce.jpg">
 </div>
-<p>Students participated in hands-on activities during recess.</p>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>International Friendship Day assembly programme.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learnt more about our neighbouring countries.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students participated in hands-on activities during recess.</p>
+</td>
 </tr>
 </tbody>
 </table>
