@@ -111,24 +111,35 @@ meaningful conversations at home about resilience and preparedness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/8cce.jpg">
 </div>
-<p>Students learnt the importance of resilience and collective responsibility
-during Total Defence Day.</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9cce.jpg">
 </div>
-<p>Students learnt how to respond to unexpected challenges during a simulated
-power disruption in class.</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/10cce.jpg">
 </div>
-<p>Students learnt life-saving CPR skills, empowering them to help in emergencies.</p>
+<p></p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students learnt the importance of resilience and collective responsibility
+during Total Defence Day.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learnt how to respond to unexpected challenges during a simulated
+power disruption in class.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students learnt life-saving CPR skills, empowering them to help in emergencies.</p>
+</td>
 </tr>
 </tbody>
 </table>
