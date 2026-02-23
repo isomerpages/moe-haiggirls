@@ -388,20 +388,31 @@ National Day celebration.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/23cce.jpg">
 </div>
-<p>Students spread joy with National Day bags at Serene Nursing Home.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/24cce.jpg">
 </div>
-<p>Our class was ready for National Day with BoBs and colorful bunting!</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/25cce.jpg">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students spread joy with National Day bags at Serene Nursing Home.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Our class was ready for National Day with BoBs and colorful bunting!</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>PSG Book Charity Drive, brought the joy of reading to all!</p>
 </td>
 </tr>
