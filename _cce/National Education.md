@@ -72,6 +72,70 @@ the present</p>
 </tr>
 </tbody>
 </table>
+<h2><strong>NE Core Events</strong></h2>
+<p>Beyond formal Character and Citizenship Education lessons, the four National
+Education (NE) Commemorative Days – Total Defence Day, International Friendship
+Day, Racial Harmony Day, and National Day – form key student development
+experiences. These events are anchored in defining moments of Singapore’s
+history and provide meaningful opportunities for students to learn, reflect,
+and deepen their sense of identity and belonging. Through these commemorations,
+students are encouraged to apply their learning and play an active role
+in shaping a caring, cohesive, and resilient society.</p>
+<p><strong>Total Defence Day</strong>
+</p>
+<p>Total Defence Day is commemorated to highlight the importance of unity
+and resilience in the face of challenges. Students are immersed in a journey
+to reflect on Singapore’s past, consider its future, and examine the role
+they can play in shaping what lies ahead. Through classroom discussions
+and hands-on activities, students explore how Singapore responds to crises
+and learn that keeping the nation safe is a shared responsibility. These
+experiences reinforce the importance of working together and being prepared
+for challenges. In the lead-up to the commemoration, students are also
+provided with resources such as Kindsville Times and A-OK! to encourage
+meaningful conversations at home about resilience and preparedness.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8cce.jpg">
+</div>
+<p>Students learnt the importance of resilience and collective responsibility
+during Total Defence Day.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9cce.jpg">
+</div>
+<p>Students learnt how to respond to unexpected challenges during a simulated
+power disruption in class.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10cce.jpg">
+</div>
+<p>Students learnt life-saving CPR skills, empowering them to help in emergencies.</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
