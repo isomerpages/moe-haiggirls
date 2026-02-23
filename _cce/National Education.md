@@ -61,13 +61,13 @@ to become informed, empathetic, and active citizens.</p>
 <tr>
 <td rowspan="1" colspan="2">
 <p>Students on a museum-based learning journey exploring the past to understand
-the present</p>
+the present.</p>
 <p>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Students engaged in group discussions during their Social Studies lesson</p>
+<p>Students engaged in group discussions during their Social Studies lesson.</p>
 </td>
 </tr>
 </tbody>
@@ -81,8 +81,7 @@ history and provide meaningful opportunities for students to learn, reflect,
 and deepen their sense of identity and belonging. Through these commemorations,
 students are encouraged to apply their learning and play an active role
 in shaping a caring, cohesive, and resilient society.</p>
-<p><strong>Total Defence Day</strong>
-</p>
+<h2><strong>Total Defence Day</strong></h2>
 <p>Total Defence Day is commemorated to highlight the importance of unity
 and resilience in the face of challenges. Students are immersed in a journey
 to reflect on Singapore’s past, consider its future, and examine the role
