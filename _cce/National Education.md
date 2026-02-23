@@ -346,10 +346,12 @@ National Day celebration.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p></p>
+<h2><br><strong>Values In Action</strong></h2>
+<p>Service to the school and community, leadership roles and responsibilities,
+CCAs and group work are important experiences that we give our students,
+so that they can live out the school values in the process of serving others
+and working with one another.&nbsp;Read more about our HGS VIA Experiences&nbsp;
+<a href="https://www.haiggirls.moe.edu.sg/via-bobs-er/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
 <p></p>
