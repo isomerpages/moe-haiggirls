@@ -67,8 +67,12 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S7.jpg">
 </div>
-<p>Students learnt about fungi at a Mushroom Growing Workshop</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students learnt about fungi at a Mushroom Growing Workshop.</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,8 +80,11 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S5.png">
 </div>
-<p><strong>Students designed solar ovens using concepts learnt</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students designed solar ovens using concepts learnt.</p>
 </td>
 </tr>
 <tr>
@@ -86,8 +93,11 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_153737.png">
 </div>
-<p><strong>Students built water cycle models and wrote creative Droplet stories</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students built water cycle models and wrote creative Droplet stories.</p>
 </td>
 </tr>
 <tr>
@@ -96,8 +106,11 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S4.jpg">
 </div>
-<p><strong>Students explored energy conversion through hands-on activities</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students explored energy conversion through hands-on activities.</p>
 </td>
 </tr>
 </tbody>
@@ -114,8 +127,12 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S12.png">
 </div>
-<p><strong>Students built electric circuits using online simulations, and learnt collaboratively on padlet</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students built electric circuits using online simulations, and learnt
+collaboratively on padlet.</p>
 </td>
 </tr>
 <tr>
@@ -124,8 +141,11 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S8.jpg">
 </div>
-<p><strong>Exploring energy conversion through online simulation</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exploring energy conversion through online simulation.</p>
 </td>
 </tr>
 <tr>
@@ -134,8 +154,11 @@ deepen understanding and application of scientific ideas.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S11.png">
 </div>
-<p><strong>Harnessing SLS to foster self-directed learning</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Harnessing SLS to foster self-directed learning.</p>
 </td>
 </tr>
 </tbody>
@@ -164,8 +187,12 @@ effective communication through collaborative learning and hands-on inquiry.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_154239.png">
 </div>
-<p><strong>Science D3T2 students engaged in collaborative, creative Inquiry through hands-on exploration and critical thinking</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science D3T2 students engaged in collaborative, creative Inquiry through
+hands-on exploration and critical thinking.</p>
 </td>
 </tr>
 </tbody>
@@ -188,8 +215,12 @@ lives in a fun and engaging way.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_154427.png">
 </div>
-<p><strong>Students explored scientific concepts through interactive and engaging activities during recess</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students explored scientific concepts through interactive and engaging
+activities during recess.</p>
 </td>
 </tr>
 </tbody>
@@ -215,8 +246,11 @@ learning hands-on, immersive, and memorable.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_154608.png">
 </div>
-<p><strong>Students learnt together at the Lee Kong Chian Natural History Museum</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students learnt together at the Lee Kong Chian Natural History Museum.</p>
 </td>
 </tr>
 </tbody>
@@ -242,8 +276,11 @@ make a positive impact on the world around them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_154737.png">
 </div>
-<p><strong>The Green Corner: Inspiring sustainable practices and environmental awareness</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Green Corner: Inspiring sustainable practices and environmental awareness.</p>
 </td>
 </tr>
 <tr>
@@ -252,8 +289,11 @@ make a positive impact on the world around them.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_20_154801.png">
 </div>
-<p><strong>Science Garden &amp; Eco-Pond: Living laboratories of biodiversity</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Garden &amp; Eco-Pond: Living laboratories of biodiversity.</p>
 </td>
 </tr>
 </tbody>
