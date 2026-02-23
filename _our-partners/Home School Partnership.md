@@ -24,11 +24,11 @@ kind generation by:</p>
 <li>
 <p>Supporting our children in building strong relationships and healthy habits
 in the digital age.</p>
-</li>
-</ul>
 <p>
 <br>Please click&nbsp;<a href="https://www.moe.gov.sg/-/media/files/news/press/2024/annex-a---refreshed-guidelines-for-school-home-partnership.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;for
 the refreshed guidelines.</p>
+</li>
+</ul>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
