@@ -126,6 +126,60 @@ power disruption in class.</p>
 </tr>
 </tbody>
 </table>
+<h2><strong>International Friendship Day</strong></h2>
+<p>International Friendship Day (IFD) is commemorated at HGS to highlight
+the importance of international cooperation and Singapore’s global engagement.
+Through activities such as READ@HGS, a Dondang Sayang performance, and
+CCE (FTGP) IFD lessons, students deepen their understanding of Singapore’s
+regional ties, develop cross-cultural competencies, and appreciate the
+spirit of collaboration. Recess activities further provide opportunities
+for students to explore the cultures of ASEAN member states, strengthening
+awareness of Singapore’s place in the region. Collectively, these experiences
+cultivate a spirit of friendship, openness, and respect for cultural diversity,
+preparing students to engage confidently in an increasingly interconnected
+world.</p>
+<p>As part of our efforts to promote foreigner-local integration, the school
+designs experiences to foster mutual understanding and appreciation among
+students from different cultural backgrounds. In 2025, students visited
+Kampong Buangkok to learn more about Singapore’s history and heritage,
+encouraging meaningful interactions between local and ISPR students, building
+mutual trust, and deepening their appreciation for the country they now
+call home, while promoting the spirit of friendship and collaboration.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11cce.jpg">
+</div>
+<p>International Friendship Day assembly programme.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12cce.jpg">
+</div>
+<p>Students learnt more about our neighbouring countries.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13cce.jpg">
+</div>
+<p>Students participated in hands-on activities during recess.</p>
+</th>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -135,6 +189,5 @@ power disruption in class.</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
+<p><strong>International Friendship Day</strong>
+</p>
