@@ -128,10 +128,14 @@ serve with heart, both in school and beyond.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<p></p>
+<h2><strong>Sexuality Education (SEd)</strong></h2>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+Primary 5 and 6. In SEd, students learn to understand the physiological,
+social and emotional changes they experience as they mature. For example,
+they learn about developing healthy and rewarding relationships, including
+those with members of the opposite sex, and to make wise, informed and
+responsible decisions on sexuality matters. Click&nbsp;<a href="https://www.haiggirls.moe.edu.sg/cce/moe-sexuality-education-in-schools/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to
+learn more about SEd in Haig girls’.</p>
 <p></p>
 <p></p>
 <p></p>
