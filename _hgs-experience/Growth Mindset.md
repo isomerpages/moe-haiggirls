@@ -103,7 +103,3 @@ and determination in reaching their dreams.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
