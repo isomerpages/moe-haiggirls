@@ -32,7 +32,7 @@ Haig girl.</p>
 <th rowspan="1" colspan="3">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_085014.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_094850.png">
 </div>
 </th>
 </tr>
@@ -40,19 +40,19 @@ Haig girl.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_085053.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_094907.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_085106.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_094917.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_085123.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_23_094936.png">
 </div>
 </td>
 </tr>
