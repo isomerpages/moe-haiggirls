@@ -2,6 +2,7 @@ collections:
   hgs-experience:
     output: true
     order:
+      - Growth Mindset.md
       - VIA (BoBs & ER).md
       - ECG (Remarkably You).md
       - Applied Learning Program (ALP).md

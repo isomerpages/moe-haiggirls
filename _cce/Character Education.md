@@ -2,55 +2,159 @@
 title: Character Education
 permalink: /cce/character-education/
 description: ""
+variant: tiptap
 ---
-Values are taught to our pupils through various platforms:  
-
-*   The explicit teaching of values during Civic and Moral Education (CME) lessons
-*   The infusion of values into existing academic curriculum
-*   Values based Story-Telling, Value-Based Creativity Programe, and Assembly Programmes
-*   Teachable moments 
-*   The informal curriculum, for example, Co-Curricular Activities (CCA), Values In Action (VIA) and specific school programme such as leadership programmes and camps.
-
-## Putting Values into CME
-
-![](/images/che1.png)
-
-## Pastoral Care
-
-
-In Haig Girls’ we look into taking care of the mental well-being of our girls. Social and Emotional Learning (SEL) is one of the key strategies for the promotion of mental well-being. This is carried out through specific curriculum for SEL (Form Teacher Guidance Period (FTGP), SEL Lessons, Sexuality Education, Education & Career Guidance, and Cyber Wellness). 
-
-  
-
-We provide our pupils with:
-
-*   A holistic and balanced school experience particularly through CCA, Assembly Programmes and Values In Action (VIA) 
-*   An environment that supports learning and positive relationships with peers and significant adults (positive Teacher-Student Relationship) through Rapport Building sessions with the counsellors, one-to-one bonding sessions with form and co-form teachers and Parent-Teacher-Child Conferencing (PTCC) sessions.
-*   Facilitation of a supportive family environment through school-home collaboration.
-
-  
-
-##### Form Teacher Guidance Period (FTGP)
-
-Form Teacher Guidance Period (FTGP) provides quality interaction time between form teachers and pupils, and equip pupils with social and emotional competencies.  
-
-##### The FTGP concept can also be illustrated as below:
-
-![](/images/che2.png)
-
-## Sexuality Education
-
-
-Sexuality Education focuses on the development of adolescents' values, and social and emotional competencies required to make responsible decisions regarding sexual behaviours and to build rewarding relationships based on love and respect which are the foundation for strong families. 
-
-  
-
-Click [here](/files/Info%20on%20SEd%20for%20HGS%20website%20Final.pdf) for more information.
-
-## Education & Career Guidance
-Education & Career Guidance is a developmental process which facilitates the acquisition of attitudes, skills and knowledge that will enable students to better understand themselves, explore viable education and career options, make informed decisions and develop plans to achieve their career aspirations. 
-
-Click [here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/education-and-career-guidance) for more information.
-
-## Environment
-At Haig Girls' School, we believe that each individual plays an important role in taking ownership of the world we have been blessed with. We encourage our staff and pupils to live out the values of care and commitment by reducing, reusing and recycling, in addition to taking pride in keeping the surroundings clean and litter-free. The HGS Recycles! initiative sees pupils and staff recycling at least one item a day. We would like to encourage you, parents and guardians, to join in this initiative by actively reducing, reusing and recycling at home. Together, we can make a difference!
+<h2><strong>Character and Citizenship Education (CCE) Lessons</strong></h2>
+<p>CCE Lessons in Haig Girls’ are enacted through CCE Form Teacher Guidance
+Period (FTGP) and CCE Mother Tongue Language (MTL). At Lower Primary, CCE
+Lessons also include the Programme for Active Learning (PAL). CCE (FTGP),
+CCE (MTL) and PAL are guided by one syllabus and the CCE Learning Outcomes
+are realised in different ways. Lessons in CCE (FTGP) and CCE (MTL) use
+stories, scenarios, songs and games, while PAL creates opportunities for
+students to apply their learning through the domains of Sports &amp; Games,
+Outdoor Education, Visual Arts, and Performing Arts.</p>
+<h2><strong>CCE Form Teacher Guidance Period - CCE(FTGP)</strong></h2>
+<p>The Form Teacher Guidance Period (FTGP) fosters quality interactions between
+form teachers and students, focusing on building character and developing
+social-emotional competencies. Through explicit teaching of these skills,
+students gain a strong foundation for more complex discussions in later
+years. FTGP also emphasises citizenship dispositions, promoting inter-ethnic
+understanding and appreciation for diverse cultures in a multicultural
+setting.</p>
+<h2><strong>CCE Mother Tongue Language - CCE(MTL)</strong></h2>
+<p>CCE (MTL) is taught through the Mother Tongue Languages (MTLs) to enhance
+students' language skills while inculcating values. Cultural stories, proverbs,
+and songs used in the MTL lessons reflect key values and help students
+connect with the content, fostering self-reflection. These stories highlight
+life experiences, encouraging understanding of identity, relationships,
+and choices. They also deepen appreciation for cultural heritage and promote
+respect for diverse cultures, races, and religions. For Non-Tamil Language
+(NTIL) students and students exempted from Mother Tongue language, CCE
+is taught in English, ensuring access to these lessons.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5cce.jpg">
+</div>
+<p>CCE MTL lesson on perspective-taking and empathy</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Programme for Active Learning (PAL)</strong></h2>
+<p>The Programme for Active Learning (PAL) is a key component of the curriculum
+for Primary 1 and 2 students, offering hands-on, experiential learning
+across four domains: Sports &amp; Games, Outdoor Education, Visual Arts,
+and Performing Arts. PAL aims to help students discover new interests,
+develop social-emotional competencies, and build character. With a focus
+on social and emotional learning (SEL), creative learning, and fun, the
+programme provides opportunities for students to engage in meaningful experiences,
+create, and enjoy the process of learning.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce33.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce32.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce31.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students built confidence and collaboration as&nbsp; they present their
+ideas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students worked on their quick thinking and coordination as they balance
+a hoop with one finger</p>
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students displayed strong teamwork to guide a blindfolded classmate</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Values Curriculum</strong></h2>
+<p>At Haig Girls’ School, our six core values—Respect, Responsibility, Resilience,
+Integrity, Compassion, and Humility—form the foundation of our values curriculum.
+These values are explicitly taught and reinforced through various platforms,
+helping students build character and guide their daily choices. To bring
+these values to life in relatable ways, we introduced the Amberinas—our
+in-house mascots who embody each value. Through classroom experiences and
+strong partnerships with parents, we aim to nurture Haig girls who grow
+to be respectful, responsible, and compassionate individuals who lead and
+serve with heart, both in school and beyond.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_11_083407.png">
+</div>
+<p><em>HGS Values &amp; Amberinas</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Sexuality Education (SEd)</strong></h2>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+Primary 5 and 6. In SEd, students learn to understand the physiological,
+social and emotional changes they experience as they mature. For example,
+they learn about developing healthy and rewarding relationships, including
+those with members of the opposite sex, and to make wise, informed and
+responsible decisions on sexuality matters. Click&nbsp;<a href="https://www.haiggirls.moe.edu.sg/cce/moe-sexuality-education-in-schools/" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>&nbsp;to
+learn more about SEd in Haig girls’.</p>
+<h2><strong>Education and Career Guidance (ECG)</strong></h2>
+<p>Education and Career Guidance (ECG) is not just about exploring future
+pathways—it’s also about helping students discover who they are. Through
+CCE (FTGP), secondary school and career talks, and our signature <em>Remarkably You</em> programme,
+students develop self-awareness, resilience, and a growth mindset. These
+experiences empower them to become confident, purpose-driven individuals,
+ready to embrace future opportunities with a strong sense of self. Click
+<a href="https://www.haiggirls.moe.edu.sg/ecg-remarkably-you/" rel="noopener nofollow" target="_blank">here</a>to read more about our HGS Education and Career Guidance experience.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>

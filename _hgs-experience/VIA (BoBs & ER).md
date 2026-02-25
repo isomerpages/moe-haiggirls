@@ -61,18 +61,36 @@ care within the school community.</p>
 </div>
 </td>
 </tr>
-</tbody>
-</table>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Students Taking Responsibility and Cleaning Up at their Classroom, Fostering
 a Sense of Ownership.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_9.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>A Green Leader Displaying the Cleanliness Placard after Observing a Spotless
-Classroom
-<br>
-</p>
+Classroom.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong><u>Bags of Blessings</u></strong></h3>
 <p><em>Bags of Blessings (BoBs)</em> is a uniquely Haig Girls’ initiative
 that brings our school community together in the spirit of joy and kindness.
@@ -94,23 +112,70 @@ the school’s vision of empowering every Haig Girl to lead in service to
 others, Bags of Blessings serves as a powerful reminder that regardless
 of their age, every Haig Girl has the ability to make a meaningful difference
 in the lives of others.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_7.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Students bought essential items and packed Bags of Blessings (BoBs) demonstrating
 teamwork and community spirit.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_2.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Community Collaboration - Parent Volunteers, teachers, and students ready
-to deliver their Bags of Blessings (BoBs) to Serene Nursing Home</p>
+to deliver their Bags of Blessings (BoBs) to Serene Nursing Home.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_1.jpg">
 </div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Students experienced the joy of giving as they distributed Bags of Blessings
-and hand-made National Day buntings</p>
+and hand-made National Day buntings.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3><strong><u>Cohort-Based VIA Experiences</u></strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_02_14_000352.png">
@@ -135,16 +200,51 @@ and hand-made National Day buntings</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>P1 VIA: Little Hands, Big Actions.</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p>P1 VIA: Little Hands, Big Actions</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_4.png">
 </div>
-<p>P5 VIA: Community Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5 VIA: Community Champions.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/via_3.png">
 </div>
-<p>P6 VIA: Eco Stride around Joo Chiat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6 VIA: Eco Stride around Joo Chiat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
