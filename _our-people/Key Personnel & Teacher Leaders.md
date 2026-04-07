@@ -51,7 +51,7 @@ variant: tiptap
 <p>Chua Boon Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother-Tongue)</p>
+<p>Head of Department (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_boon_ling@schools.gov.sg<" rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>Wan Alfida Suleiman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p>Head of Department (School Staff Developer)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wan_alfida_suleiman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wan_alfida_suleiman@schools.gov.sg</a>
@@ -163,20 +163,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +170,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
+<p>Year Head (Primary 1 to Primary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tng_shoo_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tng_shoo_ling@schools.gov.sg</a>
@@ -196,73 +182,13 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zareena&nbsp;Kamarraj</p>
+<p>Yong Linlin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zareena_kamarraj@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zareena_kamarraj@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Marie Yong Linlin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Primary)</p>
+<p>Year Head (Primary 4 to Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_linlin_marie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_linlin_marie@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chen Hsiang Yin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chen_hsiang_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_hsiang_yin@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Siti Nurhanis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurhanis_zamrot@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhanis_zamrot@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Farizah Hamdan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Upper Primary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:farizah_hamdan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farizah_hamdan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -338,6 +264,51 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:camarine_heng_li_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">camarine_heng_li_ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chen Hsiang Yin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Primary 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chen_hsiang_yin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_hsiang_yin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Siti Nurhanis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Primary 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nurhanis_zamrot@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhanis_zamrot@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farizah Hamdan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Primary 5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:farizah_hamdan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">farizah_hamdan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
