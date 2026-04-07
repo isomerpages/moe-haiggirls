@@ -51,7 +51,7 @@ variant: tiptap
 <p>Chua Boon Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department (Mother-Tongue)</p>
+<p>Head of Department (Mother Tongue)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chua_boon_ling@schools.gov.sg<" rel="noopener noreferrer nofollow" target="_blank">chua_boon_ling@schools.gov.sg</a>
@@ -185,7 +185,7 @@ variant: tiptap
 <p>Yong Linlin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Primary 4 to 6)</p>
+<p>Year Head (Primary 4 to Primary 6)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yong_linlin_marie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yong_linlin_marie@schools.gov.sg</a>
