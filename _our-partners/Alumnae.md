@@ -69,13 +69,6 @@ stitch in the fabric of our shared story.</p>
 and to continue supporting the school in achieving its educational objectives
 and outcomes. Together, let us stay connected, support one another, and
 inspire the next generation of Haig Girls.</p>
-<h4><strong><u>Application for Alumnae Membership</u></strong></h4>
-<p><a href="https://www.haiggirls.moe.edu.sg/files/Alumni_Membership_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here</u></a>&nbsp;to
-download the Alumni Membership Application Form.</p>
-<p><em>There will be a S$20 fee (in cash) to be made to the school. For more information, please email us via</em>&nbsp;
-<a href="mailto:haiggirlssch@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haiggirlssch@moe.edu.sg.</u>
-</a>
-</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A memorable moment from the 2025 HGS Alumnae Gathering" src="/images/1.jpg">
