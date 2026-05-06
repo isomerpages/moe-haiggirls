@@ -2,10 +2,10 @@ collections:
   our-partners:
     output: true
     order:
-      - Parent Volunteer.md
       - Our Partners.md
       - School Advisory Committee.md
       - Home School Partnership.md
       - Parents Support Group.md
+      - Parent Volunteer.md
       - Alumnae.md
       - School Bus Service.md
