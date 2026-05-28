@@ -7,5 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2>The General Office will be closed on 4 June 2026, Thursday from 8am to 12pm. </h2>
+<h2>The General Office will be closed on 4 June 2026, Thursday from 8am to 12pm.</h2>
+<p></p>
 <p></p>
