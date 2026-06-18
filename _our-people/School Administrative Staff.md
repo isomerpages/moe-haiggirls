@@ -44,7 +44,7 @@ variant: tiptap
 <p>Mdm Cynthia Nia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nia_Shujun_Cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
+<p><a href="mailto:nia_shujun_cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nia_shujun_cynthia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -80,7 +80,7 @@ variant: tiptap
 <p>Mr Chew Thiam Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Chew_Thiam_Soon@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chew_thiam_soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
