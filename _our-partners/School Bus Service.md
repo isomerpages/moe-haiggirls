@@ -308,4 +308,5 @@ description: ""
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><em>Monthly charges are calculated based on the estimated number of trips for that month according to your child's schedule. Charges will not be adjusted for trips not taken due to absence.</em>
+</p>
