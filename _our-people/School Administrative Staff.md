@@ -44,7 +44,7 @@ variant: tiptap
 <p>Mdm Cynthia Nia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nia_Shujun_Cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nia_Shujun_Cynthia@schools.gov.sg</a>
+<p><a href="mailto:nia_shujun_cynthia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nia_shujun_cynthia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -74,25 +74,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSO&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hasnah Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ahmad_hasnah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_hasnah@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chew Thiam Soon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Chew_Thiam_Soon@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chew_thiam_soon@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -126,14 +114,6 @@ variant: tiptap
 <p>OSO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Kassim Bin Othman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>OSO</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm Tracy Koh</p>
 </td>
 </tr>
@@ -158,7 +138,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yugendran Sandrasegar</p>
+<p>Mr Lester Jerah</p>
 </td>
 </tr>
 <tr>
@@ -166,7 +146,7 @@ variant: tiptap
 <p>Desktop Engineer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lester Jerah</p>
+<p>Ms Nur Farah Fasihah Binti Ahmad</p>
 </td>
 </tr>
 <tr>
