@@ -301,4 +301,8 @@ to the General Office.</p>
 out of school.</p>
 </li>
 </ul>
+<h3>11. Virtual Tour</h3>
+<p><a href="https://drive.google.com/file/d/1DA8hp91iX5MCSzFhh_BJC0i5iJlPeF3m/view?usp=drive_link" rel="noopener nofollow" target="_blank">Haig Girls School Virtual Tour</a>
+</p>
+<p></p>
 <p></p>
